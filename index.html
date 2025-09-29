@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>India Markets RSS — Live Feed</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Consolidated Indian markets RSS feed with 60s auto-refresh and manual refresh." />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h2 style="margin:0">India Markets RSS — Live Feed</h2>
+      <div class="controls" style="margin-top:10px">
+        <input id="search" type="text" placeholder="Search headlines, summaries, sources…" />
+        <label><input id="onlyIndia" type="checkbox" /> India/Equity focus</label>
+        <select id="source">
+          <option value="ALL">All Sources</option>
+        </select>
+        <button id="refresh">Refresh now</button>
+      </div>
+      <div class="meta">
+        <span id="meta">Updated: —</span>
+        <span>Showing <strong id="count">0</strong> stories</span>
+        <span style="opacity:.7">Auto-refresh: 60s</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="feed" class="grid" aria-live="polite"></div>
+  </main>
+
+  <script src="./assets/app.js"></script>
+</body>
+</html>
