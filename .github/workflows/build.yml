@@ -10,11 +10,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write   # allow pushing with GITHUB_TOKEN
     steps:
       - uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true
 
       - uses: actions/setup-python@v5
         with:
@@ -29,13 +29,9 @@ jobs:
         run: |
           python scripts/fetch_feeds.py
 
-      - name: Commit artifacts
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/feeds.json
-          if ! git diff --staged --quiet; then
-            git commit -m "chore: update feeds.json"
-            git push
-          else
-            echo "No changes to commit."
+      # ⬇️ This replaces your "Commit artifacts" block
+      - name: Commit feeds.json if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update feeds.json"
+          file_pattern: data/feeds.json
