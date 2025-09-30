@@ -1,45 +1,55 @@
 :root {
   --bg: #0b0f1a;
-  --panel: #121929;
+  --panel: #101725;
   --text: #e6edf3;
   --muted: #9bb0c5;
   --accent: #5ab0ff;
   --green: #3ecf8e;
-  --red: #ff647c;
-  --chip: #1b2438;
-  --border: #1e2a42;
+  --chip: #16223a;
+  --border: #1b2740;
 }
 * { box-sizing: border-box; }
-html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font: 14px/1.5 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, "Helvetica Neue", Arial; }
-header {
-  position: sticky; top: 0; z-index: 10;
-  background: linear-gradient(180deg, rgba(11,15,26,0.95), rgba(11,15,26,0.8));
-  backdrop-filter: blur(8px);
-  border-bottom: 1px solid var(--border);
-}
-.container { max-width: 1100px; margin: 0 auto; padding: 14px 16px; }
-.controls { display: grid; grid-template-columns: 1fr auto auto auto; gap: 10px; align-items: center; }
-.controls input[type="text"] { padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border); background: var(--panel); color: var(--text); }
-.controls button { padding: 10px 14px; border-radius: 10px; background: var(--accent); color: #001223; border: none; font-weight: 600; cursor: pointer; }
-.controls label { display: flex; align-items: center; gap: 6px; color: var(--muted); }
-.controls select { padding: 10px 12px; border-radius: 10px; border: 1px solid var(--border); background: var(--panel); color: var(--text); }
-.meta { display: flex; gap: 16px; align-items: center; margin-top: 8px; color: var(--muted); }
-.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; padding: 16px; }
+html, body { margin: 0; padding: 0; background: var(--bg); color: var(--text); font: 14px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, 'Helvetica Neue', Arial; }
+.container { max-width: 1200px; margin: 0 auto; padding: 14px 16px; }
+
+header { position: sticky; top: 0; z-index: 10; background: linear-gradient(180deg, rgba(11,15,26,.96), rgba(11,15,26,.86)); backdrop-filter: blur(8px); border-bottom: 1px solid var(--border); }
+.head-row { display: flex; align-items: baseline; gap: 12px; }
+h2 { margin: 0; font-size: 20px; }
+.stats { margin-left: auto; display: flex; gap: 12px; align-items: center; color: var(--muted); font-size: 12px; }
+
+.controls { display: grid; grid-template-columns: 1fr auto auto auto auto auto; gap: 10px; align-items: center; margin-top: 10px; }
+.input-group, .select-group { display: flex; align-items: center; gap: 8px; background: var(--panel); border: 1px solid var(--border); padding: 8px 10px; border-radius: 10px; }
+.input-group input { background: transparent; border: 0; outline: 0; color: var(--text); width: 100%; }
+.select-group select { background: transparent; border: 0; outline: 0; color: var(--text); }
+.toggle { display: flex; align-items: center; gap: 6px; color: var(--muted); }
+.primary, .ghost { padding: 10px 14px; border-radius: 10px; font-weight: 600; cursor: pointer; border: 1px solid transparent; }
+.primary { background: var(--accent); color: #001223; }
+.ghost { background: var(--panel); color: var(--text); border-color: var(--border); }
+.icon { color: var(--muted); }
+
+.section { margin: 18px 0 10px; padding: 4px 2px; display:flex; align-items:baseline; gap:12px; }
+.section-title { font-size: 18px; font-weight: 800; color: var(--text); }
+.section-meta { color: var(--muted); font-size: 13px; }
+
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
 @media (max-width: 1000px) { .grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 640px) { .grid { grid-template-columns: 1fr; } }
-.card {
-  display: block; text-decoration: none; color: inherit;
-  background: var(--panel); border: 1px solid var(--border);
-  border-radius: 14px; padding: 12px; transition: transform .08s ease, border-color .1s ease;
-}
+
+.card { display:block; text-decoration:none; color:inherit; background: var(--panel); border: 1px solid var(--border); border-radius: 14px; padding: 12px; transition: transform .08s ease, border-color .1s ease; position: relative; }
 .card:hover { transform: translateY(-2px); border-color: var(--accent); }
-.card-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
-.source { font-weight: 600; color: var(--accent); }
-.time { color: var(--muted); font-variant-numeric: tabular-nums; }
-.title { font-weight: 700; margin: 6px 0; }
-.summary { color: var(--muted); margin: 6px 0 8px; }
-.meta-row { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+.card-head { display:flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.source { font-weight: 600; color: var(--accent); display:flex; gap:8px; align-items:center; }
+.time { color: var(--muted); font-variant-numeric: tabular-nums; display:flex; gap:8px; align-items:center; }
+.datechip { padding: 2px 8px; border-radius: 999px; border:1px solid var(--border); background: var(--chip); color: var(--muted); font-size: 12px; }
+.title { font-weight: 800; margin: 6px 0; line-height: 1.3; }
+.summary { color: var(--muted); margin: 6px 0 8px; line-height: 1.35; }
+.meta-row { display:flex; justify-content: space-between; align-items:center; gap:6px; flex-wrap:wrap; }
 .badge { padding: 4px 8px; border-radius: 999px; font-size: 12px; background: var(--chip); border: 1px solid var(--border); }
-.badge.yes { border-color: rgba(62,207,142,.5); color: var(--green); }
-.badge.no { border-color: rgba(155,176,197,.3); color: var(--muted); }
-.ist { color: var(--muted); font-size: 12px; }
+.badge.yes { color: var(--green); border-color: rgba(62,207,142,.5); }
+.badge.no { color: var(--muted); }
+.unread-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); position: absolute; left: -4px; top: -4px; box-shadow: 0 0 0 2px var(--panel); }
+
+.load-more { margin: 8px 16px 16px; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--border); background: var(--chip); color: var(--text); cursor:pointer; }
+.load-more:hover { border-color: var(--accent); }
+
+mark { background: rgba(90,176,255,.25); padding: 0 2px; border-radius: 3px; color: #cfe6ff; }
