@@ -3,12 +3,11 @@
 # Fetch Indian market RSS feeds, normalize, dedupe, and emit data/feeds.json.
 # Run locally or via GitHub Actions.
 
-import os, json, time, hashlib
+import os, json, time, hashlib, calendar, re
 from datetime import datetime, timezone
 from typing import Dict, Any, List
 import feedparser
 import yaml
-import re
 
 ROOT = os.path.dirname(os.path.dirname(__file__)) if "__file__" in globals() else "."
 DATA_PATH = os.path.join(ROOT, "data")
@@ -34,16 +33,30 @@ def _hash(*parts: str) -> str:
         m.update((p or "").encode("utf-8", errors="ignore"))
     return m.hexdigest()[:16]
 
-def parse_dt_to_utc(date_str: str):
-    if not date_str:
-        return None
-    try:
-        dt = feedparser._parse_date(date_str)
-        if dt:
-            ts = time.mktime(dt)
-            return datetime.fromtimestamp(ts, tz=timezone.utc)
-    except Exception:
-        pass
+def entry_dt_utc(e):
+    """
+    Return a UTC datetime from the richest available fields in a feed entry.
+    Priority: published_parsed, updated_parsed, then raw strings.
+    """
+    for key in ("published_parsed", "updated_parsed"):
+        dt_struct = getattr(e, key, None)
+        if dt_struct:
+            try:
+                ts = calendar.timegm(dt_struct)
+                return datetime.fromtimestamp(ts, tz=timezone.utc)
+            except Exception:
+                pass
+    for key in ("published", "updated"):
+        s = getattr(e, key, "") or ""
+        if not s:
+            continue
+        try:
+            dt_struct = feedparser._parse_date(s)
+            if dt_struct:
+                ts = calendar.timegm(dt_struct)
+                return datetime.fromtimestamp(ts, tz=timezone.utc)
+        except Exception:
+            continue
     return None
 
 def to_ist(dt_utc):
@@ -75,18 +88,18 @@ def fetch():
             for e in feed.entries:
                 title = getattr(e, "title", "") or ""
                 link = getattr(e, "link", "") or ""
-                published = getattr(e, "published", "") or getattr(e, "updated", "") or ""
                 summary = getattr(e, "summary", "") or ""
 
-                dt_utc = parse_dt_to_utc(published)
-                uid = _hash(name, title, link)
+                dt_utc = entry_dt_utc(e)
+                published_raw = getattr(e, "published", "") or getattr(e, "updated", "") or ""
 
+                uid = _hash(name, title, link)
                 item = {
                     "id": uid,
                     "source": name,
                     "title": title.strip(),
                     "link": link.strip(),
-                    "published_raw": published,
+                    "published_raw": published_raw,
                     "published_utc": dt_utc.strftime("%Y-%m-%dT%H:%M:%SZ") if dt_utc else None,
                     "published_ist": to_ist(dt_utc),
                     "summary": re.sub(r"<[^>]+>", "", summary)[:500] if summary else None,
