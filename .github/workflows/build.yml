@@ -6,15 +6,30 @@ on:
   workflow_dispatch:
   push:
 
+concurrency:
+  group: feeds-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # allow pushing with GITHUB_TOKEN
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0
+
+      - name: Sync with remote
+        shell: bash
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config pull.rebase true
+          git config rebase.autoStash true
+          git fetch origin main
+          git pull --rebase origin main
 
       - uses: actions/setup-python@v5
         with:
@@ -29,7 +44,6 @@ jobs:
         run: |
           python scripts/fetch_feeds.py
 
-      # ⬇️ This replaces your "Commit artifacts" block
       - name: Commit feeds.json if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
