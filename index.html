@@ -4,31 +4,48 @@
   <meta charset="utf-8" />
   <title>India Markets RSS — Live Feed</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Consolidated Indian markets RSS feed with 60s auto-refresh and manual refresh." />
+  <meta name="description" content="Consolidated Indian markets RSS feed with sections, filters, and auto-refresh." />
   <link rel="stylesheet" href="./assets/styles.css" />
 </head>
 <body>
   <header>
     <div class="container">
-      <h2 style="margin:0">India Markets RSS — Live Feed</h2>
-      <div class="controls" style="margin-top:10px">
-        <input id="search" type="text" placeholder="Search headlines, summaries, sources…" />
-        <label><input id="onlyIndia" type="checkbox" /> India/Equity focus</label>
-        <select id="source">
-          <option value="ALL">All Sources</option>
-        </select>
-        <button id="refresh">Refresh now</button>
+      <div class="head-row">
+        <h2>India Markets RSS</h2>
+        <div class="stats">
+          <span id="updated">Updated: —</span>
+          <span aria-hidden>•</span>
+          <span>Auto-refresh in <b id="countdown">60</b>s</span>
+          <span aria-hidden>•</span>
+          <span>Showing <b id="count">0</b> stories</span>
+        </div>
       </div>
-      <div class="meta">
-        <span id="meta">Updated: —</span>
-        <span>Showing <strong id="count">0</strong> stories</span>
-        <span style="opacity:.7">Auto-refresh: 60s</span>
+
+      <div class="controls">
+        <div class="input-group">
+          <svg class="icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.3-4.3"/></svg>
+          <input id="search" type="text" placeholder="Search headlines, summaries, sources…" />
+        </div>
+
+        <div class="select-group">
+          <svg class="icon" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor"><path d="M3 6h18M7 12h10M10 18h4"/></svg>
+          <select id="source">
+            <option value="ALL">All Sources</option>
+          </select>
+        </div>
+
+        <label class="toggle"><input id="onlyIndia" type="checkbox" /><span>India/Equity</span></label>
+        <label class="toggle"><input id="relativeTime" type="checkbox" checked /><span>Relative time</span></label>
+        <label class="toggle"><input id="unreadOnly" type="checkbox" /><span>Unread only</span></label>
+
+        <button id="clearSeen" class="ghost">Clear Seen</button>
+        <button id="refresh" class="primary">Refresh now</button>
       </div>
     </div>
   </header>
 
   <main class="container">
-    <div id="feed" class="grid" aria-live="polite"></div>
+    <div id="feed" aria-live="polite"></div>
   </main>
 
   <script src="./assets/app.js"></script>
