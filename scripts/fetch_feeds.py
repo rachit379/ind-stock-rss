@@ -33,11 +33,12 @@ def _hash(*parts: str) -> str:
     return m.hexdigest()[:16]
 
 def entry_dt_utc(e):
+    """Return a UTC datetime from parsed fields if possible, else parse strings."""
     for key in ("published_parsed", "updated_parsed"):
         dt_struct = getattr(e, key, None)
         if dt_struct:
             try:
-                ts = calendar.timegm(dt_struct)
+                ts = calendar.timegm(dt_struct)  # treat as UTC
                 return datetime.fromtimestamp(ts, tz=timezone.utc)
             except Exception:
                 pass
@@ -56,4 +57,67 @@ def entry_dt_utc(e):
 def to_ist(dt_utc):
     if not dt_utc: return None
     offset = 5.5 * 3600
-    ist_ts = dt
+    ist_ts = dt_utc.astimezone(timezone.utc).timestamp() + offset
+    return datetime.fromtimestamp(ist_ts, tz=timezone.utc).strftime("%d-%b-%Y %H:%M IST")
+
+def load_sources():
+    with open(FEEDS_YML, "r", encoding="utf-8") as f:
+        cfg = yaml.safe_load(f)
+    return cfg.get("sources", [])
+
+def fetch():
+    ensure_dirs()
+    sources = load_sources()
+    all_items: Dict[str, Dict[str, Any]] = {}
+
+    feedparser.USER_AGENT = USER_AGENT
+
+    for s in sources:
+        name, url = s["name"], s["url"]
+        try:
+            feed = feedparser.parse(url)
+            if not getattr(feed, "entries", []):
+                time.sleep(REQUEST_DELAY_SEC)
+                continue
+            for e in feed.entries:
+                title = getattr(e, "title", "") or ""
+                link = getattr(e, "link", "") or ""
+                summary = getattr(e, "summary", "") or ""
+
+                dt_utc = entry_dt_utc(e)
+                published_raw = getattr(e, "published", "") or getattr(e, "updated", "") or ""
+
+                uid = _hash(name, title, link)
+                item = {
+                    "id": uid,
+                    "source": name,
+                    "title": title.strip(),
+                    "link": link.strip(),
+                    "published_raw": published_raw,
+                    "published_utc": dt_utc.strftime("%Y-%m-%dT%H:%M:%SZ") if dt_utc else None,
+                    "published_ist": to_ist(dt_utc),
+                    "summary": re.sub(r"<[^>]+>", "", summary)[:600] if summary else None,
+                    "likely_india_equity": bool(TICKER_RE.search(title) or TICKER_RE.search(summary or "")),
+                }
+                key = link or uid
+                if key not in all_items:
+                    all_items[key] = item
+        except Exception as ex:
+            print(f"[WARN] {name} failed: {ex}")
+        finally:
+            time.sleep(REQUEST_DELAY_SEC)
+
+    items = list(all_items.values())
+    items.sort(key=lambda x: (x["published_utc"] or "", x["title"]), reverse=True)
+
+    out = {
+        "generated_utc": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "count": len(items),
+        "items": items,
+    }
+    with open(OUT_JSON, "w", encoding="utf-8") as f:
+        json.dump(out, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {OUT_JSON} with {len(items)} items.")
+
+if __name__ == "__main__":
+    fetch()
