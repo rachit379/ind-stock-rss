@@ -84,12 +84,12 @@ function renderSection(container, title, key, items) {
     card.target = "_blank";
     card.rel = "noopener";
 
-    const ist = istDate(it.published_utc);
+    const ist = it.published_utc ? istDate(it.published_utc) : (it.published_ist || null);
     card.innerHTML = `
       <div class="card-head">
         <span class="source">${it.source || "Unknown"}</span>
         <span class="time">
-          <span>${timeAgo(it.published_utc)}</span>
+          <span>${it.published_utc ? timeAgo(it.published_utc) : "—"}</span>
           ${ist ? `<small class="datechip">${ist} IST</small>` : ""}
         </span>
       </div>
