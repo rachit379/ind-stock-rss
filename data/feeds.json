@@ -1,7 +1,18 @@
 {
-  "generated_utc": "2025-09-30T18:53:06Z",
+  "generated_utc": "2025-09-30T19:15:46Z",
   "count": 1050,
   "items": [
+    {
+      "id": "be41fd217f8173ad",
+      "source": "ET - Economy",
+      "title": "RBI to continue to use overnight weighted average call rate as the operating target for monetary policy",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-to-continue-to-use-overnight-weighted-average-call-rate-as-the-operating-target-for-monetary-policy/articleshow/124243113.cms",
+      "published_raw": "Wed, 01 Oct 2025 00:31:44 +0530",
+      "published_utc": "2025-09-30T19:01:44Z",
+      "published_ist": "01-Oct-2025 00:31 IST",
+      "summary": "It would, however, track other overnight money market segments in a bid to ensure orderly evolution of money market rates and smoothen transmission, the central bank said in the revised liquidity management framework released on Tuesday. \"The Reserve Bank will endeavour to align the WACR to the policy repo rate by ensuring optimum level of system liquidity using the instruments defined under this framework,\" the central bank said.",
+      "likely_india_equity": true
+    },
     {
       "id": "4700418313e07e75",
       "source": "ET - Industry",
@@ -44,6 +55,17 @@
       "published_utc": "2025-09-30T18:35:59Z",
       "published_ist": "01-Oct-2025 00:05 IST",
       "summary": "Pharmaceutical major Bayer has filed for Indian approval of its patented drug finerenone (Kerendia) to treat heart failure patients with LVEF of 40 and above. This move aims to address India's growing early-onset heart disease burden. Already approved for chronic kidney disease, Bayer anticipates approval for this new indication by year-end, following successful trials.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "81ac606a08bea680",
+      "source": "ET - Economy",
+      "title": "Government reports fiscal gap at 38.1% of FY26 target as of August",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/government-reports-fiscal-gap-at-38-1-of-fy26-target-as-of-august/articleshow/124242519.cms",
+      "published_raw": "Wed, 01 Oct 2025 00:04:33 +0530",
+      "published_utc": "2025-09-30T18:34:33Z",
+      "published_ist": "01-Oct-2025 00:04 IST",
+      "summary": "The Centre's fiscal deficit widened to 38.1% of the annual target by August, driven by higher spending, particularly on capital projects, and lower net tax collections. While front-loading expenditure, the government aims to meet its FY26 deficit target, potentially moderating spending and hoping for improved tax mop-up in coming months.",
       "likely_india_equity": false
     },
     {
@@ -1070,15 +1092,15 @@
       "likely_india_equity": false
     },
     {
-      "id": "1580498375a3e54e",
+      "id": "a55e4c4b7fcdee13",
       "source": "ET - Economy",
-      "title": "India's external debt rises to USD 747.2 bn at Jun-end: RBI data",
+      "title": "India's external debt rises 1.5%, but reserves have got its back",
       "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-external-debt-rises-to-usd-747-2-bn-at-jun-end-rbi-data/articleshow/124237528.cms",
       "published_raw": "Tue, 30 Sep 2025 19:47:38 +0530",
       "published_utc": "2025-09-30T14:17:38Z",
       "published_ist": "30-Sep-2025 19:47 IST",
-      "summary": "India’s external debt rose to USD 747.2 billion by June 2025, up USD 11.2 billion from March, with the debt-to-GDP ratio easing to 18.9%. Long-term debt increased, while short-term debt’s share fell to 18.1%. US dollar-denominated debt remained dominant at 53.8%.",
-      "likely_india_equity": true
+      "summary": "The external debt to GDP ratio, however, moderated to 18.9% from 19.1% three months ago. The ratio of India's international assets to international liabilities also improved to 79.25% in June 2025 from 77.6% a quarter ago. The rise in the country's outstanding liabilities was largely because of the exchange rate variations, the central bank said.",
+      "likely_india_equity": false
     },
     {
       "id": "f3818fcfce256f49",
@@ -6196,17 +6218,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "ced15af30ab00b6e",
-      "source": "ET - Economy",
-      "title": "ED cracks down on firms masking foreign loans as export advances",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/ed-cracks-down-on-firms-masking-foreign-loans-as-export-advances/articleshow/124199128.cms",
-      "published_raw": "Sun, 28 Sep 2025 23:54:25 +0530",
-      "published_utc": "2025-09-28T18:24:25Z",
-      "published_ist": "28-Sep-2025 23:54 IST",
-      "summary": "Companies are dodging stringent foreign loan rules by masking external commercial borrowings as advances from overseas buyers or trade credits. The ED is investigating firms for suspicious transactions where funds from foreign banks were quickly returned, indicating unauthorized short-term bridge loans. These funds, often used for acquisitions, exploit regulatory loopholes.",
-      "likely_india_equity": false
-    },
-    {
       "id": "e6a8c2d88aca208d",
       "source": "LiveMint - Industry",
       "title": "Centre offers up to full subsidy for EV charging, battery-swapping stations in govt offices, public spaces",
@@ -6457,17 +6468,6 @@
       "published_utc": "2025-09-28T10:30:08Z",
       "published_ist": "28-Sep-2025 16:00 IST",
       "summary": "India’s infrastructure surge risks locking in decades of emissions if low-carbon choices aren’t made now. The coming years will decide whether development accelerates sustainably or embeds a carbon burden that makes future climate goals far harder to achieve.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "123a3eea428348ac",
-      "source": "ET - Economy",
-      "title": "Ceigall, JV partner secure infra project worth Rs 509 crore in Punjab",
-      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/ceigall-jv-partner-secure-infra-project-worth-rs-509-crore-in-punjab/articleshow/124193706.cms",
-      "published_raw": "Sun, 28 Sep 2025 15:55:05 +0530",
-      "published_utc": "2025-09-28T10:25:05Z",
-      "published_ist": "28-Sep-2025 15:55 IST",
-      "summary": "EPC player Ceigall India, in a joint venture with JSP Projects, has secured a Rs 509.20 crore infrastructure project from the Greater Mohali Area Development Authority (GMADA). The contract involves constructing internal roads and associated civil, public health, and electrical works in Mohali, to be completed within 24 months. This project aims to enhance connectivity and sustainable urban development.",
       "likely_india_equity": false
     },
     {
