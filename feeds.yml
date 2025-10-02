@@ -91,7 +91,7 @@ sources:
     url: https://www.zeebiz.com/market.xml
   - name: Zee Business - Economy
     url: https://www.zeebiz.com/economy.xml
-  
-  #Yahoo Finance
-  -name: Yahoo Nifty 50
-   url: https://feeds.finance.yahoo.com/rss/2.0/headline?s=^NSEI
+ 
+  # Yahoo Finance
+  - name: Yahoo Nifty 50
+    url: https://feeds.finance.yahoo.com/rss/2.0/headline?s=^NSEI
