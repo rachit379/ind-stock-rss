@@ -70,6 +70,7 @@ sources:
   - name: The Hindu - Industry
     url: https://www.thehindu.com/business/Industry/feeder/default.rss
 
+  # Financial Express
   - name: Financial Express - Markets
     url: https://www.financialexpress.com/market/feed/
   - name: Financial Express - Economy
@@ -79,4 +80,14 @@ sources:
   - name: Financial Express - Mutual Funds
     url: https://www.financialexpress.com/mutual-fund/feed/
   - name: Financial Express - Stocks
-    url: https://www.financialexpress.com/marke
+    url: https://www.financialexpress.com/market/stocks-market/feed/
+
+  # NDTV Profit, Zee Business, etc.
+  - name: NDTV Profit - Business/Markets
+    url: https://www.ndtvprofit.com/feed
+  - name: Zee Business - Latest
+    url: https://www.zeebiz.com/latest.xml
+  - name: Zee Business - Markets
+    url: https://www.zeebiz.com/market.xml
+  - name: Zee Business - Economy
+    url: https://www.zeebiz.com/economy.xml
