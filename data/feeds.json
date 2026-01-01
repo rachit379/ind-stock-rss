@@ -1,11 +1,715 @@
 {
-  "generated_utc": "2026-01-01T00:55:53Z",
-  "count": 1107,
+  "generated_utc": "2026-01-01T03:11:08Z",
+  "count": 1099,
   "items": [
     {
-      "id": "c91dbae2166acf60",
+      "id": "70238fc55a897084",
       "source": "NDTV Profit - Business/Markets",
-      "title": "Mumbai Rains: City Witnesses Unusual Spell On New Year Day — A Sign Of Changing Weather Patterns?",
+      "title": "December Auto Sales LIVE: SML Mahindra PV Sales Surge",
+      "link": "https://www.ndtvprofit.com/auto/auto-sales-december-2025-live-updates-maruti-suzuki-tata-motors-mahinda-hyundai-motors-india-ola-electric-ather",
+      "published_raw": "2026-01-01T03:09:19.911Z",
+      "published_utc": "2026-01-01T03:09:19Z",
+      "published_ist": "01-Jan-2026 08:39 IST",
+      "summary": "SML Mahindra saw a huge surge in sales in December.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "257515e306baf526",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Volatility, Not Direction, Has Marked January For Indian Markets — Check Defining Trends",
+      "link": "https://www.ndtvprofit.com/markets/volatility-not-direction-has-marked-january-for-indian-markets-check-defining-trends",
+      "published_raw": "2026-01-01T03:02:04.534Z",
+      "published_utc": "2026-01-01T03:02:04Z",
+      "published_ist": "01-Jan-2026 08:32 IST",
+      "summary": "Looking back over the past decade, the Nifty 50 has closed January in the green only twice.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "3195a88ad0d66025",
+      "source": "Zee Business - Latest",
+      "title": "Gift Nifty signals record opening for Sensex, Nifty on first trading day of 2026",
+      "link": "https://www.zeebiz.com/market-news/news-gift-nifty-signals-record-opening-for-sensex-nifty-on-first-trading-day-of-2026-386930",
+      "published_raw": "Thu, 01 Jan 2026 08:30:06 +0530",
+      "published_utc": "2026-01-01T03:00:06Z",
+      "published_ist": "01-Jan-2026 08:30 IST",
+      "summary": "Sensex, Nifty Today: Early signals from the Gift Nifty pointed to a positive start for domestic equities. The Gift Nifty was trading at a record high of 26,371.5, up 96 points or 0.37 per cent, compared with the previous close of Nifty futures.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "bc25261bbf33c318",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Five Stocks To Buy: Gujarat Gas, IOC, BHEL, IndusInd Bank And More",
+      "link": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-gujarat-gas-ioc-bhel-indusind-bank-and-more",
+      "published_raw": "2026-01-01T02:58:41.822Z",
+      "published_utc": "2026-01-01T02:58:41Z",
+      "published_ist": "01-Jan-2026 08:28 IST",
+      "summary": "Angel One and Centrum Broking have shared target prices and stop losses for the above-mentioned stocks.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d3d7acff3d1efee9",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "'Prosperity To All': PM Modi, President Murmu Extend New Year Greetings As India Welcomes 2026",
+      "link": "https://www.ndtvprofit.com/nation/prosperity-to-all-pm-modi-president-murmu-extend-new-year-greetings-as-india-welcomes-2026",
+      "published_raw": "2026-01-01T02:48:37.396Z",
+      "published_utc": "2026-01-01T02:48:37Z",
+      "published_ist": "01-Jan-2026 08:18 IST",
+      "summary": "PM Modi said that his prayers this New Year were for peace and happiness in society.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0d70204dae9342f1",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Vodafone Idea Shares: Should You Buy, Sell Or Hold? Brokerages Weigh In Amid AGR Relief Talks",
+      "link": "https://www.ndtvprofit.com/markets/vodafone-idea-shares-should-you-buy-sell-or-hold-brokerages-weigh-in-amid-agr-relief-talks",
+      "published_raw": "2026-01-01T02:47:33.878Z",
+      "published_utc": "2026-01-01T02:47:33Z",
+      "published_ist": "01-Jan-2026 08:17 IST",
+      "summary": "Brokerages highlighted that the reported relief package from the government is much lower than what the market is expecting.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "fa23d1795d6f80cf",
+      "source": "ET - Markets",
+      "title": "Vodafone Idea shares in focus as Vodafone Group commits Rs 5,836 crore support",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-in-focus-as-vodafone-group-commits-rs-5836-crore-support/articleshow/126281476.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:13:38 +0530",
+      "published_utc": "2026-01-01T02:43:38Z",
+      "published_ist": "01-Jan-2026 08:13 IST",
+      "summary": "Vodafone Idea shares will be in focus on January 1, 2026. The company will receive Rs 5,836 crore from its promoter group, Vodafone Group. This follows an amendment to an agreement concerning contingent liabilities. Vodafone Group Promoters will release Rs 2,307 crore over the next year. The remaining amount will be secured through a share-based mechanism.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "24a429bac6dfba5d",
+      "source": "ET - Economy",
+      "title": "India's household debt seen above 5-yr average, but lower than China's",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/indias-household-debt-seen-above-5-yr-average-but-lower-than-chinas/articleshow/126281475.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:13:35 +0530",
+      "published_utc": "2026-01-01T02:43:35Z",
+      "published_ist": "01-Jan-2026 08:13 IST",
+      "summary": "The RBI said that household borrowing patterns have changed with non-housing retail loans, largely taken for consumption, accounting for 55.3% of total household borrowing from financial institutions as of September 2025.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "e6c115c1f2731ab1",
+      "source": "ET - Industry",
+      "title": "Ministry in talks with states to give some drug cos more time for good manufacturing practices compliance",
+      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/ministry-in-talks-with-states-to-give-some-drug-cos-more-time-for-good-manufacturing-practices-compliance/articleshow/126281474.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:13:28 +0530",
+      "published_utc": "2026-01-01T02:43:28Z",
+      "published_ist": "01-Jan-2026 08:13 IST",
+      "summary": "The Union Health Ministry is in talks with states about extending the deadline for pharmaceutical companies to meet new manufacturing quality rules.  A six-month extension may be granted on a case-by-case basis.  This move aims to prevent potential medicine shortages and job losses.  Many smaller drug units might otherwise face closure.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c47bc7d5c0036abc",
+      "source": "Zee Business - Latest",
+      "title": "Stocks to Watch Today (January 01, 2026): Vodafone Idea, HUDCO, NBCC, IGL, IndiGo and more",
+      "link": "https://www.zeebiz.com/market-news/news-stocks-to-watch-today-january-01-2026-vodafone-idea-hudco-nbcc-igl-indigo-and-more-386929",
+      "published_raw": "Thu, 01 Jan 2026 08:10:38 +0530",
+      "published_utc": "2026-01-01T02:40:38Z",
+      "published_ist": "01-Jan-2026 08:10 IST",
+      "summary": "Stocks to Watch Today (January 01, 2026): Investor focus will be on December auto sales, policy changes in gas tariffs, and a series of stock-specific developments across telecom, banking, infrastructure, and pharmaceuticals.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "12b0081f1ffe0539",
+      "source": "Zee Business - Latest",
+      "title": "New Year gift for IGL consumers! CNG, PNG rates cut from Jan 1 in line with 'One Nation One Tariff' vision",
+      "link": "https://www.zeebiz.com/economy-infra/news-new-year-gift-for-igl-consumers-cng-png-rate-cut-from-jan-1-2026-one-nation-one-tariff-386927",
+      "published_raw": "Thu, 01 Jan 2026 08:07:38 +0530",
+      "published_utc": "2026-01-01T02:37:38Z",
+      "published_ist": "01-Jan-2026 08:07 IST",
+      "summary": "Gas distributor IGL has revised downwards its PNG and CNG prices by up to Rs 3 with effect from January 1, 2026.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "eb160728f0496c9b",
+      "source": "ET - Industry",
+      "title": "Finance Ministry notifies rules for 100% FDI in Insurance sector",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/finance-ministry-notifies-rules-for-100-fdi-in-insurance-sector/articleshow/126281397.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:07:10 +0530",
+      "published_utc": "2026-01-01T02:37:10Z",
+      "published_ist": "01-Jan-2026 08:07 IST",
+      "summary": "Last year, the finance ministry had issued a draft notification seeking to replace the existing limit of 74% foreign investment \"as stipulated by the Insurance Act, 1938\" and sought public comments.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "75a88668b09a1235",
+      "source": "ET - Industry",
+      "title": "Vi amends pact with promoter to get Rs 5,836 crore in liabilities",
+      "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/vi-amends-pact-with-promoter-to-get-rs-5836-crore-in-liabilities/articleshow/126281376.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:05:59 +0530",
+      "published_utc": "2026-01-01T02:35:59Z",
+      "published_ist": "01-Jan-2026 08:05 IST",
+      "summary": "Vodafone Idea has revised a key agreement with its promoter, the Vodafone group. This amendment aims to secure the recovery of nearly ₹5,836 crore. The funds are linked to liabilities from the 2017 Vodafone-Idea merger. Vodafone promoters will pay ₹2,307 crore in cash over 12 months.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "81d02935df517c06",
+      "source": "ET - Industry",
+      "title": "Film cos, streamers go by the book to avoid legal hassles",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/film-cos-streamers-go-by-the-book-to-avoid-legal-hassles/articleshow/126281361.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:05:18 +0530",
+      "published_utc": "2026-01-01T02:35:18Z",
+      "published_ist": "01-Jan-2026 08:05 IST",
+      "summary": "A new trend is emerging in India's entertainment sector. Writers are now publishing non-fiction stories as books before developing them into web series or films. This approach helps protect intellectual property and prevent legal complications. Publishers also benefit from increased book publicity.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0950a01264d1a890",
+      "source": "LiveMint - Markets",
+      "title": "Buy or sell: Vaishali Parekh recommends three intraday stocks to buy today on the New Year 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-on-the-new-year-2026-11767233208566.html",
+      "published_raw": "Thu, 01 Jan 2026 08:03:54 +0530",
+      "published_utc": "2026-01-01T02:33:54Z",
+      "published_ist": "01-Jan-2026 08:03 IST",
+      "summary": "Buy or sell: Vaishali Parekh recommends three stocks to buy today — REC, Yes Bank, TVS Motor Company",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0941b27ecb78e0c1",
+      "source": "LiveMint - Markets",
+      "title": "Nifty 50 emerges top performer on NSE with 10.5% return in 1 year, Nifty next 50 surges only 2%: NSE",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-emerges-top-performer-on-nse-with-10-5-return-in-1-year-nifty-next-50-surges-only-2-nse-11767234794164.html",
+      "published_raw": "Thu, 01 Jan 2026 08:03:13 +0530",
+      "published_utc": "2026-01-01T02:33:13Z",
+      "published_ist": "01-Jan-2026 08:03 IST",
+      "summary": "The benchmark equity index Nifty 50 delivered the highest return among all major indices on the National Stock Exchange (NSE) over the last year, as per the data shown by the NSE report.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "47fc2072d0ce0148",
+      "source": "ET - Industry",
+      "title": "WhatsApp to roll out local billing for business users later this year",
+      "link": "https://economictimes.indiatimes.com/industry/services/retail/whatsapp-to-roll-out-local-billing-for-business-users-later-this-year/articleshow/126281296.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:01:20 +0530",
+      "published_utc": "2026-01-01T02:31:20Z",
+      "published_ist": "01-Jan-2026 08:01 IST",
+      "summary": "WhatsApp is introducing local billing in India and Brazil by the second half of 2026. This move will allow businesses to pay in rupees, eliminating foreign exchange costs and complexities. The platform is also expanding to ten more local currencies globally. WhatsApp will increase marketing message rates in India from January 1, 2026.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a8cfe4ded58f4ad1",
+      "source": "BusinessLine - Markets",
+      "title": "Dollar posts worst annual fall in eight years, more weakness seen in 2026",
+      "link": "https://www.thehindubusinessline.com/markets/forex/dollar-posts-worst-annual-fall-in-eight-years-more-weakness-seen-in-2026/article70459321.ece",
+      "published_raw": "Thu, 01 Jan 2026 08:00:53 +0530",
+      "published_utc": "2026-01-01T02:30:53Z",
+      "published_ist": "01-Jan-2026 08:00 IST",
+      "summary": "With at least two rate cuts priced in, the Fed’s policy path is diverging from other developed economies, reducing the dollar’s appeal",
+      "likely_india_equity": false
+    },
+    {
+      "id": "428315952b5d2a5f",
+      "source": "ET - Industry",
+      "title": "IndiGo sets sights on stability, to expand select routes in 2026",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/indigo-sets-sights-on-stability-to-expand-select-routes-in-2026/articleshow/126281283.cms",
+      "published_raw": "Thu, 01 Jan 2026 08:00:30 +0530",
+      "published_utc": "2026-01-01T02:30:30Z",
+      "published_ist": "01-Jan-2026 08:00 IST",
+      "summary": "IndiGo is gearing up for an ambitious 2026, aiming to enhance its operational reliability. The airline proudly announces the launch of non-stop flights to Athens starting January 23, 2026, featuring the inaugural flight of India's first Airbus A321XLR. This new aircraft represents a steppingstone for IndiGo's foray into fresh international territories.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "015ac2a85517dfeb",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "TCS, HCLTech, Infosys, Coforge To Announce Quarterly Earnings On These Dates — IT Q3 Results Calendar",
+      "link": "https://www.ndtvprofit.com/quarterly-earnings/tcs-hcltech-infosys-coforge-to-announce-quarterly-earnings-on-these-dates-it-q3-results-calendar",
+      "published_raw": "2026-01-01T02:30:00.000Z",
+      "published_utc": "2026-01-01T02:30:00Z",
+      "published_ist": "01-Jan-2026 08:00 IST",
+      "summary": "Q3FY26 results from these IT companies are due in January 2026, alongside possible decisions on interim dividend payouts.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "6f252d04a25029d3",
+      "source": "LiveMint - Industry",
+      "title": "Bank holiday on New Year 2026: Are banks open or closed on January 1?—Get state-wise list here",
+      "link": "https://www.livemint.com/industry/banking/bank-holiday-on-new-year-2026-are-banks-open-or-closed-on-january-1-get-state-wise-list-here-11767231444239.html",
+      "published_raw": "Thu, 01 Jan 2026 07:55:17 +0530",
+      "published_utc": "2026-01-01T02:25:17Z",
+      "published_ist": "01-Jan-2026 07:55 IST",
+      "summary": "In January 2026, banks will observe up to 16 holidays, varying by state due to local events. Digital services will remain operational even if branches are closed.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "29782bcf7c08efcc",
+      "source": "ET - Industry",
+      "title": "Telcos seek higher incoming international call rates to curb spam",
+      "link": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telcos-seek-higher-incoming-international-call-rates-to-curb-spam/articleshow/126281241.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:50:00 +0530",
+      "published_utc": "2026-01-01T02:20:00Z",
+      "published_ist": "01-Jan-2026 07:50 IST",
+      "summary": "Indian telecom companies want to increase charges for international calls coming into the country. They currently receive very little while paying much more for outgoing calls. This difference is exploited by fraudsters for spam and phishing. Operators propose raising termination charges to deter illegal calls and protect consumers. They also seek stricter rules for telemarketers misusing domestic call rules.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f32a49c340db47c4",
+      "source": "BusinessLine - Economy",
+      "title": "USDA details $12 billion farm aid package favouring rice, cotton; soy farmers warn of strain",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/usda-details-12-billion-farm-aid-package-favouring-rice-cotton-soy-farmers-warn-of-strain/article70459319.ece",
+      "published_raw": "Thu, 01 Jan 2026 07:45:23 +0530",
+      "published_utc": "2026-01-01T02:15:23Z",
+      "published_ist": "01-Jan-2026 07:45 IST",
+      "summary": "The Farmer Bridge Assistance programme will distribute $11 billion in one-time payments based on 2025 planted acreage",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5d3838eb22e1c46b",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Vodafone Idea Shares In Focus After Key Clarification Over AGR Dues Relief — Details Inside",
+      "link": "https://www.ndtvprofit.com/markets/vodafone-idea-shares-in-focus-after-key-clarification-over-agr-dues-relief-details-inside",
+      "published_raw": "2026-01-01T02:14:51.599Z",
+      "published_utc": "2026-01-01T02:14:51Z",
+      "published_ist": "01-Jan-2026 07:44 IST",
+      "summary": "After market close on Wednesday, Vodafone Idea clarified that the company has not received any communication from the government surrounding the supposed AGR relief.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "97e43d308766da57",
+      "source": "ET - Industry",
+      "title": "'Motown to remain in fast lane on rural push &amp; tax benefits': SIAM President",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/motown-to-remain-in-fast-lane-on-rural-push-tax-benefits-siam-president/articleshow/126281210.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:41:27 +0530",
+      "published_utc": "2026-01-01T02:11:27Z",
+      "published_ist": "01-Jan-2026 07:41 IST",
+      "summary": "The Indian automobile industry anticipates strong demand growth in 2026. This surge is fueled by improved rural incomes and recent Goods and Services Tax reforms that enhance affordability.  Sales have already shown significant recovery in late 2025.  This positive trend is expected to continue across passenger vehicles, commercial vehicles, and two-wheelers, benefiting both urban and rural markets.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "56c5bbddd23d79c7",
+      "source": "ET - Economy",
+      "title": "RBI flags swelling slippages in unsecured retail lending, particularly among private banks",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/rbi-flags-swelling-slippages-in-unsecured-retail-lending-particularly-among-private-banks/articleshow/126281197.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:39:22 +0530",
+      "published_utc": "2026-01-01T02:09:22Z",
+      "published_ist": "01-Jan-2026 07:39 IST",
+      "summary": "Private banks contributed 76 percentage of slippages in unsecured retail loans, against 16 percent for PSBs",
+      "likely_india_equity": true
+    },
+    {
+      "id": "cfb7d54631bb6167",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "PM Narendra Modi Extends New Year Greetings, Prays For Peace, Happiness",
+      "link": "https://www.ndtvprofit.com/nation/pm-narendra-modi-extends-new-year-greetings-prays-for-peace-happiness",
+      "published_raw": "2026-01-01T02:08:20.674Z",
+      "published_utc": "2026-01-01T02:08:20Z",
+      "published_ist": "01-Jan-2026 07:38 IST",
+      "summary": "\"Praying for peace and happiness in our society,\" the prime minister said.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f386bda9dad76731",
+      "source": "LiveMint - Markets",
+      "title": "Stocks to watch: Vodafone Idea, Hyundai India, NBCC among 10 shares in focus on New Year 2026; full list inside",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-vodafone-idea-hyundai-india-nbcc-among-10-shares-in-focus-on-new-year-2026-full-list-inside-11767230613167.html",
+      "published_raw": "Thu, 01 Jan 2026 07:33:42 +0530",
+      "published_utc": "2026-01-01T02:03:42Z",
+      "published_ist": "01-Jan-2026 07:33 IST",
+      "summary": "Stocks to watch: Vodafone Idea, Hyundai India, NBCC are some of the stocks that will remain in focus on Thursday, 1 January 2026.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "1c40f852f84153e7",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Stock Picks Today: Siemens Energy, Vodafone Idea, Titan And More On Brokerages’ Radar",
+      "link": "https://www.ndtvprofit.com/markets/stock-picks-today-siemens-energy-vodafone-idea-titan-and-more-on-brokerages-radar",
+      "published_raw": "2026-01-01T02:00:44.628Z",
+      "published_utc": "2026-01-01T02:00:44Z",
+      "published_ist": "01-Jan-2026 07:30 IST",
+      "summary": "Brokerages commented on hike in steel prices and the auto sector.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "3f8511976f13c7e4",
+      "source": "ET - Markets",
+      "title": "Positive Breakout: These 11 stocks cross above their 200 DMAs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-11-stocks-cross-above-their-200-dmas/slideshow/126281188.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:30:15 +0530",
+      "published_utc": "2026-01-01T02:00:15Z",
+      "published_ist": "01-Jan-2026 07:30 IST",
+      "summary": "As long as the stock is priced above the 200-day SMA on the daily time frame, it is generally considered to be an overall uptrend.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "972efcc3793602f5",
+      "source": "BusinessLine - Markets",
+      "title": "Stocks to watch today: Tata Steel, Vodafone Idea, Dr Reddy’s, RBL Bank, VIP Industries",
+      "link": "https://www.thehindubusinessline.com/markets/stocks-to-watch-today-tata-steel-vodafone-idea-dr-reddys-rbl-bank-vip-industries/article70459316.ece",
+      "published_raw": "Thu, 01 Jan 2026 07:28:55 +0530",
+      "published_utc": "2026-01-01T01:58:55Z",
+      "published_ist": "01-Jan-2026 07:28 IST",
+      "summary": "Market attention is likely to remain stock-specific as Tata Steel, Vodafone Idea, Dr Reddy’s, RBL Bank and Sammaan Capital report key corporate developments, while Hexaware, Titagarh Rail, VIP Industries and others announce strategic moves.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ba4c6ee0683310f1",
+      "source": "ET - Markets",
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a positive start; US shares end lower",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-live-nifty-stock-market-updates-01-january-2026/liveblog/126281140.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:28:15 +0530",
+      "published_utc": "2026-01-01T01:58:15Z",
+      "published_ist": "01-Jan-2026 07:28 IST",
+      "summary": null,
+      "likely_india_equity": true
+    },
+    {
+      "id": "22a9e4224e7e6f16",
+      "source": "LiveMint - Markets",
+      "title": "Silver rate today LIVE: White metal to trade flat without Shanghai silver price movement; Chinese restrictions in focus",
+      "link": "https://www.livemint.com/market/commodities/silver-rate-today-live-amid-no-cues-from-shanghai-silver-price-movement-white-metal-trades-flat-on-new-year-2026-11767230548430.html",
+      "published_raw": "Thu, 01 Jan 2026 07:27:31 +0530",
+      "published_utc": "2026-01-01T01:57:31Z",
+      "published_ist": "01-Jan-2026 07:27 IST",
+      "summary": "Silver rate today LIVE: Realtime COMEX silver price is quoting $70.896 per ounce, 0.11% lower from the previous day's close",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ab06c3b7aad4e4e8",
+      "source": "ET - Markets",
+      "title": "Wall Street ends year's final session lower but posts big annual gains for 2025",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-ends-years-final-session-lower-but-posts-big-annual-gains-for-2025/articleshow/126281135.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:26:45 +0530",
+      "published_utc": "2026-01-01T01:56:45Z",
+      "published_ist": "01-Jan-2026 07:26 IST",
+      "summary": "Wall Street indexes closed lower on the final trading day of 2025 but secured significant annual gains, driven by AI stock euphoria and overcoming tariff uncertainties. The S&amp;P 500, Dow, and Nasdaq achieved double-digit yearly increases, marking their third consecutive year of growth.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "232b46ebd24dbbce",
+      "source": "LiveMint - Markets",
+      "title": "7 key things that changed for market overnight - Gift Nifty, US dollar to Wall Street",
+      "link": "https://www.livemint.com/market/stock-market-news/7-key-things-that-changed-for-market-overnight-gift-nifty-us-dollar-to-wall-street-11767190841531.html",
+      "published_raw": "Thu, 01 Jan 2026 07:23:34 +0530",
+      "published_utc": "2026-01-01T01:53:34Z",
+      "published_ist": "01-Jan-2026 07:23 IST",
+      "summary": "Benchmark indices Sensex and Nifty 50 are expected to open at record highs on January 1, 2026, despite thin trade. Global markets are largely closed for New Year. Gift Nifty indicates a positive start for Indian equities, following a strong finish in 2025 supported by healthy buying.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "fc75cdb8679bc151",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Additional Excise Duty On Tobacco, Health Cess On Pan Masala To Be Effective Feb 1",
+      "link": "https://www.ndtvprofit.com/law-and-policy/additional-excise-duty-on-tobacco-health-cess-on-pan-masala-to-be-effective-feb-1",
+      "published_raw": "2026-01-01T01:49:25.658Z",
+      "published_utc": "2026-01-01T01:49:25Z",
+      "published_ist": "01-Jan-2026 07:19 IST",
+      "summary": "The new levies on tobacco and pan masala will be in addition to the GST rate and will replace the compensation cess currently levied on these sin goods.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9588af49c7c0218e",
+      "source": "BusinessLine - Economy",
+      "title": "Spurious seeds, pesticides to invite criminal action under new law: Chouhan",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/spurious-seeds-pesticides-to-invite-criminal-action-under-new-law-chouhan/article70459300.ece",
+      "published_raw": "Thu, 01 Jan 2026 07:12:24 +0530",
+      "published_utc": "2026-01-01T01:42:24Z",
+      "published_ist": "01-Jan-2026 07:12 IST",
+      "summary": "Speaking in Maharashtra’s Ahilyanagar district, Chouhan also announced the release of Rs 367 crore under the Rashtriya Krishi Vikas Yojana.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "934e4806ee301d1d",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Warren Buffett Steps Down As Berkshire Hathaway CEO; Greg Abel To Take Charge",
+      "link": "https://www.ndtvprofit.com/business/warren-buffett-steps-down-as-berkshire-hathaway-ceo-greg-abel-to-take-charge",
+      "published_raw": "2026-01-01T01:41:05.275Z",
+      "published_utc": "2026-01-01T01:41:05Z",
+      "published_ist": "01-Jan-2026 07:11 IST",
+      "summary": "Buffet still intends to come into the office after the transition.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "41f91d785c54d784",
+      "source": "ET - Markets",
+      "title": "Stocks to buy for 2026: Shriram Finance, Engineers India among 5 stocks that could give 20-40% return in 1 year",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-for-2026-shriram-finance-engineers-india-among-5-stocks-that-could-give-20-40-return-in-1-year/slideshow/126281063.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:09:43 +0530",
+      "published_utc": "2026-01-01T01:39:43Z",
+      "published_ist": "01-Jan-2026 07:09 IST",
+      "summary": "We have collated a list of recommendations from top brokerage firms from ETNow and other sources.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5f6391343a1e19b0",
+      "source": "ET - Industry",
+      "title": "India's ultra rich finding coloured diamonds more attractive, demand rises 25% despite rising prices",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-ultra-rich-finding-coloured-diamonds-more-attractive-demand-rises-25-despite-rising-prices/articleshow/126281036.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:09:08 +0530",
+      "published_utc": "2026-01-01T01:39:08Z",
+      "published_ist": "01-Jan-2026 07:09 IST",
+      "summary": "Demand is zooming for rarer tinted diamonds that offer financial returns as well as social dividends, despite tags anywhere from Rs 5 L to Rs 5 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "916a616f04be8f1b",
+      "source": "ET - Markets",
+      "title": "MCX shares approach record date for first-ever 5:1 stock split tomorrow. What it means for the shareholders?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-approach-record-date-for-first-ever-51-stock-split-tomorrow-what-it-means-for-the-shareholders/articleshow/126281031.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:08:28 +0530",
+      "published_utc": "2026-01-01T01:38:28Z",
+      "published_ist": "01-Jan-2026 07:08 IST",
+      "summary": "Investors looking to benefit from Multi Commodity Exchange's (MCX) first-ever 5:1 stock split must purchase shares by January 1, 2026. The split, effective January 2, 2026, will increase the number of shares held by shareholders fivefold while maintaining their total investment value. This corporate action aims to enhance stock liquidity and accessibility.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "802a5c9ef1a7064e",
+      "source": "BusinessLine - Markets",
+      "title": "US sanctions Venezuelan oil firms, blocks tankers in fresh pressure on Maduro",
+      "link": "https://www.thehindubusinessline.com/news/world/us-sanctions-venezuelan-oil-firms-blocks-tankers-in-fresh-pressure-on-maduro/article70459299.ece",
+      "published_raw": "Thu, 01 Jan 2026 07:06:41 +0530",
+      "published_utc": "2026-01-01T01:36:41Z",
+      "published_ist": "01-Jan-2026 07:06 IST",
+      "summary": "The move is part of the Trump administration’s sustained pressure campaign against the Maduro regime.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "161dcf3499eb7f75",
+      "source": "LiveMint - Opinion",
+      "title": "Mint Quick Edit | India is a top-four economy: Now let’s tackle the bigger challenges we face",
+      "link": "https://www.livemint.com/opinion/quick-edit/mint-quick-edit-india-top-four-economy-challenges-gdp-china-us-eu-germany-japan-geopolitics-competition-trade-markets-11767169003558.html",
+      "published_raw": "Thu, 01 Jan 2026 07:00:21 +0530",
+      "published_utc": "2026-01-01T01:30:21Z",
+      "published_ist": "01-Jan-2026 07:00 IST",
+      "summary": "As India joins the big GDP league, China’s ascent is what we must compare our progress with; after all, it holds geopolitical and economic policy implications. The key is to learn the right lessons and address weaknesses we won’t be able to resolve later.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "4214e1f7f1aa6c67",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Stocks To Watch In New Year's First Trading Session: Vodafone Idea, RBL Bank, NCC, Hudco And Tata Steel",
+      "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-in-new-years-first-trading-session-vodafone-idea-rbl-bank-ncc-hudco-and-tata-steel",
+      "published_raw": "2026-01-01T01:30:00.000Z",
+      "published_utc": "2026-01-01T01:30:00Z",
+      "published_ist": "01-Jan-2026 07:00 IST",
+      "summary": "Shares of auto stocks will also be in focus as they  deliver their production numbers for the month of December.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "eefe767450cf0219",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "NSE Holidays 2026: Full List Of Stock Market Holidays In India",
+      "link": "https://www.ndtvprofit.com/markets/nse-holidays-2026-full-list-of-stock-market-holidays-in-india",
+      "published_raw": "2026-01-01T01:30:00.000Z",
+      "published_utc": "2026-01-01T01:30:00Z",
+      "published_ist": "01-Jan-2026 07:00 IST",
+      "summary": "Stock Market Holiday Calendar 2026: Most of the trading holidays announced by the NSE for 2026 include festivals and major events observed in India.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "78050340515e8749",
+      "source": "ET - Markets",
+      "title": "Bharti Hexacom breaks falling trendline, signals short-term trend change: Shitij Gandhi",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/bharti-hexacom-breaks-falling-trendline-signals-short-term-trend-change-shitij-gandhi/videoshow/126274271.cms",
+      "published_raw": "Thu, 01 Jan 2026 07:00:00 +0530",
+      "published_utc": "2026-01-01T01:30:00Z",
+      "published_ist": "01-Jan-2026 07:00 IST",
+      "summary": null,
+      "likely_india_equity": true
+    },
+    {
+      "id": "f2fff5b273968434",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Stock Market Live Updates: GIFT Nifty Kick Off 2026 With Gains; Vodafone Idea, NCC, Hudco Stocks In Focus",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-updates-nse-nifty-50-bse-sensex-nifty-bank-gift-nifty-trading-levels-january-1-2026",
+      "published_raw": "2026-01-01T01:29:18.901Z",
+      "published_utc": "2026-01-01T01:29:18Z",
+      "published_ist": "01-Jan-2026 06:59 IST",
+      "summary": "Vodafone Idea, RBL Bank, NCC, Hudco and Tata Steel are few important stocks to watch today.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "8ed6795173797b8c",
+      "source": "LiveMint - Markets",
+      "title": "Breakout stocks to buy or sell: Amid New Year 2026 celebrations, Sumeet Bagadia recommends five shares to buy today",
+      "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-amid-new-year-2026-celebrations-sumeet-bagadia-recommends-five-shares-to-buy-today-11767229023561.html",
+      "published_raw": "Thu, 01 Jan 2026 06:58:50 +0530",
+      "published_utc": "2026-01-01T01:28:50Z",
+      "published_ist": "01-Jan-2026 06:58 IST",
+      "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - Jindal Steel, Sapphire Foods India, Gujarat State Petronet, Devyani International, and Steel Authority of India.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "eceb54c9270987bf",
+      "source": "BusinessLine - Money & Banking",
+      "title": "₹1,400 crore bank fraud: ED attaches UK property linked to S Kumars ex-CMD Nitin Kasliwal",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/1400-crore-bank-fraud-ed-attaches-uk-property-linked-to-s-kumars-ex-cmd-nitin-kasliwal/article70459296.ece",
+      "published_raw": "Thu, 01 Jan 2026 06:57:28 +0530",
+      "published_utc": "2026-01-01T01:27:28Z",
+      "published_ist": "01-Jan-2026 06:57 IST",
+      "summary": "Valued at around Rs 150 crore, the property is held through offshore trusts and companies controlled by Kasliwal and his family",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9041e1f7d0ea3b7b",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Bajaj Auto To SBI: Six Nifty Stocks Post Negative Returns Between Dec. 31 And Jan. 1 For Two Consecutive Years",
+      "link": "https://www.ndtvprofit.com/markets/from-bajaj-auto-to-sbi-six-nifty-stocks-that-have-not-delivered-january-1st-returns-in-the-last-two-years",
+      "published_raw": "2026-01-01T01:24:16.784Z",
+      "published_utc": "2026-01-01T01:24:16Z",
+      "published_ist": "01-Jan-2026 06:54 IST",
+      "summary": "All these six stocks have delivered negative returns on Jan 1, in both 2024 and 2025.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "ab7503ca352de403",
+      "source": "ET - Industry",
+      "title": "Restaurants and pubs register higher bookings on New Year, but Delhi misses the party due to pollution worries",
+      "link": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/restaurant-pubs-register-higher-bookings-on-new-year-but-delhi-misses-the-party-due-to-pollution-worries/articleshow/126280991.cms",
+      "published_raw": "Thu, 01 Jan 2026 06:54:03 +0530",
+      "published_utc": "2026-01-01T01:24:03Z",
+      "published_ist": "01-Jan-2026 06:54 IST",
+      "summary": "Pubs, eateries in cities other than Delhi expect better business than last year. In Delhi, pollution and adverse weather conditions impacted 10-15 percent lesses footfall on New Year's EVE.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "38fada03771068b7",
+      "source": "LiveMint - Markets",
+      "title": "Gold Price Today LIVE: Yellow metal records best annual gain since 1979 — Will it continue to shine in 2026?",
+      "link": "https://www.livemint.com/market/commodities/gold-price-today-gold-rate-today-gold-price-gold-price-in-delhi-gold-price-live-today-latest-gold-rate-mcx-11767183372943.html",
+      "published_raw": "Thu, 01 Jan 2026 06:53:52 +0530",
+      "published_utc": "2026-01-01T01:23:52Z",
+      "published_ist": "01-Jan-2026 06:53 IST",
+      "summary": "On the MCX, gold prices jumped to a record high of  ₹140,465 per 10 grams this year. On Wednesday, they hovered below  ₹1,35,000.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f8081a92bbe38eb7",
+      "source": "ET - Markets",
+      "title": "New Year Stock Market Holiday for 2026: Are NSE, BSE closed today on 1 January; Check here",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-year-stock-market-holiday-for-2026-are-nse-bse-closed-today-on-1-january-check-here/articleshow/126280988.cms",
+      "published_raw": "Thu, 01 Jan 2026 06:53:00 +0530",
+      "published_utc": "2026-01-01T01:23:00Z",
+      "published_ist": "01-Jan-2026 06:53 IST",
+      "summary": "NSE Holidays for New Year 2026: Domestic bourses NSE and BSE will remain open for trading on January 1, even as most of its major global peers will remain closed. Commodity exchanges MCX and NCDEX will be open during the day session but will remain closed in the evening session.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "56cce8c3cabd71ed",
+      "source": "LiveMint - Markets",
+      "title": "Nifty 50, Sensex today: What to expect from Indian stock market in trade on January 1, the first session of 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-today-what-to-expect-from-indian-stock-market-in-trade-on-january-1-first-trading-session-of-2026-11767190426875.html",
+      "published_raw": "Thu, 01 Jan 2026 06:45:52 +0530",
+      "published_utc": "2026-01-01T01:15:52Z",
+      "published_ist": "01-Jan-2026 06:45 IST",
+      "summary": "The Nifty is testing its upper range near 26,200, with a potential breakout indicating upward momentum. Caution is advised, focusing on sector-specific strategies, particularly in banking, auto, and metal stocks.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "eb044678c6d34681",
+      "source": "ET - Markets",
+      "title": "GIFT Nifty up 60 points; here's the trading setup for today's session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/126280973.cms",
+      "published_raw": "Thu, 01 Jan 2026 06:45:21 +0530",
+      "published_utc": "2026-01-01T01:15:21Z",
+      "published_ist": "01-Jan-2026 06:45 IST",
+      "summary": "Indian equity markets concluded 2025 with a 10% gain in the Nifty, signaling a year of gradual recovery. Analysts anticipate steady growth in 2026, driven by improving corporate earnings, a revival in private investment, and supportive government policies. The Nifty remains in a sideways trend, with key support and resistance levels identified.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "f19a0ee7259a731b",
+      "source": "ET - Markets",
+      "title": "Stocks in news: Vodafone Idea, Hyundai India, RBL Bank, Adani Green, IndiGo",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vodafone-idea-hyundai-india-rbl-bank-adani-green-indigo/articleshow/126280957.cms",
+      "published_raw": "Thu, 01 Jan 2026 06:39:58 +0530",
+      "published_utc": "2026-01-01T01:09:58Z",
+      "published_ist": "01-Jan-2026 06:39 IST",
+      "summary": "Markets closed the year positively, with analysts favoring banking, auto, and metal stocks. Vodafone Idea will receive Rs 5,836 crore from its promoter. IndiGo anticipates carrying 10 million more passengers this year, while Hyundai India announced price hikes from January 1, 2026. Adani Green operationalized 307.4 MW power projects, and RBL Bank applied to cap foreign shareholding.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "bf3a68a596d9d4b4",
+      "source": "BusinessLine - Markets",
+      "title": "Stock Market Live Updates 1 January 2026: Stock to buy today: Petronet LNG",
+      "link": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-1st-january-2026/article70456847.ece",
+      "published_raw": "Thu, 01 Jan 2026 06:39:52 +0530",
+      "published_utc": "2026-01-01T01:09:52Z",
+      "published_ist": "01-Jan-2026 06:39 IST",
+      "summary": "Sensex, Nifty, Share Prices LIVE: The stock of Petronet LNG has been consolidating since August. \n\nIt has been oscillating between ₹266 and ₹285. But over the last two weeks, it has been rallying and the price movement shows good upward momentum. \n\nWe expect the stock to break out of the barrier at ₹285 this time, opening the door for further rally. Once the stock surpasses ₹285, it can establish a fresh leg of rally, which can take the stock to ₹320 soon. \n\nTraders can consider buying the stock now at ₹284 and accumulate when the price dips to ₹270. Place a stop-loss at ₹262. When the price r",
+      "likely_india_equity": true
+    },
+    {
+      "id": "fcfa7519ec229268",
+      "source": "ET - Markets",
+      "title": "Fund managers urge diversification amid AI and valuation concerns",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-urge-diversification-amid-ai-and-valuation-concerns/articleshow/126280922.cms",
+      "published_raw": "Thu, 01 Jan 2026 06:34:09 +0530",
+      "published_utc": "2026-01-01T01:04:09Z",
+      "published_ist": "01-Jan-2026 06:34 IST",
+      "summary": "Indian equity investors look forward to a calmer 2026. The Nifty is expected to gain between 8-14 percent. This optimism stems from anticipated corporate earnings growth in the second half of the year. Foreign fund flows are also expected to revive. A trade deal with the US is also a key factor.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "cd8cefac94926e7b",
+      "source": "LiveMint - Markets",
+      "title": "Stock market today: Trade guide for Nifty 50, gold price to silver rates — Eight stocks to buy or sell on 1 January 2025",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-guide-for-nifty-50-gold-price-to-silver-rates-eight-stocks-to-buy-or-sell-on-1-january-2025-11767203510673.html",
+      "published_raw": "Thu, 01 Jan 2026 06:31:08 +0530",
+      "published_utc": "2026-01-01T01:01:08Z",
+      "published_ist": "01-Jan-2026 06:31 IST",
+      "summary": "Stock market today: Experts have recommended eight stocks to buy today — L&amp;amp;T Finance, BPCL, Union Bank of India, BSE Ltd, Bharti Airtel, Cemindia Projects, Tourism Finance Corp. and IOL Chemicals &amp;amp; Pharma.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "73cb8bfacda934d2",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "MCX Stock Split: Last Day To Buy Shares To Qualify Before Record Date",
+      "link": "https://www.ndtvprofit.com/markets/mcx-stock-split-last-day-to-buy-shares-to-qualify-before-record-date",
+      "published_raw": "2026-01-01T01:00:00.000Z",
+      "published_utc": "2026-01-01T01:00:00Z",
+      "published_ist": "01-Jan-2026 06:30 IST",
+      "summary": "The record for MCX stock split for the purpose of determining the eligible shareholders is Jan. 2.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "898630be18885c54",
+      "source": "BusinessLine - Money & Banking",
+      "title": "Banks’ exposure to capital market and real estate sector on a 6-year high",
+      "link": "https://www.thehindubusinessline.com/data-stories/banks-exposure-to-capital-market-and-real-estate-sector-on-a-6-year-high/article70456673.ece",
+      "published_raw": "Thu, 01 Jan 2026 06:30:00 +0530",
+      "published_utc": "2026-01-01T01:00:00Z",
+      "published_ist": "01-Jan-2026 06:30 IST",
+      "summary": "Private sector banks recorded a CAGR of 19.3% in the advances to capital market sector from FY20 to FY25, and a 20% CAGR in their exposure to the real estate sector",
+      "likely_india_equity": false
+    },
+    {
+      "id": "cf0caf072e6d3cf3",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Bank Holidays In 2026: RBI Releases Holiday Calendar, Check Month-Wise",
+      "link": "https://www.ndtvprofit.com/nation/bank-holidays-in-2026-rbi-releases-holiday-calendar-check-month-wise",
+      "published_raw": "2026-01-01T01:00:00.000Z",
+      "published_utc": "2026-01-01T01:00:00Z",
+      "published_ist": "01-Jan-2026 06:30 IST",
+      "summary": "RBI Holiday Calendar: While bank branches will remain shut on the scheduled holidays, customers can continue to utilise online services like ATM withdrawals, NEFT, net banking and other transactions.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "eb655d64afcd30c7",
+      "source": "ET - Economy",
+      "title": "India's financial system can handle shocks, but long-term outlook hazy, RBI's report says",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/indias-financial-system-can-handle-shocks-but-long-term-outlook-hazy-rbis-report-says/articleshow/126280911.cms",
+      "published_raw": "Thu, 01 Jan 2026 06:25:24 +0530",
+      "published_utc": "2026-01-01T00:55:24Z",
+      "published_ist": "01-Jan-2026 06:25 IST",
+      "summary": "The report flagged risks from geopolitical tensions and trade disruptions, which could trigger exchange rate volatility, dampen trade flows, reduce corporate earnings and curb foreign investment. A sharp correction in US equities could spill over to domestic markets and tighten financial conditions, it warned.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "d799e0df71c45994",
+      "source": "ET - Markets",
+      "title": "High-conviction bets for 2026 with potential gains of 11–39%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/high-conviction-bets-for-2026-with-potential-gains-of-1139/articleshow/126280906.cms",
+      "published_raw": "Thu, 01 Jan 2026 06:25:11 +0530",
+      "published_utc": "2026-01-01T00:55:11Z",
+      "published_ist": "01-Jan-2026 06:25 IST",
+      "summary": "Indian equities face an uncertain start to 2026 after a volatile 2025. While a recovery is expected, lingering trade deal doubts and a lack of new catalysts suggest a stock picker's market. Leading brokerages highlight high-conviction ideas with potential upside between 11.3% and 39%.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "01587ef7bec96790",
+      "source": "NDTV Profit - Business/Markets",
+      "title": "Mumbai Rains: City Witnesses Unusual Spell On New Year Day",
       "link": "https://www.ndtvprofit.com/nation/mumbai-rains-live-updates-city-receives-unusual-downpour-on-new-year-day-a-sign-of-changing-weather-patterns",
       "published_raw": "2026-01-01T00:40:30.334Z",
       "published_utc": "2026-01-01T00:40:30Z",
@@ -14,9 +718,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "ab72be56fecb1ae3",
+      "id": "c0de72539282fd95",
       "source": "ET - Markets",
-      "title": "Brace for a cold and windy 2026, follow the dharma of asset allocation",
+      "title": "Brace for a cold and windy 2026, follow the dharma of asset allocation: Nilesh Shah",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/brace-for-a-cold-and-windy-2026-follow-the-dharma-of-asset-allocation/articleshow/126280845.cms",
       "published_raw": "Thu, 01 Jan 2026 06:06:02 +0530",
       "published_utc": "2026-01-01T00:36:02Z",
@@ -157,17 +861,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "a443e5cb387e87d2",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Asiad, CWG, Hockey World Cup, Chess Championship & More — Check Indian Sports Calendar 2026",
-      "link": "https://www.ndtvprofit.com/sports/new-year-2026-india-asian-commonwealth-games-asiad-cwg-hockey-world-cup-chess-championship-badminton-candidates-winter-olympics-football-asian-cup",
-      "published_raw": "2026-01-01T00:30:00.000Z",
-      "published_utc": "2026-01-01T00:30:00Z",
-      "published_ist": "01-Jan-2026 06:00 IST",
-      "summary": "The BWF World Championships, FIDE Women's Candidates Tournament, Winter Olympics and AFC Women's Asian Cup are also among the major non-cricket sporting events where India will participate.",
-      "likely_india_equity": false
-    },
-    {
       "id": "ee0e7a43dd1ea0b7",
       "source": "ET - Markets",
       "title": "After a blockbuster 2025, India’s IPO pipeline signals a busy 2026",
@@ -254,17 +947,6 @@
       "published_ist": "01-Jan-2026 05:30 IST",
       "summary": "Record RBI dividends and strong consumption provide a cushion but rising subsidies and tight deficit math point to a narrower fiscal path ahead.",
       "likely_india_equity": true
-    },
-    {
-      "id": "9fb6157c9d955304",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Happy New Year 2026: Wishes, Messages, Greetings And WhatsApp Status To Share With Friends And Family",
-      "link": "https://www.ndtvprofit.com/trending/happy-new-year-2026-wishes-messages-greetings-and-whatsapp-status-to-share-with-friends-and-family",
-      "published_raw": "2025-12-31T23:30:00.000Z",
-      "published_utc": "2025-12-31T23:30:00Z",
-      "published_ist": "01-Jan-2026 05:00 IST",
-      "summary": "New Year 2026 Wishes: Sharing warm wishes and greetings is a cherished New Year tradition, offering an opportunity to connect with family and friends.",
-      "likely_india_equity": false
     },
     {
       "id": "02d6aea48531dee3",
@@ -421,83 +1103,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "d663400cd1e6ebd3",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Star Ratings Mandatory For Refrigerator, TV, LPG stove, Cooling Tower, Chillers From Jan 1",
-      "link": "https://www.ndtvprofit.com/business/star-ratings-mandatory-for-refrigerator-tv-lpg-stove-cooling-tower-chillers-from-jan-1",
-      "published_raw": "2025-12-31T17:37:04.032Z",
-      "published_utc": "2025-12-31T17:37:04Z",
-      "published_ist": "31-Dec-2025 23:07 IST",
-      "summary": "An official on condition of anonymity said the list of mandatory appliances for star labelling is updated from time to time.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "bae62ae3e4efcc1a",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Happy New Year 2026 Short Quotes, Best Wishes, Messages, Images And Whatsapp Status",
-      "link": "https://www.ndtvprofit.com/trending/happy-new-year-2026-short-quotes-best-wishes-messages-images-and-whatsapp-status",
-      "published_raw": "2025-12-31T17:30:00.000Z",
-      "published_utc": "2025-12-31T17:30:00Z",
-      "published_ist": "31-Dec-2025 23:00 IST",
-      "summary": "The arrival of the New Year is a time-honoured tradition celebrated across cultures and continents. Start your New Year celebrations by wishing your dear ones as we all welcome the year 2026.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "17f9283b641d67ca",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "DGCA Seeks Explanation From AI For Operating Dreamliner Despite Snags",
-      "link": "https://www.ndtvprofit.com/business/dgca-seeks-explanation-from-ai-for-operating-dreamliner-despite-snags",
-      "published_raw": "2025-12-31T17:29:44.733Z",
-      "published_utc": "2025-12-31T17:29:44Z",
-      "published_ist": "31-Dec-2025 22:59 IST",
-      "summary": "In a show-cause notice issued this week, the Directorate General of Civil Aviation (DGCA) has flagged snags pertaining to Dreamliner VT-ANI.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "78f14b64fb38c90c",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "India's Broadband Subscriber Base Crosses Rs 100-Crore Mark In November 2025",
-      "link": "https://www.ndtvprofit.com/nation/indias-broadband-subscriber-base-crosses-rs-100-crore-mark-in-november-2025",
-      "published_raw": "2025-12-31T17:25:04.498Z",
-      "published_utc": "2025-12-31T17:25:04Z",
-      "published_ist": "31-Dec-2025 22:55 IST",
-      "summary": "India had 99.98 crore broadband subscribers in October, comprising 95.49 crore on wireless networks and 4.48 crore on fixed connections.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "c5646d3b9fabfff6",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Delhi Pollution: Not Stubble Burning, Vehicular Emissions Emerge As Top Cause, Says Report",
-      "link": "https://www.ndtvprofit.com/nation/delhi-ncr-pollution-air-quality-index-aqi-not-stubble-burning-vehicular-emissions-emerge-as-top-cause-says-report",
-      "published_raw": "2025-12-31T17:23:05.776Z",
-      "published_utc": "2025-12-31T17:23:05Z",
-      "published_ist": "31-Dec-2025 22:53 IST",
-      "summary": "Within Delhi’s local contribution, vehicles are the dominant primary source, accounting for nearly half of all local emissions.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "5e8b818aa1c296a9",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Sagarmala Finance Forays Into Maritime Lending Space With Rs 4,300-Crore Loan Approvals",
-      "link": "https://www.ndtvprofit.com/business/sagarmala-finance-forays-into-maritime-lending-space-with-rs-4300-crore-loan-approvals",
-      "published_raw": "2025-12-31T17:22:00.858Z",
-      "published_utc": "2025-12-31T17:22:00Z",
-      "published_ist": "31-Dec-2025 22:52 IST",
-      "summary": "Of this, about Rs 4,000 crore has been earmarked for a greenfield port project, while Dredging Corporation of India (DCI) and Goa Shipyard have secured Rs 150 crore and Rs 110 crore, respectively.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "e3c91e993a26b21a",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Govt Extends Minimum Export Price On Honey Till March 2026",
-      "link": "https://www.ndtvprofit.com/business/govt-extends-minimum-export-price-on-honey-till-march-2026",
-      "published_raw": "2025-12-31T17:16:19.666Z",
-      "published_utc": "2025-12-31T17:16:19Z",
-      "published_ist": "31-Dec-2025 22:46 IST",
-      "summary": "The major exporting destinations are the US, UAE, Saudi Arabia and Qatar.",
-      "likely_india_equity": false
-    },
-    {
       "id": "ad0bd4ffaa04fbac",
       "source": "BusinessLine - Economy",
       "title": "Cess on pan masala, additional excise duty on cigarettes and tobacco products from Feb 1",
@@ -506,17 +1111,6 @@
       "published_utc": "2025-12-31T17:15:35Z",
       "published_ist": "31-Dec-2025 22:45 IST",
       "summary": "While tobacco products currently attract 28 per cent GST plus cess, the new framework introduces additional excise duties and cesses to maintain overall tax incidence.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "87b3afbf8d465204",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Passenger Claims Fungal Infection After Taking Akasa Air Flight; Airline Reviewing Matter",
-      "link": "https://www.ndtvprofit.com/nation/passenger-claims-fungal-infection-after-taking-akasa-air-flight-airline-reviewing-matter",
-      "published_raw": "2025-12-31T17:11:54.181Z",
-      "published_utc": "2025-12-31T17:11:54Z",
-      "published_ist": "31-Dec-2025 22:41 IST",
-      "summary": "Sharing pictures of swollen legs, she said, soon after my journey, \"I developed a severe fungal infection in my legs'.",
       "likely_india_equity": false
     },
     {
@@ -531,39 +1125,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "a14ce7473e857775",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Nvidia Taps TSMC As China Demand For H200 Chips Hits Two Million Units",
-      "link": "https://www.ndtvprofit.com/business/nvidia-taps-tsmc-as-china-demand-for-h200-chips-hits-two-million-units",
-      "published_raw": "2025-12-31T17:05:56.755Z",
-      "published_utc": "2025-12-31T17:05:56Z",
-      "published_ist": "31-Dec-2025 22:35 IST",
-      "summary": "Chinese tech companies have sought two million H200 chips for 2026 via official orders from Nvidia, which only has 700,000 currently in stock, according to a report.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "8c108855671f66ff",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "2 Lakh Biryanis, 90,000 Burgers: Swiggy Reveals India’s New Year's Eve Dinner Cravings",
-      "link": "https://www.ndtvprofit.com/trending/2-lakh-biryanis-90000-burgers-swiggy-reveals-indias-new-years-eve-dinner-cravings",
-      "published_raw": "2025-12-31T17:02:53.018Z",
-      "published_utc": "2025-12-31T17:02:53Z",
-      "published_ist": "31-Dec-2025 22:32 IST",
-      "summary": "Food delivery platform Swiggy's post on one of its official X accounts suggested that biryani has emerged as the king of foods with over two lakh orders placed before 7:30 p.m.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "41a8e08c4251fd28",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Xi Touts China's AI, Chip Wins In Triumphant New Year's Speech",
-      "link": "https://www.ndtvprofit.com/global-economics/xi-touts-chinas-ai-chip-wins-in-triumphant-new-years-speech",
-      "published_raw": "2025-12-31T16:42:32.076Z",
-      "published_utc": "2025-12-31T16:42:32Z",
-      "published_ist": "31-Dec-2025 22:12 IST",
-      "summary": "China had “overcome numerous difficulties and challenges” to meet the targets set out in its 14th Five-Year Plan, Xi said.",
-      "likely_india_equity": false
-    },
-    {
       "id": "b6bd1c029a2f20f5",
       "source": "ET - Economy",
       "title": "India imposes provisional anti-dumping duty on low ash metallurgical coke imports",
@@ -572,17 +1133,6 @@
       "published_utc": "2025-12-31T16:39:47Z",
       "published_ist": "31-Dec-2025 22:09 IST",
       "summary": "India has imposed a provisional anti-dumping duty of $60.87-$130.66 per tonne on low ash metallurgical coke imports for six months. This measure affects imports from Australia, China, Colombia, Indonesia, Japan, and Russia, potentially raising steelmaking costs as the country aims to boost steel production.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "64a2c58e18ac5263",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "New Year's Eve: 50,000 Gig Workers Participate In Strike In Hyderabad, Unions Claim",
-      "link": "https://www.ndtvprofit.com/nation/on-new-years-eve-50000-gig-workers-participate-in-strike-in-hyderabad-unions-claim",
-      "published_raw": "2025-12-31T16:38:56.062Z",
-      "published_utc": "2025-12-31T16:38:56Z",
-      "published_ist": "31-Dec-2025 22:08 IST",
-      "summary": "He said roughly 50,000 took part in the strike till 8 PM though  demand on New Year's eve peaks during the night time.",
       "likely_india_equity": false
     },
     {
@@ -597,17 +1147,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "391785eddc4a36e4",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "Magicpin Management Delivers Food On New Year's Eve, Firm Says 'No Impact' Of Gig Workers' Strike",
-      "link": "https://www.ndtvprofit.com/business/magicpin-management-delivers-food-on-new-years-eve-firm-says-no-impact-of-gig-workers-strike",
-      "published_raw": "2025-12-31T16:34:40.493Z",
-      "published_utc": "2025-12-31T16:34:40Z",
-      "published_ist": "31-Dec-2025 22:04 IST",
-      "summary": "He said the initiative aims to acknowledge the efforts of delivery partners who power the platform every day.",
-      "likely_india_equity": false
-    },
-    {
       "id": "64f2875ac660f531",
       "source": "BusinessLine - Economy",
       "title": "Indian economy and financial system face near-term risks from external uncertainties: FSR",
@@ -616,28 +1155,6 @@
       "published_utc": "2025-12-31T16:33:55Z",
       "published_ist": "31-Dec-2025 22:03 IST",
       "summary": "Stress tests endorse resilience of banks and NBFCs",
-      "likely_india_equity": false
-    },
-    {
-      "id": "5d32fc63010b695b",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "PLI Auto Scheme Attracts Investment Of Rs 35,657 Crore, Sales Of Rs 32,879 Crore: Govt",
-      "link": "https://www.ndtvprofit.com/business/pli-auto-scheme-attracts-investment-of-rs-35657-crore-sales-of-rs-32879-crore-govt",
-      "published_raw": "2025-12-31T16:30:58.600Z",
-      "published_utc": "2025-12-31T16:30:58Z",
-      "published_ist": "31-Dec-2025 22:00 IST",
-      "summary": "The Heavy Industries Ministry also plans to invoke bank guarantees of 10 firms who have not made any investment so far under the scheme",
-      "likely_india_equity": false
-    },
-    {
-      "id": "1bdd02c7b3386514",
-      "source": "NDTV Profit - Business/Markets",
-      "title": "New Star Ratings To Push AC Prices Up 10%, Refrigerators By 5% From January",
-      "link": "https://www.ndtvprofit.com/business/new-star-ratings-to-push-ac-refrigerators-prices-up-from-january",
-      "published_raw": "2025-12-31T16:25:41.092Z",
-      "published_utc": "2025-12-31T16:25:41Z",
-      "published_ist": "31-Dec-2025 21:55 IST",
-      "summary": "The new 5-star AC under the new revised BEE norms is 10% more energy efficient.",
       "likely_india_equity": false
     },
     {
@@ -2016,17 +2533,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "abd4343d42b2661f",
-      "source": "Zee Business - Latest",
-      "title": "Closing Bell: Sensex jumps 546 points, Nifty ends above 26,100 on last trading day of 2025",
-      "link": "https://www.zeebiz.com/market-news/news-closing-bell-sensex-jumps-546-points-nifty-ends-above-26100-on-last-trading-day-of-2025-386879",
-      "published_raw": "Wed, 31 Dec 2025 16:27:07 +0530",
-      "published_utc": "2025-12-31T10:57:07Z",
-      "published_ist": "31-Dec-2025 16:27 IST",
-      "summary": "The BSE Sensex rose 545.52 points, or 0.64 per cent, to settle at 85,220.60. The NSE Nifty50 gained 190.75 points, or 0.74 per cent, to close at 26,129.60, ending above the 26,100 mark.",
-      "likely_india_equity": true
-    },
-    {
       "id": "5d034d89a8e62869",
       "source": "LiveMint - Markets",
       "title": "See enough catalysts for earnings growth, market recovery in 2026, says DSP Mutual Fund's head of equities",
@@ -2060,17 +2566,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "4b7f352e1fd87b20",
-      "source": "Zee Business - Latest",
-      "title": "IndiGo announces recruitment drive for experienced airbus pilots",
-      "link": "https://www.zeebiz.com/economy-infra/aviation/news-indigo-announces-recruitment-drive-for-experienced-airbus-pilots-386884",
-      "published_raw": "Wed, 31 Dec 2025 16:23:45 +0530",
-      "published_utc": "2025-12-31T10:53:45Z",
-      "published_ist": "31-Dec-2025 16:23 IST",
-      "summary": "IndiGo Airlines is about to start an extensive recruitment drive for experienced Airbus pilots to fill the positions in its expanding Airbus fleet.",
-      "likely_india_equity": false
-    },
-    {
       "id": "02046b4267f5ea29",
       "source": "BusinessLine - Markets",
       "title": "Tata Steel, JSW Steel surge over 4% on three-year import duty",
@@ -2079,17 +2574,6 @@
       "published_utc": "2025-12-31T10:51:22Z",
       "published_ist": "31-Dec-2025 16:21 IST",
       "summary": "The duty, effective from April 21, 2025, to April 20, 2028, will apply to imports from China, Vietnam, and Nepal",
-      "likely_india_equity": false
-    },
-    {
-      "id": "e43521fe1e4c534b",
-      "source": "Zee Business - Latest",
-      "title": "4:1 Bonus issue: This micro-cap stock fixes record date",
-      "link": "https://www.zeebiz.com/market-news/news-41-bonus-issue-this-micro-cap-stock-fixes-record-date-386881",
-      "published_raw": "Wed, 31 Dec 2025 16:21:17 +0530",
-      "published_utc": "2025-12-31T10:51:17Z",
-      "published_ist": "31-Dec-2025 16:21 IST",
-      "summary": "4:1 Bonus issue: This means investors must buy the shares on or before January 1, 2026, to be eligible for the bonus shares. This will be the first time the company is issuing bonus shares to its shareholders.",
       "likely_india_equity": false
     },
     {
@@ -2500,9 +2984,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "ff5771bfe4b2144b",
+      "id": "efc67d7e0861b9ad",
       "source": "LiveMint - Markets",
-      "title": "Is the Indian stock market open or closed tomorrow on New Year 2026?",
+      "title": "Is the Indian stock market open or closed today on the New Year 2026?",
       "link": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-2026-is-the-indian-stock-market-open-or-closed-tomorrow-on-new-year-2026-11767168141054.html",
       "published_raw": "Wed, 31 Dec 2025 14:47:48 +0530",
       "published_utc": "2025-12-31T09:17:48Z",
@@ -2819,9 +3303,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "bdc88e61ec9c3b8d",
+      "id": "da3fea5ec121f79e",
       "source": "LiveMint - Markets",
-      "title": "Silver rate today LIVE: MCX silver prices crash ~  ₹19,000 amid sharp slump in international market — How to trade?",
+      "title": "Silver rate today: MCX silver prices crash  ₹18,000 amid sharp slump in international market — How to trade?",
       "link": "https://www.livemint.com/market/commodities/silver-rate-today-comex-silver-tanks-over-8-will-mcx-silver-price-follow-suit-experts-unveil-money-making-strategy-11767164535915.html",
       "published_raw": "Wed, 31 Dec 2025 12:56:05 +0530",
       "published_utc": "2025-12-31T07:26:05Z",
@@ -2907,17 +3391,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "67b65081ffd4bcd4",
-      "source": "ET - Markets",
-      "title": "Devina Mehra warns against chasing smallcaps, calls them a stock-specific game",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/devina-mehra-warns-against-chasing-smallcaps-calls-them-a-stock-specific-game/articleshow/126266219.cms",
-      "published_raw": "Wed, 31 Dec 2025 12:30:59 +0530",
-      "published_utc": "2025-12-31T07:00:59Z",
-      "published_ist": "31-Dec-2025 12:30 IST",
-      "summary": "Indian stock markets have shown resilience over the past year. Largecap stocks have performed better than smallcaps. Experts caution that smallcap performance is company-specific. Investor sentiment can be a contrarian indicator. Sectors like autos, pharma, and FMCG are favored. Caution is advised for the banking sector due to inherent risks.",
-      "likely_india_equity": false
-    },
-    {
       "id": "9e33df753c18db08",
       "source": "LiveMint - Opinion",
       "title": "Trump's 2025 shake-up of the world order has put the Indo-Pacific balance of power back in play",
@@ -2936,7 +3409,7 @@
       "published_raw": "Wed, 31 Dec 2025 12:29:41 +0530",
       "published_utc": "2025-12-31T06:59:41Z",
       "published_ist": "31-Dec-2025 12:29 IST",
-      "summary": "2026 India Outlook: Despite a 50% US tariff, India's exports to the US have risen, driven by exporter adjustments and temporary coping strategies. However, this resilience is fragile, with high tariffs threatening long-term growth, jobs, and competitiveness. A win-win trade deal is crucial for India to secure market access and sustain its economic strategy.",
+      "summary": "2026 India Outlook: Despite a 50% tariff, India's exports to US have risen, driven by exporter adjustments and temporary coping strategies. However, this resilience is fragile, with high tariffs threatening long-term growth, jobs, and competitiveness. A win-win trade deal is crucial for India to secure market access and sustain its economic strategy.",
       "likely_india_equity": false
     },
     {
@@ -2973,28 +3446,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "90b868864c9b21d6",
-      "source": "ET - Markets",
-      "title": "MCX Gold price slips Rs 1,140 in a day. Has the safe-haven shine started to fade?",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-price-slips-rs-1140-in-a-day-has-the-safe-haven-shine-started-to-fade/articleshow/126265996.cms",
-      "published_raw": "Wed, 31 Dec 2025 12:11:24 +0530",
-      "published_utc": "2025-12-31T06:41:24Z",
-      "published_ist": "31-Dec-2025 12:11 IST",
-      "summary": "Gold prices eased to Rs 1,35,526 on December 31 amid geopolitical tensions and Fed caution. Technicals remain bullish with support at Rs 1,34,000. Analysts expect gold to test $4,900 and INR Rs 1.82 lakh in 2026.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "50cfc425b6bac9b9",
-      "source": "LiveMint - Markets",
-      "title": "MCX share price rallies 3% after Morgan Stanley upgrades target price and rating. Do you own?",
-      "link": "https://www.livemint.com/market/stock-market-news/mcx-share-price-rallies-3-after-morgan-stanley-upgrades-target-price-and-rating-do-you-own-11767160185593.html",
-      "published_raw": "Wed, 31 Dec 2025 12:11:15 +0530",
-      "published_utc": "2025-12-31T06:41:15Z",
-      "published_ist": "31-Dec-2025 12:11 IST",
-      "summary": "MCX shares rose 3% to  ₹11,198 after media reports suggested that Morgan Stanley has upgraded its outlook, raised the target price by 66%. MCX shares have jumped 80% so far in 2025 — marking the third consecutive year of gains for the stock.",
-      "likely_india_equity": false
-    },
-    {
       "id": "d7370a200ad8f963",
       "source": "BusinessLine - Economy",
       "title": "Goldilocks phase, reforms glide path to spur Indian economy in 2026",
@@ -3006,8 +3457,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "b24f3f5e782328cc",
-      "source": "ET - Markets",
+      "id": "d0cbff01125f5c59",
+      "source": "ET - Stocks",
       "title": "After 850% annual surge, Elitecon International shares rise 5% to upper circuit. Do you own?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/after-850-annual-surge-elitecon-international-shares-rise-5-to-upper-circuit-do-you-own/articleshow/126265861.cms",
       "published_raw": "Wed, 31 Dec 2025 12:05:15 +0530",
@@ -3017,36 +3468,14 @@
       "likely_india_equity": false
     },
     {
-      "id": "db74882acbba5560",
-      "source": "ET - Markets",
+      "id": "a192c4ac2e8befbe",
+      "source": "ET - Stocks",
       "title": "Tata Steel shares rise 7% in 3 sessions; up 31% in 2025. What’s driving the latest surge?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-rise-7-in-3-sessions-up-31-in-2025-whats-driving-the-latest-surge/articleshow/126265899.cms",
       "published_raw": "Wed, 31 Dec 2025 12:04:45 +0530",
       "published_utc": "2025-12-31T06:34:45Z",
       "published_ist": "31-Dec-2025 12:04 IST",
       "summary": "Tata Steel shares rallied after the government imposed safeguard duties on select steel imports to curb cheap inflows and protect domestic producers. The phased three-year measure lifted sentiment across steel stocks, supported by strong recent gains and robust quarterly earnings growth, reflecting improving profitability and favourable industry tailwinds.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "6a4cd36816a0274f",
-      "source": "LiveMint - Markets",
-      "title": "Ramco Cements ticks off asset sales, but pricing will decide the next leg of growth",
-      "link": "https://www.livemint.com/market/mark-to-market/ramco-cements-asset-sales-pricing-outlook-stockanalysis-11767159463522.html",
-      "published_raw": "Wed, 31 Dec 2025 12:03:44 +0530",
-      "published_utc": "2025-12-31T06:33:44Z",
-      "published_ist": "31-Dec-2025 12:03 IST",
-      "summary": "After monetizing over  ₹1,000 crore of non-core assets and using the proceeds to pare debt, Ramco Cements has reduced balance-sheet stress. Whether the stock moves higher from here will depend on a recovery in cement pricing and utilization across its key markets.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "36509125d273cf31",
-      "source": "ET - Markets",
-      "title": "Safeguard duty boosts Indian steel sector; volumes to drive growth: Aditya Welekar",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/safeguard-duty-boosts-indian-steel-sector-volumes-to-drive-growth-aditya-welekar/articleshow/126265789.cms",
-      "published_raw": "Wed, 31 Dec 2025 12:03:08 +0530",
-      "published_utc": "2025-12-31T06:33:08Z",
-      "published_ist": "31-Dec-2025 12:03 IST",
-      "summary": "India’s steel sector gets a boost as the government imposes a long-term safeguard duty on imports. Axis Securities’ Aditya Welekar explains how the move protects domestic steelmakers from cheap Chinese steel, supports flat steel prices, and why volume-led growth, not sharp price hikes, will drive earnings for major steel companies.",
       "likely_india_equity": false
     },
     {
@@ -3083,80 +3512,14 @@
       "likely_india_equity": false
     },
     {
-      "id": "a2145a532dcd5da4",
-      "source": "ET - Markets",
-      "title": "India bonds dip as quarter-end dulls demand, RBI skips old benchmark in OMOs",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-quarter-end-dulls-demand-rbi-skips-old-benchmark-in-omos/articleshow/126265783.cms",
-      "published_raw": "Wed, 31 Dec 2025 11:59:20 +0530",
-      "published_utc": "2025-12-31T06:29:20Z",
-      "published_ist": "31-Dec-2025 11:59 IST",
-      "summary": "Indian government bond prices eased on Wednesday, the last trading day of 2025, due to quarter-end positioning and the central bank's omission of the former benchmark from open-market purchases. The benchmark 10-year yield rose to 6.5849% as traders awaited clarity on U.S. trade deals and Bloomberg index inclusion for FAR bonds.",
-      "likely_india_equity": true
-    },
-    {
-      "id": "54e6ef93e0618276",
-      "source": "ET - Markets",
-      "title": "MCX Silver price crashes Rs 22,000 in 3 days, ETF nosedives 11%. Is the multibagger rally over?",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-silver-price-crashes-rs-22000-in-3-days-etf-nosedives-11-is-the-multibagger-rally-over/articleshow/126265776.cms",
-      "published_raw": "Wed, 31 Dec 2025 11:58:48 +0530",
-      "published_utc": "2025-12-31T06:28:48Z",
-      "published_ist": "31-Dec-2025 11:58 IST",
-      "summary": "Silver, dubbed gold’s “poor cousin,” surged over 160% in 2025 but faces a sharp correction as MCX prices tumbled Rs 22,000 and the Nippon India Silver ETF lost 11%. Analysts attribute the selloff to profit booking, raised CME margins, and thin holiday liquidity. While technically overdue, the correction raises questions on whether the multi-year silver bull run will continue.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f4ec0a2c0480468b",
-      "source": "ET - Markets",
-      "title": "Weak market sentiment today often signals stronger returns ahead: Devina Mehra",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/weak-market-sentiment-today-often-signals-stronger-returns-ahead-devina-mehra/articleshow/126265601.cms",
-      "published_raw": "Wed, 31 Dec 2025 11:56:49 +0530",
-      "published_utc": "2025-12-31T06:26:49Z",
-      "published_ist": "31-Dec-2025 11:56 IST",
-      "summary": "Indian equity investors faced a challenging 2025, with benchmark indices masking significant portfolio underperformance. Despite widespread disappointment and FOMO, experts advise against emotional decisions, highlighting that current weak sentiment often precedes improved future returns. Investors are urged to stay invested but actively prune portfolios and maintain balanced asset allocation, including global diversification.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "7b8c0f30c0eb0323",
-      "source": "ET - Markets",
+      "id": "cf7bdef2e58fe91d",
+      "source": "ET - Stocks",
       "title": "MCX shares rise 3% to hover near record high as Morgan Stanley upgrades stock to ‘equal weight’",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-rise-3-to-hover-near-record-high-as-morgan-stanley-upgrades-stock-to-equal-weight/articleshow/126265679.cms",
       "published_raw": "Wed, 31 Dec 2025 11:55:58 +0530",
       "published_utc": "2025-12-31T06:25:58Z",
       "published_ist": "31-Dec-2025 11:55 IST",
       "summary": "MCX shares rose on Wednesday, nearing their 52-week high after Morgan Stanley upgraded the stock to ‘Equal Weight’ and raised its target from Rs 6,710 to Rs 11,135. The brokerage highlighted a sharp rise in Average Daily Transaction Revenue, driven largely by gold and silver volatility, which contributed around 55% to ADTR in the past three months.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "d4b93c99ef84eaf0",
-      "source": "LiveMint - Markets",
-      "title": "E to E Transportation Infrastructure IPO allotment date in focus after strong subscription. GMP, status check by PAN",
-      "link": "https://www.livemint.com/market/ipo/e-to-e-transportation-infrastructure-ipo-allotment-date-in-focus-after-strong-subscription-gmp-status-check-by-pan-11767157728963.html",
-      "published_raw": "Wed, 31 Dec 2025 11:54:16 +0530",
-      "published_utc": "2025-12-31T06:24:16Z",
-      "published_ist": "31-Dec-2025 11:54 IST",
-      "summary": "E to E Transportation Infrastructure IPO was subscribed 526.55 times on day 3",
-      "likely_india_equity": true
-    },
-    {
-      "id": "71d37b314b931129",
-      "source": "ET - Markets",
-      "title": "Gold, silver show dazzle in 2025, but rally far from over as 2026 outlook remains firm",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/gold-silver-show-dazzle-in-2025-but-rally-far-from-over-as-2026-outlook-remains-firm/articleshow/126265621.cms",
-      "published_raw": "Wed, 31 Dec 2025 11:53:59 +0530",
-      "published_utc": "2025-12-31T06:23:59Z",
-      "published_ist": "31-Dec-2025 11:53 IST",
-      "summary": "Gold and silver experienced a remarkable rally in 2025, driven by geopolitical shocks, a shift to hard assets, and macroeconomic uncertainty. Analysts predict continued strength into 2026, citing persistent central bank buying, tight physical supply, and accelerating industrial demand, with gold targeting $5000-$5500 and silver potentially reaching $95-$100 per ounce.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "6d7c8ad10d271b30",
-      "source": "LiveMint - Markets",
-      "title": "Stocks to buy: Choice Broking's Sumeet Bagadia recommends 3 New Year stock picks for 2026",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-choice-brokings-sumeet-bagadia-recommends-3-new-year-stock-picks-for-2026-m-m-marico-hpcl-11767158942485.html",
-      "published_raw": "Wed, 31 Dec 2025 11:48:14 +0530",
-      "published_utc": "2025-12-31T06:18:14Z",
-      "published_ist": "31-Dec-2025 11:48 IST",
-      "summary": "As the Indian stock market enters 2026, analysts recommend focusing on fundamentally strong stocks. Sumeet Bagadia identifies Mahindra &amp;amp; Mahindra, Marico, and Hindustan Petroleum as top picks, each showing healthy trends and consolidation with potential upside targets for investors.",
       "likely_india_equity": false
     },
     {
@@ -3193,30 +3556,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "7f52db559944964f",
-      "source": "LiveMint - Markets",
-      "title": "Over 2,000% return in five years! Multibagger defence stock jumps 5% after receipt of  ₹419-crore order from Coal India",
-      "link": "https://www.livemint.com/market/stock-market-news/over-2-000-return-in-five-years-multibagger-defence-stock-jumps-5-after-receipt-of-rs-420-crore-order-from-coal-india-11767160278347.html",
-      "published_raw": "Wed, 31 Dec 2025 11:30:25 +0530",
-      "published_utc": "2025-12-31T06:00:25Z",
-      "published_ist": "31-Dec-2025 11:30 IST",
-      "summary": "Multibagger defence stock Apollo Micro Systems said its subsidiary IDL Explosives bagged an order worth  ₹419.39 crore for the supply of bulk explosives to Coal India's subsidiaries, along with an export order of  ₹1.5 crore for the supply of cartridge explosives.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "d4225d060e2c0166",
-      "source": "LiveMint - Markets",
-      "title": "Admach Systems SME IPO listing: Shares list at 20% discount to issue price, but rebound to hit upper circuit",
-      "link": "https://www.livemint.com/market/ipo/admach-systems-sme-ipo-listing-shares-list-at-20-discount-to-issue-price-but-rebound-to-hit-upper-circuit-11767159367662.html",
-      "published_raw": "Wed, 31 Dec 2025 11:16:01 +0530",
-      "published_utc": "2025-12-31T05:46:01Z",
-      "published_ist": "31-Dec-2025 11:16 IST",
-      "summary": "Admach Systems SME IPO listing: The SME stock opened at  ₹191.20, down 20% with respect to the issue price, but rebounded and hit the upper price band of  ₹200.75 as the day progressed.",
-      "likely_india_equity": true
-    },
-    {
-      "id": "daba112411b96bb6",
-      "source": "ET - Markets",
+      "id": "c580f0b672f35263",
+      "source": "ET - Stocks",
       "title": "IFCI shares gain over 7% after stake sale in NEDFi for Rs 122 crore",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ifci-shares-gain-over-7-after-stake-sale-in-nedfi-for-rs-122-crore/articleshow/126264807.cms",
       "published_raw": "Wed, 31 Dec 2025 11:04:12 +0530",
@@ -3226,8 +3567,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "e5d16f4411871333",
-      "source": "ET - Markets",
+      "id": "a59acdc4406a50ff",
+      "source": "ET - Stocks",
       "title": "Smallcap multibagger stock shoots up another 58% in a month. Do you own?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-multibagger-stock-shoots-up-another-58-in-a-month-do-you-own/articleshow/126264776.cms",
       "published_raw": "Wed, 31 Dec 2025 11:02:02 +0530",
@@ -3245,17 +3586,6 @@
       "published_utc": "2025-12-31T05:30:07Z",
       "published_ist": "31-Dec-2025 11:00 IST",
       "summary": "Warren Buffett concludes his long tenure as Berkshire Hathaway CEO today. Gregory Abel assumes day-to-day leadership. Investors now assess Berkshire's future without Buffett's direct operational guidance. The conglomerate, built into a financial giant, faces new challenges in capital allocation and governance. Buffett's philosophy of patience and enjoyment of work remains, but his singular influence departs.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "10d25669a92ba1ed",
-      "source": "LiveMint - Markets",
-      "title": "BRICS members' gold reserves are not anti-dollar; they're anti-monopoly",
-      "link": "https://www.livemint.com/market/commodities/brics-members-gold-reserves-are-not-anti-dollar-theyre-antimonopoly-11767158330467.html",
-      "published_raw": "Wed, 31 Dec 2025 10:59:30 +0530",
-      "published_utc": "2025-12-31T05:29:30Z",
-      "published_ist": "31-Dec-2025 10:59 IST",
-      "summary": "Excessive money printing by Western economies to stabilise growth cycles has diluted purchasing power and raised concerns around currency debasement.",
       "likely_india_equity": false
     },
     {
@@ -3303,17 +3633,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "c59cc1286e22c723",
-      "source": "LiveMint - Markets",
-      "title": "850% YTD return! Multibagger small-cap stock hits 5% upper circuit; do you own?",
-      "link": "https://www.livemint.com/market/stock-market-news/850-ytd-return-multibagger-small-cap-stock-elitecon-international-share-price-hits-5-upper-circuit-do-you-own-11767157588467.html",
-      "published_raw": "Wed, 31 Dec 2025 10:47:01 +0530",
-      "published_utc": "2025-12-31T05:17:01Z",
-      "published_ist": "31-Dec-2025 10:47 IST",
-      "summary": "Elitecon International share price rose 5% to  ₹99.80 on December 31, following a market rebound. Despite recent volatility, the stock has returned over 7,500% since August 2024. The company also announced increased borrowing capacity to  ₹500 crore for future growth initiatives.",
-      "likely_india_equity": false
-    },
-    {
       "id": "6d2490811bdf2ca8",
       "source": "ET - Industry",
       "title": "Long-term policy support key to meeting India's renewable energy goals: Experts",
@@ -3345,17 +3664,6 @@
       "published_ist": "31-Dec-2025 10:43 IST",
       "summary": "Deepak Fertilisers shares rose on Wednesday, rebounding after a two-day decline amid renewed buying interest. The stock saw intraday volatility between Rs 1,233 and Rs 1,284 and is valued at a market cap of Rs 15,262.15 crore. While up just 7% over the past year, the stock has gained nearly 80% in three years and 708% in five, highlighting strong long-term wealth creation.",
       "likely_india_equity": false
-    },
-    {
-      "id": "281095d37b23adb5",
-      "source": "LiveMint - Markets",
-      "title": "Dhara Rail Projects shares list at 19% premium over IPO price on NSE SME",
-      "link": "https://www.livemint.com/market/ipo/dhara-rail-projects-ipo-listing-shares-list-at-19-premium-over-ipo-price-on-nse-sme-11767157562396.html",
-      "published_raw": "Wed, 31 Dec 2025 10:42:17 +0530",
-      "published_utc": "2025-12-31T05:12:17Z",
-      "published_ist": "31-Dec-2025 10:42 IST",
-      "summary": "Dhara Rail Projects share price listed at  ₹150 on the NSE SME platform, a premium of  ₹24 or 19%. Soon after listing, the stock extended gains by another 3% to hit the day's peak of  ₹155.",
-      "likely_india_equity": true
     },
     {
       "id": "fce89cf734eabc97",
@@ -3787,72 +4095,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "b9354a62f8db5041",
-      "source": "ET - Stocks",
-      "title": "Jindal Steel among 4 stocks showing bullish RSI upswing",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jindal-steel-among-4-stocks-showing-bullish-rsi-upswing/slideshow/126262860.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:28:51 +0530",
-      "published_utc": "2025-12-31T02:58:51Z",
-      "published_ist": "31-Dec-2025 08:28 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "232c1acd837e03be",
-      "source": "ET - Stocks",
-      "title": "Power Grid shares in focus after winning 2,000 MWh battery energy storage project",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/power-grid-shares-in-focus-after-winning-2000-mwh-battery-energy-storage-project/articleshow/126262783.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:25:16 +0530",
-      "published_utc": "2025-12-31T02:55:16Z",
-      "published_ist": "31-Dec-2025 08:25 IST",
-      "summary": "Power Grid Corporation of India has won a 2,000 MWh battery energy storage project in Andhra Pradesh under tariff-based competitive bidding. The BOO project, backed by viability gap funding, strengthens grid flexibility. Shares ended flat despite recent underperformance across timeframes. The company received the award letter on December twenty-nine officially.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "bfa517cd5332b971",
-      "source": "ET - Stocks",
-      "title": "Premier Energies shares in focus on multiple order wins worth Rs 2,307 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/premier-energies-shares-in-focus-on-multiple-order-wins-worth-rs-2307-crore/articleshow/126262770.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:24:35 +0530",
-      "published_utc": "2025-12-31T02:54:35Z",
-      "published_ist": "31-Dec-2025 08:24 IST",
-      "summary": "Premier Energies secured new orders worth Rs 2,307.30 crore for execution in FY27-FY28, bolstering its medium-term revenue visibility. These orders from leading domestic IPPs and customers reflect confidence in the company's product quality and execution capabilities. The new contracts align with Premier Energies' ongoing capacity expansion plans, reinforcing its position in India's solar manufacturing ecosystem.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "1463a35c37683acf",
-      "source": "ET - Stocks",
-      "title": "Bajaj Finserv Share Price Highlights: Bajaj Finserv Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-stock-price-live-updates-31-dec-2025/liveblog/126262735.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:21:26 +0530",
-      "published_utc": "2025-12-31T02:51:26Z",
-      "published_ist": "31-Dec-2025 08:21 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "1615a5f46753dbdb",
-      "source": "ET - Stocks",
-      "title": "Adani Ent Share Price Highlights: Adani Ent. Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-stock-price-today-live-31-dec-2025/liveblog/126262726.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:21:01 +0530",
-      "published_utc": "2025-12-31T02:51:01Z",
-      "published_ist": "31-Dec-2025 08:21 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "0f6310b5bb79ad4d",
-      "source": "ET - Stocks",
-      "title": "Bharat Forge shares jump over 2% after Rs 1,662 crore contract win from Defence Ministry",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-in-focus-after-rs-1662-crore-contract-win-from-defence-ministry/articleshow/126262719.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:20:27 +0530",
-      "published_utc": "2025-12-31T02:50:27Z",
-      "published_ist": "31-Dec-2025 08:20 IST",
-      "summary": "Bharat Forge has hit a milestone, with shares soaring to a 52-week peak following the announcement of a landmark contract. The company is set to deliver 255,128 Close Quarter Battle Carbines to the Indian Army in an impressive deal worth Rs 1,661.9 crore, marking its largest small arms contract to date.",
-      "likely_india_equity": false
-    },
-    {
       "id": "de95daab731aa7e8",
       "source": "LiveMint - Companies",
       "title": "Guinea Plans Defense Against Bauxite Miner’s $28.9 Billion Claim",
@@ -3861,50 +4103,6 @@
       "published_utc": "2025-12-31T02:50:22Z",
       "published_ist": "31-Dec-2025 08:20 IST",
       "summary": "Guinea plans to defend Axis International Ltd.’s $28.9 billion arbitration claim, saying that it terminated the firm’s bauxite-mining permit for violating an industry code.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "1d725fe5b516799a",
-      "source": "ET - Stocks",
-      "title": "IndiGo shares in focus on receiving Rs 458 crore GST demand order",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-in-focus-on-receiving-rs-458-crore-gst-demand-order/articleshow/126262697.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:18:27 +0530",
-      "published_utc": "2025-12-31T02:48:27Z",
-      "published_ist": "31-Dec-2025 08:18 IST",
-      "summary": "IndiGo Airlines is under scrutiny following substantial tax demand orders from the Goods and Services Tax department. The airline has received a penalty of Rs 458.26 crore for financial years 2018-19 to 2022-23. IndiGo believes these orders are incorrect and plans to contest them legally. A separate order for Rs 14.59 lakh was also received for financial year 2021-22.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "988a21093a2fa8a2",
-      "source": "ET - Stocks",
-      "title": "Eicher Motors Share Price Highlights: Eicher Motors Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-31-dec-2025/liveblog/126262657.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:15:04 +0530",
-      "published_utc": "2025-12-31T02:45:04Z",
-      "published_ist": "31-Dec-2025 08:15 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "008d20f6ca3d48dc",
-      "source": "ET - Stocks",
-      "title": "IndusInd Bank Share Price Highlights: IndusInd Bank Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-livestock-price-today-live-updates-31-dec-2025/liveblog/126262596.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:08:56 +0530",
-      "published_utc": "2025-12-31T02:38:56Z",
-      "published_ist": "31-Dec-2025 08:08 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "bec8e9549dc2636a",
-      "source": "ET - Stocks",
-      "title": "Bajaj Auto Share Price Highlights: Bajaj Auto Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-livestock-price-today-live-updates-31-dec-2025/liveblog/126262587.cms",
-      "published_raw": "Wed, 31 Dec 2025 08:08:27 +0530",
-      "published_utc": "2025-12-31T02:38:27Z",
-      "published_ist": "31-Dec-2025 08:08 IST",
-      "summary": null,
       "likely_india_equity": false
     },
     {
@@ -4073,17 +4271,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "4f7d9d49da7575a5",
-      "source": "ET - Industry",
-      "title": "Zoomer at the centre of entertainment’s next major act",
-      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/zoomer-at-the-centre-of-entertainments-next-major-act/articleshow/126247178.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "Gen Z is reshaping content, commerce, and creativity by demanding interactive, creator-led ecosystems and micro-payment models. Their preference for gaming, short-form storytelling, and blending of formats drives platforms to innovate. This generation actively participates, creates, and monetizes, transforming content into a dynamic social and commercial loop.",
-      "likely_india_equity": false
-    },
-    {
       "id": "2b79c173b0553690",
       "source": "ET - Industry",
       "title": "Zomato, Swiggy delivery workers’ December 31 strike pushes brands to stock up",
@@ -4092,72 +4279,6 @@
       "published_utc": "2025-12-30T23:30:00Z",
       "published_ist": "31-Dec-2025 05:00 IST",
       "summary": "As delivery gig workers plan a New Year's Eve strike over pay and safety, packaged goods companies are increasing stock in kirana stores and supermarkets. Restaurant chains are promoting their own apps and partnering with unaffected logistics providers to mitigate potential delivery disruptions.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "7491522aa8de1cdc",
-      "source": "ET - Industry",
-      "title": "This Gen sets eyes on a green future",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/this-gen-sets-eyes-on-a-green-future/articleshow/126252908.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "India's Gen Z, shaped by economic growth and digital access, approaches environmental issues with a solution-oriented mindset.  With parental economic security and a focus on capital markets, they prioritize sustainability, viewing environmental impacts as problems to solve. This generation sees climate and environment not just as concerns but as career opportunities, driving a surge in green job demand across India.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "848c65ae6f4899b4",
-      "source": "ET - Industry",
-      "title": "Swipe, save, invest: Banking on the move, the Zoomer way",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/swipe-save-invest-banking-on-the-move-the-zoomer-way/articleshow/126248487.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "Gen Z is redefining banking, prioritizing mobile apps and UPI for all financial needs over traditional branches. Banks are adapting, with a significant portion of new digital customers being Gen Z, who seek speed, simplicity, and seamless experiences. This digital-first mindset is also influencing insurance, with a demand for instant, controllable products.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "043551ee42376e08",
-      "source": "ET - Industry",
-      "title": "Run, rave, repeat! Wellness turns social for Gen Z",
-      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/run-rave-repeat-wellness-turns-social-for-gen-z/articleshow/126247830.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "Gen Z embraces wellness through social activities like pickleball and dance workouts. Brands are set to sponsor these events in 2026.  Physical wellness is now a social identity.  Gen Z is also choosing low and no-alcohol drinks.  This zero-proof trend will continue.  Non-alcoholic cocktails are emerging for social settings.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "af56ecd4811666de",
-      "source": "ET - Industry",
-      "title": "No weight &amp; watch approach in Gen Z’s main weightloss plan",
-      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/no-weight-watch-approach-in-gen-zs-main-weightloss-plan/articleshow/126253647.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "Young adults in their early 20s are increasingly seeking weight-loss drugs like Mounjaro for cosmetic reasons, despite not meeting medical criteria. Doctors report a rise in demand from Gen Z, with many practitioners prescribing these medications indiscriminately, even when diet and exercise would suffice.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "e056ba0da6ad14dc",
-      "source": "ET - Industry",
-      "title": "Matcha isn’t just a trend, it’s a vibe for Gen Zoomers",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/food/matcha-isnt-just-a-trend-its-a-vibe-for-gen-zoomers/articleshow/126252149.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "Matcha has evolved from a Gen Z treat to a full-blown identity, appealing to their desire for calm, quiet energy, and aesthetic appeal. This trend is reshaping the F&amp;B landscape, with brands like Starbucks and Got Tea adapting to cater to Gen Z's demand for personalized, visually engaging, and lifestyle-driven experiences.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f1295acfcfb165ea",
-      "source": "ET - Industry",
-      "title": "Lost in translation: Bollywood struggles to speak Gen Z lingo",
-      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/lost-in-translation-bollywood-struggles-to-speak-gen-z-lingo/articleshow/126246425.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "Bollywood is struggling to connect with Gen Z, who seek authentic, fresh storytelling over formulaic narratives. While this demographic enjoys diverse genres and theatrical experiences, mainstream Hindi cinema's current offerings often fail to resonate. Makers must adapt marketing and creative strategies to capture their attention.",
       "likely_india_equity": false
     },
     {
@@ -4202,28 +4323,6 @@
       "published_utc": "2025-12-30T23:30:00Z",
       "published_ist": "31-Dec-2025 05:00 IST",
       "summary": "Gen Z is revolutionizing the art market by embracing it as a lifestyle, prioritizing flexibility, transparency, and ethical relevance. They are driving the rise of young contemporary artists and regional voices, often starting with accessible price points and fractional ownership. The art world is adapting by leveraging social media and offering more approachable collecting experiences to engage this demographic.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "9d955737aff31a6a",
-      "source": "ET - Industry",
-      "title": "Gen Z stands at the heart of India’s big manufacturing pivot",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/gen-z-stands-at-the-heart-of-indias-big-manufacturing-pivot/articleshow/126246037.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "India's electronics and semiconductor manufacturing growth is poised to be driven by GenZ. This digital-native generation brings technical fluency and an appetite for innovation, transforming the sector from assembly to invention. Industry leaders believe GenZ's comfort with advanced tools and their questioning nature will propel India to become a global hub for high-value manufacturing and chip design.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "6f4c5678f0d248c6",
-      "source": "ET - Industry",
-      "title": "From clubbing to kirtan, Gen Z find a new groove in bhajan raves",
-      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/from-clubbing-to-kirtan-gen-z-find-a-new-groove-in-bhajan-raves/articleshow/126256857.cms",
-      "published_raw": "Wed, 31 Dec 2025 05:00:00 +0530",
-      "published_utc": "2025-12-30T23:30:00Z",
-      "published_ist": "31-Dec-2025 05:00 IST",
-      "summary": "Gen Z is embracing a new nightlife trend, opting for bhajan-led community gatherings and kirtan EDM over traditional clubbing. This sober social movement is gaining significant traction, with ticketed devotional nights selling out and searches for related terms skyrocketing. Organizers anticipate this spiritual-social format to become mainstream by 2026.",
       "likely_india_equity": false
     },
     {
@@ -4400,17 +4499,6 @@
       "published_utc": "2025-12-30T20:18:05Z",
       "published_ist": "31-Dec-2025 01:48 IST",
       "summary": "Warner Bros. Discovery Inc. plans to once again reject a takeover bid from Paramount Skydance Corp. after the rival media company amended the terms of its offer, according to people familiar with the company’s thinking.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "02c1c5db81e94475",
-      "source": "ET - Industry",
-      "title": "Insurance penetration remained unchanged in 2025, at about half of global average",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/insure/life-insurance-penetration-remained-unchanged-in-2025-at-about-half-of-global-average-irdai-health-premium/articleshow/126259232.cms",
-      "published_raw": "Wed, 31 Dec 2025 01:00:36 +0530",
-      "published_utc": "2025-12-30T19:30:36Z",
-      "published_ist": "31-Dec-2025 01:00 IST",
-      "summary": "Indian insurance penetration stays at 3.7 percent, lagging behind the global average. Life insurance penetration saw a slight dip, while non-life insurance remained steady. Insurance density, however, increased to 97 dollars per person. Experts predict a period of adjustment for the sector due to new regulations. Life insurance premiums are expected to grow moderately before a stronger recovery.",
       "likely_india_equity": false
     },
     {
@@ -6625,17 +6713,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "8044da75fe05a34a",
-      "source": "ET - Economy",
-      "title": "Rabi crop area rises marginally; wheat sowing flat: Govt data",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/rabi-crop-area-rises-marginally-wheat-sowing-flat-govt-data/articleshow/126232498.cms",
-      "published_raw": "Mon, 29 Dec 2025 18:02:54 +0530",
-      "published_utc": "2025-12-29T12:32:54Z",
-      "published_ist": "29-Dec-2025 18:02 IST",
-      "summary": "Wheat planting for the 2024-25 rabi season shows little change. Area for pulses and oilseeds has seen a slight increase. Rice sowing is up marginally. Chickpea, lentil, and green gram sowing have exceeded last year's figures. Overall rabi crop area has grown compared to the previous year. Planting is nearing completion.",
-      "likely_india_equity": false
-    },
-    {
       "id": "7a58805d5587fd7d",
       "source": "BusinessLine - Economy",
       "title": "Kashmir’s digital economy revives as internet shutdowns fall",
@@ -6845,17 +6922,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "447746803b3c1aad",
-      "source": "ET - Economy",
-      "title": "India’s industrial production hits two-year high with 6.7% growth in November",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-iip-november-2025-industrial-production-manufacturing-output-automobile-gst-digital-payments-petroleum-pmi-trade/articleshow/126230071.cms",
-      "published_raw": "Mon, 29 Dec 2025 16:06:07 +0530",
-      "published_utc": "2025-12-29T10:36:07Z",
-      "published_ist": "29-Dec-2025 16:06 IST",
-      "summary": "India's industrial output surged 6.7% year-on-year in November 2025, a significant rebound from October's slowdown. Manufacturing, particularly basic metals, pharmaceuticals, and motor vehicles, drove this recovery. Mining also saw a boost, though electricity generation contracted slightly.",
-      "likely_india_equity": false
-    },
-    {
       "id": "c5b5b6dc34f8277f",
       "source": "BusinessLine - Markets",
       "title": "Rupee falls 8 paise to close at 89.98 against US dollar",
@@ -6908,17 +6974,6 @@
       "published_utc": "2025-12-29T10:19:57Z",
       "published_ist": "29-Dec-2025 15:49 IST",
       "summary": "Traders said that tea arrivals witnessed a drop in the auction platform due to winter, hindering plucking in tea gardens",
-      "likely_india_equity": false
-    },
-    {
-      "id": "485bd55146413985",
-      "source": "ET - Economy",
-      "title": "India says it has overtaken Japan to become world’s fourth-largest economy, eyes Germany",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/2025-turns-into-a-goldilocks-year-for-indias-economy-govt/articleshow/126229175.cms",
-      "published_raw": "Mon, 29 Dec 2025 15:38:54 +0530",
-      "published_utc": "2025-12-29T10:08:54Z",
-      "published_ist": "29-Dec-2025 15:38 IST",
-      "summary": "India has ascended to become the fourth-largest economy globally, eclipsing Japan. Predictions indicate that within just three years, India will likely surpass Germany. Key economic metrics reveal robust growth in production, job creation, pricing stability, and trade activity.",
       "likely_india_equity": false
     },
     {
@@ -7186,17 +7241,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "abacef52934b156c",
-      "source": "BusinessLine - Economy",
-      "title": "IndiGo cancels 80 flights across network on account of bad weather conditions",
-      "link": "https://www.thehindubusinessline.com/economy/logistics/indigo-cancels-80-flights-across-network-on-account-of-bad-weather-conditions/article70448683.ece",
-      "published_raw": "Mon, 29 Dec 2025 12:23:26 +0530",
-      "published_utc": "2025-12-29T06:53:26Z",
-      "published_ist": "29-Dec-2025 12:23 IST",
-      "summary": "Half of these 80 cancelled flights are from Delhi airport, which earlier issued a passenger advisory stating that flight operations from its facility were being carried out under low visibility conditions",
-      "likely_india_equity": false
-    },
-    {
       "id": "985eef2acca59cac",
       "source": "BusinessLine - Markets",
       "title": "Ola Electric shares dip despite ₹367 crore PLI incentive approval",
@@ -7205,17 +7249,6 @@
       "published_utc": "2025-12-29T06:45:26Z",
       "published_ist": "29-Dec-2025 12:15 IST",
       "summary": "The stock opened at ₹36.37 and touched a high of ₹36.43 before declining to an intraday low of ₹35.62",
-      "likely_india_equity": false
-    },
-    {
-      "id": "314c91d30d676a62",
-      "source": "BusinessLine - Economy",
-      "title": "Indian cardamom prices surge in 2025 as output and exports rise",
-      "link": "https://www.thehindubusinessline.com/economy/agri-business/indian-cardamom-prices-surge-in-2025-as-output-and-exports-rise/article70448590.ece",
-      "published_raw": "Mon, 29 Dec 2025 12:15:19 +0530",
-      "published_utc": "2025-12-29T06:45:19Z",
-      "published_ist": "29-Dec-2025 12:15 IST",
-      "summary": "The outlook for next year is optimistic, as attractive prices encourage growers to maintain their plantations",
       "likely_india_equity": false
     },
     {
@@ -7450,17 +7483,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "93a53e43e9421a36",
-      "source": "BusinessLine - Markets",
-      "title": "Ola, Coforge, Adani Enterprises among 10 stocks to watch on December 29",
-      "link": "https://www.thehindubusinessline.com/markets/ola-coforge-adani-enterprises-among-10-stocks-to-watch-on-december-29/article70447072.ece",
-      "published_raw": "Mon, 29 Dec 2025 07:13:11 +0530",
-      "published_utc": "2025-12-29T01:43:11Z",
-      "published_ist": "29-Dec-2025 07:13 IST",
-      "summary": "Investigation, expansion moves, order win, acquisition plans are major triggers",
-      "likely_india_equity": false
-    },
-    {
       "id": "20f9d7b2920a1c0d",
       "source": "LiveMint - Opinion",
       "title": "Mint Quick Edit | A slump in the profits of China’s big industrial firms is a fresh sign that its economy is weakening",
@@ -7480,17 +7502,6 @@
       "published_utc": "2025-12-29T01:18:00Z",
       "published_ist": "29-Dec-2025 06:48 IST",
       "summary": "With appropriate regulatory changes, derivative funds can give a chance to cut direct retail exposure to F&amp;O while enabling NSE to keep price efficiency sans substantial decline in trading volumes",
-      "likely_india_equity": true
-    },
-    {
-      "id": "36a93dcacb59804b",
-      "source": "BusinessLine - Markets",
-      "title": "Stock Market Highlights 29 Dec 2025: Sensex sheds 346 pts, declines for 4th day on foreign fund outflows, thin year-end trading",
-      "link": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-29th-december-2025/article70445922.ece",
-      "published_raw": "Mon, 29 Dec 2025 06:45:33 +0530",
-      "published_utc": "2025-12-29T01:15:33Z",
-      "published_ist": "29-Dec-2025 06:45 IST",
-      "summary": "Sensex, Nifty, Share Prices Highlights: Benchmark stock indices Sensex and Nifty closed lower on Monday due to selling in oil & gas and IT shares, foreign fund outflows and thin year-end trading.\n\nExtending the downtrend to the fourth day running, the 30-share BSE Sensex declined by 345.91 points or 0.41 per cent to settle at 84,695.54. During the day, it dropped 403.59 points or 0.47 per cent to 84,637.86.\n\nRegistering its third day of decline, the 50-share NSE Nifty edged lower by 100.20 points or 0.38 per cent to 25,942.10.\n\nFrom the 30-Sensex firms, Adani Ports, HCL Tech, Power Grid, Trent",
       "likely_india_equity": true
     },
     {
@@ -7648,17 +7659,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "58f1601de5aed0b7",
-      "source": "BusinessLine - Markets",
-      "title": "2025 was more about execution than new rules, says COO of Kotak Securities",
-      "link": "https://www.thehindubusinessline.com/markets/2025-was-more-about-execution-than-new-rules-says-coo-of-kotak-securities/article70446207.ece",
-      "published_raw": "Sun, 28 Dec 2025 18:06:47 +0530",
-      "published_utc": "2025-12-28T12:36:47Z",
-      "published_ist": "28-Dec-2025 18:06 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
       "id": "2fb4fbcbd038e130",
       "source": "LiveMint - Economy",
       "title": "Mint Explainer | How the advance tipping ban could change ride-hailing bookings",
@@ -7681,8 +7681,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "f4351c9620d4114c",
-      "source": "BusinessLine - Markets",
+      "id": "b2b3fbadbffe216e",
+      "source": "BusinessLine - Money & Banking",
       "title": "SEBI walks a fine line in 2025 on ease of doing business and tough enforcement",
       "link": "https://www.thehindubusinessline.com/markets/sebi-walks-a-fine-line-in-2025-on-ease-of-doing-business-and-tough-enforcement/article70446039.ece",
       "published_raw": "Sun, 28 Dec 2025 16:53:37 +0530",
@@ -8231,17 +8231,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "bfe6bc84a1c7808d",
-      "source": "LiveMint - Industry",
-      "title": "India rolls out first dedicated standard for incense sticks amid global scrutiny",
-      "link": "https://www.livemint.com/industry/india-rolls-out-first-dedicated-standard-for-incense-sticks-amid-global-scrutiny-bans-harmful-chemicals-health-risks-11766753736719.html",
-      "published_raw": "Fri, 26 Dec 2025 20:28:32 +0530",
-      "published_utc": "2025-12-26T14:58:32Z",
-      "published_ist": "26-Dec-2025 20:28 IST",
-      "summary": "This move aims to protect domestic air quality while insulating India’s  ₹8,000 crore industry—the world’s largest—from rising non-tariff barriers and import rejections in markets like Europe and US.",
-      "likely_india_equity": false
-    },
-    {
       "id": "be6297de526f9e0e",
       "source": "BusinessLine - Companies",
       "title": "New-age player EKA Mobility builds market share in India’s electric bus segment",
@@ -8756,17 +8745,6 @@
       "published_utc": "2025-12-25T11:02:18Z",
       "published_ist": "25-Dec-2025 16:32 IST",
       "summary": "As Berger seeks to enhance its dealer presence in key southern markets, CEO Abhijit Roy outlines a strategic focus on urban areas and applicator partnerships to drive significant growth and tackle historical distribution challenges",
-      "likely_india_equity": false
-    },
-    {
-      "id": "e2edfa134e636cbd",
-      "source": "LiveMint - Opinion",
-      "title": "Why a look-back at 2025 is a dispiriting exercise: Anxiety, populism and technology tested our faith in the future",
-      "link": "https://www.livemint.com/opinion/online-views/lookback-2025-anxiety-populism-technology-faith-future-post-war-liberal-world-order-survival-green-shoots-politics-war-11766477641504.html",
-      "published_raw": "Thu, 25 Dec 2025 16:00:21 +0530",
-      "published_utc": "2025-12-25T10:30:21Z",
-      "published_ist": "25-Dec-2025 16:00 IST",
-      "summary": "Will the post-war liberal world order survive? Developments over the past year have been disheartening. What Isaiah Berlin called the ‘crooked timbre’ of humanity seems to be our big challenge. There’s always hope, thankfully. Dawn must follow darkness and every crack could let in light.",
       "likely_india_equity": false
     },
     {
@@ -10068,17 +10046,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "f12f1ad26b4f47e5",
-      "source": "BusinessLine - Money & Banking",
-      "title": "LIC says proposed changes to ‘Sabka Bima Sabki Raksha’ Bill will strengthen its reach, leverage technology at scale",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/lic-says-proposed-changes-to-sabka-bima-sabki-raksha-bill-will-strengthen-its-reach-leverage-technology-at-scale/article70412152.ece",
-      "published_raw": "Thu, 18 Dec 2025 20:28:14 +0530",
-      "published_utc": "2025-12-18T14:58:14Z",
-      "published_ist": "18-Dec-2025 20:28 IST",
-      "summary": "LIC noted that the Bill addresses the need for a modern, flexible, and inclusive regulatory architecture aligned with the country’s long-term development priorities.",
-      "likely_india_equity": false
-    },
-    {
       "id": "5de5257f1d0c4028",
       "source": "The Hindu - Industry",
       "title": "Total crude processed in November up 2.3% YoY",
@@ -10098,17 +10065,6 @@
       "published_utc": "2025-12-18T13:53:04Z",
       "published_ist": "18-Dec-2025 19:23 IST",
       "summary": "The official, however, did not divulge details about the amendments that would be placed for consultation",
-      "likely_india_equity": false
-    },
-    {
-      "id": "bfbef4572e9aa802",
-      "source": "BusinessLine - Money & Banking",
-      "title": "UPI to be next engine of growth, says MobiKwik Co-founder",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/upi-to-be-next-engine-of-growth-says-mobikwik-co-founder/article70411913.ece",
-      "published_raw": "Thu, 18 Dec 2025 19:14:07 +0530",
-      "published_utc": "2025-12-18T13:44:07Z",
-      "published_ist": "18-Dec-2025 19:14 IST",
-      "summary": "We want to grow without cashback led activity, but organically, says Co-founder",
       "likely_india_equity": false
     },
     {
@@ -11454,17 +11410,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "99350b6762959a6d",
-      "source": "Moneycontrol - Economy",
-      "title": "Moneycontrol Pro Panorama | India at big club threshold",
-      "link": "https://www.moneycontrol.com/news/economy/moneycontrol-pro-panorama-|-india-at-big-club-threshold_17531931.html",
-      "published_raw": "Tue, 23 Apr 2024 16:33:27 +0530",
-      "published_utc": "2024-04-23T11:03:27Z",
-      "published_ist": "23-Apr-2024 16:33 IST",
-      "summary": " In today#39;s edition of Pro Panorama: Rupee#39;s resilience, economy on a strong footing, how to have a balance in energy mix and more",
-      "likely_india_equity": false
-    },
-    {
       "id": "30f53c82bd03520a",
       "source": "Moneycontrol - Buzzing Stocks",
       "title": "Gainers and Losers: 10 stocks that moved the most on April 23",
@@ -11528,28 +11473,6 @@
       "published_utc": "2024-04-23T08:06:44Z",
       "published_ist": "23-Apr-2024 13:36 IST",
       "summary": " Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ae7b45e45b9d244b",
-      "source": "Moneycontrol - Economy",
-      "title": "India#39;s sugar demand surges in heat wave and election season",
-      "link": "https://www.moneycontrol.com/news/economy/india39s-sugar-demand-surgesheat-waveelection-season_17531591.html",
-      "published_raw": "Tue, 23 Apr 2024 13:33:42 +0530",
-      "published_utc": "2024-04-23T08:03:42Z",
-      "published_ist": "23-Apr-2024 13:33 IST",
-      "summary": " Higher consumption would lift local prices and boost margins of sugar producers such as Balrampur Chini, Shree Renuka Sugars, Bajaj Hindusthan, and Dwarikesh Sugar and help them in making cane payments on time to farmers.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "d6aa883cf044b0f9",
-      "source": "Moneycontrol - Economy",
-      "title": "India#39;s sugar demand surges in heat wave and election season",
-      "link": "https://www.moneycontrol.com/news/economy/india39s-sugar-demand-surgesheat-waveelection-season_17531601.html",
-      "published_raw": "Tue, 23 Apr 2024 13:33:42 +0530",
-      "published_utc": "2024-04-23T08:03:42Z",
-      "published_ist": "23-Apr-2024 13:33 IST",
-      "summary": " Higher consumption would lift local prices and boost margins of sugar producers such as Balrampur Chini, Shree Renuka Sugars, Bajaj Hindusthan, and Dwarikesh Sugar and help them in making cane payments on time to farmers.",
       "likely_india_equity": false
     },
     {
@@ -11682,17 +11605,6 @@
       "published_utc": "2024-04-23T06:16:43Z",
       "published_ist": "23-Apr-2024 11:46 IST",
       "summary": " ICICI Securities is bullish on Hatsun Agro Products recommended buy rating on the stock with a target price of Rs 1190 in its research report dated April 23, 2024.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "74ce3553b08f2047",
-      "source": "Moneycontrol - Economy",
-      "title": "India’s Composite Flash PMI for April signals very strong economy",
-      "link": "https://www.moneycontrol.com/news/economy/india’s-composite-flash-pmi-for-april-signals-very-strong-economy_17531301.html",
-      "published_raw": "Tue, 23 Apr 2024 11:07:37 +0530",
-      "published_utc": "2024-04-23T05:37:37Z",
-      "published_ist": "23-Apr-2024 11:07 IST",
-      "summary": " The increasing momentum provides a fundamental basis to the optimism in the Indian equity market",
       "likely_india_equity": false
     },
     {
