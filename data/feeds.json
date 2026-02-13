@@ -1,358 +1,919 @@
 {
-  "generated_utc": "2026-02-13T03:57:24Z",
+  "generated_utc": "2026-02-13T05:26:07Z",
   "count": 1215,
   "items": [
     {
-      "id": "9dcd488a4d228352",
+      "id": "ec9be9a24feecb78",
+      "source": "BusinessLine - Companies",
+      "title": "Indian Hotels shares fall 3% despite strong quarterly performance",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/indian-hotels-shares-fall-3-despite-strong-quarterly-performance/article70627156.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:47:13 +0530",
+      "published_utc": "2026-02-13T05:17:13Z",
+      "published_ist": "13-Feb-2026 10:47 IST",
+      "summary": "Brokerages maintain largely positive outlooks on stock",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0e9a5a22ac1ec144",
+      "source": "The Hindu - Business",
+      "title": "Markets tank over 1% in early trade; IT stocks lead the fall",
+      "link": "https://www.thehindu.com/business/markets/markets-tank-in-early-trade-it-stocks-february-13-2026/article70627160.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:47:01 +0530",
+      "published_utc": "2026-02-13T05:17:01Z",
+      "published_ist": "13-Feb-2026 10:47 IST",
+      "summary": "Bajaj Finance, HDFC Bank and Bharti Airtel were the only gainers",
+      "likely_india_equity": true
+    },
+    {
+      "id": "eef2b239944ded41",
+      "source": "ET - Industry",
+      "title": "Apple to open 6th store in India at Borivali on Feb 26",
+      "link": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-to-open-6th-store-in-india-at-borivali-on-feb-26/articleshow/128289619.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:40:07 +0530",
+      "published_utc": "2026-02-13T05:10:07Z",
+      "published_ist": "13-Feb-2026 10:40 IST",
+      "summary": "Apple is set to launch its sixth Indian store, Apple Borivali, in Mumbai on Thursday, February 26. This marks the tech giant's second Mumbai location and features a peacock-inspired design, mirroring recent openings in Bengaluru, Pune, and Noida. The new store aims to cater to the burgeoning startup and business community in the area.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ef56e69da53a1945",
+      "source": "BusinessLine - Markets",
+      "title": "Honasa Consumer surges 3.6% as brokerages raise targets on strong Q3 show",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/honasa-consumer-surges-36-as-brokerages-raise-targets-on-strong-q3-show/article70627126.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:35:38 +0530",
+      "published_utc": "2026-02-13T05:05:38Z",
+      "published_ist": "13-Feb-2026 10:35 IST",
+      "summary": "Honasa Consumer reported revenue of ₹602 crore in Q3 FY26, up 16.2% year-on-year, with net profit nearly doubling to ₹50 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "4ce8ce5c44dbc5f0",
+      "source": "Business Standard - Markets",
+      "title": "India's growth potential not reflected in foreign allocations: Amundi",
+      "link": "https://www.business-standard.com/markets/news/india-s-growth-potential-not-reflected-in-foreign-allocations-amundi-126021300477_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:35:14 +0530",
+      "published_utc": "2026-02-13T05:05:14Z",
+      "published_ist": "13-Feb-2026 10:35 IST",
+      "summary": "Foreign investors net sold nearly $23 billion of Indian stocks between January 2025 and 2026, pushing allocations to the country to decadal lows",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7c99f5f668cb7ce6",
+      "source": "ET - Stocks",
+      "title": "The rupee after a 6-month-long storm: trade relief, fresh hope, old constraints",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-rupee-after-a-6-month-long-storm-trade-relief-fresh-hope-old-constraints/articleshow/128289278.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:35:10 +0530",
+      "published_utc": "2026-02-13T05:05:10Z",
+      "published_ist": "13-Feb-2026 10:35 IST",
+      "summary": "The rupee’s six-month slide, driven by U.S. tariffs and policy uncertainty, reversed sharply after signals of a friendlier trade deal. While improved sentiment, sectoral gains, and potential foreign inflows offer support, unresolved agreement details, oil dynamics, gold prices, and RBI positioning ensure USD/INR remains volatile, with risks still tilted toward weakness in 2026.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "c498b6f32028b162",
+      "source": "Business Standard - Markets",
+      "title": "Novelix Pharmaceuticals board approves allotment of 23.20 lakh equity shares",
+      "link": "https://www.business-standard.com/markets/capital-market-news/novelix-pharmaceuticals-board-approves-allotment-of-23-20-lakh-equity-shares-126021300509_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:32:44 +0530",
+      "published_utc": "2026-02-13T05:02:44Z",
+      "published_ist": "13-Feb-2026 10:32 IST",
+      "summary": "At meeting held on 12 February 2026",
+      "likely_india_equity": false
+    },
+    {
+      "id": "4e2c02bc216f0e14",
+      "source": "Business Standard - Markets",
+      "title": "Hexaware Technologies announces strategic partnership with CareInsight",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hexaware-technologies-announces-strategic-partnership-with-careinsight-126021300508_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:32:36 +0530",
+      "published_utc": "2026-02-13T05:02:36Z",
+      "published_ist": "13-Feb-2026 10:32 IST",
+      "summary": "Hexaware Technologies announced a strategic partnership with CareInsight, an AI-native healthcare technology company. The collaboration brings together AI-native healthcare platforms and deep AI and digital transformation expertise to deliver outcome-based, production-grade AI at scale for healthcare organizations, focused on measurable improvements in operations, decision-making, and care delivery.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d29cb1bf07f7aa82",
+      "source": "BusinessLine - Markets",
+      "title": "Stock Market Live: Sensex falls over 800 points, Nifty near 25,550 as IT stocks reel under AI concerns",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-live-updates-february-13-2026/article70624278.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:32:05 +0530",
+      "published_utc": "2026-02-13T05:02:05Z",
+      "published_ist": "13-Feb-2026 10:32 IST",
+      "summary": "Sensex, Nifty live updates Feb 13: Indian benchmark indices, Sensex and Nifty, trade sharply lower, as selling in IT stocks continues amid concerns over AI-led disruption. At 10.25 a.m., the BSE Sensex is trading 828 points down at 82,846, while the NSE Nifty fell 266 points to trade at 25,555.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "c1ab3cb651e93d26",
+      "source": "Business Standard - Markets",
+      "title": "Sensex falls 900 pts, Nifty below 25,600: Why are markets falling today?",
+      "link": "https://www.business-standard.com/markets/news/sensex-falls-900-pts-nifty-below-25-600-why-are-stock-markets-falling-today-126021300512_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:32:05 +0530",
+      "published_utc": "2026-02-13T05:02:05Z",
+      "published_ist": "13-Feb-2026 10:32 IST",
+      "summary": "The BSE Sensex tumbled 903 points in the intraday to hit a low of 82,771.775, and the NSE Nifty50 also slipped below the 25,550 mark in the intraday to hit a low of 25,525",
+      "likely_india_equity": true
+    },
+    {
+      "id": "68f9a480feda5e51",
+      "source": "Business Standard - Markets",
+      "title": "NSE trading accounts cross 25 crore; unique investors at 12.7 crore",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nse-trading-accounts-cross-25-crore-unique-investors-at-12-7-crore-126021300501_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:31:58 +0530",
+      "published_utc": "2026-02-13T05:01:58Z",
+      "published_ist": "13-Feb-2026 10:31 IST",
+      "summary": "The exchange said the most recent one crore accounts were added in just two months, reflecting an accelerated pace of market participation. The last five crore accounts, representing 20% of the total, were added over the past 16 months.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "54b79ab9f7dccb67",
+      "source": "Business Standard - Markets",
+      "title": "IRCTC Q3 PAT climbs 16% YoY to Rs 394 cr",
+      "link": "https://www.business-standard.com/markets/capital-market-news/irctc-q3-pat-climbs-16-yoy-to-rs-394-cr-126021300500_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:31:51 +0530",
+      "published_utc": "2026-02-13T05:01:51Z",
+      "published_ist": "13-Feb-2026 10:31 IST",
+      "summary": "Indian Railway Catering & Tourism Corporation (IRCTC) reported a 15.61% jump in consolidated net profit to Rs 394.33 crore, while revenue from operations rose 18.35% to Rs 1,449.47 crore in Q3 FY26 over Q3 FY25.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c88ec44f2c55f49b",
+      "source": "The Hindu - Business",
+      "title": "Apple to open its sixth India store at Borivali, Mumbai",
+      "link": "https://www.thehindu.com/business/Industry/apple-to-open-its-sixth-india-store-at-borivali-mumbai/article70627112.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:29:51 +0530",
+      "published_utc": "2026-02-13T04:59:51Z",
+      "published_ist": "13-Feb-2026 10:29 IST",
+      "summary": "Featuring the distinctive peacock-inspired visual identity first introduced at the September 2025 openings of Apple Hebbal in Bengaluru, the design signals confidence, detail, and a sense of arrival, seen through Apple’s lens of creativity",
+      "likely_india_equity": false
+    },
+    {
+      "id": "bb31eda80f284832",
+      "source": "BusinessLine - Markets",
+      "title": "Q3 Results Today Live: Torrent Pharma, Siemens Energy, Alkem Lab, Fortis Healthcare, Ipca Lab, KFin Tech, Azad Engineering, Shakti Pumps to announce Q3 results, HAL, HUL, Hindalco, ONGC, IRCTC, Coal India, Lupin, Muthoot, Vedant Fashions, Biocon shares in focus",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/q3-results-today-live-updates-torrent-pharma-siemens-alkem-fortis-ipca-lab-kfin-tech-nbcc-ce-infosystems-azad-engineering-shakti-pumps-hal-hul-ongc-irctc-results-13-feb-2026/article70627012.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:27:39 +0530",
+      "published_utc": "2026-02-13T04:57:39Z",
+      "published_ist": "13-Feb-2026 10:27 IST",
+      "summary": "Q3 Results Today, 13th Feb 2026 Live Updates: Find all the latest Q3 results 2026 updates",
+      "likely_india_equity": false
+    },
+    {
+      "id": "576f6a0be2b0e563",
+      "source": "ET - Markets",
+      "title": "Muthoot Finance shares plunge 14% despite Q3 net profit soaring 95%. Here’s what Jefferies, CLSA are saying",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-shares-plunge-14-despite-q3-net-profit-soaring-95-heres-what-jefferies-clsa-are-saying/articleshow/128289061.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:27:29 +0530",
+      "published_utc": "2026-02-13T04:57:29Z",
+      "published_ist": "13-Feb-2026 10:27 IST",
+      "summary": "Muthoot Finance shares saw a significant drop despite a sharp rise in third-quarter earnings. The company reported nearly doubled net profit and a substantial increase in total income and assets under management. Analysts from Jefferies, CLSA, and Nuvama have maintained positive ratings, citing strong performance and growth prospects.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "cf45a4caecbcbf40",
+      "source": "LiveMint - Markets",
+      "title": "Dalal Street rallies on trade relief, but investors still cautious: Mint survey",
+      "link": "https://www.livemint.com/market/stock-market-news/dalal-street-india-us-trade-deal-investors-cautious-mint-survey-gold-silver-fpi-earnings-outlook-11770891699023.html",
+      "published_raw": "Fri, 13 Feb 2026 10:27:00 +0530",
+      "published_utc": "2026-02-13T04:57:00Z",
+      "published_ist": "13-Feb-2026 10:27 IST",
+      "summary": "Against the backdrop of the US-India trade deal,&amp;nbsp;Mint’s sixth quarterly market survey pins down a pivotal shift in sentiment, answering the questions that are currently defining the market's trajectory.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "8d07df1d541d8b79",
+      "source": "Business Standard - Economy",
+      "title": "India's taxpayer base doubled to 12 cr in 11 yrs, middle class expands: FM",
+      "link": "https://www.business-standard.com/finance/personal-finance/india-s-taxpayer-base-doubled-to-12-cr-in-11-yrs-middle-class-expands-fm-126021300493_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:26:49 +0530",
+      "published_utc": "2026-02-13T04:56:49Z",
+      "published_ist": "13-Feb-2026 10:26 IST",
+      "summary": "\"So, the economy is no longer narrow, and it's not just confined to the elite. The middle-class basket is widening. Between 2013-14 and 2024-25, the number of taxpayers, that is, people filing returns",
+      "likely_india_equity": false
+    },
+    {
+      "id": "56457f90c9d47cbd",
+      "source": "ET - Industry",
+      "title": "Facing pressures at home, UK universities set up in India",
+      "link": "https://economictimes.indiatimes.com/industry/services/education/facing-pressures-at-home-uk-universities-set-up-in-india/articleshow/128289758.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:26:21 +0530",
+      "published_utc": "2026-02-13T04:56:21Z",
+      "published_ist": "13-Feb-2026 10:26 IST",
+      "summary": "British universities are opening campuses in India. This move aims to reach students in a rapidly growing market. It also helps UK institutions diversify income. India's new rules allow top foreign universities to operate. This expansion offers more choices for Indian students. It is a significant development in international education.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "1544886253a76826",
+      "source": "LiveMint - Markets",
+      "title": "Stocks to buy: Rajesh Palviya of Axis Sec suggests Precision Wires, Max Financial Services, Sundaram Finance share today",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-rajesh-palviya-of-axis-sec-suggests-precision-wires-max-financial-services-sundaram-finance-share-today-11770957242619.html",
+      "published_raw": "Fri, 13 Feb 2026 10:23:53 +0530",
+      "published_utc": "2026-02-13T04:53:53Z",
+      "published_ist": "13-Feb-2026 10:23 IST",
+      "summary": "Domestic benchmark indices opened lower amid concerns over AI disruption in tech stocks, with Nifty 50 down 1.10% and Sensex down 1.01%. All major sectors declined, particularly IT, which fell 5.5%. Investors are advised to consider buying on dips.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "b685b196ecfccd8c",
       "source": "Zee Business - Latest",
-      "title": "Stock Market Opening Bell: BSE Sensex opens lower by 772 points, Nifty falls below 25,600 -  IT, metals, FMCG top drags",
+      "title": "Nifty IT Crash: Top 10 tech firms including TCS, Infosys, Wipro bleed Rs 1.68 lakh crore in mcap – Should you buy dip?",
+      "link": "https://www.zeebiz.com/market-news/news-nifty-it-crash-top-10-tech-firms-including-tcs-infosys-wipro-bleed-rs-168-lakh-crore-in-mcap-should-you-buy-dip-390411",
+      "published_raw": "Fri, 13 Feb 2026 10:23:53 +0530",
+      "published_utc": "2026-02-13T04:53:53Z",
+      "published_ist": "13-Feb-2026 10:23 IST",
+      "summary": "IT stocks saw heavy selling on Friday, with the Nifty IT falling 4.77 per cent to 31,580.05. Infosys dropped 6.12 per cent to 1,301.20, while Coforge declined 5.59 per cent to 1,342.00. TCS fell 4.79 per cent to 2,618.40, and HCL Technologies slipped 4.48 per cent to 1,410.00. Wipro, LTIMindtree, Persistent Systems, Mphasis and Tech Mahindra also traded lower.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "0dabc665e292b99b",
+      "source": "BusinessLine - Markets",
+      "title": "IRCTC shares up on Q3 earnings beat",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/irctc-shares-up-on-q3-earnings-beat/article70627063.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:23:21 +0530",
+      "published_utc": "2026-02-13T04:53:21Z",
+      "published_ist": "13-Feb-2026 10:23 IST",
+      "summary": "The railway services provider posted a consolidated net profit of ₹394.33 crore for the quarter ended December 2025, marking a year-on-year increase of 15.6 per cent from ₹341.08 crore in the corresponding quarter last year",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6231aea25d424d30",
+      "source": "BusinessLine - Markets",
+      "title": "Hindalco shares tank 6.5% as Q3 profit slides, brokerages weigh Novelis impact",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/hindalco-shares-tank-65-as-q3-profit-slides-brokerages-weigh-novelis-impact/article70627101.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:22:17 +0530",
+      "published_utc": "2026-02-13T04:52:17Z",
+      "published_ist": "13-Feb-2026 10:22 IST",
+      "summary": "The Aditya Birla Group company posted a consolidated net profit of ₹2,049 crore for the quarter, down 45% from ₹3,735 crore a year earlier",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c371cdc493470105",
+      "source": "BusinessLine - Markets",
+      "title": "Rupee falls 8 paise to 90.69 against US dollar in early trade",
+      "link": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-8-paise-to-9069-against-us-dollar-in-early-trade/article70627102.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:21:38 +0530",
+      "published_utc": "2026-02-13T04:51:38Z",
+      "published_ist": "13-Feb-2026 10:21 IST",
+      "summary": "At the interbank foreign exchange market, the rupee opened at 90.69 against the US dollar, registering a fall of 8 paise over its previous close.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "e373a917cf419721",
+      "source": "ET - Markets",
+      "title": "India at $5 trillion: Why insurance is key to sustaining the momentum",
+      "link": "https://economictimes.indiatimes.com/markets/market-moguls/india-at-5-trillion-why-insurance-is-key-to-sustaining-the-momentum/articleshow/128288970.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:21:37 +0530",
+      "published_utc": "2026-02-13T04:51:37Z",
+      "published_ist": "13-Feb-2026 10:21 IST",
+      "summary": "Insurance is becoming a silent backbone of India’s growth, shielding citizens from financial shocks and reinforcing freedoms beyond constitutional rights. By providing timely support and enabling faster recovery, insurance eases rising economic and climate-related risks. Stronger coverage for households, MSMEs, and gig workers is vital to building national resilience on the path to “Insurance for All by 2047.”",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7ec38e51ea6891bd",
+      "source": "ET - Markets",
+      "title": "India at $5 trillion: Why insurance is key to sustaining the momentum",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-at-5-trillion-why-insurance-is-key-to-sustaining-the-momentum/articleshow/128288745.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:21:37 +0530",
+      "published_utc": "2026-02-13T04:51:37Z",
+      "published_ist": "13-Feb-2026 10:21 IST",
+      "summary": "Insurance is becoming a silent backbone of India’s growth, shielding citizens from financial shocks and reinforcing freedoms beyond constitutional rights. By providing timely support and enabling faster recovery, insurance eases rising economic and climate-related risks. Stronger coverage for households, MSMEs, and gig workers is vital to building national resilience on the path to “Insurance for All by 2047.”",
+      "likely_india_equity": false
+    },
+    {
+      "id": "036f18f4283d3bc0",
+      "source": "The Hindu - Business",
+      "title": "Paytm ties up with Bharat Taxi to enable mobile payments",
+      "link": "https://www.thehindu.com/business/paytm-ties-up-with-bharat-taxito-enable-mobile-payments/article70624313.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:20:30 +0530",
+      "published_utc": "2026-02-13T04:50:30Z",
+      "published_ist": "13-Feb-2026 10:20 IST",
+      "summary": "Bharat Taxi is a ride-hailing platform built on a cooperative model and instead of charging commissions, the platform allows drivers to retain their full earnings from each ride, supporting greater transparency, fair income, and long-term financial stability",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7744bef98d748fac",
+      "source": "ET - Markets",
+      "title": "Smallcap index gains 6% in just 9 sessions! Is this the start of something big?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-index-gains-6-in-just-9-sessions-is-this-the-start-of-something-big/articleshow/128288772.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:19:27 +0530",
+      "published_utc": "2026-02-13T04:49:27Z",
+      "published_ist": "13-Feb-2026 10:19 IST",
+      "summary": "February 2026 marks a potential turning point for smallcap investors after a difficult 2025. A strong Q3 earnings season, coupled with a positive shift in global trade sentiment following India's trade deals with the US and EU, has fueled a rally. This suggests a potential broader recovery in the smallcap segment as valuations reset and foreign investor sentiment improves.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6c53b4f6ee280be2",
+      "source": "ET - Markets",
+      "title": "AI disruption, metal momentum and defence opportunity: Ajay Bagga maps the market landscape",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/ai-disruption-metal-momentum-and-defence-opportunity-ajay-bagga-maps-the-market-landscape/articleshow/128288833.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:19:05 +0530",
+      "published_utc": "2026-02-13T04:49:05Z",
+      "published_ist": "13-Feb-2026 10:19 IST",
+      "summary": "Market expert Ajay Bagga advises caution on Indian IT due to AI disruption, favoring a constructive view on metals and long-term optimism for defence and autos. He stresses differentiating short-term volatility from structural trends, highlighting AI's rapid evolution and the need for concrete IT use cases before investor confidence returns.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9e6c1906850f5d53",
+      "source": "Zee Business - Latest",
+      "title": "Bears Dominate Dalal Street! Sensex opens 772 points lower, Nifty dips below 25,600 – IT, metals, FMCG lead losses",
       "link": "https://www.zeebiz.com/market-news/news-stock-market-opening-bell-bse-sensex-opens-lower-by-772-points-nifty-falls-below-25600-it-metals-fmcg-top-drags-390412",
-      "published_raw": "Fri, 13 Feb 2026 09:24:35 +0530",
-      "published_utc": "2026-02-13T03:54:35Z",
-      "published_ist": "13-Feb-2026 09:24 IST",
+      "published_raw": "Fri, 13 Feb 2026 10:17:28 +0530",
+      "published_utc": "2026-02-13T04:47:28Z",
+      "published_ist": "13-Feb-2026 10:17 IST",
       "summary": "The Indian equity market opened lower on Friday, tracking weakness in IT, metal and FMCG stocks. The BSE Sensex opened at 82,902.73, down 772 points from the previous close of 83,674.92. The index touched an intraday high of 83,079.70 and a low of 82,846.85. The Nifty 50 opened at 25,597.55, down 210 points from its previous close of 25,807.20.",
       "likely_india_equity": true
     },
     {
-      "id": "3fa951cbbb239067",
+      "id": "e2fddae7e4c2a325",
       "source": "BusinessLine - Markets",
-      "title": "Stock Market Live: Sensex falls over 700 points, Nifty below 25,600 as IT stocks dragged by AI concerns",
-      "link": "https://www.thehindubusinessline.com/markets/stock-market-live-updates-february-13-2026/article70624278.ece",
-      "published_raw": "Fri, 13 Feb 2026 09:23:12 +0530",
-      "published_utc": "2026-02-13T03:53:12Z",
-      "published_ist": "13-Feb-2026 09:23 IST",
-      "summary": "Sensex, Nifty live updates Feb 13: Indian benchmark indices, the Sensex and Nifty, opened sharply lower on Thursday as selling in IT stocks continued amid AI-led disruption concerns. At 9:17 a.m., the BSE Sensex was down 744 points at 82,930, while the NSE Nifty fell 218 points to 25,588.",
+      "title": "TCS, Infy, HCL, Wipro, Coforge stocks crashes 5% on AI disruption fears",
+      "link": "https://www.thehindubusinessline.com/markets/it-stocks-crash-over-5-as-ai-disruption-fears-trigger-massive-sell-off/article70627084.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:16:41 +0530",
+      "published_utc": "2026-02-13T04:46:41Z",
+      "published_ist": "13-Feb-2026 10:16 IST",
+      "summary": "The Nifty IT index fell 4.72% to 31,594.70 in early trade, with Infosys leading the decline, down 6.11% to ₹1,301.30",
       "likely_india_equity": true
     },
     {
-      "id": "f25878bfc4f5ff13",
-      "source": "Business Standard - Markets",
-      "title": "Panache Digilife consolidated net profit rises 120.20% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/panache-digilife-consolidated-net-profit-rises-120-20-in-the-december-2025-quarter-126021300280_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:59 +0530",
-      "published_utc": "2026-02-13T03:50:59Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Sales rise 257.86% to Rs 74.47 crore",
+      "id": "c0e6962544cb48c7",
+      "source": "LiveMint - Companies",
+      "title": "Elon Musk's scathing attack on Anthropic as Claude-maker raises $30 billion — ‘Evil and misanthropic’",
+      "link": "https://www.livemint.com/companies/people/elon-musks-scathing-attack-on-anthropic-as-claude-maker-raises-30-billion-evil-and-misanthropic-11770954482477.html",
+      "published_raw": "Fri, 13 Feb 2026 10:16:06 +0530",
+      "published_utc": "2026-02-13T04:46:06Z",
+      "published_ist": "13-Feb-2026 10:16 IST",
+      "summary": "Elon Musk has previously been critical of Anthropic. His comments came on an X post shared by the company that it had secured $30 billion private capital in the latest financing round.",
       "likely_india_equity": false
     },
     {
-      "id": "10b08c9029d1e6a4",
-      "source": "Business Standard - Markets",
-      "title": "Travel Food Services consolidated net profit rises 35.75% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/travel-food-services-consolidated-net-profit-rises-35-75-in-the-december-2025-quarter-126021300276_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:51 +0530",
-      "published_utc": "2026-02-13T03:50:51Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Sales rise 11.03% to Rs 456.17 crore",
+      "id": "8888beaf6972c385",
+      "source": "ET - Markets",
+      "title": "Global Markets | The Great Rebalancing: How global powers are redrawing the investment map",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-the-great-rebalancing-how-global-powers-are-redrawing-the-investment-map/articleshow/128288749.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:15:22 +0530",
+      "published_utc": "2026-02-13T04:45:22Z",
+      "published_ist": "13-Feb-2026 10:15 IST",
+      "summary": "Global markets are responding to a fragmentation of U.S.-led economic leadership, with investors seeing opportunities in a more multipolar framework. Allies are rethinking strategic positioning, leading to increased exposure to non-U.S. equity markets, energy stocks, and currencies like the euro and Canadian dollar as they seek strategic autonomy.",
       "likely_india_equity": false
     },
     {
-      "id": "d01900736b7455a6",
-      "source": "Business Standard - Markets",
-      "title": "Sabrimala Industries India consolidated net profit declines 23.53% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sabrimala-industries-india-consolidated-net-profit-declines-23-53-in-the-december-2025-quarter-126021300273_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:44 +0530",
-      "published_utc": "2026-02-13T03:50:44Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Reported sales  nil",
+      "id": "385b3fbe74d3d108",
+      "source": "BusinessLine - Money & Banking",
+      "title": "NPST Q3 net profit more than doubles to ₹12 crore; revenue jumps 148%",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/npst-q3-net-profit-more-than-doubles-to-12-crore-revenue-jumps-148/article70625263.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:13:48 +0530",
+      "published_utc": "2026-02-13T04:43:48Z",
+      "published_ist": "13-Feb-2026 10:13 IST",
+      "summary": "The fintech infrastructure provider secured a mandate to acquire and operate a UPI switch for a large cooperative bank and won a Hardware Security Module implementation order from a central payment body",
       "likely_india_equity": false
     },
     {
-      "id": "56433e26d0fca688",
-      "source": "Business Standard - Markets",
-      "title": "Aerpace Industries reports consolidated net loss of Rs 2.47 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/aerpace-industries-reports-consolidated-net-loss-of-rs-2-47-crore-in-the-december-2025-quarter-126021300272_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:37 +0530",
-      "published_utc": "2026-02-13T03:50:37Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Reported sales  nil",
+      "id": "93248fe44fe4d954",
+      "source": "BusinessLine - Markets",
+      "title": "Crude futures edge lower as IEA sees global oil surplus in 2026",
+      "link": "https://www.thehindubusinessline.com/markets/commodities/crude-futures-edge-lower-as-iea-sees-global-oil-surplus-in-2026/article70627091.ece",
+      "published_raw": "Fri, 13 Feb 2026 10:13:36 +0530",
+      "published_utc": "2026-02-13T04:43:36Z",
+      "published_ist": "13-Feb-2026 10:13 IST",
+      "summary": "Global oil supply likely to exceed demand by 3.73 million barrels a day in 2026, says IEA’s Oil Market Report",
       "likely_india_equity": false
     },
     {
-      "id": "93419ccca5ec4426",
+      "id": "00b5c5af08f58cf5",
       "source": "Business Standard - Markets",
-      "title": "Transwarranty Finance reports consolidated net loss of Rs 0.91 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/transwarranty-finance-reports-consolidated-net-loss-of-rs-0-91-crore-in-the-december-2025-quarter-126021300271_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:30 +0530",
-      "published_utc": "2026-02-13T03:50:30Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Sales decline 11.33% to Rs 3.13 crore",
+      "title": "Nifty IT index tanks 10% in 2 days; TCS, Infy, Wipro slump to 52-week lows",
+      "link": "https://www.business-standard.com/markets/news/tech-stocks-sell-off-nifty-it-index-tanks-10-in-2-days-tcs-infosys-wipro-slump-to-52-week-lows-126021300467_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:10:08 +0530",
+      "published_utc": "2026-02-13T04:40:08Z",
+      "published_ist": "13-Feb-2026 10:10 IST",
+      "summary": "The Nasdaq IT services basket has corrected meaningfully, dragging Indian IT ADRs lower and triggering a risk-off sentiment that has spilled into domestic markets, said ICICI Securities.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "8ff769740aee63e9",
+      "source": "ET - Markets",
+      "title": "Rupee falls 8 paise to 90.69 against US dollar in early trade",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-8-paise-to-90-69-against-us-dollar-in-early-trade/articleshow/128288522.cms",
+      "published_raw": "Fri, 13 Feb 2026 10:06:54 +0530",
+      "published_utc": "2026-02-13T04:36:54Z",
+      "published_ist": "13-Feb-2026 10:06 IST",
+      "summary": "The Indian Rupee weakened against the US Dollar on Friday. This depreciation was driven by a downturn in Indian stock markets. Traders also noted that a firm dollar impacted emerging market currencies. Reports of Russia potentially returning to dollar settlements also bolstered the greenback. Meanwhile, domestic inflation data remained within target, offering some support to the rupee.",
       "likely_india_equity": false
     },
     {
-      "id": "30407b9e0c7d6a56",
+      "id": "f5ac802ebef49e3d",
       "source": "Business Standard - Markets",
-      "title": "COSYN consolidated net profit declines 25.00% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/cosyn-consolidated-net-profit-declines-25-00-in-the-december-2025-quarter-126021300270_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:21 +0530",
-      "published_utc": "2026-02-13T03:50:21Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Sales decline 35.35% to Rs 2.14 crore",
+      "title": "Board of Indian Railway Catering&Tourism Corp. recommends Second Interim dividend",
+      "link": "https://www.business-standard.com/markets/capital-market-news/board-of-indian-railway-catering-tourism-corp-recommends-second-interim-dividend-126021300479_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:05:58 +0530",
+      "published_utc": "2026-02-13T04:35:58Z",
+      "published_ist": "13-Feb-2026 10:05 IST",
+      "summary": "Of Rs 3.5 per share",
       "likely_india_equity": false
     },
     {
-      "id": "9553eefd5bb60065",
+      "id": "553c8a74bc24c2c1",
       "source": "Business Standard - Markets",
-      "title": "Indraprastha Gas consolidated net profit rises 20.58% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indraprastha-gas-consolidated-net-profit-rises-20-58-in-the-december-2025-quarter-126021300269_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:14 +0530",
-      "published_utc": "2026-02-13T03:50:14Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Sales rise 8.21% to Rs 4067.50 crore",
+      "title": "Hindalco Industries shares slide 6% even as India operations meet estimates",
+      "link": "https://www.business-standard.com/markets/news/hindalco-industries-shares-slide-6-even-as-india-operations-meet-estimates-126021300472_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:05:32 +0530",
+      "published_utc": "2026-02-13T04:35:32Z",
+      "published_ist": "13-Feb-2026 10:05 IST",
+      "summary": "Hindalco Industries posted consolidated profit after tax (PAT) of ₹2,049 crore in Q3FY26, down from ₹3,735 crore a year earlier",
       "likely_india_equity": false
     },
     {
-      "id": "ad04cb4701ca432e",
+      "id": "ed3b2870253804dd",
       "source": "Business Standard - Markets",
-      "title": "Inox India consolidated net profit rises 3.96% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inox-india-consolidated-net-profit-rises-3-96-in-the-december-2025-quarter-126021300268_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:07 +0530",
-      "published_utc": "2026-02-13T03:50:07Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Sales rise 28.45% to Rs 428.56 crore",
+      "title": "Zensar Tech inks deal worth USD 210 million",
+      "link": "https://www.business-standard.com/markets/capital-market-news/zensar-tech-inks-deal-worth-usd-210-million-126021300474_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:05:30 +0530",
+      "published_utc": "2026-02-13T04:35:30Z",
+      "published_ist": "13-Feb-2026 10:05 IST",
+      "summary": "Powered by Capital Market - Live News",
       "likely_india_equity": false
     },
     {
-      "id": "100b04d64ba7775f",
+      "id": "a542c1235468ec70",
+      "source": "LiveMint - Markets",
+      "title": "PAN HR Solutions IPO Listing: Shares make muted debut, lists at  ₹78.35, just 0.44% above issue price",
+      "link": "https://www.livemint.com/market/stock-market-news/pan-hr-solutions-ipo-listing-shares-make-muted-debut-lists-at-rs-78-just-0-44-above-sme-ipo-price-11770955467541.html",
+      "published_raw": "Fri, 13 Feb 2026 10:05:25 +0530",
+      "published_utc": "2026-02-13T04:35:25Z",
+      "published_ist": "13-Feb-2026 10:05 IST",
+      "summary": "PAN HR Solutions shares debuted at  ₹78.35 on BSE SME, slightly above its issue price of  ₹78. The IPO was oversubscribed 11.85 times, with strong demand from various investor segments. The company aims to raise  ₹17.04 crore for working capital and other purposes.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "13e9ea25841f9599",
       "source": "Business Standard - Markets",
-      "title": "Parmeshwari Silk Mills consolidated net profit rises 15.50% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/parmeshwari-silk-mills-consolidated-net-profit-rises-15-50-in-the-december-2025-quarter-126021300267_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:20:00 +0530",
-      "published_utc": "2026-02-13T03:50:00Z",
-      "published_ist": "13-Feb-2026 09:20 IST",
-      "summary": "Sales rise 8.60% to Rs 73.48 crore",
+      "title": "ONGC Q3 PAT rises 2% YoY to Rs 8,372 cr",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ongc-q3-pat-rises-2-yoy-to-rs-8-372-cr-126021300470_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:04:59 +0530",
+      "published_utc": "2026-02-13T04:34:59Z",
+      "published_ist": "13-Feb-2026 10:04 IST",
+      "summary": "Oil and Natural Gas Corporation (ONGC) reported 1.60% increase in standalone net profit to Rs 8,371.85 crore in Q3 FY2, compared with Rs 8,239.92 crore in Q3 FY25.",
       "likely_india_equity": false
     },
     {
-      "id": "c3064c42a651c4e0",
+      "id": "844276b32930d052",
       "source": "Business Standard - Markets",
-      "title": "Krishna Capital & Securities consolidated net profit rises 200.00% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/krishna-capital-securities-consolidated-net-profit-rises-200-00-in-the-december-2025-quarter-126021300266_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:53 +0530",
-      "published_utc": "2026-02-13T03:49:53Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Sales rise 33.33% to Rs 0.12 crore",
+      "title": "Hindalco Industries declines after Q3 PAT falls over 45% YoY",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hindalco-industries-declines-after-q3-pat-falls-over-45-yoy-126021300469_1.html",
+      "published_raw": "Fri, 13 Feb 2026 10:04:51 +0530",
+      "published_utc": "2026-02-13T04:34:51Z",
+      "published_ist": "13-Feb-2026 10:04 IST",
+      "summary": "Hindalco Industries tumbled 4.31% to Rs 922.70 after the company reported 45% drop in consolidated net profit to Rs 2,049 crore despite a 14% rise in revenue from operations to Rs 66,521 crore in Q3 FY26 as compared with Q3 FY25.",
       "likely_india_equity": false
     },
     {
-      "id": "5828b9ee4fd29804",
-      "source": "Business Standard - Markets",
-      "title": "Arman Financial Services reports consolidated net profit of Rs 22.18 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/arman-financial-services-reports-consolidated-net-profit-of-rs-22-18-crore-in-the-december-2025-quarter-126021300265_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:45 +0530",
-      "published_utc": "2026-02-13T03:49:45Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Sales decline 2.85% to Rs 160.07 crore",
+      "id": "3166ba56e017b9b1",
+      "source": "LiveMint - Markets",
+      "title": "Biopol Chemicals SME IPO listing: Shares debut at a 3% premium on NSE, hit lower circuit amid a stock market selloff",
+      "link": "https://www.livemint.com/market/ipo/biopol-chemicals-sme-ipo-listing-shares-debut-at-a-3-premium-on-nse-amid-a-stock-market-selloff-details-here-11770894849859.html",
+      "published_raw": "Fri, 13 Feb 2026 10:02:22 +0530",
+      "published_utc": "2026-02-13T04:32:22Z",
+      "published_ist": "13-Feb-2026 10:02 IST",
+      "summary": "Biopol Chemicals SME IPO listing: Biopol Chemicals' share price opened at  ₹111 on the NSE on February 13, up 2.78% from its issue price of  ₹108. The SME stock, however, quickly erased all gains and hit its 5% lower circuit of  ₹105.45.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "f069123c134e3e14",
+      "source": "LiveMint - Economy",
+      "title": "US, Taiwan finalize deal to cut tariffs, boost purchases of American goods",
+      "link": "https://www.livemint.com/economy/us-taiwan-finalize-deal-to-cut-tariffs-boost-purchases-of-american-goods-11770956738107.html",
+      "published_raw": "Fri, 13 Feb 2026 09:59:27 +0530",
+      "published_utc": "2026-02-13T04:29:27Z",
+      "published_ist": "13-Feb-2026 09:59 IST",
+      "summary": "The agreement adds technical language and specific details to a trade framework deal first reached in January that cut tariffs on Taiwanese goods to 15% from the 20% initially imposed by Trump. That puts Taiwan on an equal footing with its closest Asian export competitors, South Korea and Japan.",
       "likely_india_equity": false
     },
     {
-      "id": "e3558719063a6da5",
-      "source": "Business Standard - Markets",
-      "title": "Square Four Projects India reports consolidated net loss of Rs 0.06 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/square-four-projects-india-reports-consolidated-net-loss-of-rs-0-06-crore-in-the-december-2025-quarter-126021300264_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:39 +0530",
-      "published_utc": "2026-02-13T03:49:39Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Reported sales  nil",
+      "id": "e69d76aaf61c1818",
+      "source": "BusinessLine - Companies",
+      "title": "ONGC Q3FY26 profit jumps 23% to ₹11,946 crore despite lower crude realisation",
+      "link": "https://www.thehindubusinessline.com/companies/ongc-q3fy26-profit-jumps-23-to-11946-crore-despite-lower-crude-realisation/article70625847.ece",
+      "published_raw": "Fri, 13 Feb 2026 09:59:04 +0530",
+      "published_utc": "2026-02-13T04:29:04Z",
+      "published_ist": "13-Feb-2026 09:59 IST",
+      "summary": "ONGC has declared a second interim dividend of ₹6.25 per share, taking total interim payout to a record ₹15,411 crore",
       "likely_india_equity": false
     },
     {
-      "id": "6b11c55c0c394b1d",
+      "id": "e2adac701089016c",
       "source": "Business Standard - Markets",
-      "title": "Balu Forge Industries consolidated net profit rises 20.47% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/balu-forge-industries-consolidated-net-profit-rises-20-47-in-the-december-2025-quarter-126021300263_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:32 +0530",
-      "published_utc": "2026-02-13T03:49:32Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Sales rise 21.63% to Rs 311.11 crore",
+      "title": "PNGS Reva Diamond Jewellery IPO opens Feb 24: Check price band, size, dates",
+      "link": "https://www.business-standard.com/markets/ipo/pngs-reva-diamond-jewellery-ipo-price-band-dates-lot-size-review-126021300463_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:58:29 +0530",
+      "published_utc": "2026-02-13T04:28:29Z",
+      "published_ist": "13-Feb-2026 09:58 IST",
+      "summary": "PNGS Reva Diamond Jewellery IPO, which opens on Feb 24, 2026, has set a price band of ₹367-386. Read to find out  IPO lot size, issue size, likely listing date and objectives",
+      "likely_india_equity": true
+    },
+    {
+      "id": "e862b1bf6882f649",
+      "source": "Business Standard - Markets",
+      "title": "HAL's ₹2.4 trn order book to propel manufacturing revenue, say analysts",
+      "link": "https://www.business-standard.com/markets/news/hal-hindustan-aeronautics-share-price-target-nse-bse-q3-results-profit-revenue-126021300462_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:54:05 +0530",
+      "published_utc": "2026-02-13T04:24:05Z",
+      "published_ist": "13-Feb-2026 09:54 IST",
+      "summary": "HAL Share: In the December quarter, HAL posted a 30 per cent jump in year-on-year (Y-o-Y) rise in net profit for Q3FY26 to ₹1,866.68 crore, compared to ₹1,439.83 crore in Q3FY25",
       "likely_india_equity": false
     },
     {
-      "id": "31f533d5e195048f",
+      "id": "bfea79a813179348",
       "source": "Business Standard - Markets",
-      "title": "Titan Securities consolidated net profit rises 44.49% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/titan-securities-consolidated-net-profit-rises-44-49-in-the-december-2025-quarter-126021300262_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:25 +0530",
-      "published_utc": "2026-02-13T03:49:25Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Sales decline 69.85% to Rs 1.01 crore",
+      "title": "INR loses momentum amid AI led sharp sell-off in equities globally",
+      "link": "https://www.business-standard.com/markets/capital-market-news/inr-loses-momentum-amid-ai-led-sharp-sell-off-in-equities-globally-126021300461_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:51:26 +0530",
+      "published_utc": "2026-02-13T04:21:26Z",
+      "published_ist": "13-Feb-2026 09:51 IST",
+      "summary": "The Indian rupee lost slight momentum in opening trades on Friday tracking modest rebound din dollar index from two-week low and sharp slide in equities globally. INR opened at Rs 90.69 per dollar and edged up to 90.65 so far during the day. Yesterday, rupee appreciated 17 paise to settle for the day at 90.61 against the US dollar, as foreign fund investments lifted investor sentiments. However, domestic shares ended the session lower as IT stocks extended their slide from the previous session on renewed concerns about the disruption AI start-ups will have on established companies. The benchma",
+      "likely_india_equity": true
+    },
+    {
+      "id": "609e72d6a7352ce4",
+      "source": "Business Standard - Markets",
+      "title": "Indices drift lower in early trade; breadth weak",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indices-drift-lower-in-early-trade-breadth-weak-126021300460_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:51:18 +0530",
+      "published_utc": "2026-02-13T04:21:18Z",
+      "published_ist": "13-Feb-2026 09:51 IST",
+      "summary": "At 09:30 IST, the barometer index, the S&amp;P BSE Sensex, tumbled 694.80 points or 0.83% to 82,980.12. The Nifty 50 index fell 210.70 points or 0.82% to 25,592.65.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "9a36512af873a01d",
+      "source": "Business Standard - Markets",
+      "title": "Coal India Q3 PAT tanks 16% YoY to Rs 7,166 cr",
+      "link": "https://www.business-standard.com/markets/capital-market-news/coal-india-q3-pat-tanks-16-yoy-to-rs-7-166-cr-126021300456_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:50:52 +0530",
+      "published_utc": "2026-02-13T04:20:52Z",
+      "published_ist": "13-Feb-2026 09:50 IST",
+      "summary": "Coal India (CIL) reported consolidated net profit tanked 15.61% to Rs 7,165.98 crore on a 5.25% fall in revenue from operations to Rs 34,924.19 crore in Q3 FY26, compared with Q3 FY25.",
       "likely_india_equity": false
     },
     {
-      "id": "0ca267f0786ccf82",
-      "source": "Business Standard - Markets",
-      "title": "IP Rings reports consolidated net profit of Rs 0.11 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ip-rings-reports-consolidated-net-profit-of-rs-0-11-crore-in-the-december-2025-quarter-126021300261_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:19 +0530",
-      "published_utc": "2026-02-13T03:49:19Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Sales rise 47.04% to Rs 84.99 crore",
+      "id": "7e6bdf540a4a9939",
+      "source": "BusinessLine - Companies",
+      "title": "Airbnb upbeat about growth in 2026 amid robust demand",
+      "link": "https://www.thehindubusinessline.com/companies/airbnb-upbeat-about-growth-in-2026-amid-robust-demand/article70627016.ece",
+      "published_raw": "Fri, 13 Feb 2026 09:46:10 +0530",
+      "published_utc": "2026-02-13T04:16:10Z",
+      "published_ist": "13-Feb-2026 09:46 IST",
+      "summary": "Airbnb last year introduced a Reserve Now, Pay Later option in the US that has proved popular among guests and helped boost bookings in the fourth quarter",
       "likely_india_equity": false
     },
     {
-      "id": "9334fa6c8b9f7d0c",
-      "source": "Business Standard - Markets",
-      "title": "B N Rathi Securities consolidated net profit rises 98.03% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/b-n-rathi-securities-consolidated-net-profit-rises-98-03-in-the-december-2025-quarter-126021300260_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:12 +0530",
-      "published_utc": "2026-02-13T03:49:12Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Sales rise 28.67% to Rs 11.58 crore",
+      "id": "4fdff49a3c91a146",
+      "source": "BusinessLine - Companies",
+      "title": "Madras HC orders enquiry into corruption allegations at NLC India",
+      "link": "https://www.thehindubusinessline.com/news/madras-hc-orders-enquiry-into-corruption-allegations-at-nlc-india/article70623795.ece",
+      "published_raw": "Fri, 13 Feb 2026 09:45:57 +0530",
+      "published_utc": "2026-02-13T04:15:57Z",
+      "published_ist": "13-Feb-2026 09:45 IST",
+      "summary": "CBI to examine ₹422-crore allegations against the PSU",
       "likely_india_equity": false
     },
     {
-      "id": "15eed928237e140c",
+      "id": "6ae480feaf7d7ac1",
       "source": "Business Standard - Markets",
-      "title": "Emergent Industrial Solutions reports consolidated net loss of Rs 0.30 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/emergent-industrial-solutions-reports-consolidated-net-loss-of-rs-0-30-crore-in-the-december-2025-quarter-126021300259_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:19:05 +0530",
-      "published_utc": "2026-02-13T03:49:05Z",
-      "published_ist": "13-Feb-2026 09:19 IST",
-      "summary": "Sales decline 32.43% to Rs 74.67 crore",
+      "title": "HUL slips 4% in 2-days post Q3; brokerages remain cautiously optimistic",
+      "link": "https://www.business-standard.com/markets/news/hul-hindustan-unilever-share-price-target-q3-results-profit-revenue-volume-126021300445_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:44:40 +0530",
+      "published_utc": "2026-02-13T04:14:40Z",
+      "published_ist": "13-Feb-2026 09:44 IST",
+      "summary": "The selling pressure on the counter came after brokerages stayed cautiously constructive on HUL, with execution and volume-led growth need to improve, while margins are anticipated to stay stable.",
       "likely_india_equity": false
     },
     {
-      "id": "db1b6919f1c60135",
-      "source": "Business Standard - Markets",
-      "title": "LKP Finance reports consolidated net profit of Rs 5.91 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/lkp-finance-reports-consolidated-net-profit-of-rs-5-91-crore-in-the-december-2025-quarter-126021300258_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:57 +0530",
-      "published_utc": "2026-02-13T03:48:57Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales rise 56.90% to Rs 5.62 crore",
+      "id": "4635a39a1d4c07d4",
+      "source": "Zee Business - Latest",
+      "title": "Delhi remained world's most polluted capital in '24; 13 of top 20 cities with worst air globally in India",
+      "link": "https://www.zeebiz.com/india/news-delhi-remains-worlds-most-polluted-capital-13-indian-cities-among-worst-globally-350514",
+      "published_raw": "Fri, 13 Feb 2026 09:43:52 +0530",
+      "published_utc": "2026-02-13T04:13:52Z",
+      "published_ist": "13-Feb-2026 09:43 IST",
+      "summary": "Mullanpur (Punjab), Faridabad, Loni, New Delhi, Gurugram, Ganganagar, Greater Noida, Bhiwadi, Muzaffarnagar, Hanumangarh, and Noida were among the 13 most polluted Indian cities in the world's top 20 most polluted list.",
       "likely_india_equity": false
     },
     {
-      "id": "126ebfac222de6f3",
-      "source": "Business Standard - Markets",
-      "title": "Cravatex consolidated net profit rises 440.00% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/cravatex-consolidated-net-profit-rises-440-00-in-the-december-2025-quarter-126021300257_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:51 +0530",
-      "published_utc": "2026-02-13T03:48:51Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales rise 13.44% to Rs 36.79 crore",
+      "id": "c60efbad8b301fc0",
+      "source": "BusinessLine - Markets",
+      "title": "India will buy US LNG if offered at reasonable price, Petronet CEO says",
+      "link": "https://www.thehindubusinessline.com/markets/commodities/india-will-buy-us-lng-if-offered-at-reasonable-price-petronet-ceo-says/article70626924.ece",
+      "published_raw": "Fri, 13 Feb 2026 09:40:49 +0530",
+      "published_utc": "2026-02-13T04:10:49Z",
+      "published_ist": "13-Feb-2026 09:40 IST",
+      "summary": "Last week, President Trump announced he will reduce tariffs on Indian imports from 50% to 18%, while requesting India to more than double its annual imports from the US",
       "likely_india_equity": false
     },
     {
-      "id": "733b1ef9a9b5296e",
-      "source": "Business Standard - Markets",
-      "title": "Deepak Nitrite consolidated net profit rises 1.73% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/deepak-nitrite-consolidated-net-profit-rises-1-73-in-the-december-2025-quarter-126021300255_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:44 +0530",
-      "published_utc": "2026-02-13T03:48:44Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales rise 3.76% to Rs 1974.97 crore",
+      "id": "2dff3231430abcca",
+      "source": "BusinessLine - Companies",
+      "title": "NPST posts 146% revenue jump, logs ₹57 crore in Q3",
+      "link": "https://www.thehindubusinessline.com/companies/npst-posts-146-revenue-jump-logs-57-crore-in-q3/article70624000.ece",
+      "published_raw": "Fri, 13 Feb 2026 09:37:30 +0530",
+      "published_utc": "2026-02-13T04:07:30Z",
+      "published_ist": "13-Feb-2026 09:37 IST",
+      "summary": "The company attributed growth to strong execution in payment infrastructure, risk management and bank-led digital platforms",
       "likely_india_equity": false
     },
     {
-      "id": "69ea2c73f8d992fb",
+      "id": "ab6f0d11388b3b2e",
       "source": "Business Standard - Markets",
-      "title": "Chemcon Speciality Chemicals standalone net profit declines 42.22% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/chemcon-speciality-chemicals-standalone-net-profit-declines-42-22-in-the-december-2025-quarter-126021300254_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:37 +0530",
-      "published_utc": "2026-02-13T03:48:37Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales rise 5.41% to Rs 57.33 crore",
+      "title": "Coal India consolidated net profit declines 15.85% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/coal-india-consolidated-net-profit-declines-15-85-in-the-december-2025-quarter-126021300434_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:37:12 +0530",
+      "published_utc": "2026-02-13T04:07:12Z",
+      "published_ist": "13-Feb-2026 09:37 IST",
+      "summary": "Sales decline 4.76% to Rs 30818.17 crore",
       "likely_india_equity": false
     },
     {
-      "id": "7c0a7c8ee45a7fd8",
+      "id": "e1aadaca43749c04",
       "source": "Business Standard - Markets",
-      "title": "U. H. Zaveri standalone net profit declines 50.00% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/u-h-zaveri-standalone-net-profit-declines-50-00-in-the-december-2025-quarter-126021300253_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:30 +0530",
-      "published_utc": "2026-02-13T03:48:30Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales rise 17.67% to Rs 18.25 crore",
+      "title": "Mamaearth parent Honasa Consumer soars 7% as Q3 performance lifts sentiment",
+      "link": "https://www.business-standard.com/markets/news/mamaearth-parent-honasa-consumer-soars-7-as-q3-performance-lifts-sentiment-126021300435_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:37:08 +0530",
+      "published_utc": "2026-02-13T04:07:08Z",
+      "published_ist": "13-Feb-2026 09:37 IST",
+      "summary": "The parent of Mamaearth,  Honasa Consumer, reported a 92.9 per cent jump in its consolidated profit at ₹50.2 crore in the December quarter of FY26",
       "likely_india_equity": false
     },
     {
-      "id": "9ceb9726e6a2521c",
+      "id": "2ef48cb3c7c51aa7",
+      "source": "ET - Markets",
+      "title": "Friday the 13th effect? D-St investors suffer Rs 4L cr shock as Sensex sinks over 800 points",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-friday-the-13th-effect-d-street-investors-suffer-over-rs-4-lakh-crore-shock-as-sensex-nifty-fall-1/articleshow/128287282.cms",
+      "published_raw": "Fri, 13 Feb 2026 09:37:05 +0530",
+      "published_utc": "2026-02-13T04:07:05Z",
+      "published_ist": "13-Feb-2026 09:37 IST",
+      "summary": "Indian stock markets opened sharply lower on Friday. The Sensex and Nifty saw significant drops. This decline was driven by a major selloff in IT stocks. Investor sentiment was rattled by fears of Artificial Intelligence disruption. Major IT companies experienced substantial losses. This led to a significant erosion of investor wealth on the BSE. The Nifty IT index slumped considerably.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "b0bae2af4ea0f491",
       "source": "Business Standard - Markets",
-      "title": "Vedant Fashions standalone net profit declines 14.61% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/vedant-fashions-standalone-net-profit-declines-14-61-in-the-december-2025-quarter-126021300252_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:23 +0530",
-      "published_utc": "2026-02-13T03:48:23Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales decline 3.83% to Rs 491.71 crore",
+      "title": "Mercury EV-Tech consolidated net profit declines 79.21% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/mercury-ev-tech-consolidated-net-profit-declines-79-21-in-the-december-2025-quarter-126021300433_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:37:04 +0530",
+      "published_utc": "2026-02-13T04:07:04Z",
+      "published_ist": "13-Feb-2026 09:37 IST",
+      "summary": "Sales decline 28.96% to Rs 25.29 crore",
       "likely_india_equity": false
     },
     {
-      "id": "ab575f609a880afe",
+      "id": "30e911ab185d88ec",
       "source": "Business Standard - Markets",
-      "title": "Medico Remedies standalone net profit rises 9.54% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/medico-remedies-standalone-net-profit-rises-9-54-in-the-december-2025-quarter-126021300251_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:16 +0530",
-      "published_utc": "2026-02-13T03:48:16Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales rise 48.59% to Rs 58.68 crore",
+      "title": "RPP Infra Projects consolidated net profit declines 96.45% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/rpp-infra-projects-consolidated-net-profit-declines-96-45-in-the-december-2025-quarter-126021300432_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:57 +0530",
+      "published_utc": "2026-02-13T04:06:57Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales rise 6.94% to Rs 379.73 crore",
       "likely_india_equity": false
     },
     {
-      "id": "4cbad3bff7f15f29",
+      "id": "8073cf0dc100622a",
       "source": "Business Standard - Markets",
-      "title": "Trident Texofab standalone net profit rises 90.00% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/trident-texofab-standalone-net-profit-rises-90-00-in-the-december-2025-quarter-126021300250_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:18:08 +0530",
-      "published_utc": "2026-02-13T03:48:08Z",
-      "published_ist": "13-Feb-2026 09:18 IST",
-      "summary": "Sales decline 18.78% to Rs 25.74 crore",
+      "title": "Delta Manufacturing reports consolidated net loss of Rs 5.20 crore in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/delta-manufacturing-reports-consolidated-net-loss-of-rs-5-20-crore-in-the-december-2025-quarter-126021300431_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:50 +0530",
+      "published_utc": "2026-02-13T04:06:50Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales rise 3.53% to Rs 15.53 crore",
       "likely_india_equity": false
     },
     {
-      "id": "24888d55da33dc85",
+      "id": "6f37f703a71ab82e",
       "source": "Business Standard - Markets",
-      "title": "7NR Retail reports standalone net profit of Rs 0.10 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/7nr-retail-reports-standalone-net-profit-of-rs-0-10-crore-in-the-december-2025-quarter-126021300249_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:59 +0530",
-      "published_utc": "2026-02-13T03:47:59Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales rise 442.00% to Rs 2.71 crore",
+      "title": "Tyche Industries standalone net profit declines 61.60% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tyche-industries-standalone-net-profit-declines-61-60-in-the-december-2025-quarter-126021300430_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:44 +0530",
+      "published_utc": "2026-02-13T04:06:44Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales decline 40.39% to Rs 10.58 crore",
       "likely_india_equity": false
     },
     {
-      "id": "ad52466b3bdc8a27",
+      "id": "9a666d1a70815331",
       "source": "Business Standard - Markets",
-      "title": "Crown Lifters standalone net profit declines 36.74% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/crown-lifters-standalone-net-profit-declines-36-74-in-the-december-2025-quarter-126021300248_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:53 +0530",
-      "published_utc": "2026-02-13T03:47:53Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales decline 2.30% to Rs 8.50 crore",
+      "title": "Ambica Agarbathies Aroma & Industries standalone net profit rises 47.37% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ambica-agarbathies-aroma-industries-standalone-net-profit-rises-47-37-in-the-december-2025-quarter-126021300429_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:36 +0530",
+      "published_utc": "2026-02-13T04:06:36Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales rise 49.90% to Rs 54.04 crore",
       "likely_india_equity": false
     },
     {
-      "id": "19dc7a6144555e0f",
+      "id": "b11aaede83e128a5",
       "source": "Business Standard - Markets",
-      "title": "Kalpa Commercial reports standalone net profit of Rs 0.57 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/kalpa-commercial-reports-standalone-net-profit-of-rs-0-57-crore-in-the-december-2025-quarter-126021300247_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:46 +0530",
-      "published_utc": "2026-02-13T03:47:46Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales reported at Rs 8.79 crore",
+      "title": "Tusaldah reports standalone net loss of Rs 0.18 crore in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tusaldah-reports-standalone-net-loss-of-rs-0-18-crore-in-the-december-2025-quarter-126021300428_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:29 +0530",
+      "published_utc": "2026-02-13T04:06:29Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales reported at Rs 0.12 crore",
       "likely_india_equity": false
     },
     {
-      "id": "cee8ab49fb8b5103",
+      "id": "1abf434a58d5f60f",
       "source": "Business Standard - Markets",
-      "title": "Sri Amarnath Finance standalone net profit declines 17.24% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sri-amarnath-finance-standalone-net-profit-declines-17-24-in-the-december-2025-quarter-126021300246_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:39 +0530",
-      "published_utc": "2026-02-13T03:47:39Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales rise 2.03% to Rs 1.51 crore",
+      "title": "Entero Healthcare Solutions consolidated net profit rises 8.61% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/entero-healthcare-solutions-consolidated-net-profit-rises-8-61-in-the-december-2025-quarter-126021300427_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:22 +0530",
+      "published_utc": "2026-02-13T04:06:22Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales rise 25.57% to Rs 1706.52 crore",
       "likely_india_equity": false
     },
     {
-      "id": "b2fe9926f9a4966d",
-      "source": "Business Standard - Markets",
-      "title": "Wardwizard Healthcare reports standalone net loss of Rs 0.18 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/wardwizard-healthcare-reports-standalone-net-loss-of-rs-0-18-crore-in-the-december-2025-quarter-126021300245_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:33 +0530",
-      "published_utc": "2026-02-13T03:47:33Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales decline 11.11% to Rs 0.08 crore",
+      "id": "2cb6499a1cea300a",
+      "source": "ET - Markets",
+      "title": "Hindalco Q3 results: Strong aluminium EBITDA offsets Novelis hit; margin dip linked to Oswego fire",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/hindalco-q3-results-strong-aluminium-ebitda-offsets-novelis-hit-margin-dip-linked-to-oswego-fire/articleshow/128287509.cms",
+      "published_raw": "Fri, 13 Feb 2026 09:36:19 +0530",
+      "published_utc": "2026-02-13T04:06:19Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Hindalco Industries Ltd's shares are in focus after a strong quarterly performance. The company's upstream aluminium business showed robust earnings, offsetting challenges at its subsidiary Novelis Inc. While margins saw a dip due to operational issues at Novelis, the medium-term outlook remains positive. Expansion projects and strong aluminium prices are expected to drive future growth.",
       "likely_india_equity": false
+    },
+    {
+      "id": "a513b51ea0038731",
+      "source": "Business Standard - Markets",
+      "title": "Concord Enviro Systems reports consolidated net loss of Rs 8.18 crore in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/concord-enviro-systems-reports-consolidated-net-loss-of-rs-8-18-crore-in-the-december-2025-quarter-126021300426_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:14 +0530",
+      "published_utc": "2026-02-13T04:06:14Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales rise 1.43% to Rs 124.58 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "b410f44acfd039cb",
+      "source": "Business Standard - Markets",
+      "title": "H.G. Infra Engineering consolidated net profit declines 18.15% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/h-g-infra-engineering-consolidated-net-profit-declines-18-15-in-the-december-2025-quarter-126021300425_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:36:07 +0530",
+      "published_utc": "2026-02-13T04:06:07Z",
+      "published_ist": "13-Feb-2026 09:36 IST",
+      "summary": "Sales rise 12.36% to Rs 1421.16 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5046ee01b14b08dc",
+      "source": "Business Standard - Markets",
+      "title": "Fratelli Vineyards reports consolidated net loss of Rs 8.72 crore in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/fratelli-vineyards-reports-consolidated-net-loss-of-rs-8-72-crore-in-the-december-2025-quarter-126021300424_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:35:59 +0530",
+      "published_utc": "2026-02-13T04:05:59Z",
+      "published_ist": "13-Feb-2026 09:35 IST",
+      "summary": "Sales rise 9.83% to Rs 63.60 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "65c01944fef6fa0a",
+      "source": "Business Standard - Markets",
+      "title": "Faze Three consolidated net profit declines 27.85% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/faze-three-consolidated-net-profit-declines-27-85-in-the-december-2025-quarter-126021300423_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:35:52 +0530",
+      "published_utc": "2026-02-13T04:05:52Z",
+      "published_ist": "13-Feb-2026 09:35 IST",
+      "summary": "Sales rise 27.35% to Rs 226.93 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6dbbf21ae5cfebc9",
+      "source": "Business Standard - Markets",
+      "title": "SpiceJet reports consolidated net loss of Rs 261.38 crore in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/spicejet-reports-consolidated-net-loss-of-rs-261-38-crore-in-the-december-2025-quarter-126021300422_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:35:45 +0530",
+      "published_utc": "2026-02-13T04:05:45Z",
+      "published_ist": "13-Feb-2026 09:35 IST",
+      "summary": "Sales rise 14.14% to Rs 1345.47 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "cf869a7b3ec638ff",
+      "source": "Business Standard - Markets",
+      "title": "Saraswati Commercial (India) reports consolidated net profit of Rs 24.75 crore in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/saraswati-commercial-india-reports-consolidated-net-profit-of-rs-24-75-crore-in-the-december-2025-quarter-126021300421_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:35:38 +0530",
+      "published_utc": "2026-02-13T04:05:38Z",
+      "published_ist": "13-Feb-2026 09:35 IST",
+      "summary": "Sales reported at Rs 32.69 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "65ecdce80432ad68",
+      "source": "Business Standard - Markets",
+      "title": "NIS Management consolidated net profit declines 20.73% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nis-management-consolidated-net-profit-declines-20-73-in-the-december-2025-quarter-126021300420_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:35:29 +0530",
+      "published_utc": "2026-02-13T04:05:29Z",
+      "published_ist": "13-Feb-2026 09:35 IST",
+      "summary": "Sales rise 2.66% to Rs 102.80 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c1ade2b476710de7",
+      "source": "Business Standard - Markets",
+      "title": "Denta Water & Infra Solutions consolidated net profit declines 4.34% in the December 2025 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/denta-water-infra-solutions-consolidated-net-profit-declines-4-34-in-the-december-2025-quarter-126021300419_1.html",
+      "published_raw": "Fri, 13 Feb 2026 09:35:22 +0530",
+      "published_utc": "2026-02-13T04:05:22Z",
+      "published_ist": "13-Feb-2026 09:35 IST",
+      "summary": "Sales rise 4.23% to Rs 53.52 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "78ce6a18b22ba72c",
+      "source": "LiveMint - Markets",
+      "title": "Sensex tanks 900 points, Nifty 50 below 25,650; why is Indian stock market down today? Explained with top five factors",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-tanks-800-points-nifty-50-below-25-650-why-is-indian-stock-market-down-today-explained-with-top-five-factors-11770954600347.html",
+      "published_raw": "Fri, 13 Feb 2026 09:35:04 +0530",
+      "published_utc": "2026-02-13T04:05:04Z",
+      "published_ist": "13-Feb-2026 09:35 IST",
+      "summary": "Stock market crash: Following the weak global market sentiments, the Indian stock market witnessed heavy sell-off during the early morning session on Friday",
+      "likely_india_equity": true
+    },
+    {
+      "id": "082c8759ee9feae5",
+      "source": "LiveMint - Markets",
+      "title": "Muthoot Finance share price slumps 10% after Q3 results. Should you buy, sell or hold?",
+      "link": "https://www.livemint.com/market/stock-market-news/muthoot-finance-share-price-slumps-10-after-q3-results-should-you-buy-sell-or-hold-11770955120202.html",
+      "published_raw": "Fri, 13 Feb 2026 09:33:38 +0530",
+      "published_utc": "2026-02-13T04:03:38Z",
+      "published_ist": "13-Feb-2026 09:33 IST",
+      "summary": "Muthoot Finance share price dropped 10% on February 13 despite reporting a 94.9% increase in Q3 net profit to  ₹2,656 crore. The net interest income rose 64% to  ₹4,467 crore, while consolidated loan assets under management reached  ₹1,64,720 crore, a 48% increase.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "689f8dc3688dc465",
+      "source": "ET - Markets",
+      "title": "Honasa Consumer shares rally 4% as Q3 net profit soars 93% YoY to Rs 50 crore",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mamaearth-shares-in-focus-as-q3-profit-soars-93-yoy-to-rs-50-crore/articleshow/128287437.cms",
+      "published_raw": "Fri, 13 Feb 2026 09:33:37 +0530",
+      "published_utc": "2026-02-13T04:03:37Z",
+      "published_ist": "13-Feb-2026 09:33 IST",
+      "summary": "Honasa Consumer reported strong Q3FY26 performance, with consolidated net profit surging 93% year-on-year to Rs 50 crore and revenue rising 16% to Rs 602 crore. On a like-for-like basis, revenue grew 22%. The company strengthened distribution under Project Neev, scaled younger brands, expanded outlet reach, and invested in innovation, while The Derma Co. sustained a double-digit EBITDA profile.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "967cb158f050d2c0",
+      "source": "BusinessLine - Markets",
+      "title": "Stocks to watch, Feb 13: HAL, HCC, AU Small Finance & more",
+      "link": "https://www.thehindubusinessline.com/markets/top-buzzing-stocks-today-hal-hcc-au-small-finance-bank-and-more/article70626901.ece",
+      "published_raw": "Fri, 13 Feb 2026 09:33:07 +0530",
+      "published_utc": "2026-02-13T04:03:07Z",
+      "published_ist": "13-Feb-2026 09:33 IST",
+      "summary": "Hindustan Aeronautics, HCC, GAIL India and AU Small Finance Bank were among the key stocks in focus on Thursday, alongside J Kumar Infraprojects, Aries Agro, Savita Oil and Ceigall India amid earnings updates, order wins and sectoral triggers.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "05fd40dcfe101176",
+      "source": "ET - Markets",
+      "title": "Silver rebounds Rs 5,500 after 10% crash; gold up Rs 2,000. What should investors do?",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rebounds-rs-5500-after-10-crash-gold-up-rs-2000-what-should-investors-do/articleshow/128287442.cms",
+      "published_raw": "Fri, 13 Feb 2026 09:32:30 +0530",
+      "published_utc": "2026-02-13T04:02:30Z",
+      "published_ist": "13-Feb-2026 09:32 IST",
+      "summary": "Gold and silver futures saw a rebound today. This followed a significant drop in the previous session. Investors stepped in at lower prices. The earlier decline was triggered by a stronger US dollar. This happened after robust jobs data reduced rate cut expectations. MCX silver and gold futures edged higher in today's trading.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "65bdb443724aa153",
+      "source": "LiveMint - Markets",
+      "title": "Infosys, TCS to HCL Tech: IT stocks crash up to 7.5% as tech rout extends — Time to worry or buy the dip? Explained",
+      "link": "https://www.livemint.com/market/stock-market-news/infosys-tcs-to-hcl-tech-it-stocks-crash-up-to-7-5-as-tech-rout-extends-is-there-more-pain-ahead-11770955026108.html",
+      "published_raw": "Fri, 13 Feb 2026 09:30:03 +0530",
+      "published_utc": "2026-02-13T04:00:03Z",
+      "published_ist": "13-Feb-2026 09:30 IST",
+      "summary": "IT stocks crash: Indian IT stocks experienced significant losses amid fears of AI disruption, prompting analysts to advise against panic selling. They recommend selective investment in high-quality companies.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "1e1c798eb8a03747",
+      "source": "Zee Business - Latest",
+      "title": "Silver Price Crash: White metal slumps 9%, MCX near-month futures crack below Rs 2,39,350 mark—What's fuelling the fall?",
+      "link": "https://www.zeebiz.com/markets/commodities/news-what-is-causing-silver-price-to-crash-390407",
+      "published_raw": "Fri, 13 Feb 2026 09:29:51 +0530",
+      "published_utc": "2026-02-13T03:59:51Z",
+      "published_ist": "13-Feb-2026 09:29 IST",
+      "summary": "Domestic silver futures crashed in the fag-end of the evening session on Thursday. MCX's near-month (March 5) contract slipped below the Rs 2,39,350 mark.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "e18e27d6fed3020b",
+      "source": "ET - Markets",
+      "title": "Rs 2.5 lakh crore pipeline, but listings muted in 2026. Is India's mega IPO boom stalling?",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-2-5-lakh-crore-pipeline-but-listings-muted-in-2026-is-indias-mega-ipo-boom-stalling/articleshow/128287229.cms",
+      "published_raw": "Fri, 13 Feb 2026 09:26:23 +0530",
+      "published_utc": "2026-02-13T03:56:23Z",
+      "published_ist": "13-Feb-2026 09:26 IST",
+      "summary": "India's mega IPO boom faces a slowdown in early 2026 despite a massive Rs 2.5 lakh crore pipeline. Muted secondary market performance, foreign investor outflows, and recent Budget-induced volatility have eroded investor risk appetite, leading companies to delay launches for better valuations and timing.",
+      "likely_india_equity": true
     },
     {
       "id": "9cb3df948cfde04d",
@@ -363,72 +924,6 @@
       "published_utc": "2026-02-13T03:47:32Z",
       "published_ist": "13-Feb-2026 09:17 IST",
       "summary": "The last five crore accounts, representing 20% of the total, have been added in the past 16 months alone",
-      "likely_india_equity": true
-    },
-    {
-      "id": "0702bf31635c520b",
-      "source": "Business Standard - Markets",
-      "title": "VIP Clothing standalone net profit declines 53.50% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/vip-clothing-standalone-net-profit-declines-53-50-in-the-december-2025-quarter-126021300244_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:26 +0530",
-      "published_utc": "2026-02-13T03:47:26Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales decline 18.92% to Rs 50.78 crore",
-      "likely_india_equity": false
-    },
-    {
-      "id": "c62843077ce4e8cb",
-      "source": "Business Standard - Markets",
-      "title": "New Light Industries standalone net profit declines 96.36% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/new-light-industries-standalone-net-profit-declines-96-36-in-the-december-2025-quarter-126021300243_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:19 +0530",
-      "published_utc": "2026-02-13T03:47:19Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales decline 82.02% to Rs 1.39 crore",
-      "likely_india_equity": false
-    },
-    {
-      "id": "21b27d585f0dc903",
-      "source": "Business Standard - Markets",
-      "title": "Zel Jewellers standalone net profit declines 48.36% in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zel-jewellers-standalone-net-profit-declines-48-36-in-the-december-2025-quarter-126021300242_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:12 +0530",
-      "published_utc": "2026-02-13T03:47:12Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales rise 0.41% to Rs 41.89 crore",
-      "likely_india_equity": false
-    },
-    {
-      "id": "a3da4517cbaf6054",
-      "source": "Business Standard - Markets",
-      "title": "GIFT Nifty suggests positive opening for key indices",
-      "link": "https://www.business-standard.com/markets/capital-market-news/gift-nifty-suggests-positive-opening-for-key-indices-126021300241_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:08 +0530",
-      "published_utc": "2026-02-13T03:47:08Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "GIFT Nifty:",
-      "likely_india_equity": true
-    },
-    {
-      "id": "0d2b83846e22d4dd",
-      "source": "Business Standard - Markets",
-      "title": "Regal Enterprises reports standalone net loss of Rs 0.15 crore in the December 2025 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/regal-enterprises-reports-standalone-net-loss-of-rs-0-15-crore-in-the-december-2025-quarter-126021300240_1.html",
-      "published_raw": "Fri, 13 Feb 2026 09:17:04 +0530",
-      "published_utc": "2026-02-13T03:47:04Z",
-      "published_ist": "13-Feb-2026 09:17 IST",
-      "summary": "Sales reported at Rs 0.10 crore",
-      "likely_india_equity": false
-    },
-    {
-      "id": "b685b196ecfccd8c",
-      "source": "Zee Business - Latest",
-      "title": "Nifty IT Crash: Top 10 tech firms including TCS, Infosys, Wipro bleed Rs 1.68 lakh crore in mcap – Should you buy dip?",
-      "link": "https://www.zeebiz.com/market-news/news-nifty-it-crash-top-10-tech-firms-including-tcs-infosys-wipro-bleed-rs-168-lakh-crore-in-mcap-should-you-buy-dip-390411",
-      "published_raw": "Fri, 13 Feb 2026 09:14:10 +0530",
-      "published_utc": "2026-02-13T03:44:10Z",
-      "published_ist": "13-Feb-2026 09:14 IST",
-      "summary": "Nifty IT stocks fell sharply on Thursday, with the top 10 technology companies, including TCS, Infosys, Wipro, HCL Technologies, and Tech Mahindra, losing a combined Rs 1.68 lakh crore in market capitalisation. The Nifty IT index dropped 1,934.95 points, or 5.51 per cent, to close at 33,160.20, reflecting sustained selling pressure amid concerns over AI-led disruption and cautious investor sentiment.",
       "likely_india_equity": true
     },
     {
@@ -586,9 +1081,9 @@
       "likely_india_equity": true
     },
     {
-      "id": "836c546290014f04",
+      "id": "1b1c5f384f8458b8",
       "source": "ET - Markets",
-      "title": "Rs 4.5 lakh crore wipeout in 7 days! Is AI rewriting the rules for $250 billion Indian IT industry?",
+      "title": "Rs 6 lakh crore wipeout in 8 days! Is AI rewriting the rules for $250 billion Indian IT industry?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-4-5-lakh-crore-wipeout-in-7-days-is-ai-rewriting-the-rules-for-250-billion-indian-it-industry/articleshow/128286121.cms",
       "published_raw": "Fri, 13 Feb 2026 08:48:16 +0530",
       "published_utc": "2026-02-13T03:18:16Z",
@@ -663,14 +1158,14 @@
       "likely_india_equity": true
     },
     {
-      "id": "68b75cb3050bff05",
+      "id": "61ff26840eb2799f",
       "source": "ET - Markets",
-      "title": "HUL shares in focus as Q3 PAT falls 30% to Rs. 2,118 crore",
+      "title": "HUL shares down 3% as Q3 PAT falls 30% YoY to Rs 2,118 crore",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/hul-shares-in-focus-as-q3-pat-falls-30-to-rs-2118-crore/articleshow/128285562.cms",
       "published_raw": "Fri, 13 Feb 2026 08:28:04 +0530",
       "published_utc": "2026-02-13T02:58:04Z",
       "published_ist": "13-Feb-2026 08:28 IST",
-      "summary": "Hindustan Unilever reported a 30% drop in Q3 FY26 net profit from continuing operations to Rs 2,188 crore, despite a 5.6% revenue increase. The company anticipates a stronger FY27, driven by portfolio optimization and channel transformation, with early signs of consumption recovery observed.",
+      "summary": "Hindustan Unilever's shares fell 2.5% after reporting a 30% drop in Q3 FY26 net profit from continuing operations to Rs 2,188 crore. Despite this, overall net profit surged 121% to Rs 6,603 crore due to one-off portfolio transformation impacts. Revenue from continuing operations saw a 5.6% year-on-year increase.",
       "likely_india_equity": false
     },
     {
@@ -685,14 +1180,14 @@
       "likely_india_equity": false
     },
     {
-      "id": "f33510a461d5c682",
+      "id": "4d63ffdff48f83d3",
       "source": "ET - Markets",
-      "title": "Infosys, Wipro shares could crash up to 10% if ADR is an indicator. Here’s why",
+      "title": "Infosys, Wipro and other IT stocks slide up to 6% as AI fears continue to hammer tech pack",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-wipro-shares-could-crash-up-to-10-if-adr-is-an-indicator-heres-why/articleshow/128285367.cms",
       "published_raw": "Fri, 13 Feb 2026 08:20:57 +0530",
       "published_utc": "2026-02-13T02:50:57Z",
       "published_ist": "13-Feb-2026 08:20 IST",
-      "summary": "Infosys and Wipro shares faced heavy selling pressure after their ADRs plunged, driven by concerns that Anthropic's new AI product could automate professional tasks. This development reignited fears that artificial intelligence might erode the profitability and competitive advantages of traditional IT services firms, leading to a broader market downturn.",
+      "summary": "Shares of IT giants Infosys and Wipro tumbled as much as 6% on Friday, extending recent losses. This decline follows a sharp overnight drop in their ADRs after Anthropic unveiled a new AI product capable of automating professional tasks, reigniting fears of margin pressure and weakened competitive positioning.",
       "likely_india_equity": false
     },
     {
@@ -707,6 +1202,17 @@
       "likely_india_equity": false
     },
     {
+      "id": "8c73e679f701451b",
+      "source": "The Hindu - Business",
+      "title": "The hidden cost of insurance distribution",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-hidden-cost-of-insurance-distribution/article70625053.ece",
+      "published_raw": "Fri, 13 Feb 2026 08:14:29 +0530",
+      "published_utc": "2026-02-13T02:44:29Z",
+      "published_ist": "13-Feb-2026 08:14 IST",
+      "summary": "Distribution escalation is a structural faultline in India’s life insurance industry",
+      "likely_india_equity": false
+    },
+    {
       "id": "66eb480c568ac113",
       "source": "LiveMint - Companies",
       "title": "Anthropic raises $30 billion: Is this the largest capital raise in AI? 5 key questions answered",
@@ -718,9 +1224,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "ce43f9effc8e2831",
+      "id": "87e80e5750089ac9",
       "source": "ET - Markets",
-      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra shows promising returns",
+      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Price Movement and Returns Overview",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-13-feb-2026/liveblog/128285027.cms",
       "published_raw": "Fri, 13 Feb 2026 08:09:46 +0530",
       "published_utc": "2026-02-13T02:39:46Z",
@@ -729,9 +1235,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "47ef5e81427a885f",
+      "id": "1ebdaa0871c11723",
       "source": "ET - Markets",
-      "title": "Adani Ent Share Price Live Updates: Adani Enterprises struggles with negative returns",
+      "title": "Adani Ent Share Price Live Updates: Adani Enterprises  Daily Change Overview",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/adani-ent-share-price-today-live-updates-13-feb-2026/liveblog/128285018.cms",
       "published_raw": "Fri, 13 Feb 2026 08:09:26 +0530",
       "published_utc": "2026-02-13T02:39:26Z",
@@ -784,9 +1290,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "941b2b38f2b2492c",
+      "id": "057870fc9ee19ca2",
       "source": "ET - Markets",
-      "title": "TCS Share Price Live Updates: TCS experiences a decline in returns",
+      "title": "TCS Share Price Live Updates: TCS Experiences a Drop in Share Price",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-stock-price-livestock-price-today-live-updates-13-feb-2026/liveblog/128284986.cms",
       "published_raw": "Fri, 13 Feb 2026 08:08:29 +0530",
       "published_utc": "2026-02-13T02:38:29Z",
@@ -795,9 +1301,9 @@
       "likely_india_equity": true
     },
     {
-      "id": "83210bf9cbb0c08a",
+      "id": "68523424ded065da",
       "source": "ET - Markets",
-      "title": "Hindalco Share Price Live Updates: Hindalco's three-month performance shines",
+      "title": "Hindalco Share Price Live Updates: Hindalco Q3 results: Strong aluminium EBITDA offsets Novelis hit; margin dip linked to Oswego fire",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-live-updates-13-feb-2026/liveblog/128284974.cms",
       "published_raw": "Fri, 13 Feb 2026 08:08:09 +0530",
       "published_utc": "2026-02-13T02:38:09Z",
@@ -817,9 +1323,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "498fe4ec1e857f4d",
+      "id": "1c96965a35a60937",
       "source": "ET - Markets",
-      "title": "HCL Tech Share Price Live Updates: HCL Tech's three-month returns signal a downturn",
+      "title": "HCL Tech Share Price Live Updates: HCL Tech's Current Market Position",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-livestock-price-today-live-updates-13-feb-2026/liveblog/128284961.cms",
       "published_raw": "Fri, 13 Feb 2026 08:07:51 +0530",
       "published_utc": "2026-02-13T02:37:51Z",
@@ -828,9 +1334,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "d70d3b4c0c0ff970",
+      "id": "28aca580d0b0da20",
       "source": "ET - Markets",
-      "title": "Infosys Share Price Live Updates: Infosys sees negative returns over the last three months",
+      "title": "Infosys Share Price Live Updates: Current valuation of Infosys",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-13-feb-2026/liveblog/128284960.cms",
       "published_raw": "Fri, 13 Feb 2026 08:07:50 +0530",
       "published_utc": "2026-02-13T02:37:50Z",
@@ -938,9 +1444,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "0c37ff31261458a5",
+      "id": "56063d6c1b39c2ae",
       "source": "ET - Markets",
-      "title": "Asian Paints Share Price Live Updates: Asian Paints' performance falters",
+      "title": "Asian Paints Share Price Live Updates: Asian Paints Daily Price Change",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-livestock-price-today-live-updates-13-feb-2026/liveblog/128284901.cms",
       "published_raw": "Fri, 13 Feb 2026 08:06:05 +0530",
       "published_utc": "2026-02-13T02:36:05Z",
@@ -1015,8 +1521,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "ae55975039f144cc",
-      "source": "ET - Markets",
+      "id": "2e03649f58e26fbe",
+      "source": "ET - Stocks",
       "title": "Hero MotoCorp Share Price Live Updates: Hero MotoCorp posts a solid return over the last three months",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-share-price-today-live-13-feb-2026/liveblog/128284863.cms",
       "published_raw": "Fri, 13 Feb 2026 08:04:52 +0530",
@@ -1026,8 +1532,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "1cf4fed7ca9c5cb5",
-      "source": "ET - Markets",
+      "id": "556b4cb59c3a0b48",
+      "source": "ET - Stocks",
       "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel's 3-Month Return Overview",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-today-live-13-feb-2026/liveblog/128284854.cms",
       "published_raw": "Fri, 13 Feb 2026 08:04:35 +0530",
@@ -1037,8 +1543,8 @@
       "likely_india_equity": true
     },
     {
-      "id": "5908a2e473f87d3e",
-      "source": "ET - Markets",
+      "id": "b4b4169ae41f3207",
+      "source": "ET - Stocks",
       "title": "BPCL Share Price Live Updates: BPCL's 3-Month Return Summary",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-livestock-price-today-live-updates-13-feb-2026/liveblog/128284849.cms",
       "published_raw": "Fri, 13 Feb 2026 08:04:29 +0530",
@@ -1048,8 +1554,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "47f572518551459b",
-      "source": "ET - Markets",
+      "id": "3d9e9a0738909f63",
+      "source": "ET - Stocks",
       "title": "ONGC Share Price Live Updates: ONGC's three-month performance impresses investors",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-today-live-13-feb-2026/liveblog/128284836.cms",
       "published_raw": "Fri, 13 Feb 2026 08:04:12 +0530",
@@ -1059,8 +1565,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "3aa96e4f757d23b2",
-      "source": "ET - Markets",
+      "id": "711ac9a5c6b1ffd4",
+      "source": "ET - Stocks",
       "title": "NTPC Share Price Live Updates: NTPC's impressive three-month return",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-share-price-live-updates-13-feb-2026/liveblog/128284834.cms",
       "published_raw": "Fri, 13 Feb 2026 08:04:08 +0530",
@@ -1070,9 +1576,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "2063011c5f19ead4",
-      "source": "ET - Markets",
-      "title": "JSW Steel Share Price Live Updates: Solid three-month performance for JSW Steel",
+      "id": "a40e2fc575088ff8",
+      "source": "ET - Stocks",
+      "title": "JSW Steel Share Price Live Updates: JSW Steel  Trading Update",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-13-feb-2026/liveblog/128284819.cms",
       "published_raw": "Fri, 13 Feb 2026 08:03:51 +0530",
       "published_utc": "2026-02-13T02:33:51Z",
@@ -1081,8 +1587,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "4f8a9a0dc3a92934",
-      "source": "ET - Markets",
+      "id": "17e33e8cd204a899",
+      "source": "ET - Stocks",
       "title": "Power Grid Share Price Live Updates: Power Grid's impressive three-month return",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-13-feb-2026/liveblog/128284817.cms",
       "published_raw": "Fri, 13 Feb 2026 08:03:49 +0530",
@@ -1092,8 +1598,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "ce6c39c4b86c85f2",
-      "source": "ET - Markets",
+      "id": "13a1c83a90194942",
+      "source": "ET - Stocks",
       "title": "Titan Company Share Price Live Updates: Titan Company showcases impressive returns",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-13-feb-2026/liveblog/128284800.cms",
       "published_raw": "Fri, 13 Feb 2026 08:03:27 +0530",
@@ -1103,9 +1609,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "c6eeeb48920dde98",
-      "source": "ET - Markets",
-      "title": "Wipro Share Price Live Updates: Wipro's Decline in Returns",
+      "id": "92a5272c86a23d79",
+      "source": "ET - Stocks",
+      "title": "Wipro Share Price Live Updates: Wipro's Current Market Price",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-livestock-price-today-live-updates-13-feb-2026/liveblog/128284798.cms",
       "published_raw": "Fri, 13 Feb 2026 08:03:26 +0530",
       "published_utc": "2026-02-13T02:33:26Z",
@@ -1114,8 +1620,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "5e7aecd910145780",
-      "source": "ET - Markets",
+      "id": "d5a54a0075aee4b6",
+      "source": "ET - Stocks",
       "title": "Divis Labs Share Price Live Updates: Divis Labs' three-month performance shows a decline",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-live-updates-13-feb-2026/liveblog/128284788.cms",
       "published_raw": "Fri, 13 Feb 2026 08:03:07 +0530",
@@ -1125,68 +1631,13 @@
       "likely_india_equity": false
     },
     {
-      "id": "db8f05baba5f48be",
-      "source": "ET - Markets",
-      "title": "SBI Share Price Live Updates: SBI's quarterly return highlights",
+      "id": "fa52efece8ec4ef3",
+      "source": "ET - Stocks",
+      "title": "SBI Share Price Live Updates: SBI's Current Market Position",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-stock-price-live-updates-13-feb-2026/liveblog/128284786.cms",
       "published_raw": "Fri, 13 Feb 2026 08:03:06 +0530",
       "published_utc": "2026-02-13T02:33:06Z",
       "published_ist": "13-Feb-2026 08:03 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "d4dff562722d6a49",
-      "source": "ET - Markets",
-      "title": "Cipla Share Price Live Updates: Cipla's stock shows negative momentum",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-13-feb-2026/liveblog/128284772.cms",
-      "published_raw": "Fri, 13 Feb 2026 08:02:47 +0530",
-      "published_utc": "2026-02-13T02:32:47Z",
-      "published_ist": "13-Feb-2026 08:02 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "cdf23e68eed50f3d",
-      "source": "ET - Stocks",
-      "title": "Dr Reddys Share Price Live Updates: Dr. Reddy's Laboratories showcases growth",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-today-live-13-feb-2026/liveblog/128284771.cms",
-      "published_raw": "Fri, 13 Feb 2026 08:02:46 +0530",
-      "published_utc": "2026-02-13T02:32:46Z",
-      "published_ist": "13-Feb-2026 08:02 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "51b69cbf8cca66a0",
-      "source": "ET - Stocks",
-      "title": "LTIMindtree Share Price Live Updates: LTIMindtree faces challenges in recent months",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-live-updates-13-feb-2026/liveblog/128284759.cms",
-      "published_raw": "Fri, 13 Feb 2026 08:02:27 +0530",
-      "published_utc": "2026-02-13T02:32:27Z",
-      "published_ist": "13-Feb-2026 08:02 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "86b643cfa48a62be",
-      "source": "ET - Stocks",
-      "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's three-month return analysis",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-share-price-live-updates-13-feb-2026/liveblog/128284757.cms",
-      "published_raw": "Fri, 13 Feb 2026 08:02:25 +0530",
-      "published_utc": "2026-02-13T02:32:25Z",
-      "published_ist": "13-Feb-2026 08:02 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "6a14a98f08f1af80",
-      "source": "ET - Stocks",
-      "title": "RIL Share Price Live Updates: RIL's 3-Month Return Overview",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-livestock-price-today-live-updates-13-feb-2026/liveblog/128284747.cms",
-      "published_raw": "Fri, 13 Feb 2026 08:02:07 +0530",
-      "published_utc": "2026-02-13T02:32:07Z",
-      "published_ist": "13-Feb-2026 08:02 IST",
       "summary": null,
       "likely_india_equity": false
     },
@@ -1199,17 +1650,6 @@
       "published_utc": "2026-02-13T02:32:06Z",
       "published_ist": "13-Feb-2026 08:02 IST",
       "summary": "Union Budget 2026-27 and Economic Survey 2025-26 outline a plan for growth, according to experts. This approach strengthens domestic capabilities while integrating with world markets, they say. Key areas include manufacturing, infrastructure and skills, and the vision aligns with Viksit Bharat 2047, ensuring competitiveness and resilience, they add.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "941fb7cf3bdaa62a",
-      "source": "ET - Stocks",
-      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Stock Performance Over Three Months",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-live-13-feb-2026/liveblog/128284745.cms",
-      "published_raw": "Fri, 13 Feb 2026 08:02:02 +0530",
-      "published_utc": "2026-02-13T02:32:02Z",
-      "published_ist": "13-Feb-2026 08:02 IST",
-      "summary": null,
       "likely_india_equity": false
     },
     {
@@ -1257,17 +1697,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "d6681b38c684995b",
-      "source": "Zee Business - Latest",
-      "title": "Delhi remains world's most polluted capital; 13 of top 20 cities with worst air globally in India",
-      "link": "https://www.zeebiz.com/india/news-delhi-remains-worlds-most-polluted-capital-13-indian-cities-among-worst-globally-350514",
-      "published_raw": "Fri, 13 Feb 2026 07:46:07 +0530",
-      "published_utc": "2026-02-13T02:16:07Z",
-      "published_ist": "13-Feb-2026 07:46 IST",
-      "summary": "Mullanpur (Punjab), Faridabad, Loni, New Delhi, Gurugram, Ganganagar, Greater Noida, Bhiwadi, Muzaffarnagar, Hanumangarh, and Noida are among the 13 most polluted Indian cities in the world's top 20 most polluted list.",
-      "likely_india_equity": false
-    },
-    {
       "id": "91a0c591772b15c5",
       "source": "Zee Business - Latest",
       "title": "Bank Holiday Today, June 11: Are banks closed for Sant Guru Kabir Jayanti? Check city-wise status",
@@ -1287,17 +1716,6 @@
       "published_utc": "2026-02-13T02:10:49Z",
       "published_ist": "13-Feb-2026 07:40 IST",
       "summary": "On June 21, 2017, GoAir flight G8 274, operating an Airbus A320 and carrying 156 passengers from Delhi to Mumbai, encountered a bird strike on engine 2 shortly after takeoff.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "4634966420688126",
-      "source": "BusinessLine - Markets",
-      "title": "Top buzzing stocks today: HAL, HCC, AU Small Finance Bank and more",
-      "link": "https://www.thehindubusinessline.com/markets/top-buzzing-stocks-today-hal-hcc-au-small-finance-bank-and-more/article70626901.ece",
-      "published_raw": "Fri, 13 Feb 2026 07:36:30 +0530",
-      "published_utc": "2026-02-13T02:06:30Z",
-      "published_ist": "13-Feb-2026 07:36 IST",
-      "summary": "Hindustan Aeronautics, HCC, GAIL India and AU Small Finance Bank were among the key stocks in focus on Thursday, alongside J Kumar Infraprojects, Aries Agro, Savita Oil and Ceigall India amid earnings updates, order wins and sectoral triggers.",
       "likely_india_equity": false
     },
     {
@@ -1331,17 +1749,6 @@
       "published_utc": "2026-02-13T01:52:02Z",
       "published_ist": "13-Feb-2026 07:22 IST",
       "summary": "Currency markets around the world experienced high volatility after the US government imposed sweeping reciprocal tariffs on several countries",
-      "likely_india_equity": false
-    },
-    {
-      "id": "385b3fbe74d3d108",
-      "source": "BusinessLine - Money & Banking",
-      "title": "NPST Q3 net profit more than doubles to ₹12 crore; revenue jumps 148%",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/npst-q3-net-profit-more-than-doubles-to-12-crore-revenue-jumps-148/article70625263.ece",
-      "published_raw": "Fri, 13 Feb 2026 07:14:44 +0530",
-      "published_utc": "2026-02-13T01:44:44Z",
-      "published_ist": "13-Feb-2026 07:14 IST",
-      "summary": "The fintech infrastructure provider secured a mandate to acquire and operate a UPI switch for a large cooperative bank and won a Hardware Security Module implementation order from a central payment body",
       "likely_india_equity": false
     },
     {
@@ -1385,7 +1792,7 @@
       "published_raw": "Fri, 13 Feb 2026 07:01:35 +0530",
       "published_utc": "2026-02-13T01:31:35Z",
       "published_ist": "13-Feb-2026 07:01 IST",
-      "summary": "Gold and silver rate today LIVE: Currently, gold prices on the MCX hover in a tight range of around  ₹1,50,000 to  ₹158,000. And silver MCX futures are trading near the  ₹2,35,000– ₹2,70,000 zone.",
+      "summary": "Gold and silver rate today LIVE: Currently, gold prices on the MCX hover in a tight range of around  ₹1,50,000 to  ₹158,000. And silver MCX futures are trading near the  ₹2,35,000 – Rs2,70,000 zone.",
       "likely_india_equity": false
     },
     {
@@ -1430,17 +1837,6 @@
       "published_utc": "2026-02-13T01:25:59Z",
       "published_ist": "13-Feb-2026 06:55 IST",
       "summary": "On Wednesday, the Indian rupee had posted a sharp 42-paise jump to close at 84.54.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "e69d76aaf61c1818",
-      "source": "BusinessLine - Companies",
-      "title": "ONGC Q3FY26 profit jumps 23% to ₹11,946 crore despite lower crude realisation",
-      "link": "https://www.thehindubusinessline.com/companies/ongc-q3fy26-profit-jumps-23-to-11946-crore-despite-lower-crude-realisation/article70625847.ece",
-      "published_raw": "Fri, 13 Feb 2026 06:53:59 +0530",
-      "published_utc": "2026-02-13T01:23:59Z",
-      "published_ist": "13-Feb-2026 06:53 IST",
-      "summary": "ONGC has declared a second interim dividend of ₹6.25 per share, taking total interim payout to a record ₹15,411 crore",
       "likely_india_equity": false
     },
     {
@@ -1661,17 +2057,6 @@
       "published_utc": "2026-02-12T21:21:32Z",
       "published_ist": "13-Feb-2026 02:51 IST",
       "summary": "Investors remain cautious on Coinbase ahead of its Q4 earnings, with shares falling amid operational issues, a steep downgrade from Monness Crespi, and pressure from falling Bitcoin prices.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "8c73e679f701451b",
-      "source": "The Hindu - Business",
-      "title": "The hidden cost of insurance distribution",
-      "link": "https://www.thehindu.com/opinion/op-ed/the-hidden-cost-of-insurance-distribution/article70625053.ece",
-      "published_raw": "Fri, 13 Feb 2026 01:53:07 +0530",
-      "published_utc": "2026-02-12T20:23:07Z",
-      "published_ist": "13-Feb-2026 01:53 IST",
-      "summary": "Distribution escalation is a structural faultline in India’s life insurance industry",
       "likely_india_equity": false
     },
     {
@@ -1925,17 +2310,6 @@
       "published_utc": "2026-02-12T18:18:00Z",
       "published_ist": "12-Feb-2026 23:48 IST",
       "summary": "Finance Minister Nirmala Sitharaman highlighted India's strong economic performance, characterized by high growth and low inflation, attributing it to government reforms. She refuted claims of middle-class suppression, citing an expanding taxpayer base and rising real incomes. The budget aims to guide India towards developed nation status by 2047.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "c00d6f465c75d0ad",
-      "source": "Zee Business - Latest",
-      "title": "Dankuni–Surat Dedicated Freight Corridor: Indian Railways fast-tracks 2,100 km east-west link—Here's what to know",
-      "link": "https://www.zeebiz.com/economy-infra/news-dankuni-surat-dedicated-freight-corridor-indian-railways-fast-tracks-2100-km-east-west-link-what-it-means-for-freight-390408",
-      "published_raw": "Thu, 12 Feb 2026 23:43:26 +0530",
-      "published_utc": "2026-02-12T18:13:26Z",
-      "published_ist": "12-Feb-2026 23:43 IST",
-      "summary": "The proposed corridor, which extends approximately 2,100 kilometres, will establish a link between Dankuni, located in West Bengal and Surat, located in Gujarat. The route will pass through West Bengal, Jharkhand, Odisha, Chhattisgarh, Maharashtra and Gujarat, which will create better freight links between eastern and western India.",
       "likely_india_equity": false
     },
     {
@@ -2321,17 +2695,6 @@
       "published_utc": "2026-02-12T16:40:58Z",
       "published_ist": "12-Feb-2026 22:10 IST",
       "summary": "Budget carrier reports Q3FY26 loss as labour code impact, grounded aircraft, airspace curbs and weaker rupee weigh on performance",
-      "likely_india_equity": false
-    },
-    {
-      "id": "2dff3231430abcca",
-      "source": "BusinessLine - Companies",
-      "title": "NPST posts 146% revenue jump, logs ₹57 crore in Q3",
-      "link": "https://www.thehindubusinessline.com/companies/npst-posts-146-revenue-jump-logs-57-crore-in-q3/article70624000.ece",
-      "published_raw": "Thu, 12 Feb 2026 22:06:49 +0530",
-      "published_utc": "2026-02-12T16:36:49Z",
-      "published_ist": "12-Feb-2026 22:06 IST",
-      "summary": "The company attributed growth to strong execution in payment infrastructure, risk management and bank-led digital platforms",
       "likely_india_equity": false
     },
     {
@@ -3171,17 +3534,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "4fdff49a3c91a146",
-      "source": "BusinessLine - Companies",
-      "title": "Madras HC orders enquiry into corruption allegations at NLC India",
-      "link": "https://www.thehindubusinessline.com/news/madras-hc-orders-enquiry-into-corruption-allegations-at-nlc-india/article70623795.ece",
-      "published_raw": "Thu, 12 Feb 2026 18:19:43 +0530",
-      "published_utc": "2026-02-12T12:49:43Z",
-      "published_ist": "12-Feb-2026 18:19 IST",
-      "summary": "CBI to examine ₹422-crore allegations against the PSU",
-      "likely_india_equity": false
-    },
-    {
       "id": "82520e9aaf2b157b",
       "source": "LiveMint - Markets",
       "title": "Rothschild to advise NSE on initial public offer, investment bank pitches likely after three weeks",
@@ -3512,17 +3864,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "e5adf76f51110e05",
-      "source": "LiveMint - Markets",
-      "title": "Small-cap stock under  ₹50 jumps 3% despite sell-off pressure on Dalal Street",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-hma-agro-industries-share-price-jumps-3-despite-sell-off-pressure-on-dalal-street-11770894584551.html",
-      "published_raw": "Thu, 12 Feb 2026 16:52:34 +0530",
-      "published_utc": "2026-02-12T11:22:34Z",
-      "published_ist": "12-Feb-2026 16:52 IST",
-      "summary": "HMA Agro Industries shares rose 5% to  ₹30.98 on February 12, despite a broader market decline. The stock ended 2.5% higher at  ₹30.27. It remains 19% below its 52-week high of  ₹38.15, with a 12% drop over the past year.",
-      "likely_india_equity": false
-    },
-    {
       "id": "fa29af57d97b674f",
       "source": "Business Standard - Economy",
       "title": "Fund review: Bandhan Short Duration Fund",
@@ -3633,28 +3974,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "cef60f4a3cff72b1",
-      "source": "LiveMint - Markets",
-      "title": "These 10 large-cap stocks hit their 52-week highs despite the stock market selloff; do you own any?",
-      "link": "https://www.livemint.com/market/stock-market-news/these-10-large-cap-stocks-hit-their-52-week-highs-despite-the-stock-market-selloff-do-you-own-any-11770892983653.html",
-      "published_raw": "Thu, 12 Feb 2026 16:37:07 +0530",
-      "published_utc": "2026-02-12T11:07:07Z",
-      "published_ist": "12-Feb-2026 16:37 IST",
-      "summary": "BSE data showed that 10 BSE 100 stocks, including State Bank of India (SBI), Shriram Finance, and ONGC, scaled their one-year peaks even as the Sensex crashed 559 points, or 0.66%, to end at 83,674.92.",
-      "likely_india_equity": true
-    },
-    {
-      "id": "966cd468bd54d2c8",
-      "source": "LiveMint - Markets",
-      "title": "Multibagger small-cap stock jumps 15% after Q3 results today. Do you own?",
-      "link": "https://www.livemint.com/market/multibagger-small-cap-stock-jumps-15-after-q3-results-today-do-you-own-11770893081193.html",
-      "published_raw": "Thu, 12 Feb 2026 16:33:17 +0530",
-      "published_utc": "2026-02-12T11:03:17Z",
-      "published_ist": "12-Feb-2026 16:33 IST",
-      "summary": "Tiger Logistics share price rose 15% on February 12 after mixed Q3 earnings results. Net profit fell to  ₹5.94 crore from  ₹8.42 crore year-over-year, with a 13.4% revenue decline attributed to increased operating expenses and finance costs.",
-      "likely_india_equity": false
-    },
-    {
       "id": "ae438a7b58850113",
       "source": "The Hindu - Business",
       "title": "Sensex tumbles 558 points on sell-off in IT shares",
@@ -3664,17 +3983,6 @@
       "published_ist": "12-Feb-2026 16:31 IST",
       "summary": "Technology stocks led the slide, with Tech Mahindra, Infosys and TCS tumbling nearly 6% each to emerge as major laggards on the Sensex",
       "likely_india_equity": true
-    },
-    {
-      "id": "4e7b44c1ad097b3d",
-      "source": "LiveMint - Markets",
-      "title": "Muthoot Finance Q3 Results: Net profit jumps 95% YoY to  ₹2,656 crore; NII rises 64%",
-      "link": "https://www.livemint.com/market/stock-market-news/muthoot-finance-q3-results-net-profit-jumps-95-yoy-to-rs-2-656-crore-nii-rises-64-11770893577547.html",
-      "published_raw": "Thu, 12 Feb 2026 16:28:29 +0530",
-      "published_utc": "2026-02-12T10:58:29Z",
-      "published_ist": "12-Feb-2026 16:28 IST",
-      "summary": "Muthoot Finance reported a consolidated net profit of  ₹2,656 crore, a 95% increase from last year. Net interest income rose to  ₹4,467 crore, marking a 64% surge. The company's loan assets under management grew 48% year-on-year to  ₹1,64,720 crore in 9M FY26.",
-      "likely_india_equity": false
     },
     {
       "id": "617e12e9367ed954",
@@ -3798,17 +4106,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "81a05e012c2bdfd7",
-      "source": "LiveMint - Markets",
-      "title": "Gold, silver rates today: Gold and silver prices are entering a 3-5 year bull phase, says Emkay Wealth",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-gold-and-silver-prices-are-entering-a-3-5-year-bull-phase-says-emkay-wealth-11770879829278.html",
-      "published_raw": "Thu, 12 Feb 2026 15:59:50 +0530",
-      "published_utc": "2026-02-12T10:29:50Z",
-      "published_ist": "12-Feb-2026 15:59 IST",
-      "summary": "On Thursday, gold and silver prices on the Multi Commodity Exchange (MCX) opened lower on Thursday, tracking declines in global bullion markets amid strength in the US dollar.",
-      "likely_india_equity": false
-    },
-    {
       "id": "2671034d72048f20",
       "source": "Business Standard - Companies",
       "title": "Dabur opens first South India manufacturing plant, to invest ₹400 crore",
@@ -3864,17 +4161,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "493ed148e01367f7",
-      "source": "LiveMint - Markets",
-      "title": "Gold vs silver: Can silver once again trump gold to emerge as the precious metal of the year?",
-      "link": "https://www.livemint.com/market/commodities/gold-vs-silver-can-silver-once-again-trump-gold-to-emerge-as-the-precious-metal-of-the-year-11770891212285.html",
-      "published_raw": "Thu, 12 Feb 2026 15:47:27 +0530",
-      "published_utc": "2026-02-12T10:17:27Z",
-      "published_ist": "12-Feb-2026 15:47 IST",
-      "summary": "Gold and silver performance predictions are mixed, with silver excelling in 2025 but analysts expecting gold to lead in 2026. The gold-silver ratio indicates a buying opportunity for silver when above 80, while a ratio below 40 favors gold.",
-      "likely_india_equity": false
-    },
-    {
       "id": "9b0c302a79451a8e",
       "source": "ET - Industry",
       "title": "Family Feud: Delhi court summons Bina Modi for alleged assault of son Samir Modi",
@@ -3894,17 +4180,6 @@
       "published_utc": "2026-02-12T10:14:22Z",
       "published_ist": "12-Feb-2026 15:44 IST",
       "summary": "Prices have crashed from around $3.75 per pound to below $3 in a matter of months",
-      "likely_india_equity": false
-    },
-    {
-      "id": "55622526ccdbb708",
-      "source": "LiveMint - Markets",
-      "title": "US 10-year Treasury yield recovers from one-month low. What does it mean for gold, silver rates today?",
-      "link": "https://www.livemint.com/market/commodities/us-10-year-treasury-yield-recovers-from-one-month-low-what-does-it-mean-for-gold-silver-rates-today-11770890168603.html",
-      "published_raw": "Thu, 12 Feb 2026 15:38:45 +0530",
-      "published_utc": "2026-02-12T10:08:45Z",
-      "published_ist": "12-Feb-2026 15:38 IST",
-      "summary": "The US dollar index edged higher, making dollar-priced metals more expensive for other currency holders. Meanwhile, the benchmark 10-year US Treasury yield rebounded from a near one-month low of 4.125% touched on Wednesday to 4.179% on Thursday.",
       "likely_india_equity": false
     },
     {
@@ -3994,17 +4269,6 @@
       "published_ist": "12-Feb-2026 15:08 IST",
       "summary": null,
       "likely_india_equity": true
-    },
-    {
-      "id": "fb363f03f871dbbf",
-      "source": "ET - Industry",
-      "title": "Mahindra pumps ₹196 cr into Chennai R&amp;D centre",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/mahindra-pumps-196-cr-into-chennai-rd-centre/articleshow/128249260.cms",
-      "published_raw": "Thu, 12 Feb 2026 15:06:59 +0530",
-      "published_utc": "2026-02-12T09:36:59Z",
-      "published_ist": "12-Feb-2026 15:06 IST",
-      "summary": "Mahindra &amp; Mahindra is investing Rs 196 crore to expand its Chennai research facility. This expansion will boost capabilities in advanced vehicle design and future technology. The upgraded facility will support next-generation vehicle platforms. This move reinforces India's role in global automotive innovation and product engineering. The new infrastructure is expected to be operational this year.",
-      "likely_india_equity": false
     },
     {
       "id": "2d1cb062c1a4c961",
@@ -4136,17 +4400,6 @@
       "published_utc": "2026-02-12T08:43:48Z",
       "published_ist": "12-Feb-2026 14:13 IST",
       "summary": "India's textile exporters are set to gain zero-tariff benefits on garments made with US-origin cotton. This move mirrors concessions given to Bangladesh, ensuring competitive parity. Union Commerce Minister Piyush Goyal clarified this, addressing concerns about unequal trade terms. The agreement aims to strengthen India-US trade ties. Domestic farm interests are also protected.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "4865cadc67dcb860",
-      "source": "ET - Industry",
-      "title": "From carts to kitchens? Flipkart could crack a formidable duopoly",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/food/flipkart-food-delivery-bangalore-from-carts-to-kitchens-walmart-owned-ecommerce-company-could-crack-a-formidable-duopoly-of-zomato-swiggy/articleshow/128246039.cms",
-      "published_raw": "Thu, 12 Feb 2026 14:08:58 +0530",
-      "published_utc": "2026-02-12T08:38:58Z",
-      "published_ist": "12-Feb-2026 14:08 IST",
-      "summary": "Flipkart is reportedly exploring a move into India's online food delivery sector. A pilot launch in Bengaluru is planned for May-June. A wider rollout could happen by late 2026 or early 2027. This marks Flipkart's second attempt at entering the market. The company is building a team and considering its strategy. India's food delivery market is projected for significant growth.",
       "likely_india_equity": false
     },
     {
@@ -5943,17 +6196,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "22ced7d2cc3962c7",
-      "source": "LiveMint - Companies",
-      "title": "Ford says tariffs put $900 million dent in earnings: How Trump govt's last-minute rule change hit automaker",
-      "link": "https://www.livemint.com/companies/news/ford-us-automaker-trump-tariffs-ev-plans-quarterly-earnings-11770808553722.html",
-      "published_raw": "Wed, 11 Feb 2026 17:30:39 +0530",
-      "published_utc": "2026-02-11T12:00:39Z",
-      "published_ist": "11-Feb-2026 17:30 IST",
-      "summary": "US automaker Ford said that it took a $900 million tariff hit last year due to a last-minute change by the Trump administration.",
-      "likely_india_equity": false
-    },
-    {
       "id": "d17ee1bee4036eba",
       "source": "BusinessLine - Economy",
       "title": "Sarlaben: Amul rolls out AI assistant for 36 lakh farmers and their 3 crore cattle",
@@ -7626,17 +7868,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "0d0079c89b0e574e",
-      "source": "BusinessLine - Companies",
-      "title": "Happiest Minds Technologies Q3 net profit falls 19.6% to ₹40.3 crore",
-      "link": "https://www.thehindubusinessline.com/companies/happiest-minds-technologies-q3-net-profit-falls-196-to-403-crore/article70614541.ece",
-      "published_raw": "Tue, 10 Feb 2026 18:56:02 +0530",
-      "published_utc": "2026-02-10T13:26:02Z",
-      "published_ist": "10-Feb-2026 18:56 IST",
-      "summary": "The company's revenue from operations rose 10.69 per cent to ₹587.56 crore in Q3 FY26, as compared to ₹530.81 crore in Q3 FY25.",
-      "likely_india_equity": false
-    },
-    {
       "id": "e98c0f5f2803ac74",
       "source": "BusinessLine - Economy",
       "title": "India-US trade framework to accelerate aviation growth, says Boeing India chief",
@@ -7769,17 +8000,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "52a5602a5cd4d27a",
-      "source": "BusinessLine - Markets",
-      "title": "Entellus Industries bags ₹50 Crore in funding to scale rare earth metals and alloy manufacturing",
-      "link": "https://www.thehindubusinessline.com/markets/enellus-industriesbags50-crorein-funding-to-scalerareearthmetals-andalloymanufacturing/article70614643.ece",
-      "published_raw": "Tue, 10 Feb 2026 17:17:23 +0530",
-      "published_utc": "2026-02-10T11:47:23Z",
-      "published_ist": "10-Feb-2026 17:17 IST",
-      "summary": "The proceeds from the round will be used for capex to expand into sintered alloys, a type of metal alloy used for making highly stressed components like automobile engines and transmissions",
-      "likely_india_equity": false
-    },
-    {
       "id": "f55a0005c065ed7a",
       "source": "BusinessLine - Companies",
       "title": "SAIL aims to close FY26 with 20 million tonnes in sales",
@@ -7799,17 +8019,6 @@
       "published_utc": "2026-02-10T11:43:01Z",
       "published_ist": "10-Feb-2026 17:13 IST",
       "summary": "It encompasses the design, deployment, integration, commissioning, and long-term operation and maintenance of advanced metering infrastructure for Punjab State Power Corporation",
-      "likely_india_equity": false
-    },
-    {
-      "id": "4fd2c8726569831b",
-      "source": "BusinessLine - Markets",
-      "title": "Fractal Analytics, Aye Finance IPOs see tepid day 2 response",
-      "link": "https://www.thehindubusinessline.com/markets/fractal-analytics-aye-finance-ipos-see-tepid-day-2-response/article70614634.ece",
-      "published_raw": "Tue, 10 Feb 2026 17:09:00 +0530",
-      "published_utc": "2026-02-10T11:39:00Z",
-      "published_ist": "10-Feb-2026 17:09 IST",
-      "summary": "Both issues were subscribed only about 0.14 times and 0.15 times, respectively",
       "likely_india_equity": false
     },
     {
@@ -7890,17 +8099,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "0c0a9b3d0c7c8b35",
-      "source": "BusinessLine - Markets",
-      "title": "Trade deal, global cues lift sentiment; Sensex settles 208 points higher at 84,273, Nifty up 67 points at 25,935",
-      "link": "https://www.thehindubusinessline.com/markets/trade-deal-global-cues-lift-sentiment-sensex-settles-208-points-higher-at-84273-nifty-up-67-points-at-25935/article70615017.ece",
-      "published_raw": "Tue, 10 Feb 2026 16:34:20 +0530",
-      "published_utc": "2026-02-10T11:04:20Z",
-      "published_ist": "10-Feb-2026 16:34 IST",
-      "summary": "Eternal, Tata Steel, Mahindra & Mahindra, PowerGrid, Tech Mahindra, among top gainers on Sensex",
-      "likely_india_equity": true
-    },
-    {
       "id": "31a2b14318c055fd",
       "source": "LiveMint - Industry",
       "title": "Won't promote Goa as a 'cheap' destination, says state tourism minister",
@@ -7942,17 +8140,6 @@
       "published_utc": "2026-02-10T10:46:02Z",
       "published_ist": "10-Feb-2026 16:16 IST",
       "summary": "The MoU to explore further opportunities for collaboration across manufacturing, engineering and supply chain in India and overseas",
-      "likely_india_equity": false
-    },
-    {
-      "id": "9d3a114e98f5064e",
-      "source": "BusinessLine - Markets",
-      "title": "Rupee closes 9 paise higher at 90.57 against US dollar",
-      "link": "https://www.thehindubusinessline.com/markets/forex/rupee-closes-9-paise-higher-at-9057-against-us-dollar/article70614947.ece",
-      "published_raw": "Tue, 10 Feb 2026 16:09:47 +0530",
-      "published_utc": "2026-02-10T10:39:47Z",
-      "published_ist": "10-Feb-2026 16:09 IST",
-      "summary": "Rupee was supported by firm domestic equities and a weakening US dollar",
       "likely_india_equity": false
     },
     {
@@ -8000,17 +8187,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "bbd17910dc34e494",
-      "source": "BusinessLine - Companies",
-      "title": "IHH Healthcare and subsidiary Fortis launch healthcare innovation platform",
-      "link": "https://www.thehindubusinessline.com/companies/ihh-healthcare-and-subsidiary-fortis-launch-healthcare-innovation-platform/article70614334.ece",
-      "published_raw": "Tue, 10 Feb 2026 15:17:28 +0530",
-      "published_utc": "2026-02-10T09:47:28Z",
-      "published_ist": "10-Feb-2026 15:17 IST",
-      "summary": "Anchored within the Fortis Healthcare network and supported by Plug and Play as programme partner, the platform will leverage global innovation expertise and structured startup engagement to accelerate execution",
-      "likely_india_equity": false
-    },
-    {
       "id": "7a31ebf67a88eb6d",
       "source": "LiveMint - Opinion",
       "title": "State incentives will do little to prevent the populations of Asian countries from shrinking",
@@ -8019,72 +8195,6 @@
       "published_utc": "2026-02-10T09:30:55Z",
       "published_ist": "10-Feb-2026 15:00 IST",
       "summary": "The long shift towards smaller families across Asia did not happen overnight and it can’t be reversed quickly. Singapore’s struggle to lift its birth rate shows why state incentives and public nudges can only go so far once a society changes its view of family.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "fd2166349ce2d7a1",
-      "source": "BusinessLine - Companies",
-      "title": "PadCare Labs raises $3mn in Pre-Series A led by Zerodha’s Rainmatter Capital",
-      "link": "https://www.thehindubusinessline.com/companies/padcare-labs-raises-3mn-in-pre-series-a-led-by-zerodhas-rainmatter-capital/article70614548.ece",
-      "published_raw": "Tue, 10 Feb 2026 14:32:55 +0530",
-      "published_utc": "2026-02-10T09:02:55Z",
-      "published_ist": "10-Feb-2026 14:32 IST",
-      "summary": "The India-based clean-tech startup plans to use the funds to scale its recycling capacity to 2,000 metric tonnes annually by March 2027",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ce76bda12b94158b",
-      "source": "BusinessLine - Markets",
-      "title": "Embassy Developments shares fall 4% despite 240% jump in quarterly pre-sales",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/embassy-developments-shares-fall-4-despite-240-jump-in-quarterly-pre-sales/article70614421.ece",
-      "published_raw": "Tue, 10 Feb 2026 14:18:45 +0530",
-      "published_utc": "2026-02-10T08:48:45Z",
-      "published_ist": "10-Feb-2026 14:18 IST",
-      "summary": "The company announced on February 9 that pre-sales reached ₹1,392 crore in Q3 FY26, up from ₹409 crore in Q2 FY26",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f21f2e8391eb470f",
-      "source": "BusinessLine - Markets",
-      "title": "MF multi-asset funds beat volatility in gold, silver prices better",
-      "link": "https://www.thehindubusinessline.com/markets/mf-multi-asset-funds-beat-volatility-in-gold-silver-prices-better/article70614482.ece",
-      "published_raw": "Tue, 10 Feb 2026 14:15:12 +0530",
-      "published_utc": "2026-02-10T08:45:12Z",
-      "published_ist": "10-Feb-2026 14:15 IST",
-      "summary": "Multi-asset allocation funds invest in a minimum of three different asset classes such as equity, debt and commodities, which include gold and silver",
-      "likely_india_equity": false
-    },
-    {
-      "id": "7b601d5eb0f8f30b",
-      "source": "BusinessLine - Markets",
-      "title": "AXISCADES shares surge 5% after strong Q3 results, revenue jumps 25%",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/axiscades-shares-surge-5-after-strong-q3-results-revenue-jumps-25/article70614307.ece",
-      "published_raw": "Tue, 10 Feb 2026 14:07:25 +0530",
-      "published_utc": "2026-02-10T08:37:25Z",
-      "published_ist": "10-Feb-2026 14:07 IST",
-      "summary": "For the nine-month period ending December 2025, AXISCADES posted revenue of ₹886 crore, a 16.2 per cent increase, with adjusted PAT of ₹79 crore surpassing full-year FY25 earnings",
-      "likely_india_equity": false
-    },
-    {
-      "id": "c877952a828796b8",
-      "source": "BusinessLine - Markets",
-      "title": "SEBI stalls new exchanges' entry into options market, sources say",
-      "link": "https://www.thehindubusinessline.com/markets/sebi-stalls-new-exchanges-entry-into-options-market-sources-say/article70614508.ece",
-      "published_raw": "Tue, 10 Feb 2026 14:07:03 +0530",
-      "published_utc": "2026-02-10T08:37:03Z",
-      "published_ist": "10-Feb-2026 14:07 IST",
-      "summary": "SEBI does not want new players to further fuel\nderivatives trading without first establishing an underlying\ncash market",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ade5321391fb0855",
-      "source": "BusinessLine - Companies",
-      "title": "Lupin settles patent dispute with Astellas for $90 million",
-      "link": "https://www.thehindubusinessline.com/companies/lupin-settles-patent-dispute-with-astellas-for-90-million/article70614414.ece",
-      "published_raw": "Tue, 10 Feb 2026 14:04:33 +0530",
-      "published_utc": "2026-02-10T08:34:33Z",
-      "published_ist": "10-Feb-2026 14:04 IST",
-      "summary": "The product is indicated for treating an overactive bladder with symptoms of urge urinary incontinence, urgency, and urinary frequency",
       "likely_india_equity": false
     },
     {
@@ -9056,17 +9166,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "43a221d082469178",
-      "source": "Business Standard - Economy",
-      "title": "New income tax rules coming soon - and taxpayers can now give feedback",
-      "link": "https://www.business-standard.com/finance/personal-finance/new-income-tax-rules-coming-soon-and-taxpayers-can-now-give-feedback-126020900266_1.html",
-      "published_raw": "Mon, 09 Feb 2026 10:34:55 +0530",
-      "published_utc": "2026-02-09T05:04:55Z",
-      "published_ist": "09-Feb-2026 10:34 IST",
-      "summary": "I-T dept invites stakeholder views on draft rules, forms under new Income Tax Act",
-      "likely_india_equity": false
-    },
-    {
       "id": "1731a50e3173a4b3",
       "source": "LiveMint - Economy",
       "title": "Here's why purchasing a Harley-Davidson bike could get cheaper in India",
@@ -9375,25 +9474,14 @@
       "likely_india_equity": true
     },
     {
-      "id": "9ec331ce18d4ec50",
-      "source": "The Hindu - Business",
+      "id": "b284d2cd246ba4fb",
+      "source": "The Hindu - Economy",
       "title": "16th Finance Commission identifies Tamil Nadu as one of top three States suffering heavy losses of public sector enterprises",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/16th-finance-commission-identifies-tn-as-one-of-top-three-states-sufferingheavylosses-of-public-sector-enterprises/article70604668.ece",
       "published_raw": "Sun, 08 Feb 2026 13:19:00 +0530",
       "published_utc": "2026-02-08T07:49:00Z",
       "published_ist": "08-Feb-2026 13:19 IST",
       "summary": "For the year 2022-23, the top three States in this category were Uttar Pradesh (₹32,430 crore), Rajasthan (₹18,814 crore), and Tamil Nadu (₹16,048 crore), according to volume 1 of the commission’s report",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ba8d6b0eab5b4e62",
-      "source": "The Hindu - Business",
-      "title": "FPIs turn net buyers in February; invest ₹8,100 crore in a week on U.S. trade deal",
-      "link": "https://www.thehindu.com/business/markets/fpis-turn-net-buyers-in-february-invest-8100-crore-in-a-week-on-us-trade-deal/article70606824.ece",
-      "published_raw": "Sun, 08 Feb 2026 13:10:10 +0530",
-      "published_utc": "2026-02-08T07:40:10Z",
-      "published_ist": "08-Feb-2026 13:10 IST",
-      "summary": "In February alone, FPIs made an invested ₹8,129 crore (until February 6), infusing the much-needed optimism to Indian economy",
       "likely_india_equity": false
     },
     {
@@ -9485,8 +9573,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "3d832cb21526c2cb",
-      "source": "The Hindu - Business",
+      "id": "d87c2de5f97def37",
+      "source": "The Hindu - Industry",
       "title": "Embassy REIT declares distribution of ₹613 crore to unitholders for December quarter",
       "link": "https://www.thehindu.com/business/Industry/embassy-reit-declares-distribution-of-613-crore-to-unitholders-for-december-quarter/article70605012.ece",
       "published_raw": "Sat, 07 Feb 2026 21:57:02 +0530",
@@ -9581,17 +9669,6 @@
       "published_utc": "2026-02-07T13:52:45Z",
       "published_ist": "07-Feb-2026 19:22 IST",
       "summary": "SBI’s wealth management AUM currently stands at about ₹4 lakh crore",
-      "likely_india_equity": false
-    },
-    {
-      "id": "8895b0353941898a",
-      "source": "LiveMint - Economy",
-      "title": "Energy security is supreme priority, says MEA as India seeks to diversify sources amid global shifts",
-      "link": "https://www.livemint.com/economy/energy-security-is-supreme-priority-says-mea-as-india-seeks-to-diversify-sources-amid-global-shifts-11770466988916.html",
-      "published_raw": "Sat, 07 Feb 2026 19:14:06 +0530",
-      "published_utc": "2026-02-07T13:44:06Z",
-      "published_ist": "07-Feb-2026 19:14 IST",
-      "summary": "Ministry of External Affairs (MEA) on 7 February 2026, said that India's supreme priority is energy security for its people, as the central government aims to diversify its energy sourcing requirement to several markets. Here's what you need to know.",
       "likely_india_equity": false
     },
     {
@@ -11762,17 +11839,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "868c0875dc8a2fef",
-      "source": "The Hindu - Economy",
-      "title": "Union Budget 2026: Individuals residing outside India will be permitted to invest in listed companies, FM Sitharaman announces",
-      "link": "https://www.thehindu.com/business/budget/budget-2026-person-of-indian-origin-investments/article70577064.ece",
-      "published_raw": "Sun, 01 Feb 2026 12:19:51 +0530",
-      "published_utc": "2026-02-01T06:49:51Z",
-      "published_ist": "01-Feb-2026 12:19 IST",
-      "summary": "The investment limit for PIO will be increased from 5% to 10%.",
-      "likely_india_equity": false
-    },
-    {
       "id": "4e6a1b3b818d56ff",
       "source": "The Hindu - Economy",
       "title": "Union Budget 2026-27: Government to develop 'corporate mitras' cadre to help MSMEs",
@@ -11935,28 +12001,6 @@
       "published_utc": "2026-01-29T17:02:59Z",
       "published_ist": "29-Jan-2026 22:32 IST",
       "summary": "The CEA observed that as demand for such minerals spur, advanced economies promoting “standards-based critical markets” could carve challenges relating to affordability and entrapment in lower-value segments of the supply chain, among other things",
-      "likely_india_equity": false
-    },
-    {
-      "id": "b430b8015e4fd947",
-      "source": "The Hindu - Industry",
-      "title": "Economic Survey suggests marketing ban and highest GST on ultra-processed foods to tackle obesity",
-      "link": "https://www.thehindu.com/business/budget/economic-survey2025-26-centre-mulls-marketing-ban-highestgst-on-ultra-processed-foods/article70566678.ece",
-      "published_raw": "Thu, 29 Jan 2026 20:41:45 +0530",
-      "published_utc": "2026-01-29T15:11:45Z",
-      "published_ist": "29-Jan-2026 20:41 IST",
-      "summary": "Restrictions may also be levied on marketing of infant and toddler milk and beverages to tackle rising obesity",
-      "likely_india_equity": false
-    },
-    {
-      "id": "641f91ffa1e818d6",
-      "source": "The Hindu - Industry",
-      "title": "Economic Survey 2025-26: DISCOMs record profits for the first time in India",
-      "link": "https://www.thehindu.com/business/budget/economic-survey-discoms-recordprofits-for-the-first-time-in-india/article70566015.ece",
-      "published_raw": "Thu, 29 Jan 2026 19:43:20 +0530",
-      "published_utc": "2026-01-29T14:13:20Z",
-      "published_ist": "29-Jan-2026 19:43 IST",
-      "summary": "India’s energy gap between supply and demand has dropped to nil by November 2025",
       "likely_india_equity": false
     },
     {
@@ -12257,17 +12301,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "99350b6762959a6d",
-      "source": "Moneycontrol - Economy",
-      "title": "Moneycontrol Pro Panorama | India at big club threshold",
-      "link": "https://www.moneycontrol.com/news/economy/moneycontrol-pro-panorama-|-india-at-big-club-threshold_17531931.html",
-      "published_raw": "Tue, 23 Apr 2024 16:33:27 +0530",
-      "published_utc": "2024-04-23T11:03:27Z",
-      "published_ist": "23-Apr-2024 16:33 IST",
-      "summary": " In today#39;s edition of Pro Panorama: Rupee#39;s resilience, economy on a strong footing, how to have a balance in energy mix and more",
-      "likely_india_equity": false
-    },
-    {
       "id": "30f53c82bd03520a",
       "source": "Moneycontrol - Buzzing Stocks",
       "title": "Gainers and Losers: 10 stocks that moved the most on April 23",
@@ -12331,28 +12364,6 @@
       "published_utc": "2024-04-23T08:06:44Z",
       "published_ist": "23-Apr-2024 13:36 IST",
       "summary": " Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ae7b45e45b9d244b",
-      "source": "Moneycontrol - Economy",
-      "title": "India#39;s sugar demand surges in heat wave and election season",
-      "link": "https://www.moneycontrol.com/news/economy/india39s-sugar-demand-surgesheat-waveelection-season_17531591.html",
-      "published_raw": "Tue, 23 Apr 2024 13:33:42 +0530",
-      "published_utc": "2024-04-23T08:03:42Z",
-      "published_ist": "23-Apr-2024 13:33 IST",
-      "summary": " Higher consumption would lift local prices and boost margins of sugar producers such as Balrampur Chini, Shree Renuka Sugars, Bajaj Hindusthan, and Dwarikesh Sugar and help them in making cane payments on time to farmers.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "d6aa883cf044b0f9",
-      "source": "Moneycontrol - Economy",
-      "title": "India#39;s sugar demand surges in heat wave and election season",
-      "link": "https://www.moneycontrol.com/news/economy/india39s-sugar-demand-surgesheat-waveelection-season_17531601.html",
-      "published_raw": "Tue, 23 Apr 2024 13:33:42 +0530",
-      "published_utc": "2024-04-23T08:03:42Z",
-      "published_ist": "23-Apr-2024 13:33 IST",
-      "summary": " Higher consumption would lift local prices and boost margins of sugar producers such as Balrampur Chini, Shree Renuka Sugars, Bajaj Hindusthan, and Dwarikesh Sugar and help them in making cane payments on time to farmers.",
       "likely_india_equity": false
     },
     {
@@ -12485,17 +12496,6 @@
       "published_utc": "2024-04-23T06:16:43Z",
       "published_ist": "23-Apr-2024 11:46 IST",
       "summary": " ICICI Securities is bullish on Hatsun Agro Products recommended buy rating on the stock with a target price of Rs 1190 in its research report dated April 23, 2024.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "74ce3553b08f2047",
-      "source": "Moneycontrol - Economy",
-      "title": "India’s Composite Flash PMI for April signals very strong economy",
-      "link": "https://www.moneycontrol.com/news/economy/india’s-composite-flash-pmi-for-april-signals-very-strong-economy_17531301.html",
-      "published_raw": "Tue, 23 Apr 2024 11:07:37 +0530",
-      "published_utc": "2024-04-23T05:37:37Z",
-      "published_ist": "23-Apr-2024 11:07 IST",
-      "summary": " The increasing momentum provides a fundamental basis to the optimism in the Indian equity market",
       "likely_india_equity": false
     },
     {
