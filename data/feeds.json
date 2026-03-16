@@ -1,16 +1,445 @@
 {
-  "generated_utc": "2026-03-16T13:55:12Z",
-  "count": 1061,
+  "generated_utc": "2026-03-16T15:07:08Z",
+  "count": 1046,
   "items": [
     {
-      "id": "71624900fb5229b3",
-      "source": "The Hindu - Economy",
+      "id": "4dbaf46a43418ac6",
+      "source": "Zee Business - Latest",
+      "title": "Crude Oil Shock After 3 years: HSBC downgrades HPCL, BPCL, IOCL; target prices cut by up to 42%",
+      "link": "https://www.zeebiz.com/markets/stocks/news-crude-oil-shock-after-3-years-hsbc-downgrades-hpcl-bpcl-iocl-target-prices-cut-by-up-to-42-392059",
+      "published_raw": "Mon, 16 Mar 2026 20:32:45 +0530",
+      "published_utc": "2026-03-16T15:02:45Z",
+      "published_ist": "16-Mar-2026 20:32 IST",
+      "summary": "Crude oil prices have surged above $105 per barrel for the first time in nearly three years amid escalating Middle East tensions. Following the rally, global brokerage HSBC downgraded Indian oil marketing companies HPCL, BPCL and IOCL to ‘Hold’ and slashed their target prices by up to 42 per cent, warning of margin pressure if crude prices remain elevated.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "519dfceeadc9292e",
+      "source": "Zee Business - Latest",
+      "title": "India remains engaged with US for a mutually beneficial trade pact: Commerce Secretary",
+      "link": "https://www.zeebiz.com/economy-infra/news-india-hopes-to-get-preferential-treatment-commerce-secretary-on-us-trade-deal-392058",
+      "published_raw": "Mon, 16 Mar 2026 20:28:22 +0530",
+      "published_utc": "2026-03-16T14:58:22Z",
+      "published_ist": "16-Mar-2026 20:28 IST",
+      "summary": "Barring the petroleum and gems and jewellery categories, India's exports registered year-on-year growth across the board, according to official data.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "2723f35271ad2805",
+      "source": "LiveMint - Economy",
+      "title": "India’s unemployment rate moderates in February, rural trend unchanged",
+      "link": "https://www.livemint.com/economy/india-unemployment-rate-jobs-rural-areas-urban-youth-hiring-11773669549492.html",
+      "published_raw": "Mon, 16 Mar 2026 20:26:31 +0530",
+      "published_utc": "2026-03-16T14:56:31Z",
+      "published_ist": "16-Mar-2026 20:26 IST",
+      "summary": "While the unemployment rate in urban areas declined to 6.6% in February, the rural rate remained unchanged at 4.2%",
+      "likely_india_equity": false
+    },
+    {
+      "id": "60c920a2e60e5972",
+      "source": "BusinessLine - Companies",
+      "title": "Whisky push turns Tilaknagar into pan-India spirits player, now 70% of portfolio",
+      "link": "https://www.thehindubusinessline.com/companies/whisky-push-turns-tilaknagar-into-pan-india-spirits-player-now-70-of-portfolio/article70750786.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:25:42 +0530",
+      "published_utc": "2026-03-16T14:55:42Z",
+      "published_ist": "16-Mar-2026 20:25 IST",
+      "summary": "In December 2025, Tilaknagar completed the acquisition of the Imperial Blue business division from Pernod Ricard India via a slump sale for a lump-sum consideration of ₹3,442 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d1e05329b90270b1",
+      "source": "BusinessLine - Economy",
+      "title": "Noida International Airport seeks higher user development fee ahead of launch",
+      "link": "https://www.thehindubusinessline.com/economy/logistics/noida-international-airport-seeks-higher-user-development-fee-ahead-of-launch/article70750678.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:15:15 +0530",
+      "published_utc": "2026-03-16T14:45:15Z",
+      "published_ist": "16-Mar-2026 20:15 IST",
+      "summary": "The airport recently received its aerodrome licence and is preparing to begin commercial operations.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c1cbd8bdfa4774b6",
+      "source": "BusinessLine - Economy",
+      "title": "India to wait for new US tariff architecture before trade deal, says official",
+      "link": "https://www.thehindubusinessline.com/economy/india-to-wait-for-new-us-tariff-architecture-before-trade-deal-says-official/article70750618.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:14:45 +0530",
+      "published_utc": "2026-03-16T14:44:45Z",
+      "published_ist": "16-Mar-2026 20:14 IST",
+      "summary": "India wants trade deal with the US to also take care of the Section 301 investigations that Washington is carrying out against the country",
+      "likely_india_equity": false
+    },
+    {
+      "id": "65ffd97d03e497c3",
+      "source": "LiveMint - Companies",
+      "title": "OpenAI courts private equity to join enterprise AI venture, sources say",
+      "link": "https://www.livemint.com/companies/news/openai-courts-private-equity-join-venture-enterprise-ai-venture-sources-tpg-advent-bain-brookfield-pre-money-valuation-11773671231472.html",
+      "published_raw": "Mon, 16 Mar 2026 20:09:52 +0530",
+      "published_utc": "2026-03-16T14:39:52Z",
+      "published_ist": "16-Mar-2026 20:09 IST",
+      "summary": "OpenAI is in advanced talks with private equity firms to form a JV that would distribute its enterprise products across the firms' portfolio companies and beyond, sources told Reuters.&amp;nbsp;",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c74b5873b0605b08",
+      "source": "BusinessLine - Markets",
+      "title": "India’s 2025-26 horticulture output seen a tad up, as higher fruits offset loss in vegetables",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/indias-2025-26-horticulture-output-seen-a-tad-up-as-higher-fruits-offset-loss-in-vegetables/article70750413.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:05:56 +0530",
+      "published_utc": "2026-03-16T14:35:56Z",
+      "published_ist": "16-Mar-2026 20:05 IST",
+      "summary": "Output estimated at 370.85 million tonnes as higher yield makes up for lower acreage",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7666d6953ead415b",
+      "source": "BusinessLine - Money & Banking",
+      "title": "Union Bank to raise up to ₹20,000 crore via long-term bonds",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/union-bank-to-raise-up-to-20000-crore-via-long-term-bonds/article70750673.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:03:54 +0530",
+      "published_utc": "2026-03-16T14:33:54Z",
+      "published_ist": "16-Mar-2026 20:03 IST",
+      "summary": "The bank may initially raise ₹7,500 crore, including a base issue of ₹3,000 crore and a green shoe option of ₹4,500 crore, with a tenure of 10 years before March-end 2026.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "17ae862aa6310a15",
+      "source": "BusinessLine - Markets",
+      "title": "Top Indian IT firms face sharp market cap declines amid AI disruption",
+      "link": "https://www.thehindubusinessline.com/markets/market-cap-of-top-it-firms-plunges-in-last-5-years/article70749297.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:03:48 +0530",
+      "published_utc": "2026-03-16T14:33:48Z",
+      "published_ist": "16-Mar-2026 20:03 IST",
+      "summary": "Wipro sees sharpest fall of 42% between 2021 and March 2026; TCS drops 36%",
+      "likely_india_equity": true
+    },
+    {
+      "id": "725cce4e1d6f1cfe",
+      "source": "BusinessLine - Markets",
+      "title": "Broker’s Call: KFIN Technologies (Buy)",
+      "link": "https://www.thehindubusinessline.com/markets/brokers-call-kfin-technologies-buy/article70749374.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:03:31 +0530",
+      "published_utc": "2026-03-16T14:33:31Z",
+      "published_ist": "16-Mar-2026 20:03 IST",
+      "summary": "ICICI Securities",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f360a700fa239e25",
+      "source": "The Hindu - Business",
+      "title": "Economic stagnation, job mismatch behind ‘distress migration’ from Punjab: Experts",
+      "link": "https://www.thehindu.com/news/national/punjab/economic-stagnation-job-mismatch-behind-distressmigrationfrom-punjab-experts/article70749463.ece",
+      "published_raw": "Mon, 16 Mar 2026 20:03:26 +0530",
+      "published_utc": "2026-03-16T14:33:26Z",
+      "published_ist": "16-Mar-2026 20:03 IST",
+      "summary": "Punjab’s Economic Survey 2025-26 notes that a combination of “pull” and “push” factors behind brain drain from the State.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0029820f3c2d886d",
+      "source": "BusinessLine - Money & Banking",
+      "title": "No clear evidence linking medical inflation to insurance premium hikes: IRDAI",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/no-clear-evidence-linking-medical-inflation-to-insurance-premium-hikes-irdai/article70750192.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:59:07 +0530",
+      "published_utc": "2026-03-16T14:29:07Z",
+      "published_ist": "16-Mar-2026 19:59 IST",
+      "summary": "IRDAI has also mandated actuarial reviews to ensure transparency in pricing and capped annual premium hikes for senior citizens at 10 per cent unless approved by the regulator.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "2f60a0a1d1b4d35c",
+      "source": "BusinessLine - Markets",
+      "title": "SEBI clears 3 IPOs that will mop up over ₹500 cr",
+      "link": "https://www.thehindubusinessline.com/markets/sebi-clears-3-ipos-that-will-mop-up-over-500-cr/article70750487.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:58:23 +0530",
+      "published_utc": "2026-03-16T14:28:23Z",
+      "published_ist": "16-Mar-2026 19:58 IST",
+      "summary": "Currently, SEBI is considering 46 applications for fund raise through IPOs",
+      "likely_india_equity": false
+    },
+    {
+      "id": "717f05d4ae77a6af",
+      "source": "ET - Markets",
+      "title": "Sebi eases settlement guarantee norms for commodity derivatives clearing corporations",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-settlement-guarantee-norms-for-commodity-derivatives-clearing-corporations/articleshow/129612368.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:58:22 +0530",
+      "published_utc": "2026-03-16T14:28:22Z",
+      "published_ist": "16-Mar-2026 19:58 IST",
+      "summary": "The Securities and Exchange Board of India has revised Core Settlement Guarantee Fund norms for commodity clearing corporations, requiring stress scenarios of three member defaults. The regulator also allowed mutual funds to undertake intraday borrowing to manage temporary liquidity mismatches.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "86e72bc2709529f5",
+      "source": "Zee Business - Latest",
+      "title": "Tata Motors announces price hike for commercial vehicles from April 1",
+      "link": "https://www.zeebiz.com/automobile/news-tata-motors-announces-price-hike-for-commercial-vehicles-from-april-1-392057",
+      "published_raw": "Mon, 16 Mar 2026 19:56:27 +0530",
+      "published_utc": "2026-03-16T14:26:27Z",
+      "published_ist": "16-Mar-2026 19:56 IST",
+      "summary": "Tata Motors Announces Price Hike: Tata Motors on Monday, March 16, announced that it is going to increase the prices of all its commercial vehicles from next month. Check details:",
+      "likely_india_equity": false
+    },
+    {
+      "id": "83159ea4cd118774",
+      "source": "ET - Industry",
+      "title": "Top 10 wilful defaulters owe Rs 40,635 crore to banks, ABG Shipyard leads",
+      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/top-10-wilful-defaulters-abg-shipyard-leads-with-rs-6695-crore-debt-to-banks/articleshow/129612096.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:54:56 +0530",
+      "published_utc": "2026-03-16T14:24:56Z",
+      "published_ist": "16-Mar-2026 19:54 IST",
+      "summary": "In a troubling financial forecast, top wilful defaulters are on track to owe banks over Rs 40,000 crore by March 2025, with ABG Shipyard at the forefront. Conversely, the digital payments sector is experiencing explosive growth, having reached an astronomical Rs 849.12 lakh crore in retail transactions by FY25.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "8b467d65c3d08e70",
+      "source": "BusinessLine - Companies",
+      "title": "Bajaj Auto may shift EV expansion out of Maharashtra amid subsidy, permit row",
+      "link": "https://www.thehindubusinessline.com/companies/bajaj-auto-considers-shifting-ev-manufacturing-away-from-maharashtra-amid-subsidy-dispute/article70742615.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:53:10 +0530",
+      "published_utc": "2026-03-16T14:23:10Z",
+      "published_ist": "16-Mar-2026 19:53 IST",
+      "summary": "This move could threaten Maharashtra’s status as a manufacturing hub and escalate tensions with State officials, as rival states like Karnataka and Tamil Nadu vie for Bajaj’s EV investments",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ab7eac6da321fc6a",
+      "source": "BusinessLine - Markets",
+      "title": "Broker’s Call: Federal Bank (Buy)",
+      "link": "https://www.thehindubusinessline.com/markets/brokers-call-federal-bank-buy/article70749445.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:51:58 +0530",
+      "published_utc": "2026-03-16T14:21:58Z",
+      "published_ist": "16-Mar-2026 19:51 IST",
+      "summary": "Axis Securities",
+      "likely_india_equity": false
+    },
+    {
+      "id": "e352d3310bcc88a0",
+      "source": "ET - Economy",
+      "title": "India’s exports to US fall 13% in Feb; trade deficit with China crosses $100 billion",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-exports-to-us-fall-13-in-feb-trade-deficit-with-china-crosses-100-billion/articleshow/129612230.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:51:25 +0530",
+      "published_utc": "2026-03-16T14:21:25Z",
+      "published_ist": "16-Mar-2026 19:51 IST",
+      "summary": "In February, India's exports to the US faced a downturn, attributed largely to the imposed American tariffs. On another front, the trade deficit with China has now exceeded 100 billion dollars for the fiscal year. Interestingly, imports from the US have ramped up considerably.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "e6a2569487bdc531",
+      "source": "BusinessLine - Economy",
+      "title": "India plans support package for exporters hit by West Asia disruptions",
+      "link": "https://www.thehindubusinessline.com/economy/policy/india-mulls-steps-to-aid-exports-hit-by-west-asia-conflict-says-trade-secretary/article70749391.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:50:43 +0530",
+      "published_utc": "2026-03-16T14:20:43Z",
+      "published_ist": "16-Mar-2026 19:50 IST",
+      "summary": "An inter-ministerial group is monitoring the situation, while the government may consider a support package of around ₹500 crore, including assistance through Export Credit Guarantee Corporation of India",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d6ea015c5e0e4117",
+      "source": "BusinessLine - Economy",
+      "title": "India jobless rate dips to 4.9% in February as urban employment improves",
+      "link": "https://www.thehindubusinessline.com/economy/india-jobless-rate-dips-to-49-in-february-as-urban-employment-improves/article70750354.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:46:47 +0530",
+      "published_utc": "2026-03-16T14:16:47Z",
+      "published_ist": "16-Mar-2026 19:46 IST",
+      "summary": "Female unemployment also declined during the month, with urban female joblessness dropping sharply",
+      "likely_india_equity": false
+    },
+    {
+      "id": "e4d7b1b567504385",
+      "source": "BusinessLine - Economy",
+      "title": "West Asia crisis lifts EV enquiries in India, but analysts see gradual adoption",
+      "link": "https://www.thehindubusinessline.com/economy/west-asia-crisis-lifts-ev-enquiries-in-india-but-analysts-see-gradual-adoption/article70749331.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:42:01 +0530",
+      "published_utc": "2026-03-16T14:12:01Z",
+      "published_ist": "16-Mar-2026 19:42 IST",
+      "summary": "Industry experts note that factors such as upfront costs, charging infrastructure and strong demand for CNG vehicles will continue to influence consumer choices, even as EV adoption steadily grows",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0ee32355015a691a",
+      "source": "Zee Business - Latest",
+      "title": "Gold slips below Rs 1.55 lakh on MCX, silver near Rs 2.50 lakh: Why are prices slipping? MOFSL explains",
+      "link": "https://www.zeebiz.com/markets/commodities/news-gold-slips-below-rs-155-lakh-on-mcx-silver-near-rs-250-lakh-why-are-prices-slipping-should-you-buy-mofsl-explains-392042",
+      "published_raw": "Mon, 16 Mar 2026 19:40:17 +0530",
+      "published_utc": "2026-03-16T14:10:17Z",
+      "published_ist": "16-Mar-2026 19:40 IST",
+      "summary": "Gold and silver prices slipped on MCX as a stronger US dollar, rising crude oil prices and fading hopes of early US rate cuts weighed on bullion. Motilal Oswal says geopolitical tensions and global central bank decisions will determine the next move in precious metals.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "fd1353e8ac925828",
+      "source": "BusinessLine - Economy",
+      "title": "India’s unemployment rate falls to 4.9% in February",
+      "link": "https://www.thehindubusinessline.com/economy/indias-unemployment-rate-falls-to-49-in-february/article70749635.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:39:04 +0530",
+      "published_utc": "2026-03-16T14:09:04Z",
+      "published_ist": "16-Mar-2026 19:39 IST",
+      "summary": null,
+      "likely_india_equity": false
+    },
+    {
+      "id": "42f180b4da7e066b",
+      "source": "ET - Industry",
+      "title": "Steel companies seek government intervention as coated steel units stare at propane shortage",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/steel-companies-seek-government-intervention-as-coated-steel-units-stare-at-propane-shortage/articleshow/129611950.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:37:09 +0530",
+      "published_utc": "2026-03-16T14:07:09Z",
+      "published_ist": "16-Mar-2026 19:37 IST",
+      "summary": "Propane gas is used to provide the steady heating required to melt zinc during the coating process, ensuring a smooth and corrosion-resistant finish. It is a byproduct of natural gas processing and petroleum refining.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a2949c48ec6f6f0e",
+      "source": "BusinessLine - Companies",
+      "title": "RIL signs $3 bn, 15-year green ammonia supply/purchase agreement with Samsung",
+      "link": "https://www.thehindubusinessline.com/companies/ril-signs-3-bn-15-year-green-ammonia-supplypurchase-agreement-with-samsung/article70750528.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:36:45 +0530",
+      "published_utc": "2026-03-16T14:06:45Z",
+      "published_ist": "16-Mar-2026 19:36 IST",
+      "summary": "The deal is expected to support the development of India’s green hydrogen ecosystem and aligns with the government’s National Green Hydrogen Mission, which aims to position the country as a major global producer and exporter of green fuels",
+      "likely_india_equity": false
+    },
+    {
+      "id": "1b2bde529d539acd",
+      "source": "BusinessLine - Economy",
+      "title": "India in talks for six FTAs with Australia, Sri Lanka, Peru, Chile and others",
+      "link": "https://www.thehindubusinessline.com/economy/india-in-talks-for-six-ftas-with-australia-sri-lanka-peru-chile-and-others/article70749406.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:36:07 +0530",
+      "published_utc": "2026-03-16T14:06:07Z",
+      "published_ist": "16-Mar-2026 19:36 IST",
+      "summary": "The government is also advancing other trade initiatives, including agreements with the United Kingdom and Oman awaiting ratification, concluded negotiations with the European Union and New Zealand, and ongoing talks with the United States and several other partners",
+      "likely_india_equity": false
+    },
+    {
+      "id": "31c4f9806f5d3ac5",
+      "source": "The Hindu - Business",
+      "title": "Gujarat govt’s GMDC inks MoU with NMDC to explore rare earth elements",
+      "link": "https://www.thehindu.com/business/gujarat-govts-gmdc-inks-mou-with-nmdc-to-explore-rare-earth-elements/article70750396.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:32:57 +0530",
+      "published_utc": "2026-03-16T14:02:57Z",
+      "published_ist": "16-Mar-2026 19:32 IST",
+      "summary": null,
+      "likely_india_equity": false
+    },
+    {
+      "id": "bf6fa4fd0d8bad15",
+      "source": "BusinessLine - Economy",
+      "title": "India exports 3.15 lakh tonne sugar in Oct–Feb; UAE emerges as top destination",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/india-exports-315-lakh-tonne-sugar-in-octfeb-uae-emerges-as-top-destination/article70749433.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:31:35 +0530",
+      "published_utc": "2026-03-16T14:01:35Z",
+      "published_ist": "16-Mar-2026 19:31 IST",
+      "summary": "Meanwhile, India’s sugar production estimate has been revised down to 28.3 million tonne due to lower yields caused by adverse weather in key producing states",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d418c2d8b4c7d3c8",
+      "source": "BusinessLine - Economy",
+      "title": "Wholesale inflation rose to 2.13% in February",
+      "link": "https://www.thehindubusinessline.com/economy/wholesale-inflation-rose-to-213-in-february/article70749422.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:30:01 +0530",
+      "published_utc": "2026-03-16T14:00:01Z",
+      "published_ist": "16-Mar-2026 19:30 IST",
+      "summary": "In the case of manufactured products, WPI inflation inched up to 2.92% in February, from 2.86% in the preceding month; non-food articles category inflation spiked to 8.80% in February, from 7.58% in January",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ef1d33befa58719d",
+      "source": "Zee Business - Latest",
+      "title": "Nearly 35% of urban consumers in India admitted to having bought fake products in the last year: Report",
+      "link": "https://www.zeebiz.com/india/news-nearly-35-of-urban-consumers-in-india-admitted-to-having-bought-fake-products-in-the-last-year-report-392056",
+      "published_raw": "Mon, 16 Mar 2026 19:29:24 +0530",
+      "published_utc": "2026-03-16T13:59:24Z",
+      "published_ist": "16-Mar-2026 19:29 IST",
+      "summary": "The nationwide study, based on a consumer survey of 1,639 respondents across nine major Indian cities - Delhi, Mumbai, Chennai, Bengaluru, Hyderabad, Kolkata, Ahmedabad, Jaipur and Indore - highlights the growing scale, changing channels, and increasing consumer awareness regarding counterfeit products across multiple industries.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "88c30ebf5ff3a3d7",
+      "source": "LiveMint - Companies",
+      "title": "Atlys secures $36 million in Series C funding from Susquehanna Asia VC",
+      "link": "https://www.livemint.com/companies/atlys-visa-processing-startup-raises-funding-makemytrip-invests-11773664574465.html",
+      "published_raw": "Mon, 16 Mar 2026 19:27:38 +0530",
+      "published_utc": "2026-03-16T13:57:38Z",
+      "published_ist": "16-Mar-2026 19:27 IST",
+      "summary": "Atlys has secured $36 million in Series C funding to expand its AI-powered visa processing platform into new international markets. The round, led by Susquehanna Asia VC, highlights a return to pre-pandemic growth trends in the global travel sector.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "3771c4c021b0f879",
+      "source": "BusinessLine - Economy",
+      "title": "India studying legal impact of fresh US probe into excess industrial capacity, says trade secretary",
+      "link": "https://www.thehindubusinessline.com/economy/india-studying-legal-impact-of-fresh-us-probe-into-excess-industrial-capacity-says-trade-secretary/article70749262.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:26:13 +0530",
+      "published_utc": "2026-03-16T13:56:13Z",
+      "published_ist": "16-Mar-2026 19:26 IST",
+      "summary": null,
+      "likely_india_equity": false
+    },
+    {
+      "id": "17f6476222d715c2",
+      "source": "Zee Business - Latest",
+      "title": "No dry out at fuel pumps, LPG distributorships in India, says government",
+      "link": "https://www.zeebiz.com/india/news-no-dry-out-at-fuel-pumps-lpg-distributorships-in-india-says-government-392055",
+      "published_raw": "Mon, 16 Mar 2026 19:25:05 +0530",
+      "published_utc": "2026-03-16T13:55:05Z",
+      "published_ist": "16-Mar-2026 19:25 IST",
+      "summary": "Despite concerns around LPG supply, there have been no reports of dry-outs of gas supply at LPG distributorships across India, Sujata Sharma, Joint Secretary, Ministry of Petroleum and Natural Gas, said in the inter-ministerial press briefing.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7c5f75534f89cf63",
+      "source": "ET - Industry",
+      "title": "Mastercard introduces ‘Lifestyle Navigator’, its global AIpowered concierge, in collaboration with MakeMyTrip’s Myra",
+      "link": "https://economictimes.indiatimes.com/industry/services/travel/mastercard-introduces-lifestyle-navigator-its-global-aipowered-concierge-in-collaboration-with-makemytrips-myra/articleshow/129611695.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:25:03 +0530",
+      "published_utc": "2026-03-16T13:55:03Z",
+      "published_ist": "16-Mar-2026 19:25 IST",
+      "summary": "Mastercard and MakeMyTrip have partnered to launch Lifestyle Navigator. This AI-powered travel and lifestyle concierge will offer personalized travel experiences. It combines MakeMyTrip's travel marketplace with Mastercard's AI capabilities. The platform will provide curated insights and recommend payment products for traveler benefits. Lifestyle Navigator is set to launch later this year, making India its first market.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "04687e2f7f1f4d4c",
+      "source": "BusinessLine - Markets",
+      "title": "Gold, silver ETFs bear the brunt of West Asia war",
+      "link": "https://www.thehindubusinessline.com/news/gold-silver-etfs-bear-the-brunt-of-west-asia-war/article70750278.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:25:01 +0530",
+      "published_utc": "2026-03-16T13:55:01Z",
+      "published_ist": "16-Mar-2026 19:25 IST",
+      "summary": "All silver ETFs have plunged 14-16 per cent since the start of this month; Gold ETFs also dipped 8-10 per cent",
+      "likely_india_equity": false
+    },
+    {
+      "id": "2fade06a5dd8ea09",
+      "source": "The Hindu - Business",
       "title": "Merchandise exports stay flat in February, Commerce Secretary warns of dip in March",
       "link": "https://www.thehindu.com/business/Economy/merchandise-exports-stay-flat-in-february-commerce-secretary-warns-of-dip-in-march/article70750030.ece",
       "published_raw": "Mon, 16 Mar 2026 19:22:58 +0530",
       "published_utc": "2026-03-16T13:52:58Z",
       "published_ist": "16-Mar-2026 19:22 IST",
       "summary": "While releasing data for February, Commerce Secretary Rajesh Agrawal noted that the ongoing trade constraints due to the conflict in West Asia would hurt India’s merchandise exports in March",
+      "likely_india_equity": false
+    },
+    {
+      "id": "b21b44f8056b6a55",
+      "source": "The Hindu - Business",
+      "title": "PhonePe defers listing citing global pressures and volatile markets",
+      "link": "https://www.thehindu.com/business/phonepe-defers-listing-citing-global-pressures-and-volatile-markets/article70750401.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:22:55 +0530",
+      "published_utc": "2026-03-16T13:52:55Z",
+      "published_ist": "16-Mar-2026 19:22 IST",
+      "summary": "There have been 32 IPOs between January and March 2026 and 53% of them were listed as loss on the listing day",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0e25a525e5789cff",
+      "source": "ET - Industry",
+      "title": "Auto parts industry faces staff migration amid LPG crunch",
+      "link": "https://economictimes.indiatimes.com/industry/auto/auto-components/lpg-shortage-sparks-workforce-exodus-threatening-auto-component-production-in-india/articleshow/129611589.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:21:20 +0530",
+      "published_utc": "2026-03-16T13:51:20Z",
+      "published_ist": "16-Mar-2026 19:21 IST",
+      "summary": "The auto parts industry is experiencing a wave of employee departures as workers head back to their hometowns over a lack of LPG cylinders for cooking. This has also taken a toll on factory dining facilities. Without prompt resolution of these fuel supply issues, the scenario could deteriorate severely.",
       "likely_india_equity": false
     },
     {
@@ -33,6 +462,17 @@
       "published_utc": "2026-03-16T13:46:16Z",
       "published_ist": "16-Mar-2026 19:16 IST",
       "summary": "FASTag Annual Pass: To ease travel and eliminate the hassle of making repeated payments at toll plazas, the government launched the digital, prepaid pass – the FASTag Annual Pass. What is it? Where to apply? Here's everything you need to know:",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d1f96bab86006be1",
+      "source": "ET - Industry",
+      "title": "Tejas Networks expands international footprint with South Asia 4G order",
+      "link": "https://economictimes.indiatimes.com/industry/telecom/tejas-networks-expands-international-footprint-with-south-asia-4g-order/articleshow/129611603.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:16:04 +0530",
+      "published_utc": "2026-03-16T13:46:04Z",
+      "published_ist": "16-Mar-2026 19:16 IST",
+      "summary": "Tejas Networks celebrates a landmark achievement with a major order to deliver cutting-edge 4G Radio Access Network solutions to a prominent mobile operator in South Asia. Their state-of-the-art 4G multiband radio technology is set to enhance connectivity across multiple locations. This milestone reflects Tejas Networks' growing international presence and their dedication to equipping telecom networks around the globe.",
       "likely_india_equity": false
     },
     {
@@ -80,8 +520,30 @@
       "likely_india_equity": false
     },
     {
-      "id": "0005f3b9bc178ead",
-      "source": "ET - Stocks",
+      "id": "d7293eb7bcb785a2",
+      "source": "ET - Markets",
+      "title": "US stocks today: US stocks trade higher as oil prices ease amid Iran war",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-higher-as-tech-stocks-gain-investors-weigh-middle-east-conflict/articleshow/129611441.cms",
+      "published_raw": "Mon, 16 Mar 2026 19:06:26 +0530",
+      "published_utc": "2026-03-16T13:36:26Z",
+      "published_ist": "16-Mar-2026 19:06 IST",
+      "summary": "Wall ​Street's main ​indexes opened higher on ​Monday with shares of Meta among the ‌top ⁠gainers ⁠after a report ​said the megacap was prepping ​for sweeping AI-related layoffs, even as elevated ​crude prices ⁠due to ‌the ​raging ​Middle East conflict ⁠kept risk-taking in check.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "26d771e28632712c",
+      "source": "The Hindu - Business",
+      "title": "India ‘engaged’ with U.S. on trade deal, says Commerce Secretary as officials warn of delays",
+      "link": "https://www.thehindu.com/business/india-engaged-with-us-on-trade-deal-says-commerce-secretary-as-officials-warn-of-delays/article70749810.ece",
+      "published_raw": "Mon, 16 Mar 2026 19:00:39 +0530",
+      "published_utc": "2026-03-16T13:30:39Z",
+      "published_ist": "16-Mar-2026 19:00 IST",
+      "summary": "Sources in the Ministry of Commerce and Industry say India will sign the deal only once the final “tariff architecture” of the U.S. becomes clear; this comes against the backdrop of a temporary 10% tariff by the U.S. and two new investigations it has launched on trade partners, including India.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "cac67cd20bdd19d9",
+      "source": "ET - Markets",
       "title": "Valuation Check: 9 mid-cap stocks trading well above their Industry P/E",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/valuation-check-9-mid-cap-stocks-trading-well-above-their-industry-p/e/slideshow/129611536.cms",
       "published_raw": "Mon, 16 Mar 2026 18:56:35 +0530",
@@ -234,9 +696,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "7285cde7adc7f0fa",
+      "id": "febfe3388086e839",
       "source": "ET - Markets",
-      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stock futures rise as tech stocks gain; Middle East conflict in focus",
+      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: Dow jumps 200 pts, S&amp;P, Nasdaq rise 1% as IEA mulls higher oil reserve release",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-crude-brent-oil-meta-google-mu-stock-price-news/liveblog/129610253.cms",
       "published_raw": "Mon, 16 Mar 2026 18:09:50 +0530",
       "published_utc": "2026-03-16T12:39:50Z",
@@ -308,28 +770,6 @@
       "published_utc": "2026-03-16T12:14:38Z",
       "published_ist": "16-Mar-2026 17:44 IST",
       "summary": "US spot gold prices, currently at $5000, have lost 5% in March so far amid the US-Iran war that has entered its third week of conflict. Meanwhile, US spot silver is down 15.5% during the same period and has slumped below $80/ounce.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "26d771e28632712c",
-      "source": "The Hindu - Business",
-      "title": "India ‘engaged’ with U.S. on trade deal, says Commerce Secretary as officials warn of delays",
-      "link": "https://www.thehindu.com/business/india-engaged-with-us-on-trade-deal-says-commerce-secretary-as-officials-warn-of-delays/article70749810.ece",
-      "published_raw": "Mon, 16 Mar 2026 17:42:33 +0530",
-      "published_utc": "2026-03-16T12:12:33Z",
-      "published_ist": "16-Mar-2026 17:42 IST",
-      "summary": "Sources in the Ministry of Commerce and Industry say India will sign the deal only once the final “tariff architecture” of the U.S. becomes clear; this comes against the backdrop of a temporary 10% tariff by the U.S. and two new investigations it has launched on trade partners, including India.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "7a84da6e4bc2da50",
-      "source": "Zee Business - Latest",
-      "title": "Gold slips below Rs 1.55 lakh on MCX, silver near Rs 2.50 lakh: Why are prices slipping, should you buy? MOFSL explains",
-      "link": "https://www.zeebiz.com/markets/commodities/news-gold-slips-below-rs-155-lakh-on-mcx-silver-near-rs-250-lakh-why-are-prices-slipping-should-you-buy-mofsl-explains-392042",
-      "published_raw": "Mon, 16 Mar 2026 17:40:08 +0530",
-      "published_utc": "2026-03-16T12:10:08Z",
-      "published_ist": "16-Mar-2026 17:40 IST",
-      "summary": "Gold and silver prices slipped on MCX as a stronger US dollar, rising crude oil prices and fading hopes of early US rate cuts weighed on bullion. Motilal Oswal says geopolitical tensions and global central bank decisions will determine the next move in precious metals.",
       "likely_india_equity": false
     },
     {
@@ -473,28 +913,6 @@
       "published_utc": "2026-03-16T11:40:33Z",
       "published_ist": "16-Mar-2026 17:10 IST",
       "summary": "Tata Motors will increase prices for its commercial vehicles by up to 1.5% starting April 1st. This adjustment is necessary to counteract the escalating costs of commodities and other inputs. The company previously indicated similar pressures on its passenger vehicle division due to sustained rises in raw material expenses.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "fd1353e8ac925828",
-      "source": "BusinessLine - Economy",
-      "title": "India’s unemployment rate falls to 4.9% in February",
-      "link": "https://www.thehindubusinessline.com/economy/indias-unemployment-rate-falls-to-49-in-february/article70749635.ece",
-      "published_raw": "Mon, 16 Mar 2026 17:09:57 +0530",
-      "published_utc": "2026-03-16T11:39:57Z",
-      "published_ist": "16-Mar-2026 17:09 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "e4d7b1b567504385",
-      "source": "BusinessLine - Economy",
-      "title": "West Asia crisis lifts EV enquiries in India, but analysts see gradual adoption",
-      "link": "https://www.thehindubusinessline.com/economy/west-asia-crisis-lifts-ev-enquiries-in-india-but-analysts-see-gradual-adoption/article70749331.ece",
-      "published_raw": "Mon, 16 Mar 2026 17:09:15 +0530",
-      "published_utc": "2026-03-16T11:39:15Z",
-      "published_ist": "16-Mar-2026 17:09 IST",
-      "summary": "Industry experts note that factors such as upfront costs, charging infrastructure and strong demand for CNG vehicles will continue to influence consumer choices, even as EV adoption steadily grows",
       "likely_india_equity": false
     },
     {
@@ -1070,17 +1488,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "1b2bde529d539acd",
-      "source": "BusinessLine - Economy",
-      "title": "India in talks for six FTAs with Australia, Sri Lanka, Peru, Chile and others",
-      "link": "https://www.thehindubusinessline.com/economy/india-in-talks-for-six-ftas-with-australia-sri-lanka-peru-chile-and-others/article70749406.ece",
-      "published_raw": "Mon, 16 Mar 2026 15:48:00 +0530",
-      "published_utc": "2026-03-16T10:18:00Z",
-      "published_ist": "16-Mar-2026 15:48 IST",
-      "summary": "The government is also advancing other trade initiatives, including agreements with the United Kingdom and Oman awaiting ratification, concluded negotiations with the European Union and New Zealand, and ongoing talks with the United States and several other partners",
-      "likely_india_equity": false
-    },
-    {
       "id": "ae1bc78b14308249",
       "source": "ET - Economy",
       "title": "India needs outcome-driven urban policy, says EAC-PM paper",
@@ -1111,28 +1518,6 @@
       "published_utc": "2026-03-16T10:12:49Z",
       "published_ist": "16-Mar-2026 15:42 IST",
       "summary": "Iran War: Escalating geopolitical tensions in West Asia are threatening to reverse gains from India's GST rationalisation. Rising crude-linked input costs, supply chain disruptions, and higher freight rates are forcing companies to consider price hikes, potentially eroding demand momentum. While the broader consumption outlook remains resilient, inflation risks are increasing.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "1a600bf5220d1009",
-      "source": "BusinessLine - Economy",
-      "title": "India mulls steps to aid exports hit by West Asia conflict, says trade secretary",
-      "link": "https://www.thehindubusinessline.com/economy/policy/india-mulls-steps-to-aid-exports-hit-by-west-asia-conflict-says-trade-secretary/article70749391.ece",
-      "published_raw": "Mon, 16 Mar 2026 15:41:14 +0530",
-      "published_utc": "2026-03-16T10:11:14Z",
-      "published_ist": "16-Mar-2026 15:41 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "34a91c7aacfae83a",
-      "source": "BusinessLine - Companies",
-      "title": "Bajaj Auto considers shifting EV manufacturing away from Maharashtra amid subsidy dispute",
-      "link": "https://www.thehindubusinessline.com/companies/bajaj-auto-considers-shifting-ev-manufacturing-away-from-maharashtra-amid-subsidy-dispute/article70742615.ece",
-      "published_raw": "Mon, 16 Mar 2026 15:40:54 +0530",
-      "published_utc": "2026-03-16T10:10:54Z",
-      "published_ist": "16-Mar-2026 15:40 IST",
-      "summary": "This move could threaten Maharashtra’s status as a manufacturing hub and escalate tensions with State officials, as rival states like Karnataka and Tamil Nadu vie for Bajaj’s EV investments",
       "likely_india_equity": false
     },
     {
@@ -1180,17 +1565,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "bf6fa4fd0d8bad15",
-      "source": "BusinessLine - Economy",
-      "title": "India exports 3.15 lakh tonne sugar in Oct–Feb; UAE emerges as top destination",
-      "link": "https://www.thehindubusinessline.com/economy/agri-business/india-exports-315-lakh-tonne-sugar-in-octfeb-uae-emerges-as-top-destination/article70749433.ece",
-      "published_raw": "Mon, 16 Mar 2026 15:33:10 +0530",
-      "published_utc": "2026-03-16T10:03:10Z",
-      "published_ist": "16-Mar-2026 15:33 IST",
-      "summary": "Meanwhile, India’s sugar production estimate has been revised down to 28.3 million tonne due to lower yields caused by adverse weather in key producing states.",
-      "likely_india_equity": false
-    },
-    {
       "id": "fc2318f942b83b5d",
       "source": "LiveMint - Companies",
       "title": "Ashar Group launches Urban Futures Lab, commits  ₹25 crore to back urbantech startups",
@@ -1211,28 +1585,6 @@
       "published_ist": "16-Mar-2026 15:28 IST",
       "summary": "The fundraising, managed by Avendus and Motilal Oswal, comes as the company restructures operations and strengthens its balance sheet while expanding domestic battery manufacturing and energy storage solutions",
       "likely_india_equity": false
-    },
-    {
-      "id": "d418c2d8b4c7d3c8",
-      "source": "BusinessLine - Economy",
-      "title": "Wholesale inflation rose to 2.13% in February",
-      "link": "https://www.thehindubusinessline.com/economy/wholesale-inflation-rose-to-213-in-february/article70749422.ece",
-      "published_raw": "Mon, 16 Mar 2026 15:28:09 +0530",
-      "published_utc": "2026-03-16T09:58:09Z",
-      "published_ist": "16-Mar-2026 15:28 IST",
-      "summary": "In the case of manufactured products, WPI inflation inched up to 2.92 per cent in February, from 2.86 per cent in the preceding month. Non-food articles category inflation spiked to 8.80 per cent in February, from 7.58 per cent in January",
-      "likely_india_equity": false
-    },
-    {
-      "id": "bbe2307d84a9ef7b",
-      "source": "BusinessLine - Markets",
-      "title": "Market cap of top IT firms plunges in last 5 years",
-      "link": "https://www.thehindubusinessline.com/markets/market-cap-of-top-it-firms-plunges-in-last-5-years/article70749297.ece",
-      "published_raw": "Mon, 16 Mar 2026 15:26:51 +0530",
-      "published_utc": "2026-03-16T09:56:51Z",
-      "published_ist": "16-Mar-2026 15:26 IST",
-      "summary": "Wipro sees sharpest fall of 42% between 2021 and March 2026; TCS drops 36%",
-      "likely_india_equity": true
     },
     {
       "id": "a4f9975c30f2a0d6",
@@ -1356,17 +1708,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "3771c4c021b0f879",
-      "source": "BusinessLine - Economy",
-      "title": "India studying legal impact of fresh US probe into excess industrial capacity, says trade secretary",
-      "link": "https://www.thehindubusinessline.com/economy/india-studying-legal-impact-of-fresh-us-probe-into-excess-industrial-capacity-says-trade-secretary/article70749262.ece",
-      "published_raw": "Mon, 16 Mar 2026 15:08:13 +0530",
-      "published_utc": "2026-03-16T09:38:13Z",
-      "published_ist": "16-Mar-2026 15:08 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
       "id": "4292e10c2df1b866",
       "source": "LiveMint - Markets",
       "title": "Why is the stock market up today? Sensex ends 1,550 points higher from day's low, Nifty 50 reclaims 23,400",
@@ -1397,17 +1738,6 @@
       "published_utc": "2026-03-16T09:34:24Z",
       "published_ist": "16-Mar-2026 15:04 IST",
       "summary": "IndiGo has provided Rs 163.92 crore in travel coupons to passengers affected by early December flight cancellations. The Civil Aviation Minister informed the Rajya Sabha about the compensation. The government is implementing measures to prevent similar incidents. IndiGo has also employed over 246 pilots and reduced its operations by 10 percent to ensure stability.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "5b0dcf7e536107a2",
-      "source": "Zee Business - Latest",
-      "title": "BMW launches M 1000 R Superbike in India at Rs 33.50 lakh with 210 HP engine",
-      "link": "https://www.zeebiz.com/automobile/news-bmw-m-1000-r-superbike-launched-in-india-price-33-50-lakh-392027",
-      "published_raw": "Mon, 16 Mar 2026 15:04:14 +0530",
-      "published_utc": "2026-03-16T09:34:14Z",
-      "published_ist": "16-Mar-2026 15:04 IST",
-      "summary": "BMW M 1000 R Launched: Luxury automaker BMW on Monday, March 16, launched a new superbike – the BMW M 1000 R – in India. According to the company, the bike is positioned as a high-performance machine designed for riders who prefer aggressive styling along with premium features. From price to engine - here's everything you need to know:",
       "likely_india_equity": false
     },
     {
@@ -1466,17 +1796,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "1f7d8e477598a25f",
-      "source": "Zee Business - Latest",
-      "title": "Mutual funds turn cautious amid market volatility; 63% fund houses increase cash holdings",
-      "link": "https://www.zeebiz.com/personal-finance/mutual-fund/news-mutual-funds-turn-cautious-amid-market-volatility-63-fund-houses-increase-cash-holdings-392024",
-      "published_raw": "Mon, 16 Mar 2026 14:54:22 +0530",
-      "published_utc": "2026-03-16T09:24:22Z",
-      "published_ist": "16-Mar-2026 14:54 IST",
-      "summary": "Mutual fund houses are turning cautious as market volatility prompts higher cash allocations in equity funds. Zee Business research shows 63 per cent of fund houses increased cash holdings in February as fund managers adopt a defensive strategy.",
-      "likely_india_equity": false
-    },
-    {
       "id": "3d7e2a320359abc3",
       "source": "LiveMint - Markets",
       "title": "UPL restructuring to unlock shareholder value through pure-play structure: Report",
@@ -1496,17 +1815,6 @@
       "published_utc": "2026-03-16T09:22:09Z",
       "published_ist": "16-Mar-2026 14:52 IST",
       "summary": "12 companies have tapped the IPO market to raise funds this year",
-      "likely_india_equity": true
-    },
-    {
-      "id": "9d9295a1c89de889",
-      "source": "Zee Business - Latest",
-      "title": "India VIX: Investor fear surges 140% in 2026 as Nifty, Sensex tumble 12% since January – What lies ahead?",
-      "link": "https://www.zeebiz.com/market-news/news-india-vix-investor-fear-surges-140-in-2026-as-nifty-sensex-tumble-12-since-jan-eroding-rs-48-lakh-crore-m-cap-392023",
-      "published_raw": "Mon, 16 Mar 2026 14:51:16 +0530",
-      "published_utc": "2026-03-16T09:21:16Z",
-      "published_ist": "16-Mar-2026 14:51 IST",
-      "summary": "Since the start of 2026, Indian markets have come under pressure amid geopolitical tensions. The BSE Sensex has fallen 10,530 points, or 12.36 per cent, while the Nifty 50 has dropped 2,970 points, or 11.36 per cent. The market capitalisation of BSE-listed companies has declined by about Rs 48.46 lakh crore, reflecting rising investor fear and uncertainty.",
       "likely_india_equity": true
     },
     {
@@ -1573,17 +1881,6 @@
       "published_utc": "2026-03-16T08:59:06Z",
       "published_ist": "16-Mar-2026 14:29 IST",
       "summary": "While exports to Iran, a key market, are likely to be affected, higher demand from other markets in the region, such as Saudi Arabia, Iraq, United Arab Emirates and Yemen will provide offset",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ce535fdad6b25008",
-      "source": "Zee Business - Latest",
-      "title": "Full list of Oscar 2026 Winners: 'One Battle After Another' & 'Sinners' dominate; see who won Best Actor and Best Actress awards",
-      "link": "https://www.zeebiz.com/trending/entertainment/news-2026-oscar-winners-list-98th-academy-awards-best-actor-actress-film-392010",
-      "published_raw": "Mon, 16 Mar 2026 14:28:38 +0530",
-      "published_utc": "2026-03-16T08:58:38Z",
-      "published_ist": "16-Mar-2026 14:28 IST",
-      "summary": "Oscar 2026 Winners: The 98th Academy Awards ceremony took place on Sunday, March 15 (early Monday morning in India) at the Dolby Theatre in Hollywood, Los Angeles, United States. Here's the full list of winners for the Oscars 2026:",
       "likely_india_equity": false
     },
     {
@@ -1926,17 +2223,6 @@
       "published_ist": "16-Mar-2026 13:33 IST",
       "summary": "Port of Fujairah, a vital UAE oil hub, faced another strike. Oil loading operations were suspended. This follows a recent drone attack that caused a fire. The port bypasses the Strait of Hormuz. These repeated disruptions highlight energy supply risks. Crude futures have risen amid fears of further attacks.",
       "likely_india_equity": false
-    },
-    {
-      "id": "fc185b50df874d81",
-      "source": "Zee Business - Latest",
-      "title": "PhonePe IPO on hold: Know why the company paused listing",
-      "link": "https://www.zeebiz.com/market-news/news-phonepe-ipo-on-hold-know-why-the-company-paused-listing-392015",
-      "published_raw": "Mon, 16 Mar 2026 13:32:20 +0530",
-      "published_utc": "2026-03-16T08:02:20Z",
-      "published_ist": "16-Mar-2026 13:32 IST",
-      "summary": "PhonePe has put its IPO plans on hold due to geopolitical tensions and volatility in global capital markets. The fintech giant said it will resume the listing process once market conditions stabilise.",
-      "likely_india_equity": true
     },
     {
       "id": "c8a50b2fcb204f77",
@@ -2665,8 +2951,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "d296edcc148d447e",
-      "source": "ET - Markets",
+      "id": "1f99339945b0875d",
+      "source": "ET - Stocks",
       "title": "Citi cuts Nifty's target to 27,000 on earnings, macro risks from raging Iran war",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-cuts-niftys-target-to-27000-on-earnings-macro-risks-from-raging-iran-war/articleshow/129601633.cms",
       "published_raw": "Mon, 16 Mar 2026 11:30:20 +0530",
@@ -2676,25 +2962,14 @@
       "likely_india_equity": true
     },
     {
-      "id": "a395c377dde0deb7",
-      "source": "ET - Markets",
+      "id": "78811a311b6aa608",
+      "source": "ET - Stocks",
       "title": "Adani Power shares jumps 5% after MSEDCL awards 1,600 MW long-term supply contract",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-jumps-5-after-msedcl-awards-1600-mw-long-term-supply-contract/articleshow/129601575.cms",
       "published_raw": "Mon, 16 Mar 2026 11:26:48 +0530",
       "published_utc": "2026-03-16T05:56:48Z",
       "published_ist": "16-Mar-2026 11:26 IST",
       "summary": "Adani Power's shares rose 5% after securing a 1,600 MW thermal power supply deal with MSEDCL. The company will supply power from an upcoming ultra-supercritical project at a tariff of Rs 5.30/kWh, commencing in FY30-31. This win boosts Adani Power's secured capacity and supports India's thermal power expansion goals.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "b93f899cf9c764be",
-      "source": "ET - Markets",
-      "title": "Oil, Inflation, and War: Chakri Lokapriya’s roadmap for selective investing",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/oil-inflation-and-war-chakri-lokapriyas-roadmap-for-selective-investing/articleshow/129601466.cms",
-      "published_raw": "Mon, 16 Mar 2026 11:21:50 +0530",
-      "published_utc": "2026-03-16T05:51:50Z",
-      "published_ist": "16-Mar-2026 11:21 IST",
-      "summary": "Global markets are navigating a period of significant uncertainty. Rising oil prices and escalating tensions in West Asia are impacting various sectors and economies. Investors are advised to exercise caution rather than engage in aggressive buying. While some stock valuations appear attractive, risks associated with increased costs and potential economic slowdown remain.",
       "likely_india_equity": false
     },
     {
@@ -3336,17 +3611,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "2a2a8c2a1eb00c6b",
-      "source": "ET - Stocks",
-      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV's monthly performance shows a decline",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-today-live-updates-16-mar-2026/liveblog/129599886.cms",
-      "published_raw": "Mon, 16 Mar 2026 09:16:23 +0530",
-      "published_utc": "2026-03-16T03:46:23Z",
-      "published_ist": "16-Mar-2026 09:16 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
       "id": "e27e179e78b1c6f0",
       "source": "LiveMint - Companies",
       "title": "Wells Fargo's AI boss tells employees how not to get replaced by evolving tech",
@@ -3578,39 +3842,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "49b7f3ab6cdf674c",
-      "source": "ET - Industry",
-      "title": "Court rejects ED’s money laundering case against Rathi Steel",
-      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/special-court-dismisses-ed-charge-sheet-in-money-laundering-case-against-rathi-steel/articleshow/129594838.cms",
-      "published_raw": "Mon, 16 Mar 2026 00:27:59 +0530",
-      "published_utc": "2026-03-15T18:57:59Z",
-      "published_ist": "16-Mar-2026 00:27 IST",
-      "summary": "A special court made a unique decision, refusing to proceed with an Enforcement Directorate money laundering case. This happened even though the accused were already convicted in the original offence. The court found no direct financial gain from the coal allocation. It also stated that not every transaction after an offence is proceeds of crime.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "dcde949505f16d97",
-      "source": "ET - Industry",
-      "title": "Gaming transactions involving Fino Bank may face ED probe",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/gaming-transactions-involving-fino-bank-may-face-ed-probe/articleshow/129594946.cms",
-      "published_raw": "Mon, 16 Mar 2026 00:26:30 +0530",
-      "published_utc": "2026-03-15T18:56:30Z",
-      "published_ist": "16-Mar-2026 00:26 IST",
-      "summary": "Investigators found many cases of funds routed through multiple accounts or entities to obscure their origin, necessitating a deeper scrutiny under the anti-money laundering law, they said. The matter is connected to an ongoing investigation into alleged GST evasion related to online betting applications involving transactions totalling around ₹10,000 crore.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "08120abdd67c79c0",
-      "source": "ET - Industry",
-      "title": "Govt extends localisation deadline for EV bus, truck motors under PM E-Drive scheme",
-      "link": "https://economictimes.indiatimes.com/industry/renewables/govt-extends-localisation-deadline-for-ev-bus-truck-motors-under-pm-e-drive-scheme/articleshow/129594813.cms",
-      "published_raw": "Mon, 16 Mar 2026 00:26:22 +0530",
-      "published_utc": "2026-03-15T18:56:22Z",
-      "published_ist": "16-Mar-2026 00:26 IST",
-      "summary": "Electric truck and bus manufacturers have been granted a six-month grace period for localization mandates under the PM e-drive initiative. This allows them to import traction motors equipped with rare earth magnets until September 1. This strategic decision is designed to alleviate supply chain challenges and bolster the electric vehicle sector in India.",
-      "likely_india_equity": false
-    },
-    {
       "id": "edb671a7ed651d92",
       "source": "ET - Economy",
       "title": "Industry seeks concessional imports via SEZs",
@@ -3619,28 +3850,6 @@
       "published_utc": "2026-03-15T18:51:47Z",
       "published_ist": "16-Mar-2026 00:21 IST",
       "summary": "In a communication to the commerce and industry ministry, SEZ units and developers suggested that 200 products including photovoltaic cells, naphtha, fungicides, non-industrial diamonds, parts of electric power machinery, certain vaccines and aluminium billets be allowed to be imported at concessional duty.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f5402bdb69a35c8e",
-      "source": "ET - Industry",
-      "title": "NFRA, ICAI mull mechanism to boost regulatory coordination",
-      "link": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/nfra-icai-mull-mechanism-to-boost-regulatory-coordination/articleshow/129594811.cms",
-      "published_raw": "Mon, 16 Mar 2026 00:18:29 +0530",
-      "published_utc": "2026-03-15T18:48:29Z",
-      "published_ist": "16-Mar-2026 00:18 IST",
-      "summary": "To promote harmony and effective collaboration, India’s premier audit watchdogs, NFRA and ICAI, are setting up a systematic approach for better coordination. This proactive measure is designed to smooth over previous public disputes and enhance teamwork.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "b180fee932a73a83",
-      "source": "ET - Industry",
-      "title": "Mankind Pharma targets early Semaglutide launch",
-      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/mankind-pharma-targets-early-semaglutide-launch/articleshow/129594341.cms",
-      "published_raw": "Sun, 15 Mar 2026 23:54:28 +0530",
-      "published_utc": "2026-03-15T18:24:28Z",
-      "published_ist": "15-Mar-2026 23:54 IST",
-      "summary": "Mankind Pharma is set to enter India's semaglutide market soon. The drug's patent expires this month, opening doors for new players. Mankind Pharma plans to offer the medication at affordable prices. This move aims to improve patient access to this important therapy. The company sees a significant opportunity as semaglutide's use extends beyond diabetes to other health areas.",
       "likely_india_equity": false
     },
     {
@@ -5646,17 +5855,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "b00b96692973502c",
-      "source": "BusinessLine - Markets",
-      "title": "Balaji Amines stock falls over 4% as West Asia conflict disrupts ammonia supply",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/balaji-amines-stock-falls-over-4-as-west-asia-conflict-disrupts-ammonia-supply/article70738008.ece",
-      "published_raw": "Fri, 13 Mar 2026 21:44:26 +0530",
-      "published_utc": "2026-03-13T16:14:26Z",
-      "published_ist": "13-Mar-2026 21:44 IST",
-      "summary": "The stock opened lower at ₹999 compared with the previous close of ₹1,035 and extended losses to touch an intraday low of ₹989, marking a decline of 4.4% from the last closing level",
-      "likely_india_equity": false
-    },
-    {
       "id": "49fd655b43a6496d",
       "source": "The Hindu - Business",
       "title": "CBI questions Jai Anmol Ambani in bank ‘fraud’ case",
@@ -5830,28 +6028,6 @@
       "published_utc": "2026-03-13T15:31:03Z",
       "published_ist": "13-Mar-2026 21:01 IST",
       "summary": "In the past 48 hours, the National Restaurant Association of India (NRAI) has engaged with the government and oil companies, urging for immediate fuel supply restoration and temporary recognition of restaurants as “essential services”",
-      "likely_india_equity": false
-    },
-    {
-      "id": "c3665e0b21caa9f0",
-      "source": "BusinessLine - Economy",
-      "title": "IndiGo dominates pilot count, but SpiceJet stands out on pilot-to-aircraft ratio",
-      "link": "https://www.thehindubusinessline.com/data-stories/data-focus/indigo-dominates-pilot-count-but-spicejet-stands-out-on-pilot-to-aircraft-ratio/article70738969.ece",
-      "published_raw": "Fri, 13 Mar 2026 20:58:40 +0530",
-      "published_utc": "2026-03-13T15:28:40Z",
-      "published_ist": "13-Mar-2026 20:58 IST",
-      "summary": "Among Indian carriers, IndiGo has the largest pilot base at 5,200, with a pilot-to-aircraft ratio of 7.6",
-      "likely_india_equity": false
-    },
-    {
-      "id": "d621ff266d672d2a",
-      "source": "BusinessLine - Economy",
-      "title": "Lok Sabha approves supplementary demands for grants for additional ₹2.01 lakh cr spending in FY26",
-      "link": "https://www.thehindubusinessline.com/economy/lok-sabha-approves-supplementary-demands-for-grants-for-additional-201-lakh-cr-spending-in-fy26/article70738857.ece",
-      "published_raw": "Fri, 13 Mar 2026 20:56:05 +0530",
-      "published_utc": "2026-03-13T15:26:05Z",
-      "published_ist": "13-Mar-2026 20:56 IST",
-      "summary": "Through the second batch of supplementary demands, the Government has sought approval for spending ₹2.81 lakh crore extra in the current fiscal year",
       "likely_india_equity": false
     },
     {
@@ -6064,17 +6240,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "9820115f25ae49f2",
-      "source": "LiveMint - Companies",
-      "title": "Top FDA drug official is trying to hire a friend whos seeking a bold new warning on antidepressants",
-      "link": "https://www.livemint.com/companies/top-fda-drug-official-is-trying-to-hire-a-friend-whos-seeking-a-bold-new-warning-on-antidepressants-11773411502412.html",
-      "published_raw": "Fri, 13 Mar 2026 19:48:22 +0530",
-      "published_utc": "2026-03-13T14:18:22Z",
-      "published_ist": "13-Mar-2026 19:48 IST",
-      "summary": "Top FDA drug official is trying to hire a friend who's seeking a bold new warning on antidepressants",
-      "likely_india_equity": false
-    },
-    {
       "id": "a2d46a1062c532cd",
       "source": "BusinessLine - Markets",
       "title": "Broker’s call: HDB Financial (Buy)",
@@ -6215,17 +6380,6 @@
       "published_utc": "2026-03-13T12:20:11Z",
       "published_ist": "13-Mar-2026 17:50 IST",
       "summary": "Where is the Strait of Hormuz and what is its significance? Why have tensions in West Asia affected this passage? What does Iran have to do with the near-complete closure of the strait? How does the situation affect India and what is the government doing about it?",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ddb47d1559dbf7b5",
-      "source": "LiveMint - Companies",
-      "title": "Delivery Hero Holder Aspex Tells CEO to Sell Units or Leave",
-      "link": "https://www.livemint.com/companies/news/delivery-hero-second-largest-shareholder-aspex-tells-ceo-niklas-ostberg-sell-units-or-leave-company-asset-sale-foodpanda-11773403048300.html",
-      "published_raw": "Fri, 13 Mar 2026 17:48:12 +0530",
-      "published_utc": "2026-03-13T12:18:12Z",
-      "published_ist": "13-Mar-2026 17:48 IST",
-      "summary": "Delivery Hero SE’s second-largest shareholder, Aspex Management, is threatening to try and replace the food delivery company’s management if it doesn’t push ahead with the sale of certain assets.",
       "likely_india_equity": false
     },
     {
@@ -6416,17 +6570,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "c3cb297a34616e5f",
-      "source": "BusinessLine - Economy",
-      "title": "Fitch raises India's GDP growth projection for FY26 to 7.5%",
-      "link": "https://www.thehindubusinessline.com/economy/fitch-raises-indias-gdp-growth-projection-for-fy26-to-75/article70738953.ece",
-      "published_raw": "Fri, 13 Mar 2026 15:59:05 +0530",
-      "published_utc": "2026-03-13T10:29:05Z",
-      "published_ist": "13-Mar-2026 15:59 IST",
-      "summary": "For next fiscal (2026-27), Fitch has revised upwards its growth estimate to 6.75 from 6.4% projected in December 2025",
-      "likely_india_equity": false
-    },
-    {
       "id": "6a428ad4ab226cc2",
       "source": "BusinessLine - Markets",
       "title": "Silver sinks 2% to ₹2.62 lakh/kg in futures trade as inflation worries weigh",
@@ -6457,17 +6600,6 @@
       "published_utc": "2026-03-13T10:13:34Z",
       "published_ist": "13-Mar-2026 15:43 IST",
       "summary": "The Lok Sabha has approved an additional Rs 2.01 lakh crore in spending for the current fiscal year through supplementary demands for grants. Finance Minister Nirmala Sitharaman assured the House that this extra expenditure will not impact the fiscal deficit, which remains within the Revised Estimates. The government also reduced its total expenditure projection for the year.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "404635d412686bd0",
-      "source": "BusinessLine - Economy",
-      "title": "Amazon India adds route connecting Guwahati, Kolkata to air cargo service to serve NE areas",
-      "link": "https://www.thehindubusinessline.com/economy/logistics/amazon-india-adds-route-connecting-guwahati-kolkata-to-air-cargo-service-to-serve-ne-areas/article70738510.ece",
-      "published_raw": "Fri, 13 Mar 2026 15:39:21 +0530",
-      "published_utc": "2026-03-13T10:09:21Z",
-      "published_ist": "13-Mar-2026 15:39 IST",
-      "summary": "The expansion, expected to quintuple shipment speeds, will support deliveries across all seven sister states: Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, and Tripura, the company stated",
       "likely_india_equity": false
     },
     {
@@ -6790,17 +6922,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "b32d223b08ab09d2",
-      "source": "BusinessLine - Markets",
-      "title": "Coal India shares turn volatile after hitting 52-week high, HSBC lifts target price",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/coal-india-shares-turn-volatile-after-hitting-52-week-high-hsbc-lifts-target-price/article70738106.ece",
-      "published_raw": "Fri, 13 Mar 2026 10:59:58 +0530",
-      "published_utc": "2026-03-13T05:29:58Z",
-      "published_ist": "13-Mar-2026 10:59 IST",
-      "summary": "HSBC maintained a hold rating on the stock but raised its target price to ₹420, citing improved realisations in the near term",
-      "likely_india_equity": false
-    },
-    {
       "id": "545281b356619781",
       "source": "The Hindu - Business",
       "title": "LPG supply fears spark induction stove rush in India",
@@ -6809,39 +6930,6 @@
       "published_utc": "2026-03-13T05:14:42Z",
       "published_ist": "13-Mar-2026 10:44 IST",
       "summary": "West Asia tensions disrupt LPG supply chains, pushing households and restaurants toward electric cooking alternatives",
-      "likely_india_equity": false
-    },
-    {
-      "id": "929f909ea6f43c57",
-      "source": "BusinessLine - Markets",
-      "title": "Brent crude gains despite US issuing a 30-day licence for Russian oil purchases",
-      "link": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-gains-despite-us-issuing-a-30-day-licence-for-russian-oil-purchases/article70737995.ece",
-      "published_raw": "Fri, 13 Mar 2026 10:26:30 +0530",
-      "published_utc": "2026-03-13T04:56:30Z",
-      "published_ist": "13-Mar-2026 10:26 IST",
-      "summary": "At 9.58 am on Friday, March crude oil futures were trading at ₹8,862 on MCX during the initial hour of trading on Friday against the previous close of ₹8,804, up 0.66%",
-      "likely_india_equity": false
-    },
-    {
-      "id": "d2cf2a8f17c28ff1",
-      "source": "BusinessLine - Markets",
-      "title": "Reliance Industries trades flat, brokerages see upside from refining and petrochemical strength",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/mukesh-ambanis-reliance-industries-trades-flat-brokerages-see-upside-from-refining-and-petrochemical-strength/article70738062.ece",
-      "published_raw": "Fri, 13 Mar 2026 10:22:45 +0530",
-      "published_utc": "2026-03-13T04:52:45Z",
-      "published_ist": "13-Mar-2026 10:22 IST",
-      "summary": "The stock traded at ₹1,396.10 on the NSE at 10.18 am, near its day’s high of ₹1,399.50. It opened at ₹1,385.20 from the previous close of ₹1,392.20",
-      "likely_india_equity": true
-    },
-    {
-      "id": "d232fd1f8f019bb3",
-      "source": "BusinessLine - Markets",
-      "title": "Adani Total Gas shares extend rally, jumps 40% from 52-week low",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/adani-total-gas-shares-extend-rally-jumps-40-from-52-week-low/article70738037.ece",
-      "published_raw": "Fri, 13 Mar 2026 10:21:09 +0530",
-      "published_utc": "2026-03-13T04:51:09Z",
-      "published_ist": "13-Mar-2026 10:21 IST",
-      "summary": "Stock surges on government order prioritising domestic natural gas for CNG and PNG amid West Asia tensions",
       "likely_india_equity": false
     },
     {
@@ -7018,17 +7106,6 @@
       "published_utc": "2026-03-12T20:30:21Z",
       "published_ist": "13-Mar-2026 02:00 IST",
       "summary": "The promises of reform cannot hide the realities in India’s informal workforce",
-      "likely_india_equity": false
-    },
-    {
-      "id": "13ace35022ef6b47",
-      "source": "ET - Economy",
-      "title": "Overseas crypto earnings of moonlighters under I-T lens",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/overseas-crypto-earnings-of-moonlighters-under-i-t-lens/articleshow/129522649.cms",
-      "published_raw": "Fri, 13 Mar 2026 00:51:12 +0530",
-      "published_utc": "2026-03-12T19:21:12Z",
-      "published_ist": "13-Mar-2026 00:51 IST",
-      "summary": "In several cases, individuals working in technology and consulting sectors allegedly received part of their compensation in Stablecoins or other cryptocurrencies that were parked in wallets linked with accounts outside India, in low-tax jurisdictions, sources said. The probe also flagged residents investing in overseas crypto exchange-traded funds (ETFs) through offshore brokerage accounts without reporting holdings or gains.",
       "likely_india_equity": false
     },
     {
@@ -8132,17 +8209,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "5dae0c18c1f8573c",
-      "source": "The Hindu - Business",
-      "title": "Oil prices plunge to $87.8 per barrel as IEA eyes emergency release with Strait of Hormuz in focus",
-      "link": "https://www.thehindu.com/news/international/oil-prices-plunge-iea-eyes-emergency-release-with-strait-of-hormuz-in-focus/article70728548.ece",
-      "published_raw": "Wed, 11 Mar 2026 16:12:58 +0530",
-      "published_utc": "2026-03-11T10:42:58Z",
-      "published_ist": "11-Mar-2026 16:12 IST",
-      "summary": "After a Paris meeting of G7 energy ministers, IEA executive director said he was \"in close contact\" with energy ministers from key energy producers and consumers",
-      "likely_india_equity": false
-    },
-    {
       "id": "42c94307ada16859",
       "source": "LiveMint - Opinion",
       "title": "Factories to the fore: India must reboot its growth model before the AI-pocalypse hits its IT sector",
@@ -8151,17 +8217,6 @@
       "published_utc": "2026-03-11T10:30:46Z",
       "published_ist": "11-Mar-2026 16:00 IST",
       "summary": "India’s IT services boom drive exports, employment and middle-class growth for three decades plus. But with agentic AI out to automate much of what the sector does, that success story may be nearing its limits. It’s time to turbo-charge manufacturing—which needs a renaissance.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "5cca9c4f95169a83",
-      "source": "BusinessLine - Companies",
-      "title": "Gujarat-based Grew Energy to host engineers from China to train workforce",
-      "link": "https://www.thehindubusinessline.com/companies/gujarat-based-grew-energy-to-host-engineers-from-china-to-train-workforce/article70730646.ece",
-      "published_raw": "Wed, 11 Mar 2026 15:58:00 +0530",
-      "published_utc": "2026-03-11T10:28:00Z",
-      "published_ist": "11-Mar-2026 15:58 IST",
-      "summary": "The engineers are expected to stay in India for nearly two years to help run the machines, train local manpower and ensure production lines meet the required performance benchmarks",
       "likely_india_equity": false
     },
     {
@@ -8195,17 +8250,6 @@
       "published_utc": "2026-03-11T09:55:10Z",
       "published_ist": "11-Mar-2026 15:25 IST",
       "summary": "The CBI is conducting the investigation pursuant to the Supreme Court order dated December 13, 2023, involving the FIRs registered in various parts of the country",
-      "likely_india_equity": false
-    },
-    {
-      "id": "8b61efdec48c8e79",
-      "source": "BusinessLine - Companies",
-      "title": "GAIL buys Oman LNG cargo, sources say",
-      "link": "https://www.thehindubusinessline.com/companies/gail-buys-oman-lng-cargo-sources-say/article70730534.ece",
-      "published_raw": "Wed, 11 Mar 2026 15:18:37 +0530",
-      "published_utc": "2026-03-11T09:48:37Z",
-      "published_ist": "11-Mar-2026 15:18 IST",
-      "summary": "The cargo ‌loaded on the vessel Orion Hugo, chartered by\nShell, is scheduled to arrive in India ‌around March 15",
       "likely_india_equity": false
     },
     {
@@ -8297,8 +8341,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "ba21aa126ce64e79",
-      "source": "The Hindu - Business",
+      "id": "d51b4c883f9ee0b8",
+      "source": "The Hindu - Economy",
       "title": "The illusion of 41% and a quiet re-engineering of India’s fiscal federal landscape",
       "link": "https://www.thehindu.com/business/Economy/theillusion-of-41andaquietre-engineering-ofindiasfiscalfederallandscape/article70726565.ece",
       "published_raw": "Wed, 11 Mar 2026 12:35:18 +0530",
@@ -8352,8 +8396,8 @@
       "likely_india_equity": true
     },
     {
-      "id": "ebdbdece8e8b1d71",
-      "source": "The Hindu - Business",
+      "id": "dd3697fa4dde9aec",
+      "source": "The Hindu - Economy",
       "title": "How the U.S.-Israel conflict with Iran is exposing India’s LPG dependence | Data",
       "link": "https://www.thehindu.com/data/how-the-us-israel-conflict-with-iran-is-exposing-indias-lpg-dependence/article70728126.ece",
       "published_raw": "Wed, 11 Mar 2026 12:06:37 +0530",
@@ -8429,8 +8473,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "d126c75aa83b9fc4",
-      "source": "The Hindu - Business",
+      "id": "09e5dd5f4b6a0e7c",
+      "source": "The Hindu - Industry",
       "title": "Deloitte opens cyber security facility in Bengaluru",
       "link": "https://www.thehindu.com/news/national/karnataka/deloitte-opens-cyber-security-facility-in-bengaluru/article70727366.ece",
       "published_raw": "Wed, 11 Mar 2026 11:01:49 +0530",
@@ -9053,17 +9097,6 @@
       "published_utc": "2026-03-09T12:27:58Z",
       "published_ist": "09-Mar-2026 17:57 IST",
       "summary": "The Bank and Equirus will continue to collaborate to fulfill the investment needs of UHNI category customers by offering select products and services from the Equirus wealth management suite",
-      "likely_india_equity": false
-    },
-    {
-      "id": "908e49d108916262",
-      "source": "LiveMint - Economy",
-      "title": "The end of the ‘youthful’ state? India faces three-speed ageing",
-      "link": "https://www.livemint.com/economy/indias-ageing-states-2036-myth-of-youth-11773053947301.html",
-      "published_raw": "Mon, 09 Mar 2026 17:31:10 +0530",
-      "published_utc": "2026-03-09T12:01:10Z",
-      "published_ist": "09-Mar-2026 17:31 IST",
-      "summary": "While the world looks at India’s Gen Z numbers, a hidden story is the staggered greying of the country. By 2036, more than half the states will be ‘ageing’. This would have significant economic and social consequences.",
       "likely_india_equity": false
     },
     {
@@ -9903,17 +9936,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "f68405b6aed65015",
-      "source": "BusinessLine - Money & Banking",
-      "title": "Mutual funds take a shine to bank stocks",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/mutual-funds-take-a-shine-to-bank-stocks/article70700377.ece",
-      "published_raw": "Tue, 03 Mar 2026 21:42:12 +0530",
-      "published_utc": "2026-03-03T16:12:12Z",
-      "published_ist": "03-Mar-2026 21:42 IST",
-      "summary": "The banking system is doing very well with NPAs at multi-decade lows and improving credit growth",
-      "likely_india_equity": false
-    },
-    {
       "id": "04de9a8ce6b46f98",
       "source": "The Hindu - Industry",
       "title": "Indian Overseas Bank gets ₹766 crore I-T demand notice",
@@ -9933,17 +9955,6 @@
       "published_utc": "2026-03-03T14:56:26Z",
       "published_ist": "03-Mar-2026 20:26 IST",
       "summary": "Global oil markets are bracing for a potential upward price shock as hostilities escalate in West Asia",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ca9c4ff8f26b1f1d",
-      "source": "BusinessLine - Money & Banking",
-      "title": "Fed rate cut hopes fade as oil surges after US-Israel strikes on Iran",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/fed-rate-cut-hopes-fade-as-oil-surges-after-us-israel-strikes-on-iran/article70700326.ece",
-      "published_raw": "Tue, 03 Mar 2026 20:24:13 +0530",
-      "published_utc": "2026-03-03T14:54:13Z",
-      "published_ist": "03-Mar-2026 20:24 IST",
-      "summary": "The spike has heightened concerns that rising energy costs could push up headline inflation, forcing the central bank to maintain a hawkish stance.",
       "likely_india_equity": false
     },
     {
@@ -10783,17 +10794,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "a6dd7fea942be684",
-      "source": "The Hindu - Economy",
-      "title": "U.S. Supreme Court rejects Trump's global tariffs",
-      "link": "https://www.thehindu.com/news/international/us-supreme-court-rejects-trumps-global-tariffs/article70657089.ece",
-      "published_raw": "Fri, 20 Feb 2026 22:31:19 +0530",
-      "published_utc": "2026-02-20T17:01:19Z",
-      "published_ist": "20-Feb-2026 22:31 IST",
-      "summary": "The ruling does not impact sector-specific duties that Donald Trump has separately imposed on imports of steel, aluminum and various other goods",
-      "likely_india_equity": false
-    },
-    {
       "id": "1bcf40c03823055c",
       "source": "The Hindu - Industry",
       "title": "TATA.ev launches new Punch.ev at ₹9.69 lakh with 355 kms range",
@@ -11309,171 +11309,6 @@
       "published_ist": "23-Apr-2024 06:15 IST",
       "summary": " Stocks to watch: Check out the companies making headlines before the opening bell today, on April 23, 2024.",
       "likely_india_equity": true
-    },
-    {
-      "id": "b61b23a7d6db63fb",
-      "source": "Moneycontrol - Commodities",
-      "title": "Agri Picks Report: Geojit",
-      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14265141.html",
-      "published_raw": "Fri, 11 Sep 2020 09:34:22 +0530",
-      "published_utc": "2020-09-11T04:04:22Z",
-      "published_ist": "11-Sep-2020 09:34 IST",
-      "summary": " According to Geojit, Madhya Pradesh is preparing to spend 11.6 bln rupees under the price support scheme to procure kharif pulses--tur, urad, and moong--harvested in 2020-21 (Jul-Jun), a state government official said.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "c333198f064cfd20",
-      "source": "Moneycontrol - Commodities",
-      "title": "Crude already reflects market#39;s view that rebalancing is still some time away",
-      "link": "https://www.moneycontrol.com/news/commodities/crude-already-reflects-market39s-view-that-rebalancing-is-still-some-time-away_14263961.html",
-      "published_raw": "Thu, 10 Sep 2020 17:50:24 +0530",
-      "published_utc": "2020-09-10T12:20:24Z",
-      "published_ist": "10-Sep-2020 17:50 IST",
-      "summary": " With hopes of another round of stimulus measures flying out of the window, the US needs more economic activity to get demand flowing.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "d41dda102d3b4d50",
-      "source": "Moneycontrol - Commodities",
-      "title": "Rise in textile demand to support MCX cotton ahead of harvest season in October",
-      "link": "https://www.moneycontrol.com/news/commodities/risetextile-demand-to-support-mcx-cotton-aheadharvest-seasonoctober_14263041.html",
-      "published_raw": "Thu, 10 Sep 2020 14:39:40 +0530",
-      "published_utc": "2020-09-10T09:09:40Z",
-      "published_ist": "10-Sep-2020 14:39 IST",
-      "summary": " Traders are also concerned about the flood-like situation that can damage the crop, which is harvested from October to February, in various parts of India.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "0d2069b58452e45f",
-      "source": "Moneycontrol - Commodities",
-      "title": "Agri Picks Report: Geojit",
-      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14262161.html",
-      "published_raw": "Thu, 10 Sep 2020 10:30:46 +0530",
-      "published_utc": "2020-09-10T05:00:46Z",
-      "published_ist": "10-Sep-2020 10:30 IST",
-      "summary": " According to Geojit, Rubber prices rose nearly 10% over the past three-four weeks and hit a record high of 140 rupees a kg due to pent-up demand after easing of the pandemic induced lockdowns amid a supply crunch.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "a2a3c2eeae9cac07",
-      "source": "Moneycontrol - Commodities",
-      "title": "Oil prices slip as growing stockpiles signal bumpy fuel demand recovery",
-      "link": "https://www.moneycontrol.com/news/commodities/oil-prices-slip-as-growing-stockpiles-signal-bumpy-fuel-demand-recovery_14261401.html",
-      "published_raw": "Thu, 10 Sep 2020 07:11:04 +0530",
-      "published_utc": "2020-09-10T01:41:04Z",
-      "published_ist": "10-Sep-2020 07:11 IST",
-      "summary": " U.S. West Texas Intermediate (WTI) crude futures fell 20 cents, or 0.5%, to $37.85 a barrel at 0056 GMT, after climbing 3.5% on Wednesday.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "84de8b344066acd1",
-      "source": "Moneycontrol - Commodities",
-      "title": "US EIA cuts 2020 world oil demand growth forecast",
-      "link": "https://www.moneycontrol.com/news/commodities/us-eia-cuts-2020-world-oil-demand-growth-forecast_14261221.html",
-      "published_raw": "Wed, 09 Sep 2020 22:34:02 +0530",
-      "published_utc": "2020-09-09T17:04:02Z",
-      "published_ist": "09-Sep-2020 22:34 IST",
-      "summary": " In its monthly forecast, the agency cut its oil demand growth estimate for 2021 by 490,000 bpd to 6.53 million bpd.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "b9523b04a58c089c",
-      "source": "Moneycontrol - Commodities",
-      "title": "Gold may remain choppy, but buying may emerge at lower levels: Kotak Securities",
-      "link": "https://www.moneycontrol.com/news/commodities/gold-may-remain-choppybuying-may-emerge-at-lower-levels-kotak-securities_14259821.html",
-      "published_raw": "Wed, 09 Sep 2020 15:50:26 +0530",
-      "published_utc": "2020-09-09T10:20:26Z",
-      "published_ist": "09-Sep-2020 15:50 IST",
-      "summary": " Gold may remain choppy but buying may emerge at lower levels amid increasing global uncertainty and also as Fed’s dovish stance may limit upside in US dollar.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "9cae1ce23ba30bc2",
-      "source": "Moneycontrol - Commodities",
-      "title": "Oil breaks below $40/bbl on demand concerns, improving supply",
-      "link": "https://www.moneycontrol.com/news/commodities/oil-breaks-below-3640bbldemand-concerns-improving-supply_14259281.html",
-      "published_raw": "Wed, 09 Sep 2020 13:00:00 +0530",
-      "published_utc": "2020-09-09T07:30:00Z",
-      "published_ist": "09-Sep-2020 13:00 IST",
-      "summary": " Fed#39;s dovish stance may also limit any major upside in the US dollar.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "97f3d6f8a491e09c",
-      "source": "Moneycontrol - Commodities",
-      "title": "Agri Picks Report: Geojit",
-      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14258181.html",
-      "published_raw": "Wed, 09 Sep 2020 09:17:15 +0530",
-      "published_utc": "2020-09-09T03:47:15Z",
-      "published_ist": "09-Sep-2020 09:17 IST",
-      "summary": " According to Geojit, Global consumption of edible oils is expected to fall 30-40% in 2020 because of coronavirus lockdowns, said Dominic Xavier, Middle East and North Africa region head at Sime Darby Oils.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "269cad11575130a0",
-      "source": "Moneycontrol - Commodities",
-      "title": "Oil falls further amid growing alarm over coronavirus second wave",
-      "link": "https://www.moneycontrol.com/news/commodities/oil-falls-further-amid-growing-alarm-over-coronavirus-second-wave_14258161.html",
-      "published_raw": "Wed, 09 Sep 2020 08:58:01 +0530",
-      "published_utc": "2020-09-09T03:28:01Z",
-      "published_ist": "09-Sep-2020 08:58 IST",
-      "summary": " The biggest global health crisis in a century continues to flare unabated with cases rising in India, Great Britain, Spain and several parts of the United States, where the infection rate has not come under control for months.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "2dd2dfd8968c7f38",
-      "source": "Moneycontrol - Commodities",
-      "title": "Gold flat as dollar strength counters safe-haven demand",
-      "link": "https://www.moneycontrol.com/news/commodities/gold-flat-as-dollar-strength-counters-safe-haven-demand_14258121.html",
-      "published_raw": "Wed, 09 Sep 2020 08:58:01 +0530",
-      "published_utc": "2020-09-09T03:28:01Z",
-      "published_ist": "09-Sep-2020 08:58 IST",
-      "summary": " Spot gold was little changed at $1,929.30 per ounce by 0038 GMT, after falling to a near two-week week low of $1,906.24 on Tuesday.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f41ddedda28e7f0a",
-      "source": "Moneycontrol - Commodities",
-      "title": "Gold may witness choppy trade, expect buying at lower levels: Kotak Securities",
-      "link": "https://www.moneycontrol.com/news/commodities/gold-may-witness-choppy-trade-expect-buying-at-lower-levels-kotak-securities_14256121.html",
-      "published_raw": "Tue, 08 Sep 2020 14:44:54 +0530",
-      "published_utc": "2020-09-08T09:14:54Z",
-      "published_ist": "08-Sep-2020 14:44 IST",
-      "summary": " After weeks of consolidation, crude oil has come under pressure amid signs of correction in US equity market and gains in US dollar index.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "7e239a825366f59d",
-      "source": "Moneycontrol - Commodities",
-      "title": "Energy Weekly Report: Motilal Oswal",
-      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/energy-weekly-report-motilal-oswal_14256061.html",
-      "published_raw": "Tue, 08 Sep 2020 14:35:25 +0530",
-      "published_utc": "2020-09-08T09:05:25Z",
-      "published_ist": "08-Sep-2020 14:35 IST",
-      "summary": " According to Motilal Oswal, Oil prices hit a rough patch last week, falling back in line with broader financial markets. Prices did try to inch higher, but experienced selling pressure at highs.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "aaeeeea6ecd53dfa",
-      "source": "Moneycontrol - Commodities",
-      "title": "Precious Metals Weekly Report: Motilal Oswal",
-      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/precious-metals-weekly-report-motilal-oswal_14256001.html",
-      "published_raw": "Tue, 08 Sep 2020 14:29:27 +0530",
-      "published_utc": "2020-09-08T08:59:27Z",
-      "published_ist": "08-Sep-2020 14:29 IST",
-      "summary": " According to Motilal Oswal, Gold fell to the lowest level in a month primarily as the dollar rose against its major crosses and better-than-expected economic number from the US.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "bae25fef39b887a9",
-      "source": "Moneycontrol - Commodities",
-      "title": "Base Metals Weekly Report: Motilal Oswal",
-      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/base-metals-weekly-report-motilal-oswal_14256021.html",
-      "published_raw": "Tue, 08 Sep 2020 14:29:02 +0530",
-      "published_utc": "2020-09-08T08:59:02Z",
-      "published_ist": "08-Sep-2020 14:29 IST",
-      "summary": " According to Motilal Oswal, Base metals traded choppy last week, with prices hitting multi month highs at the start of the week and followed by some profit taking on back of volatility in the dollar and mixed data signals from China and US.",
-      "likely_india_equity": false
     },
     {
       "id": "9b813c8183b293bc",
