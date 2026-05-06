@@ -1,16 +1,687 @@
 {
-  "generated_utc": "2026-05-06T13:12:56Z",
-  "count": 748,
+  "generated_utc": "2026-05-06T15:37:21Z",
+  "count": 808,
   "items": [
     {
-      "id": "d897f227fab16453",
+      "id": "d3aac9e77bac1eb9",
+      "source": "ET - Industry",
+      "title": "India, EU pitch for joint initiative to strengthen EV battery recycling",
+      "link": "https://economictimes.indiatimes.com/industry/renewables/india-eu-pitch-for-joint-initiative-to-strengthen-ev-battery-recycling/articleshow/130861596.cms",
+      "published_raw": "Wed, 06 May 2026 21:02:59 +0530",
+      "published_utc": "2026-05-06T15:32:59Z",
+      "published_ist": "06-May-2026 21:02 IST",
+      "summary": "India and the European Union have launched a new initiative to recycle electric vehicle batteries. This joint effort aims to secure raw materials and promote a circular economy. A funding pool of 15.2 million euro will support advanced recycling technologies and pilot projects in India. The program will bring together researchers, industries, and startups to develop innovative solutions.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7c45522a9eb356b0",
+      "source": "BusinessLine - Markets",
+      "title": "Gold, silver firm up on prospects of easing US-Iran tensions",
+      "link": "https://www.thehindubusinessline.com/markets/gold/gold-silver-firm-up-on-prospects-of-easing-us-iran-tensions/article70947687.ece",
+      "published_raw": "Wed, 06 May 2026 20:57:52 +0530",
+      "published_utc": "2026-05-06T15:27:52Z",
+      "published_ist": "06-May-2026 20:57 IST",
+      "summary": "Yellow metal prices topped ₹1.5 lakh/10 g again; white metal prices neared ₹2.5 lakh/kg",
+      "likely_india_equity": false
+    },
+    {
+      "id": "be67a6bd30a618cc",
+      "source": "BusinessLine - Economy",
+      "title": "Air India to announce board decisions at town hall after FY26 loss review",
+      "link": "https://www.thehindubusinessline.com/companies/air-india-to-announce-board-decisions-at-town-hall-after-fy26-loss-review/article70947989.ece",
+      "published_raw": "Wed, 06 May 2026 20:56:00 +0530",
+      "published_utc": "2026-05-06T15:26:00Z",
+      "published_ist": "06-May-2026 20:56 IST",
+      "summary": "Management likely to propose route rationalisation, workforce measures to stabilise finances",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0320c6687743a27d",
+      "source": "BusinessLine - Markets",
+      "title": "APEDA to conduct Basmati survey in 4 mln ha, double the area of actual crop grown",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/apeda-to-conduct-basmati-survey-in-4-mln-ha-double-the-area-of-actual-crop-grown/article70947738.ece",
+      "published_raw": "Wed, 06 May 2026 20:55:50 +0530",
+      "published_utc": "2026-05-06T15:25:50Z",
+      "published_ist": "06-May-2026 20:55 IST",
+      "summary": "Discrepancy with APEDA’s 2.14 million hectare estimate sparks debate on GI zone expansion as Madhya Pradesh inclusion remains sub-judice",
+      "likely_india_equity": false
+    },
+    {
+      "id": "dbb0933f4a1d638a",
+      "source": "Zee Business - Latest",
+      "title": "Manoj Kohli joins Alt DRX’s Advisory Board",
+      "link": "https://www.zeebiz.com/branded/news-manoj-kohli-joins-alt-drx-s-advisory-board-395071",
+      "published_raw": "Wed, 06 May 2026 20:53:55 +0530",
+      "published_utc": "2026-05-06T15:23:55Z",
+      "published_ist": "06-May-2026 20:53 IST",
+      "summary": "As tokenisation transitions from regional pilots and early regulatory conversation to commercial reality, one of india's foremost business leaders steps in to help Alt DRX scale its vision across india and the world.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6a68f4611bcde5d0",
+      "source": "Zee Business - Latest",
+      "title": "Urea Scam Unearthed: Subsidised urea meant for farmers reached plywood factories instead?",
+      "link": "https://www.zeebiz.com/economy-infra/agricultue/news-urea-scam-unearthed-subsidised-urea-meant-for-farmers-reached-plywood-factories-instead-395069",
+      "published_raw": "Wed, 06 May 2026 20:50:06 +0530",
+      "published_utc": "2026-05-06T15:20:06Z",
+      "published_ist": "06-May-2026 20:50 IST",
+      "summary": "Zee Media investigation ‘Operation Kisan’ found an alleged network diverting subsidised urea meant for farmers to plywood and MDF factories. The investigation alleged organised involvement of brokers, transporters and factories, causing massive losses to the government.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "2d379afb9195be5f",
+      "source": "LiveMint - Markets",
+      "title": "Paytm Q4 results: Net profit swings to  ₹183 crore profit in March quarter; revenue rises 18.4%",
+      "link": "https://www.livemint.com/market/stock-market-news/paytm-q4-results-net-profit-swings-to-rs-183-crore-profit-in-march-quarter-revenue-rises-184-11778079695095.html",
+      "published_raw": "Wed, 06 May 2026 20:49:24 +0530",
+      "published_utc": "2026-05-06T15:19:24Z",
+      "published_ist": "06-May-2026 20:49 IST",
+      "summary": "One 97 Communications reported a consolidated net profit of  ₹183 crore for the March quarter, a significant improvement from a net loss of  ₹545 crore a year earlier, though it represented an 18% decline from  ₹225 crore in the previous quarter.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "3f5672c97fbeecc7",
+      "source": "Zee Business - Latest",
+      "title": "SEBI forms task force to address cybersecurity threats from AI tools",
+      "link": "https://www.zeebiz.com/market-news/news-sebi-forms-task-force-to-address-cybersecurity-threats-from-ai-tools-395070",
+      "published_raw": "Wed, 06 May 2026 20:47:20 +0530",
+      "published_utc": "2026-05-06T15:17:20Z",
+      "published_ist": "06-May-2026 20:47 IST",
+      "summary": "Market regulator Securities and Exchange Board of India has constituted a dedicated task force named \"cyber-suraksha.ai\" to examine cybersecurity risks arising from advanced Artificial Intelligence (AI) tools and strengthen cyber resilience across the securities market ecosystem.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9497490de16db819",
       "source": "BusinessLine - Companies",
+      "title": "Godrej Consumer Q4 net profit rises 10% to ₹452 crore; FY26 revenue tops ₹15,000 crore",
+      "link": "https://www.thehindubusinessline.com/companies/godrej-consumer-q4-net-profit-rises-10-to-452-crore-fy26-revenue-tops-15000-crore/article70946945.ece",
+      "published_raw": "Wed, 06 May 2026 20:45:42 +0530",
+      "published_utc": "2026-05-06T15:15:42Z",
+      "published_ist": "06-May-2026 20:45 IST",
+      "summary": "FY26 earnings impacted by exceptional items including restructuring costs, litigation-related expenses linked to Strength of Nature in the US, labour-code provisions and acquisition-related charges",
+      "likely_india_equity": false
+    },
+    {
+      "id": "622d8ad236ac1630",
+      "source": "BusinessLine - Markets",
+      "title": "Mindspace REIT raises ₹500 crore via debenture issue",
+      "link": "https://www.thehindubusinessline.com/markets/mindspace-reit-raises-500-crore-via-debenture-issue/article70947958.ece",
+      "published_raw": "Wed, 06 May 2026 20:44:35 +0530",
+      "published_utc": "2026-05-06T15:14:35Z",
+      "published_ist": "06-May-2026 20:44 IST",
+      "summary": "The bonds carry a 7.63 per cent annual coupon with AAA/Stable ratings from Crisiland ICRA",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c11dec40294e8552",
+      "source": "LiveMint - Companies",
+      "title": "Shree Cement dials back on expansion following Adani's move",
+      "link": "https://www.livemint.com/companies/company-results/shree-cement-q4-adani-cement-capacity-cement-industry-india-ambuja-cements-11778077282908.html",
+      "published_raw": "Wed, 06 May 2026 20:44:02 +0530",
+      "published_utc": "2026-05-06T15:14:02Z",
+      "published_ist": "06-May-2026 20:44 IST",
+      "summary": "Shree Cement's shift signals a potential cooling of the aggressive capacity-addition cycle among India’s top cement producers, who had been racing to scale up output.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "bbbd848cb876149a",
+      "source": "LiveMint - Companies",
+      "title": "8th central pay commission: Who is IIM Bangalore professor, EAC member and the panel's part-time member Pulak Ghosh?",
+      "link": "https://www.livemint.com/companies/people/8th-central-pay-commission-who-is-iim-bangalore-professor-eac-member-and-the-panels-part-time-member-pulak-ghosh-11778077156346.html",
+      "published_raw": "Wed, 06 May 2026 20:40:53 +0530",
+      "published_utc": "2026-05-06T15:10:53Z",
+      "published_ist": "06-May-2026 20:40 IST",
+      "summary": "8th CPC's part-time member Pulak Ghosh is a tenured Professor of Finance, Decision Sciences and Public Policy at IIM Bangalore and a Member of the Economic Advisory Council to the Prime Minister.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "b5356fb0f9b7e91e",
+      "source": "ET - Markets",
+      "title": "US stocks today: Disney earnings beat estimates as new CEO outlines growth strategy",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-today-disney-earnings-beat-estimates-as-new-ceo-outlines-growth-strategy/articleshow/130861131.cms",
+      "published_raw": "Wed, 06 May 2026 20:40:01 +0530",
+      "published_utc": "2026-05-06T15:10:01Z",
+      "published_ist": "06-May-2026 20:40 IST",
+      "summary": "Walt Disney's new Chief Executive Josh D'Amaro ​laid out his strategy for the entertainment company ​Wednesday, saying it would remain committed to creative excellence, strengthen its streaming business, capitalize on the ​power of live sports and continue to invest in its theme parks and cruise lines.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "41b8679971c40ab1",
+      "source": "BusinessLine - Money & Banking",
+      "title": "ECLGS 5.0 could potentially benefit about 1.1 crore MSMEs: SBI report",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/eclgs-50-could-potentially-benefit-about-11-crore-msmes-sbi-report/article70947763.ece",
+      "published_raw": "Wed, 06 May 2026 20:34:39 +0530",
+      "published_utc": "2026-05-06T15:04:39Z",
+      "published_ist": "06-May-2026 20:34 IST",
+      "summary": "Indian Bank’s Managing Director Binod Kumar sees an additional credit flow potential of between ₹12,000 crore and ₹15,000 crore under the ECLGS scheme",
+      "likely_india_equity": false
+    },
+    {
+      "id": "964b4094891d3969",
+      "source": "ET - Industry",
+      "title": "From care to commerce: How phydigital healthcare is turning patient programmes into big business",
+      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/from-care-to-commerce-how-phydigital-healthcare-is-turning-patient-programmes-into-big-business/articleshow/130860909.cms",
+      "published_raw": "Wed, 06 May 2026 20:28:46 +0530",
+      "published_utc": "2026-05-06T14:58:46Z",
+      "published_ist": "06-May-2026 20:28 IST",
+      "summary": "India's healthcare is changing. Value is moving from hospitals to patients' daily lives. A new 'phydigital' model combines physical and digital care. This helps manage chronic diseases better. Patient Service Programmes are becoming a key business. This approach ensures continuous support for patients. It improves treatment adherence and outcomes. This trend is expanding beyond major cities.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "007d531eafa646ad",
+      "source": "BusinessLine - Markets",
+      "title": "World Gold Council to launch unified platform for responsible mining to address various concerns",
+      "link": "https://www.thehindubusinessline.com/markets/commodities/world-gold-council-to-launch-unified-platform-for-responsible-mining-to-address-various-concerns/article70943304.ece",
+      "published_raw": "Wed, 06 May 2026 20:28:39 +0530",
+      "published_utc": "2026-05-06T14:58:39Z",
+      "published_ist": "06-May-2026 20:28 IST",
+      "summary": "The council is looking at opportunities to link physical and digital gold via shared infrastructure to offer the yellow metal as a service",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0047c3a8a8d4d2fc",
+      "source": "ET - Industry",
+      "title": "TRP reporting for TV news channels withheld for another 4 weeks",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/trp-reporting-for-tv-news-channels-withheld-for-another-4-weeks/articleshow/130860712.cms",
+      "published_raw": "Wed, 06 May 2026 20:28:18 +0530",
+      "published_utc": "2026-05-06T14:58:18Z",
+      "published_ist": "06-May-2026 20:28 IST",
+      "summary": "The government has extended its order to withhold Television Rating Points for TV news channels. This measure aims to curb sensational and speculative content. The extension is for four more weeks. Officials stated the move is in the public interest. It is intended to prevent panic among the public regarding the West Asia conflict.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9ea514e277caa4a5",
+      "source": "BusinessLine - Markets",
+      "title": "Q4 Results Today Highlights: KPIT Tech, Radico, CG Power, Arvind Fashions, ABREL & KPI Green Q4 profit up announce Q4 results",
+      "link": "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-bajaj-auto-paytm-shree-cement-polycab-pb-fintech-blue-star-brigade-cg-power-godrej-hexaware-meesho-hero-moto-mahindra-larsen-results-06-may-2026/article70942469.ece",
+      "published_raw": "Wed, 06 May 2026 20:24:53 +0530",
+      "published_utc": "2026-05-06T14:54:53Z",
+      "published_ist": "06-May-2026 20:24 IST",
+      "summary": "Q4 Results Today, May 6, 2026, Highlights: Find here the highlights of companies releasing their Q4 results",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0588403ced032709",
+      "source": "BusinessLine - Economy",
+      "title": "Maritime India Foundation formalises agreements with IITs and IMU",
+      "link": "https://www.thehindubusinessline.com/economy/logistics/maritime-india-foundation-formalises-agreements-with-iits-and-imu/article70947461.ece",
+      "published_raw": "Wed, 06 May 2026 20:24:40 +0530",
+      "published_utc": "2026-05-06T14:54:40Z",
+      "published_ist": "06-May-2026 20:24 IST",
+      "summary": "With the formalisation of the MoUs, the Sagarmala Startup Innovation Initiative program now advances into its execution phase, where the MIHs will onboard, engage, and mentor 36 startups",
+      "likely_india_equity": false
+    },
+    {
+      "id": "3c3a694d83c75d19",
+      "source": "BusinessLine - Economy",
+      "title": "Indian industry led by pharma to invest $20.5 billion in the US",
+      "link": "https://www.thehindubusinessline.com/economy/indian-industry-led-by-pharma-to-invest-205-billion-in-the-us/article70947831.ece",
+      "published_raw": "Wed, 06 May 2026 20:24:37 +0530",
+      "published_utc": "2026-05-06T14:54:37Z",
+      "published_ist": "06-May-2026 20:24 IST",
+      "summary": "Includes $1.1 bn announced at SelectUSA 2026 and Sun Pharma’s $11.75 billionn Organon acquisition",
+      "likely_india_equity": false
+    },
+    {
+      "id": "78d4faede2753ad7",
+      "source": "ET - Markets",
+      "title": "AMD shares jump 13% as AI chip demand lifts strong results",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/amd-shares-jump-13-as-ai-chip-demand-lifts-strong-results/articleshow/130860802.cms",
+      "published_raw": "Wed, 06 May 2026 20:24:05 +0530",
+      "published_utc": "2026-05-06T14:54:05Z",
+      "published_ist": "06-May-2026 20:24 IST",
+      "summary": "Shares of Advanced Micro Devices jumped sharply after the chipmaker delivered strong quarterly results and issued an upbeat outlook, driven by robust demand for AI chips. Growth in its data centre business and rising adoption of AI infrastructure reinforced investor confidence in AMD’s position as a key challenger in the AI semiconductor space.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c632f7a2caa92195",
+      "source": "BusinessLine - Economy",
+      "title": "WOTR implements groundwater management initiative in 183 villages",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/wotr-implements-groundwater-management-initiative-in-183-villages/article70947011.ece",
+      "published_raw": "Wed, 06 May 2026 20:14:38 +0530",
+      "published_utc": "2026-05-06T14:44:38Z",
+      "published_ist": "06-May-2026 20:14 IST",
+      "summary": "The community-led groundwater management initiative is being implemented in Maharashtra, Telangana, Madhya Pradesh and Odisha using its Community Driven Vulnerability Evaluation Visual Integrator tool",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f862386a320a8538",
+      "source": "Zee Business - Latest",
+      "title": "India-Vietnam to take trade to USD 25 billion by 2030: MEA",
+      "link": "https://www.zeebiz.com/economy-infra/news-india-vietnam-to-take-trade-to-usd-25-billion-by-2030-mea-395068",
+      "published_raw": "Wed, 06 May 2026 20:10:54 +0530",
+      "published_utc": "2026-05-06T14:40:54Z",
+      "published_ist": "06-May-2026 20:10 IST",
+      "summary": "As India and Vietnam continue to deepen their engagements, MEA Secretary (East), P Kumaran, informed today that the two countries have agreed upon setting a new trade target of USD 25 billion to be achieved by 2030. India has also thanked Vietnam for the invitation to participate in the country's nuclear power sector.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9d756e504a754ce3",
+      "source": "ET - Markets",
+      "title": "Bajaj Auto announces Rs 5,633 crore share buyback via tender route, sets price at Rs 12,000 apiece",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-announces-rs-5633-crore-share-buyback-via-tender-route-sets-price-at-rs-12000-apiece/articleshow/130860345.cms",
+      "published_raw": "Wed, 06 May 2026 20:06:10 +0530",
+      "published_utc": "2026-05-06T14:36:10Z",
+      "published_ist": "06-May-2026 20:06 IST",
+      "summary": "Bajaj Auto approved a Rs 5,633 crore share buyback and Rs 150 dividend alongside strong Q4 results. Profit rose 34% and revenue grew 32%, driven by higher volumes, strong exports, and improved margins, reflecting robust overall financial and operational performance",
+      "likely_india_equity": false
+    },
+    {
+      "id": "591f87ab3f5e49c0",
+      "source": "ET - Industry",
+      "title": "India steel sector grows in April, crude output up 5.8%, consumption up 8.1%",
+      "link": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/india-steel-sector-grows-in-april-crude-output-up-5-8-consumption-up-8-1/articleshow/130860068.cms",
+      "published_raw": "Wed, 06 May 2026 20:05:09 +0530",
+      "published_utc": "2026-05-06T14:35:09Z",
+      "published_ist": "06-May-2026 20:05 IST",
+      "summary": "India's steel sector showed strong growth in April 2026. Production and consumption of steel increased significantly. This performance reflects robust domestic demand and steady activity in infrastructure and manufacturing. Steel companies are investing in capacity expansion. Green steel initiatives are progressing with certifications issued to many producers. Domestic steel prices are recovering. The industry is well-positioned for continued growth.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "93e4bf5c0a76481c",
+      "source": "ET - Industry",
+      "title": "Zee Entertainment sues Reliance-Disney over alleged music copyright breach",
+      "link": "https://economictimes.indiatimes.com/industry/media/entertainment/media/zee-entertainment-sues-reliance-disney-over-alleged-music-copyright-breach/articleshow/130860204.cms",
+      "published_raw": "Wed, 06 May 2026 20:03:11 +0530",
+      "published_utc": "2026-05-06T14:33:11Z",
+      "published_ist": "06-May-2026 20:03 IST",
+      "summary": "Zee Entertainment has sued the Reliance-Disney joint venture. Zee alleges the company used its copyrighted music without permission after license agreements ended. Zee is seeking $3 million in damages. The lawsuit highlights growing disputes over content rights in India's media market.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "326eef8763f2e494",
+      "source": "ET - Markets",
+      "title": "MochaTrade raises funding to offer global access to US perpetual futures",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mochatrade-raises-funding-to-offer-global-access-to-us-perpetual-futures/articleshow/130860045.cms",
+      "published_raw": "Wed, 06 May 2026 19:56:20 +0530",
+      "published_utc": "2026-05-06T14:26:20Z",
+      "published_ist": "06-May-2026 19:56 IST",
+      "summary": "MochaTrade raised pre-seed funding from Y Combinator and Pioneer Fund to build a regulated platform offering perpetual futures on US stocks, indices and commodities. The app aims to simplify global access, enabling leveraged trading with real-time settlement and broader market participation",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d2fa7f61e5c3a7ac",
+      "source": "LiveMint - Markets",
+      "title": "Dividend stocks: Shree Cement announces  ₹70 final dividend for FY26 along with Q4 results",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-shree-cement-announces-rs-70-final-dividend-for-fy26-along-with-q4-results-11778076575373.html",
+      "published_raw": "Wed, 06 May 2026 19:52:45 +0530",
+      "published_utc": "2026-05-06T14:22:45Z",
+      "published_ist": "06-May-2026 19:52 IST",
+      "summary": "Shree Cement announced a final dividend of  ₹70 per share for FY26, totaling  ₹150 for the year. The company reported a March-quarter revenue of  ₹6,101 crore and a net profit of  ₹1,292 crore. Expansion plans include new RMC plants and increased cement capacity.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "789e7aec70448d47",
+      "source": "BusinessLine - Economy",
+      "title": "Actual ODI outflow jumps 84% in two years",
+      "link": "https://www.thehindubusinessline.com/economy/actual-odi-outflow-jumps-84-in-two-years/article70945607.ece",
+      "published_raw": "Wed, 06 May 2026 19:52:12 +0530",
+      "published_utc": "2026-05-06T14:22:12Z",
+      "published_ist": "06-May-2026 19:52 IST",
+      "summary": "Singapore leads as top destination with outflows of over $7.6 billion, followed by the US with over $4 billion",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6209080bb6b0a92c",
+      "source": "ET - Industry",
+      "title": "Alpha Corp to take over three stuck projects following Supreme Court approval",
+      "link": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/alpha-corp-to-take-over-three-stuck-projects-following-supreme-court-approval/articleshow/130859422.cms",
+      "published_raw": "Wed, 06 May 2026 19:50:26 +0530",
+      "published_utc": "2026-05-06T14:20:26Z",
+      "published_ist": "06-May-2026 19:50 IST",
+      "summary": "The Supreme Court has revived Alpha Corp's plan to complete three stalled projects of Earth Infrastructures. This decision offers hope to over 3,000 homebuyers. Alpha Corp will invest Rs 750 crore to finish the projects, with no extra cost to buyers.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "97605c6816f5ea35",
+      "source": "ET - Markets",
+      "title": "Brigade Enterprises reports FY26 net profit at Rs 725 cr, approves 1:3 bonus issue",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/brigade-enterprises-reports-fy26-net-profit-at-rs-725-cr-approves-13-bonus-issue/articleshow/130859708.cms",
+      "published_raw": "Wed, 06 May 2026 19:45:51 +0530",
+      "published_utc": "2026-05-06T14:15:51Z",
+      "published_ist": "06-May-2026 19:45 IST",
+      "summary": "Brigade Enterprises posted higher annual profit and 11% revenue growth driven by strong real estate pre-sales, leasing gains and hospitality expansion. Despite a weaker quarterly profit, robust sales momentum, improved realisations and strong cash flows support a positive business outlook",
+      "likely_india_equity": false
+    },
+    {
+      "id": "57e5af54f57e8a1b",
+      "source": "BusinessLine - Economy",
+      "title": "SpiceJet, Akasa seen as frontrunners to access airline-specific loans under ECLGS",
+      "link": "https://www.thehindubusinessline.com/economy/logistics/spicejet-akasa-seen-as-frontrunners-to-access-airline-specific-loans-under-eclgs/article70947488.ece",
+      "published_raw": "Wed, 06 May 2026 19:44:36 +0530",
+      "published_utc": "2026-05-06T14:14:36Z",
+      "published_ist": "06-May-2026 19:44 IST",
+      "summary": "Loans capped at ₹1,000 crore per carrier; government offers up to 90 per cent credit guarantee support",
+      "likely_india_equity": false
+    },
+    {
+      "id": "21211c7f07142a20",
+      "source": "BusinessLine - Companies",
+      "title": "Brigade Enterprises Q4 PAT falls 24% YoY despite strong sales momentum",
+      "link": "https://www.thehindubusinessline.com/companies/brigade-enterprises-q4-pat-falls-24-yoy-despite-strong-sales-momentum/article70947538.ece",
+      "published_raw": "Wed, 06 May 2026 19:44:34 +0530",
+      "published_utc": "2026-05-06T14:14:34Z",
+      "published_ist": "06-May-2026 19:44 IST",
+      "summary": "The company recorded sales value of ₹2,521 crore for Q4 FY26. Brigade launched 4 Mn sft across seven projects during the last quarter of FY26",
+      "likely_india_equity": false
+    },
+    {
+      "id": "050c790e250272b1",
+      "source": "ET - Markets",
+      "title": "Home First Finance profit surges 43% on strong AUM growth",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/home-first-finance-profit-surges-43-on-strong-aum-growth/articleshow/130859638.cms",
+      "published_raw": "Wed, 06 May 2026 19:43:08 +0530",
+      "published_utc": "2026-05-06T14:13:08Z",
+      "published_ist": "06-May-2026 19:43 IST",
+      "summary": "Home First Finance reported a 43% rise in Q4 profit to Rs 150 crore driven by strong business expansion and 25% AUM growth. Operating profit and income also rose sharply, while asset quality remained stable and dividend payout was increased significantly",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ff5e761f23123a12",
+      "source": "ET - Economy",
+      "title": "Women’s role in business, workforce expands: ASUSE",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/womens-role-in-business-workforce-expands-asuse/articleshow/130859476.cms",
+      "published_raw": "Wed, 06 May 2026 19:41:12 +0530",
+      "published_utc": "2026-05-06T14:11:12Z",
+      "published_ist": "06-May-2026 19:41 IST",
+      "summary": "Women's economic involvement in India is growing. More female entrepreneurs are leading businesses, especially in manufacturing. These businesses are also creating jobs for women. Overall workforce participation for women in the non-agricultural sector has increased. Their presence is particularly strong in own-account enterprises and the manufacturing sector.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "040e26fd099656aa",
+      "source": "ET - Markets",
+      "title": "Shree Cement profit dips as costs rise and demand outlook weakens",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-profit-dips-as-costs-rise-and-demand-outlook-weakens/articleshow/130859570.cms",
+      "published_raw": "Wed, 06 May 2026 19:40:10 +0530",
+      "published_utc": "2026-05-06T14:10:10Z",
+      "published_ist": "06-May-2026 19:40 IST",
+      "summary": "Shree Cement reported an 8% fall in Q4 profit due to rising costs, despite higher revenue and volumes. Elevated fuel expenses and geopolitical risks weighed on margins, while monsoon uncertainty and West Asia tensions pose short-term growth challenges for the sector",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ad6c2e8fb65308af",
+      "source": "LiveMint - Economy",
+      "title": "Welfare spending surge pushes subsidy outgo to 91% of target",
+      "link": "https://www.livemint.com/economy/government-welfare-commitments-budget-impact-fertilizer-food-subsidy-11778066596067.html",
+      "published_raw": "Wed, 06 May 2026 19:39:40 +0530",
+      "published_utc": "2026-05-06T14:09:40Z",
+      "published_ist": "06-May-2026 19:39 IST",
+      "summary": "Food subsidy, the largest component, stood at  ₹1.92 trillion, or 85% of the revised estimate of  ₹2.28 trillion. However, the urea subsidy has already breached its annual target, reaching  ₹1.28 trillion, or 101% of the revised estimates, and higher than the  ₹1.16 trillion recorded a year ago.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "e431fa3c761403c1",
+      "source": "ET - Economy",
+      "title": "India's growth to moderate to 6.6 pc in FY27; reforms key to achieve Viksit Bharat goal: S&amp;P report",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-growth-to-moderate-to-6-6-pc-in-fy27-reforms-key-to-achieve-viksit-bharat-goal-sp-report/articleshow/130859421.cms",
+      "published_raw": "Wed, 06 May 2026 19:36:27 +0530",
+      "published_utc": "2026-05-06T14:06:27Z",
+      "published_ist": "06-May-2026 19:36 IST",
+      "summary": "India's economic growth is expected to slow to 6.6 percent this fiscal year. Achieving the Viksit Bharat goal by 2047 requires crucial reforms in energy and food security. External shocks from energy supply disruptions and rising oil prices are creating pressure. India must develop a comprehensive energy storage policy.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "64f3b49c156e0195",
+      "source": "BusinessLine - Companies",
+      "title": "Bajaj Auto Q4 revenue rises 32% to record ₹16,006 crore; announces buyback at 16% premium",
+      "link": "https://www.thehindubusinessline.com/companies/bajaj-auto-q4-revenue-rises-32-to-record-16006-crore-announces-buyback-at-16-premium/article70947365.ece",
+      "published_raw": "Wed, 06 May 2026 19:34:35 +0530",
+      "published_utc": "2026-05-06T14:04:35Z",
+      "published_ist": "06-May-2026 19:34 IST",
+      "summary": "The broad-based growth was supported by healthy double-digit expansion across domestic motorcycles, electric two-wheelers, three-wheelers and export businesses",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a7e70c6f54d73d70",
+      "source": "BusinessLine - Markets",
+      "title": "Broker’s Call: Aditya Birla Capital (Outperform)",
+      "link": "https://www.thehindubusinessline.com/markets/brokers-call-aditya-birla-capital-outperform/article70946587.ece",
+      "published_raw": "Wed, 06 May 2026 19:34:33 +0530",
+      "published_utc": "2026-05-06T14:04:33Z",
+      "published_ist": "06-May-2026 19:34 IST",
+      "summary": "Macquarie",
+      "likely_india_equity": false
+    },
+    {
+      "id": "1bb3b182b795d5c6",
+      "source": "ET - Industry",
+      "title": "India's Rs 11.2 trillion distribution capex to anchor smart metering shift towards outcomes: Central Electricity Authority",
+      "link": "https://economictimes.indiatimes.com/industry/energy/power/indias-rs-11-2-trillion-distribution-capex-to-anchor-smart-metering-shift-towards-outcomes-central-electricity-authority/articleshow/130859114.cms",
+      "published_raw": "Wed, 06 May 2026 19:32:21 +0530",
+      "published_utc": "2026-05-06T14:02:21Z",
+      "published_ist": "06-May-2026 19:32 IST",
+      "summary": "India's power distribution sector is undergoing a massive Rs 11.2 trillion transformation by 2035. Smart metering is shifting focus to measurable outcomes, enhancing reliability and enabling intelligence-driven operations. Digital infrastructure, automation, and AI/ML will be key. Over 10 crore smart meters are targeted by FY27, improving billing efficiency and reducing losses.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "2487fc0a95fb5e8b",
+      "source": "BusinessLine - Companies",
+      "title": "Apparel exporter Meenakshi India enters D2C market with the launch of SHORTSTOP",
+      "link": "https://www.thehindubusinessline.com/companies/apparel-exporter-meenakshi-india-enters-d2c-market-with-the-launch-of-shortstop/article70946954.ece",
+      "published_raw": "Wed, 06 May 2026 19:31:54 +0530",
+      "published_utc": "2026-05-06T14:01:54Z",
+      "published_ist": "06-May-2026 19:31 IST",
+      "summary": "Launches digital platform, shortstop.in, to directly engage with consumers and expand its presence in India’s growing online apparel market",
+      "likely_india_equity": false
+    },
+    {
+      "id": "65c01dfaaa4fa705",
+      "source": "Zee Business - Latest",
+      "title": "Value 360 Communications' Rs 41.69-crore IPO concludes with 1.19 times subscription",
+      "link": "https://www.zeebiz.com/branded/news-value-360-communications-ipo-concludes-on-may-6-final-day-bidding-data-395055",
+      "published_raw": "Wed, 06 May 2026 19:31:25 +0530",
+      "published_utc": "2026-05-06T14:01:25Z",
+      "published_ist": "06-May-2026 19:31 IST",
+      "summary": "Value 360 Communications, a full-service communications and marketing solutions provider, concluded its initial public offer (IPO) on Wednedsay with an oversubscription of 1.19 times the equity on offer. Bidding for the Rs 41.69-crore public offer had started on Monday, May 11.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "44a7cf2b2867de17",
+      "source": "LiveMint - Markets",
+      "title": "Wall Street climbs on hopes of potential US-Iran peace deal, AI enthusiasm; AMD soars 19%, Super Micro jumps 14.2%",
+      "link": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-on-hopes-of-potential-us-iran-peace-deal-ai-enthusiasm-11778075379810.html",
+      "published_raw": "Wed, 06 May 2026 19:29:28 +0530",
+      "published_utc": "2026-05-06T13:59:28Z",
+      "published_ist": "06-May-2026 19:29 IST",
+      "summary": "As of 10:15 a.m. Eastern Time, the S&amp;amp;P 500 climbed 0.9%, the Dow Jones Industrial Average was up 1%, and the Nasdaq Composite was 1.1% higher.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "28b4f59a04ef0146",
+      "source": "BusinessLine - Markets",
+      "title": "Broker’s Call: Sobha (Buy)",
+      "link": "https://www.thehindubusinessline.com/markets/brokers-call-sobha-buy/article70946649.ece",
+      "published_raw": "Wed, 06 May 2026 19:24:35 +0530",
+      "published_utc": "2026-05-06T13:54:35Z",
+      "published_ist": "06-May-2026 19:24 IST",
+      "summary": "Elara Securities",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6475439e20cabe1a",
+      "source": "BusinessLine - Economy",
+      "title": "India, Vietnam set $25 billion bilateral trade target by 2030",
+      "link": "https://www.thehindubusinessline.com/economy/india-vietnam-set-25-billion-bilateral-trade-target-by-2030/article70947421.ece",
+      "published_raw": "Wed, 06 May 2026 19:24:34 +0530",
+      "published_utc": "2026-05-06T13:54:34Z",
+      "published_ist": "06-May-2026 19:24 IST",
+      "summary": "Modi, Vietnamese President To Lam welcome cooperation in digital payments, new initiatives in rare earths; 13 MOUs signed",
+      "likely_india_equity": false
+    },
+    {
+      "id": "8d7b758fc2f572b0",
+      "source": "BusinessLine - Economy",
+      "title": "Truck rentals in April stay firm amid stable logistics activity: Shriram Mobility Bulletin",
+      "link": "https://www.thehindubusinessline.com/news/truck-rentals-in-april-stay-firm-amid-stable-logistics-activity-shriram-mobility-bulletin/article70946990.ece",
+      "published_raw": "Wed, 06 May 2026 19:24:33 +0530",
+      "published_utc": "2026-05-06T13:54:33Z",
+      "published_ist": "06-May-2026 19:24 IST",
+      "summary": "Petrol consumption fell around 3% m-o-m, diesel around 5%, signalling weaker freight movement",
+      "likely_india_equity": false
+    },
+    {
+      "id": "585f776bec276241",
+      "source": "ET - Markets",
+      "title": "6 midcap stocks post 50%+ EBITDA growth in March '26 quarter",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-midcap-stocks-post-50-ebitda-growth-in-march-26-quarter/slideshow/130859452.cms",
+      "published_raw": "Wed, 06 May 2026 19:22:54 +0530",
+      "published_utc": "2026-05-06T13:52:54Z",
+      "published_ist": "06-May-2026 19:22 IST",
+      "summary": "NSE midcap stocks showed strong operational performance with several companies reporting over 50% EBITDA growth in Q4 FY26. Led by firms like Lloyds Metals and Godrej Properties, the gains reflect improved efficiency, demand strength and robust underlying business momentum across sectors",
+      "likely_india_equity": true
+    },
+    {
+      "id": "e183256b013317da",
+      "source": "BusinessLine - Economy",
+      "title": "S&P Global lowers India’s growth forecast to 6.6% for FY27",
+      "link": "https://www.thehindubusinessline.com/economy/sp-global-lowers-indias-growth-forecast-to-66-for-fy27/article70947336.ece",
+      "published_raw": "Wed, 06 May 2026 19:14:34 +0530",
+      "published_utc": "2026-05-06T13:44:34Z",
+      "published_ist": "06-May-2026 19:14 IST",
+      "summary": "India is facing external economic shock from energy supply disruptions, rising oil and gas prices and currency volatility, says report",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9c2acc76bde24a04",
+      "source": "BusinessLine - Economy",
+      "title": "Industree Foundation partners Jharkhand to boost bamboo based livelihoods",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/industree-foundation-partners-jharkhand-to-boost-bamboo-based-livelihoods/article70947009.ece",
+      "published_raw": "Wed, 06 May 2026 19:14:32 +0530",
+      "published_utc": "2026-05-06T13:44:32Z",
+      "published_ist": "06-May-2026 19:14 IST",
+      "summary": "To integrate 1 lakh smallholder women farmers over next four years",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c6983486a9598eee",
+      "source": "ET - Industry",
+      "title": "McKinsey inks 10-year lease in Mumbai’s BKC; deal ranks among India’s costliest",
+      "link": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/mckinsey-inks-10-year-lease-in-mumbais-bkc-deal-ranks-among-indias-costliest/articleshow/130858557.cms",
+      "published_raw": "Wed, 06 May 2026 19:13:42 +0530",
+      "published_utc": "2026-05-06T13:43:42Z",
+      "published_ist": "06-May-2026 19:13 IST",
+      "summary": "McKinsey &amp; Company has renewed its Mumbai office lease in Bandra Kurla Complex. The deal involves high rental rates, reflecting sustained demand for prime commercial space. This long-term commitment underscores the value global firms place on premium locations. The lease is effective from October 1, 2026, for ten years. This transaction is among India's costliest office leases.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f824d492166a70ab",
+      "source": "ET - Markets",
+      "title": "Individual investors sold Rs 13,000 crore worth stocks, but Zerodha clients kept buying: Nithin Kamath",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/individual-investors-sold-rs-13000-crore-worth-stocks-but-zerodha-clients-kept-buying-nithin-kamath/articleshow/130858760.cms",
+      "published_raw": "Wed, 06 May 2026 19:11:08 +0530",
+      "published_utc": "2026-05-06T13:41:08Z",
+      "published_ist": "06-May-2026 19:11 IST",
+      "summary": "Retail investors sold equities, but Zerodha clients bought heavily, highlighting divergence. Overall, direct retail ownership declined while mutual fund holdings hit record highs, reflecting a structural shift toward professionally managed investments and rising domestic institutional dominance in Indian equity markets",
+      "likely_india_equity": false
+    },
+    {
+      "id": "3ee41fe17b653c9b",
+      "source": "ET - Industry",
+      "title": "Telangana govt seeks Centre’s approval for Rs 38,595-crore Hyderabad Metro Phase-II project",
+      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/telangana-govt-seeks-centres-approval-for-rs-38595-crore-hyderabad-metro-phase-ii-project/articleshow/130858641.cms",
+      "published_raw": "Wed, 06 May 2026 19:09:15 +0530",
+      "published_utc": "2026-05-06T13:39:15Z",
+      "published_ist": "06-May-2026 19:09 IST",
+      "summary": "Telangana government seeks Union government approval for the ₹38,595 crore Hyderabad Metro Rail Phase-II project. Chief Minister Revanth Reddy met Union Minister Manohar Lal Khattar to expedite approvals. The state aims for a joint venture for the 122.9 km expansion. Hyderabad's rapid growth necessitates this urban transport network enhancement.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "956ac9da9ddb4311",
+      "source": "ET - Economy",
+      "title": "Unregistered business entities grow 8 pc in 2025, add 74.52 lakh jobs: Govt survey",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/unregistered-business-entities-grow-8-pc-in-2025-add-74-52-lakh-jobs-govt-survey/articleshow/130858625.cms",
+      "published_raw": "Wed, 06 May 2026 19:08:13 +0530",
+      "published_utc": "2026-05-06T13:38:13Z",
+      "published_ist": "06-May-2026 19:08 IST",
+      "summary": "The Annual Survey of Unincorporated Sector Enterprises (ASUSE) captures key economic and operational characteristics of establishments engaged in manufacturing, trade, and services (excluding construction), and provides essential data for policymaking.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "69a18791b0d3150b",
+      "source": "ET - Markets",
+      "title": "Why Gulf NRIs are turning to Indian equities as real estate sees an exit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-gulf-nris-are-turning-to-indian-equities-as-real-estate-sees-an-exit/articleshow/130858663.cms",
+      "published_raw": "Wed, 06 May 2026 19:08:03 +0530",
+      "published_utc": "2026-05-06T13:38:03Z",
+      "published_ist": "06-May-2026 19:08 IST",
+      "summary": "GCC-based NRIs are increasingly favouring Indian equities over real estate, with 73% boosting exposure and many deploying fresh capital. The shift reflects a structural change in wealth strategies, driven by confidence, disciplined investing and India’s growing appeal as a long-term investment destination",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7875d0dde10923de",
+      "source": "ET - Markets",
+      "title": "US stocks today: Dow jumps 450 pts as US stocks rally on Iran peace hopes; oil sinks",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-market-opens-higher-as-middle-east-peace-hopes-ai-optimism-boost-sentiment/articleshow/130858565.cms",
+      "published_raw": "Wed, 06 May 2026 19:04:43 +0530",
+      "published_utc": "2026-05-06T13:34:43Z",
+      "published_ist": "06-May-2026 19:04 IST",
+      "summary": "US stocks surged Wednesday as President Trump hinted at a diplomatic breakthrough in the Iran conflict, leading to a sharp drop in oil prices. Reports suggested a memorandum of understanding could end the conflict and pave the way for broader negotiations, boosting investor sentiment and easing inflation concerns.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ee7651290d07e44d",
+      "source": "BusinessLine - Markets",
+      "title": "Naman Bagri joins Indian Growth Fund - I as Managing Director",
+      "link": "https://www.thehindubusinessline.com/markets/naman-bagri-joins-indian-growth-fund-i-as-managing-director/article70947252.ece",
+      "published_raw": "Wed, 06 May 2026 19:04:29 +0530",
+      "published_utc": "2026-05-06T13:34:29Z",
+      "published_ist": "06-May-2026 19:04 IST",
+      "summary": "IGF-I is a SEBI-approved Alternative Investment Fund, sponsored by 35North Ventures, with a targeted corpus of ₹2,000 crore (plus ₹500 crore greenshoe)",
+      "likely_india_equity": false
+    },
+    {
+      "id": "3bd45d6d85f68c4a",
+      "source": "LiveMint - Markets",
+      "title": "Bajaj Auto announces  ₹5,633 crore share buyback at  ₹12,000 apiece. Details here",
+      "link": "https://www.livemint.com/market/stock-market-news/bajaj-auto-buyback-auto-major-announces-rs-5633-crore-buyback-price-set-at-rs-12000-11778073504175.html",
+      "published_raw": "Wed, 06 May 2026 18:52:26 +0530",
+      "published_utc": "2026-05-06T13:22:26Z",
+      "published_ist": "06-May-2026 18:52 IST",
+      "summary": "Bajaj Auto buyback: Bajaj Auto has fixed the buyback price at  ₹12,000 apiece, suggesting a premium of 16.3% over the last closing price of  ₹10,314.60.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "64bce9a7b97fddbb",
+      "source": "LiveMint - Markets",
+      "title": "Bajaj Auto Q4 Results: Net profit rises 34% YoY to  ₹2,746 crore;  ₹150 final dividend announced",
+      "link": "https://www.livemint.com/market/stock-market-news/bajaj-auto-q4-results-net-profit-rises-34-yoy-to-rs-2-746-crore-rs-150-final-dividend-announced-11778071472524.html",
+      "published_raw": "Wed, 06 May 2026 18:45:05 +0530",
+      "published_utc": "2026-05-06T13:15:05Z",
+      "published_ist": "06-May-2026 18:45 IST",
+      "summary": "Bajaj Auto reported a 32% year-on-year revenue increase to  ₹16,006 crore for Q4 and the fiscal year ending March 31, driven by robust sales across all segments. EBITDA rose 36% to  ₹3,323 crore, while profit after tax reached a record  ₹2,746 crore, up 34%.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ad0cf8bc0766a9c5",
+      "source": "Zee Business - Latest",
+      "title": "Big LPG rule change 2026: Have LPG, PNG both? Refills may stop soon",
+      "link": "https://www.zeebiz.com/economy-infra/news-big-lpg-rule-change-2026-have-lpg-png-both-refills-may-stop-soon-395054",
+      "published_raw": "Wed, 06 May 2026 18:45:03 +0530",
+      "published_utc": "2026-05-06T13:15:03Z",
+      "published_ist": "06-May-2026 18:45 IST",
+      "summary": "Big LPG rule change 2026: Govt’s new LPG–PNG move could affect how you use your gas connection at home. Alerts sent to users—what this change means and what you should do next.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ddce9a3c9a1cec2b",
+      "source": "BusinessLine - Markets",
       "title": "India Ratings lifts Syrma SGS to ‘IND AA’; stock hits 52-week high",
       "link": "https://www.thehindubusinessline.com/markets/stock-markets/india-ratings-lifts-syrma-sgs-to-ind-aa-stock-hits-52-week-high/article70947007.ece",
-      "published_raw": "Wed, 06 May 2026 18:38:44 +0530",
-      "published_utc": "2026-05-06T13:08:44Z",
-      "published_ist": "06-May-2026 18:38 IST",
+      "published_raw": "Wed, 06 May 2026 18:44:29 +0530",
+      "published_utc": "2026-05-06T13:14:29Z",
+      "published_ist": "06-May-2026 18:44 IST",
       "summary": "Ind-Ra cited sustains revenue growth and improving profitability as key drivers of the upgrade",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5118eb49ef292654",
+      "source": "Zee Business - Latest",
+      "title": "At Rs 2,746 crore, Bajaj Auto Q4 PAT beats estimates; Pulsar maker announces Rs 5,633-crore on buyback",
+      "link": "https://www.zeebiz.com/companies/news-bajaj-auto-q4fy26-results-pat-revenue-sales-margin-vs-estimates-highlights-dividend-buyback-share-price-395053",
+      "published_raw": "Wed, 06 May 2026 18:44:05 +0530",
+      "published_utc": "2026-05-06T13:14:05Z",
+      "published_ist": "06-May-2026 18:44 IST",
+      "summary": "Bajaj Auto has staged a strong financial performance for the final three months of FY26. It has announced a dividend of Rs 150 per equity share.",
       "likely_india_equity": false
     },
     {
@@ -22,6 +693,28 @@
       "published_utc": "2026-05-06T13:07:45Z",
       "published_ist": "06-May-2026 18:37 IST",
       "summary": "India’s ECLGS 5.0 scheme, with  ₹2.55 trillion in guaranteed credit, is expected to boost bank loan growth and protect asset quality amid West Asia war risks. Analysts say it offers a low-risk lending cushion, helping MSMEs and corporates manage liquidity stress.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9330de3514a5e2e5",
+      "source": "ET - Markets",
+      "title": "Bajaj Auto Q4 Results: Standalone profit jumps 34% YoY to Rs 2,746 crore, revenue surges 32%; Rs 150 per share dividend announced",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q4-results-standalone-profit-jumps-34-yoy-to-rs-2746-crore-revenue-surges-32-rs-150-per-share-dividend-announced/articleshow/130857667.cms",
+      "published_raw": "Wed, 06 May 2026 18:37:06 +0530",
+      "published_utc": "2026-05-06T13:07:06Z",
+      "published_ist": "06-May-2026 18:37 IST",
+      "summary": "Bajaj Auto Q4 Results: Bajaj Auto reported a standalone net profit at Rs 2,746 crore in the March-ended quarter versus Rs 2,049 crore in the year ago period, implying a 34% YoY increase.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6f6392ac494a801c",
+      "source": "BusinessLine - Economy",
+      "title": "Netherlands join hands with Indian spice industry on sustainability",
+      "link": "https://www.thehindubusinessline.com/economy/agri-business/netherlands-join-hands-with-indian-spice-industry-on-sustainability/article70946694.ece",
+      "published_raw": "Wed, 06 May 2026 18:35:58 +0530",
+      "published_utc": "2026-05-06T13:05:58Z",
+      "published_ist": "06-May-2026 18:35 IST",
+      "summary": "B. N. Jha said India exports over 250 varieties of spices and value-added products to more than 180 countries and continues to hold significant growth potential in the European market",
       "likely_india_equity": false
     },
     {
@@ -47,6 +740,17 @@
       "likely_india_equity": false
     },
     {
+      "id": "0b2b7a52240e5615",
+      "source": "ET - Markets",
+      "title": "Sun Pharma, 5 stocks hit 52-week highs, rally up to 25% in a month",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-5-stocks-hit-52-week-highs-rally-up-to-25-in-a-month/slideshow/130857184.cms",
+      "published_raw": "Wed, 06 May 2026 18:17:43 +0530",
+      "published_utc": "2026-05-06T12:47:43Z",
+      "published_ist": "06-May-2026 18:17 IST",
+      "summary": "Sensex surged 940 points as six BSE 100 stocks hit 52-week highs, signalling strong bullish momentum. Stocks like Adani Ports, Nestle India and Sun Pharma led gains, supported by solid monthly performance and positive investor sentiment in a rising market",
+      "likely_india_equity": true
+    },
+    {
       "id": "04ebefcc2d1d4f69",
       "source": "ET - Markets",
       "title": "PB Fintech Q4 Results: Profit jumps 54% to Rs 261 crore",
@@ -55,17 +759,6 @@
       "published_utc": "2026-05-06T12:45:15Z",
       "published_ist": "06-May-2026 18:15 IST",
       "summary": "PB Fintech reported a 54% rise in Q4 profit driven by strong insurance premium growth, higher renewal income and steady lending momentum. Revenue surged, margins improved, and full-year performance remained robust with significant expansion across core and new business segments",
-      "likely_india_equity": false
-    },
-    {
-      "id": "9497490de16db819",
-      "source": "BusinessLine - Companies",
-      "title": "Godrej Consumer Q4 net profit rises 10% to ₹452 crore; FY26 revenue tops ₹15,000 crore",
-      "link": "https://www.thehindubusinessline.com/companies/godrej-consumer-q4-net-profit-rises-10-to-452-crore-fy26-revenue-tops-15000-crore/article70946945.ece",
-      "published_raw": "Wed, 06 May 2026 18:14:26 +0530",
-      "published_utc": "2026-05-06T12:44:26Z",
-      "published_ist": "06-May-2026 18:14 IST",
-      "summary": "FY26 earnings impacted by exceptional items including restructuring costs, litigation-related expenses linked to Strength of Nature in the US, labour-code provisions and acquisition-related charges",
       "likely_india_equity": false
     },
     {
@@ -88,17 +781,6 @@
       "published_utc": "2026-05-06T12:41:50Z",
       "published_ist": "06-May-2026 18:11 IST",
       "summary": "Experts suggest India adopt a dual-track trade strategy. This involves defending World Trade Organisation rules while selectively joining plurilateral talks. Such initiatives shape global trade. India has concerns about plurilateral agreements weakening the multilateral system. However, recalibrating its approach could serve India's economic and strategic interests. Pragmatic, coalition-based approaches are needed to revitalize multilateralism.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "cca1ae80c472c83f",
-      "source": "BusinessLine - Markets",
-      "title": "Q4 Results Today Live: KPIT Tech con. profit declines, Radico, CG Power, Arvind Fashions, ABREL & KPI Green Q4 profit up, Bajaj Auto, Paytm, Shree Cement, Hexaware Tech, Meesho to announce Q4 results",
-      "link": "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-bajaj-auto-paytm-shree-cement-polycab-pb-fintech-blue-star-brigade-cg-power-godrej-hexaware-meesho-hero-moto-mahindra-larsen-results-06-may-2026/article70942469.ece",
-      "published_raw": "Wed, 06 May 2026 18:09:13 +0530",
-      "published_utc": "2026-05-06T12:39:13Z",
-      "published_ist": "06-May-2026 18:09 IST",
-      "summary": "Q4 Results Today, May 6, 2026, Live Updates: Follow our live updates for more",
       "likely_india_equity": false
     },
     {
@@ -245,9 +927,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "a830eb2394fde3f8",
+      "id": "ab5069411441f36c",
       "source": "ET - Markets",
-      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US stocks future climb on Middle East peace hopes, AI optimism",
+      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: US market edge higher as AI optimism, peace hopes lift sentiment",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-us-iran-israel-war-peace-talks-brent-crude-oil-amd-super-micro-alphabet-nvidia-arm-holdings-stock-price-news/liveblog/130855971.cms",
       "published_raw": "Wed, 06 May 2026 17:45:23 +0530",
       "published_utc": "2026-05-06T12:15:23Z",
@@ -377,9 +1059,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "806e4ae16209ff41",
+      "id": "f4746ae77b222a4e",
       "source": "ET - Industry",
-      "title": "Global business consulting firm EisnerAmper India appoints Radhika Harivanam as managing director",
+      "title": "Business consulting firm EisnerAmper India appoints Radhika Harivanam as Managing Director",
       "link": "https://economictimes.indiatimes.com/industry/services/consultancy-/-audit/global-business-consulting-firm-eisneramper-india-appoints-radhika-harivanam-as-managing-director/articleshow/130855188.cms",
       "published_raw": "Wed, 06 May 2026 17:26:43 +0530",
       "published_utc": "2026-05-06T11:56:43Z",
@@ -773,17 +1455,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "6ded0d8450bb0e1b",
-      "source": "BusinessLine - Economy",
-      "title": "Netherlands join hands with Indian spice industry on sustainability",
-      "link": "https://www.thehindubusinessline.com/todays-paper/tp-agri-biz-and-commodity/netherlands-join-hands-with-indian-spice-industry-on-sustainability/article70946694.ece",
-      "published_raw": "Wed, 06 May 2026 16:14:27 +0530",
-      "published_utc": "2026-05-06T10:44:27Z",
-      "published_ist": "06-May-2026 16:14 IST",
-      "summary": "B. N. Jha said India exports over 250 varieties of spices and value-added products to more than 180 countries and continues to hold significant growth potential in the European market",
-      "likely_india_equity": false
-    },
-    {
       "id": "26bb85e2915beb4e",
       "source": "BusinessLine - Markets",
       "title": "Rupee jumps by most in a month on hopes of US-Iran peace  deal",
@@ -1070,17 +1741,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "fc5d103eca4941df",
-      "source": "Zee Business - Latest",
-      "title": "Income tax rules FY27 for senior citizens: Who can skip ITR? Check eligibility, benefits",
-      "link": "https://www.zeebiz.com/personal-finance/news-income-tax-rules-fy27-for-senior-citizens-who-can-skip-itr-check-eligibility-benefits-395034",
-      "published_raw": "Wed, 06 May 2026 15:25:47 +0530",
-      "published_utc": "2026-05-06T09:55:47Z",
-      "published_ist": "06-May-2026 15:25 IST",
-      "summary": "Income tax rules for senior citizens in FY 2026–27 bring relief with Form 125, allowing eligible 75+ individuals to skip ITR filing. Check eligibility, deductions, and which tax regime offers better benefits.",
-      "likely_india_equity": false
-    },
-    {
       "id": "132cb7149570f5e7",
       "source": "BusinessLine - Money & Banking",
       "title": "Review of India's HDFC Bank finds no major governance concerns after chairman exit, sources say",
@@ -1103,17 +1763,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "50bc99d60e4d0eed",
-      "source": "Zee Business - Latest",
-      "title": "TVS iQube S 4.7 kWh launched in India with 175 km range, new features",
-      "link": "https://www.zeebiz.com/automobile/news-tvs-iqube-s-47-kwh-launched-in-india-with-175-km-range-new-features-395036",
-      "published_raw": "Wed, 06 May 2026 15:23:04 +0530",
-      "published_utc": "2026-05-06T09:53:04Z",
-      "published_ist": "06-May-2026 15:23 IST",
-      "summary": "TVS iQube S 4.7 kWh Launched: TVS Motor Company has expanded its iQube portfolio with the launch of the TVS iQube S 4.7 kWh in India. This is an upgraded version of the TVS iQube S, as the company has increased its battery capacity to 4.7 kWh. From price to feature - here's everything to know:",
-      "likely_india_equity": false
-    },
-    {
       "id": "37966b0060e9823c",
       "source": "LiveMint - Markets",
       "title": "MCX tech glitch: Zerodha flags order issues across brokers, advises caution for commodity trading",
@@ -1133,17 +1782,6 @@
       "published_utc": "2026-05-06T09:51:07Z",
       "published_ist": "06-May-2026 15:21 IST",
       "summary": "Hindustan Zinc is transforming into a multi-metal and critical minerals platform, aiming to reduce India's import dependence. The company achieved record mined and refined zinc production in FY25-26, alongside significant silver output. This strategic shift, driven by operational discipline and cost efficiency, reinforces its position as a key contributor to India's self-sufficiency and future growth.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "effb7e85e4842ac8",
-      "source": "Zee Business - Latest",
-      "title": "Rs 47 Dividend Announced! Cable maker declares cash payout with Q4 results - Do you own?",
-      "link": "https://www.zeebiz.com/market-news/news-polycab-india-dividend-2026-rs-47-dividend-announced-cable-maker-declares-cash-payout-with-q4-results-do-you-own-395033",
-      "published_raw": "Wed, 06 May 2026 15:21:03 +0530",
-      "published_utc": "2026-05-06T09:51:03Z",
-      "published_ist": "06-May-2026 15:21 IST",
-      "summary": "A cable maker on Wednesday announced a dividend of Rs 47 per share along with its fourth quarter results for FY26. The payout is subject to shareholder approval at the upcoming annual general meeting and will be paid within 30 days if approved. The announcement came as the company reported its quarterly financial performance.",
       "likely_india_equity": false
     },
     {
@@ -1188,17 +1826,6 @@
       "published_utc": "2026-05-06T09:42:29Z",
       "published_ist": "06-May-2026 15:12 IST",
       "summary": "Hyundai Motor India celebrates 30 years, reaffirming its dedication to India's mobility future. The company has invested heavily and plans further expansion in manufacturing and electrification.  HMIL has achieved significant sales milestones and exports, solidifying India's role in its global strategy.  Future plans include introducing new products and enhancing service networks across the nation.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ff46f1c9bd883066",
-      "source": "Zee Business - Latest",
-      "title": "Rs 2,700 rally in gold price; should investors take money off the table?",
-      "link": "https://www.zeebiz.com/markets/commodities/news-rs-2700-rally-in-gold-price-should-investors-take-money-off-the-table-395035",
-      "published_raw": "Wed, 06 May 2026 15:11:53 +0530",
-      "published_utc": "2026-05-06T09:41:53Z",
-      "published_ist": "06-May-2026 15:11 IST",
-      "summary": "During the session, gold touched an intraday high of Rs 1,52,885. The day’s low stood at Rs 1,51,653. Even the low was higher by about Rs 1,900, or 1.26 per cent compared to the previous close.",
       "likely_india_equity": false
     },
     {
@@ -1631,17 +2258,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "7345579ff253da47",
-      "source": "Zee Business - Latest",
-      "title": "FMCG Stock to BUY: Marico rallies after Q4; Street sees up to 17% upside—do you own?",
-      "link": "https://www.zeebiz.com/markets/stocks/news-fmcg-stock-to-buy-marico-rallies-after-q4-street-sees-up-to-17-upside-do-you-own-395032",
-      "published_raw": "Wed, 06 May 2026 13:42:08 +0530",
-      "published_utc": "2026-05-06T08:12:08Z",
-      "published_ist": "06-May-2026 13:42 IST",
-      "summary": "Marico shares hold gains after hitting a record high as Q4 earnings lift sentiment; multiple brokerages raise target prices and maintain positive ratings.",
-      "likely_india_equity": false
-    },
-    {
       "id": "b39e8d9858dfaa82",
       "source": "LiveMint - Markets",
       "title": "L&amp;T's wings clipped by geopolitical tensions, recovery likely in H2 of FY27",
@@ -1650,28 +2266,6 @@
       "published_utc": "2026-05-06T08:10:27Z",
       "published_ist": "06-May-2026 13:40 IST",
       "summary": "Larsen &amp;amp; Toubro faces challenges from geopolitical tensions, impacting its revenue and operating margins. Despite a record order book of  ₹7.4 trillion, delays in projects and rising costs have prompted a cautious outlook for FY27.&amp;nbsp;",
-      "likely_india_equity": false
-    },
-    {
-      "id": "183013856ce8e39b",
-      "source": "Zee Business - Latest",
-      "title": "Tata Motors launches Harrier, Safari in Ultra and Ultra Red Dark diesel versions: Price, features, key details",
-      "link": "https://www.zeebiz.com/automobile/news-tata-harrier-safari-ultra-red-dark-diesel-versions-launched-394975",
-      "published_raw": "Wed, 06 May 2026 13:38:32 +0530",
-      "published_utc": "2026-05-06T08:08:32Z",
-      "published_ist": "06-May-2026 13:38 IST",
-      "summary": "Tata Motors Harrier Ultra, Safari Red Dark Diesel Versions Launched: Tata Motors on Tuesday, May 5, launched its popular SUVs Harrier and Safari in new two new variants — Ultra and Ultra Red Dark Edition with diesel engines in India. From price to features - here's everything you need to know:",
-      "likely_india_equity": false
-    },
-    {
-      "id": "67e4ad8ea78feb3e",
-      "source": "Zee Business - Latest",
-      "title": "Rs 5.25 dividend announced by IT company with Q4 results; do you own the stock?",
-      "link": "https://www.zeebiz.com/market-news/news-rs-525-dividend-announced-by-it-company-with-q4-results-do-you-own-the-stock-395031",
-      "published_raw": "Wed, 06 May 2026 13:36:46 +0530",
-      "published_utc": "2026-05-06T08:06:46Z",
-      "published_ist": "06-May-2026 13:36 IST",
-      "summary": "Rs 5.25 Dividend: The board has recommended a final dividend of Rs 5.25 per equity share of face value Rs 10 each for FY26.",
       "likely_india_equity": false
     },
     {
@@ -2104,9 +2698,9 @@
       "likely_india_equity": false
     },
     {
-      "id": "9328b4715059caa1",
+      "id": "6c22b7a56763f901",
       "source": "ET - Industry",
-      "title": "India’s grid bottleneck forces ReNew Energy to waste solar power, threatening profits",
+      "title": "India’s grid bottleneck forces ReNew to scale back power generation, limit losses",
       "link": "https://economictimes.indiatimes.com/industry/renewables/indias-grid-bottleneck-forces-renew-energy-to-waste-solar-power-threatening-profits/articleshow/130846399.cms",
       "published_raw": "Wed, 06 May 2026 12:03:11 +0530",
       "published_utc": "2026-05-06T06:33:11Z",
@@ -2214,19 +2808,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "144598fcc51fae20",
-      "source": "ET - Markets",
-      "title": "Bagmane Prime Office REIT IPO: Subscribed 1.07 times on Day 2; check GMP and key details",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bagmane-prime-office-reit-ipo-subscribed-83-so-far-on-day-2-check-gmp-and-key-details/articleshow/130845958.cms",
-      "published_raw": "Wed, 06 May 2026 11:39:09 +0530",
-      "published_utc": "2026-05-06T06:09:09Z",
-      "published_ist": "06-May-2026 11:39 IST",
-      "summary": "Bagmane Prime Office REIT IPO is 83% subscribed on Day 2, driven by steady institutional and investor interest. The issue aims to raise Rs 3,405 crore, with a modest grey market premium. Backed by high occupancy assets and strong tenants, the REIT offers stable yield visibility.",
-      "likely_india_equity": true
-    },
-    {
-      "id": "2bf9e6894f917cba",
-      "source": "ET - Markets",
+      "id": "86a7309e32f9a3f3",
+      "source": "ET - Stocks",
       "title": "​Coal India among 10 companies offering dividend yield of up to 11%. Check list here",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-among-10-companies-offering-dividend-yield-of-up-to-11-check-list-here/slideshow/130846379.cms",
       "published_raw": "Wed, 06 May 2026 11:36:41 +0530",
@@ -2258,17 +2841,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "45b751c69d0bf816",
-      "source": "ET - Markets",
-      "title": "India bonds rise as oil eases on hopes of US-Iran peace deal",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-oil-eases-on-hopes-of-us-iran-peace-deal/articleshow/130845780.cms",
-      "published_raw": "Wed, 06 May 2026 11:31:35 +0530",
-      "published_utc": "2026-05-06T06:01:35Z",
-      "published_ist": "06-May-2026 11:31 IST",
-      "summary": "Indian government bonds saw a significant rise on Wednesday, driven by a dip in crude oil prices amid hopes of a U.S.-Iran peace deal. This eased domestic inflation worries, pushing the benchmark 2035 bond yield lower. Investors are cautiously optimistic, awaiting further clarity on the potential agreement. A large debt sale is also on the horizon.",
-      "likely_india_equity": false
-    },
-    {
       "id": "d28e5e46097dce3d",
       "source": "LiveMint - Markets",
       "title": "Europe Gas Traders Buy Options to Hedge for Winter Price Spike",
@@ -2291,19 +2863,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "9e8e8d26a1dbc7ce",
-      "source": "ET - Markets",
-      "title": "Rupee rises 0.2% to 95.07 vs USD tracking Asian peers, forward premiums retreat",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-0-2-to-95-07-vs-usd-tracking-asian-peers-forward-premiums-retreat/articleshow/130845697.cms",
-      "published_raw": "Wed, 06 May 2026 11:27:02 +0530",
-      "published_utc": "2026-05-06T05:57:02Z",
-      "published_ist": "06-May-2026 11:27 IST",
-      "summary": "Indian rupee gained ground on Wednesday, mirroring a broader Asian rally fueled by hopes of a U.S.-Iran deal, which eased oil prices.  This positive sentiment boosted regional equities, offering a respite to the rupee after hitting a record low. Analysts continue to watch oil prices closely as a key factor influencing the rupee's future.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "37d77ca16b814136",
-      "source": "ET - Markets",
+      "id": "a7f43bf3a0762348",
+      "source": "ET - Stocks",
       "title": "Valor Estate shares rocket 30% in just 3 days. What’s behind the stellar surge?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/valor-estate-shares-rocket-30-in-just-3-days-whats-behind-the-stellar-surge/articleshow/130845689.cms",
       "published_raw": "Wed, 06 May 2026 11:26:39 +0530",
@@ -2357,28 +2918,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "62b1c998a70e8e84",
-      "source": "ET - Markets",
-      "title": "Earnings Paradox: Why Palantir stock fell after a stellar quarter",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/earnings-paradox-why-palantir-stock-fell-after-a-stellar-quarter/slideshow/130845622.cms",
-      "published_raw": "Wed, 06 May 2026 11:16:59 +0530",
-      "published_utc": "2026-05-06T05:46:59Z",
-      "published_ist": "06-May-2026 11:16 IST",
-      "summary": "Palantir posted strong earnings and growth, driven by AI demand, but shares fell as high expectations, valuation concerns, and slight segment misses led investors to question sustainability and future upside.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "0f91044244b41305",
-      "source": "ET - Markets",
-      "title": "Rajeev Agrawal prefers domestic cyclicals as global markets stay concentrated in AI trade",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/rajeev-agrawal-prefers-domestic-cyclicals-as-global-markets-stay-concentrated-in-ai-trade/articleshow/130845330.cms",
-      "published_raw": "Wed, 06 May 2026 11:15:34 +0530",
-      "published_utc": "2026-05-06T05:45:34Z",
-      "published_ist": "06-May-2026 11:15 IST",
-      "summary": "Market expert Rajeev Agrawal highlights AI's dominance in global equity trends, benefiting semiconductor-heavy economies like Korea, while India lags due to its limited presence in the ecosystem. Elevated crude oil prices and geopolitical tensions in West Asia are noted, with potential for gradual de-escalation. Agrawal favors domestic-oriented Indian businesses, particularly in renewable energy and financials, for consistent performance.",
-      "likely_india_equity": false
-    },
-    {
       "id": "5143e123a1b3b7d8",
       "source": "BusinessLine - Markets",
       "title": "India bonds rise as oil eases on hopes of US-Iran peace deal",
@@ -2423,8 +2962,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "e791caac67be3835",
-      "source": "ET - Markets",
+      "id": "f1b7c6bdc2eebdf7",
+      "source": "ET - Stocks",
       "title": "Swiggy, Eternal shares tumble up to 30% in 2026 so far. Time to buy or better to wait?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-eternal-shares-tumble-up-to-30-in-2026-so-far-time-to-buy-or-better-to-wait/articleshow/130844921.cms",
       "published_raw": "Wed, 06 May 2026 11:00:43 +0530",
@@ -2467,17 +3006,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "379cb4dd92b3f9f2",
-      "source": "ET - Markets",
-      "title": "Digital platforms, autos, and a shifting consumption story: Ashi Anand maps the market’s next phase",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/digital-platforms-autos-and-a-shifting-consumption-story-ashi-anand-maps-the-markets-next-phase/articleshow/130844957.cms",
-      "published_raw": "Wed, 06 May 2026 10:53:52 +0530",
-      "published_utc": "2026-05-06T05:23:52Z",
-      "published_ist": "06-May-2026 10:53 IST",
-      "summary": "India's equity markets are seeing a leadership shift, with digital platforms and select auto segments driving growth. Ashi Anand of IME Capital highlights digital platforms as the decade's biggest opportunity due to scalability and operating leverage. While autos benefit from policy tailwinds, consumption shows diverging trends, and IT services face AI-driven uncertainty.",
-      "likely_india_equity": false
-    },
-    {
       "id": "1699bc937a1fe34f",
       "source": "The Hindu - Business",
       "title": "Rupee rises 23 paise to 94.95 against U.S. dollar in early trade",
@@ -2486,17 +3014,6 @@
       "published_utc": "2026-05-06T05:23:40Z",
       "published_ist": "06-May-2026 10:53 IST",
       "summary": "At the interbank foreign exchange market, the rupee opened at 95, then gained some ground and touched an early high of 94.95, registering a gain of 23 paise from its previous low",
-      "likely_india_equity": false
-    },
-    {
-      "id": "c00dae972c3f08b8",
-      "source": "ET - Markets",
-      "title": "Why Deepak Shenoy is betting on industrials, defence, and oil and what he's avoiding",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/why-deepak-shenoy-is-betting-on-industrials-defence-and-oil-and-what-hes-avoiding/articleshow/130844894.cms",
-      "published_raw": "Wed, 06 May 2026 10:53:19 +0530",
-      "published_utc": "2026-05-06T05:23:19Z",
-      "published_ist": "06-May-2026 10:53 IST",
-      "summary": "Despite gloomy headlines, Deepak Shenoy of Capitalmind MF sees a better ground reality for markets, backed by strong corporate earnings and encouraging bank credit growth. He favors industrials, import substitution, and manufacturing, with defence and semiconductors as high-conviction bets, while advising caution on oil prices and the EV technology theme.",
       "likely_india_equity": false
     },
     {
@@ -2511,8 +3028,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "bfb93af90f210b6f",
-      "source": "ET - Markets",
+      "id": "3c9ee0fcfc4e74a8",
+      "source": "ET - Stocks",
       "title": "From Chips to Champions: How AI propelled Samsung to $1 trillion club",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-chips-to-champions-how-ai-propelled-samsung-to-1-trillion-club/slideshow/130845054.cms",
       "published_raw": "Wed, 06 May 2026 10:47:57 +0530",
@@ -2522,8 +3039,8 @@
       "likely_india_equity": false
     },
     {
-      "id": "3720f336aaac5674",
-      "source": "ET - Markets",
+      "id": "f6286b8c2fc48fa9",
+      "source": "ET - Stocks",
       "title": "PNB shares jump 4% after Q4 results but Jefferies, Motilal, other brokerages are cutting target prices; here's why",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-4-after-q4-results-but-jefferies-motilal-other-brokerages-are-cutting-target-prices-heres-why/articleshow/130844856.cms",
       "published_raw": "Wed, 06 May 2026 10:45:32 +0530",
@@ -2541,17 +3058,6 @@
       "published_utc": "2026-05-06T05:15:22Z",
       "published_ist": "06-May-2026 10:45 IST",
       "summary": "MCX gold June futures rose by nearly  ₹2,000, or more than 1.1%, today, to  ₹1,51,810 per 10 grams, whereas MCX silver July futures jumped by  ₹6,309, or nearly 3%, to  ₹2,50,924 per kg in early deals on Wednesday.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "5e129fef2540f59e",
-      "source": "ET - Markets",
-      "title": "US Stock Market | Bond markets signal rising odds of Fed rate hike before cuts",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-bond-markets-signal-rising-odds-of-fed-rate-hike-before-cuts/articleshow/130844727.cms",
-      "published_raw": "Wed, 06 May 2026 10:44:24 +0530",
-      "published_utc": "2026-05-06T05:14:24Z",
-      "published_ist": "06-May-2026 10:44 IST",
-      "summary": "Global bond traders are shifting stance, increasingly pricing in a possible rate hike by the Federal Reserve before any cuts, with derivatives showing over a 50% probability by April. The change reflects rising policy uncertainty, increased hedging activity, and leadership transition risks, with Kevin Warsh expected to take charge amid pressure from Donald Trump for lower rates.",
       "likely_india_equity": false
     },
     {
@@ -2643,17 +3149,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "789e7aec70448d47",
-      "source": "BusinessLine - Economy",
-      "title": "Actual ODI outflow jumps 84% in two years",
-      "link": "https://www.thehindubusinessline.com/economy/actual-odi-outflow-jumps-84-in-two-years/article70945607.ece",
-      "published_raw": "Wed, 06 May 2026 10:24:19 +0530",
-      "published_utc": "2026-05-06T04:54:19Z",
-      "published_ist": "06-May-2026 10:24 IST",
-      "summary": "Singapore leads as top destination with outflows of over $7.6 billion, followed by the US with over $4 billion; financial services sector accounts for nearly half of total overseas investments",
-      "likely_india_equity": false
-    },
-    {
       "id": "4ef18a318dcfc112",
       "source": "The Hindu - Business",
       "title": "Anthropic deepens finance push as CEO Amodei warns of software disruption",
@@ -2687,14 +3182,14 @@
       "likely_india_equity": false
     },
     {
-      "id": "6a51ccbf9a39fdcd",
+      "id": "519976db69aa7a9a",
       "source": "LiveMint - Markets",
-      "title": "Bajaj Auto Q4 Results 2026 LIVE: Profit jumps 34% YoY to the highest ever —  ₹150 dividend and buyback announced",
+      "title": "Bajaj Auto Q4 Results 2026 Highlights: Profit jumps 34% YoY to the highest ever —  ₹150 dividend and buyback announced",
       "link": "https://www.livemint.com/market/stock-market-news/bajaj-auto-q4-results-2026-live-bajaj-auto-share-price-bajaj-auto-q4-dividend-bajaj-auto-buyback-earnings-6-may-2026-11778041542546.html",
       "published_raw": "Wed, 06 May 2026 10:14:53 +0530",
       "published_utc": "2026-05-06T04:44:53Z",
       "published_ist": "06-May-2026 10:14 IST",
-      "summary": "Bajaj Auto Q4 Results LIVE: Two-wheeler major Bajaj Auto is slated to announce its Q4 results 2026 today. Ahead of earnings, the auto stock traded higher, with investors keenly eyeing the announcement around buyback and dividend.",
+      "summary": "Bajaj Auto Q4 Results Highlights: The two-wheeler maker posted bigger-than-expected profit in the fourth quarter, helped by strong local and overseas demand for its two- and three-wheelers.",
       "likely_india_equity": false
     },
     {
@@ -2918,17 +3413,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "0c7086ef4cf5f602",
-      "source": "LiveMint - Markets",
-      "title": "M&amp;M shares rise nearly 3% after Q4 results, emerge as top Nifty 50 gainer. Should you buy, sell or hold?",
-      "link": "https://www.livemint.com/market/stock-market-news/mm-shares-rise-nearly-3-after-q4-results-emerge-as-top-nifty-50-gainer-should-you-buy-sell-or-hold-11778039491134.html",
-      "published_raw": "Wed, 06 May 2026 09:27:11 +0530",
-      "published_utc": "2026-05-06T03:57:11Z",
-      "published_ist": "06-May-2026 09:27 IST",
-      "summary": "Mahindra &amp;amp; Mahindra shares rose nearly 3% after reporting a 48.5% increase in Q4 consolidated profit to  ₹5,259.91 crore. The company expects growth in the tractor and SUV segments for FY27, supported by strong consumer sentiment and product launches.",
-      "likely_india_equity": true
-    },
-    {
       "id": "d627ed95b111b97f",
       "source": "ET - Stocks",
       "title": "Why is the market rising today? Sensex jumps 300 points, Nifty above 24,150; 5 factors behind D-Street rebound",
@@ -2940,17 +3424,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "059ceca9706f9c4e",
-      "source": "LiveMint - Markets",
-      "title": "Gold rate jumps over 1% on MCX amid a weaker dollar, easing crude oil prices; possible US-Iran peace talks in focus",
-      "link": "https://www.livemint.com/market/commodities/gold-price-today-rate-jumps-over-1-on-mcx-amid-weaker-dollar-easing-crude-oil-prices-us-iran-peace-talks-in-focus-11778037867254.html",
-      "published_raw": "Wed, 06 May 2026 09:05:53 +0530",
-      "published_utc": "2026-05-06T03:35:53Z",
-      "published_ist": "06-May-2026 09:05 IST",
-      "summary": "MCX gold June futures rose by nearly  ₹2,000, or more than 1%, to  ₹1,51,740 per 10 grams, while MCX silver July futures jumped by  ₹6,300, or nearly 3%, to  ₹2,50,724 per kg in early deals on Wednesday.",
-      "likely_india_equity": false
-    },
-    {
       "id": "9c153c26562df951",
       "source": "ET - Stocks",
       "title": "Vodafone Idea shares jump over 3% after KM Birla returns as non-executive chairman",
@@ -2959,17 +3432,6 @@
       "published_utc": "2026-05-06T03:34:52Z",
       "published_ist": "06-May-2026 09:04 IST",
       "summary": "Vodafone Idea shares rose as Kumar Mangalam Birla returned as non-executive chairman, succeeding Ravinder Takkar. This move comes as the company navigates significant financial challenges, including government equity stakes and revised AGR dues. The company has seen its AGR dues reduced and a moratorium on payments, providing some financial relief.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "6b8af6ccb0bdc917",
-      "source": "LiveMint - Markets",
-      "title": "Rupee opens 24 paise higher at 95.04 against US dollar",
-      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-24-paise-higher-at-95-04-against-us-dollar-11778038385028.html",
-      "published_raw": "Wed, 06 May 2026 09:04:13 +0530",
-      "published_utc": "2026-05-06T03:34:13Z",
-      "published_ist": "06-May-2026 09:04 IST",
-      "summary": "The Indian rupee strengthened by 24 paise to 95.04 against the US dollar, aided by falling crude oil prices and expectations of increased dollar inflows. Brent crude prices decreased to about $108 per barrel amid mixed US-Iran tension signals.",
       "likely_india_equity": false
     },
     {
@@ -3017,72 +3479,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "1b6fe081550d3f15",
-      "source": "ET - Stocks",
-      "title": "Reliance Industries shares in focus as Mukesh Ambani eyes satellite foray to take on Starlink",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-mukesh-ambani-eyes-satellite-foray-to-take-on-starlink/articleshow/130843247.cms",
-      "published_raw": "Wed, 06 May 2026 08:47:57 +0530",
-      "published_utc": "2026-05-06T03:17:57Z",
-      "published_ist": "06-May-2026 08:47 IST",
-      "summary": "Reliance Industries is evaluating a multi-billion-dollar entry into satellite communications, focusing on low Earth orbit networks under Jio Platforms. The initiative aims to strengthen India’s strategic capabilities amid rising global competition, with discussions underway on technology partnerships, orbital slots and potential acquisitions as the company explores long-term opportunities in future.",
-      "likely_india_equity": true
-    },
-    {
-      "id": "a6a71fc1594f3285",
-      "source": "ET - Stocks",
-      "title": "Will Meesho's 60% comeback rally cool or can Q4 serve as a new launchpad?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-meeshos-60-comeback-rally-cool-or-will-q4-serve-as-a-new-launchpad/articleshow/130843191.cms",
-      "published_raw": "Wed, 06 May 2026 08:44:45 +0530",
-      "published_utc": "2026-05-06T03:14:45Z",
-      "published_ist": "06-May-2026 08:44 IST",
-      "summary": "Meesho shares remain in focus ahead of Q4 results after a sharp 60% rebound from March lows. While brokerages expect strong NMV growth, concerns around valuations and overbought technical indicators persist. Analysts see near-term volatility, with profitability still a few years away despite improving operational metrics and strong user growth.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "bd4cf7e34aadb332",
-      "source": "ET - Stocks",
-      "title": "Netweb Technologies among 7 stocks flashing bullish signals, indicating possible uptrend",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-among-7-stocks-flashing-bullish-signals-indicating-possible-uptrend/slideshow/130843161.cms",
-      "published_raw": "Wed, 06 May 2026 08:39:19 +0530",
-      "published_utc": "2026-05-06T03:09:19Z",
-      "published_ist": "06-May-2026 08:39 IST",
-      "summary": "Seven stocks from the Nifty500 universe appeared in the White Marubozu bullish scan on May 5 after notable gains. This candlestick pattern signals strong buying interest throughout the session, indicating improving momentum, strengthening sentiment, and potential near-term upside as traders track continuation patterns for possible buying opportunities.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f4309d8c96f7bcab",
-      "source": "ET - Stocks",
-      "title": "Shoppers Stop shares fall over 3% after Rs 16 crore loss in Q4; revenue jumps 14%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shoppers-stop-shares-in-focus-after-rs-16-crore-loss-in-q4-revenue-jumps-14/articleshow/130843096.cms",
-      "published_raw": "Wed, 06 May 2026 08:38:25 +0530",
-      "published_utc": "2026-05-06T03:08:25Z",
-      "published_ist": "06-May-2026 08:38 IST",
-      "summary": "Shoppers Stop share price dipped 3.3% after it reported a consolidated loss of Rs 16.35 crore in Q4 FY26 against a profit last year, despite a 13.7% rise in revenue. Margins weakened amid higher expenses, though premiumisation, strong beauty sales and improved cash flows supported performance. The company remains on track to turn debt-free by FY27.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "50c6accb1093e9ad",
-      "source": "LiveMint - Markets",
-      "title": "Q4 results 2026: Bajaj Auto to Paytm among companies to declare Q4 results today",
-      "link": "https://www.livemint.com/market/stock-market-news/q4-results-2026-bajaj-auto-to-paytm-among-companies-to-declare-q4-results-today-11778034551095.html",
-      "published_raw": "Wed, 06 May 2026 08:38:12 +0530",
-      "published_utc": "2026-05-06T03:08:12Z",
-      "published_ist": "06-May-2026 08:38 IST",
-      "summary": "Q4 results 2026: Around 60 companies will declare their March quarter results on Wednesday. Checkout Q4 previews, along with full list of companies to release Q4 results today.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "14685954a43709f9",
-      "source": "LiveMint - Markets",
-      "title": "Rupee plunges to new low, some see signs of undervaluation against EM peers",
-      "link": "https://www.livemint.com/market/stock-market-news/india-rupee-inr-vs-dollar-foreign-institutional-investors-fii-fpi-outflows-brent-crude-inflation-capital-forex-reserves-11777994762668.html",
-      "published_raw": "Wed, 06 May 2026 08:35:25 +0530",
-      "published_utc": "2026-05-06T03:05:25Z",
-      "published_ist": "06-May-2026 08:35 IST",
-      "summary": "While the rupee has weakened significantly against the greenback, its Real Effective Exchange Rate (REER) tells a more balanced story of competitiveness against major trading partners",
-      "likely_india_equity": false
-    },
-    {
       "id": "20542a1695cacd7a",
       "source": "ET - Industry",
       "title": "PNB hikes cybersecurity spend as AI models including Anthropic's Mythos raise risks",
@@ -3105,17 +3501,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "bf85e8b0ec81ce52",
-      "source": "ET - Stocks",
-      "title": "Biocon among 5 stocks showing bullish RSI upswing",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-among-5-stocks-showing-bullish-rsi-upswing/slideshow/130842916.cms",
-      "published_raw": "Wed, 06 May 2026 08:23:10 +0530",
-      "published_utc": "2026-05-06T02:53:10Z",
-      "published_ist": "06-May-2026 08:23 IST",
-      "summary": "Five stocks from the Nifty500 universe were flagged in the RSI Trending Up scan on May 5 after gaining over 4%. The indicator turned positive as RSI crossed above 50 from lower levels, signalling improving momentum, strengthening sentiment, and potential short-term buying opportunities in select stocks.",
-      "likely_india_equity": false
-    },
-    {
       "id": "2c0dd2d75a88125a",
       "source": "ET - Industry",
       "title": "J&amp;K Bank posts highest ever annual profit of Rs Rs 2363 crore in FY26",
@@ -3124,61 +3509,6 @@
       "published_utc": "2026-05-06T02:45:42Z",
       "published_ist": "06-May-2026 08:15 IST",
       "summary": "Jammu and Kashmir Bank achieved its highest-ever annual profit of Rs 2,326.47 crore for the financial year 2025-26. This marks a significant year-on-year growth of over 13 percent. The bank also reported a strong quarterly net profit of nearly Rs 800 crore. Despite challenges, the bank demonstrated resilience and sustained improvement in asset quality.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "68e26b5fb1e74d4d",
-      "source": "ET - Stocks",
-      "title": "TCS Share Price Highlights: TCS Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tcs-share-price-live-updates-06-may-2026/liveblog/130842657.cms",
-      "published_raw": "Wed, 06 May 2026 08:10:28 +0530",
-      "published_utc": "2026-05-06T02:40:28Z",
-      "published_ist": "06-May-2026 08:10 IST",
-      "summary": null,
-      "likely_india_equity": true
-    },
-    {
-      "id": "000e779b4751b950",
-      "source": "ET - Stocks",
-      "title": "ONGC Share Price Highlights: ONGC Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-stock-price-today-live-06-may-2026/liveblog/130842651.cms",
-      "published_raw": "Wed, 06 May 2026 08:10:07 +0530",
-      "published_utc": "2026-05-06T02:40:07Z",
-      "published_ist": "06-May-2026 08:10 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "bd5ff48594b11909",
-      "source": "ET - Stocks",
-      "title": "Coal India Share Price Highlights: Coal India Ltd Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-today-live-06-may-2026/liveblog/130842647.cms",
-      "published_raw": "Wed, 06 May 2026 08:09:46 +0530",
-      "published_utc": "2026-05-06T02:39:46Z",
-      "published_ist": "06-May-2026 08:09 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "dce47243f07880d1",
-      "source": "ET - Stocks",
-      "title": "RIL Share Price Highlights: RIL Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-stock-price-live-updates-06-may-2026/liveblog/130842639.cms",
-      "published_raw": "Wed, 06 May 2026 08:09:26 +0530",
-      "published_utc": "2026-05-06T02:39:26Z",
-      "published_ist": "06-May-2026 08:09 IST",
-      "summary": null,
-      "likely_india_equity": false
-    },
-    {
-      "id": "7653ec5c9531fb93",
-      "source": "ET - Stocks",
-      "title": "Bajaj Finance Share Price Highlights: Bajaj Finance Stock Price History",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-share-price-live-updates-06-may-2026/liveblog/130842637.cms",
-      "published_raw": "Wed, 06 May 2026 08:09:18 +0530",
-      "published_utc": "2026-05-06T02:39:18Z",
-      "published_ist": "06-May-2026 08:09 IST",
-      "summary": null,
       "likely_india_equity": false
     },
     {
@@ -3545,28 +3875,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "a14861dce2b5d74e",
-      "source": "ET - Industry",
-      "title": "Banks cede consumer durable loans to NBFCs as credit cards take over small-ticket financing",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-cede-consumer-durable-loans-to-nbfcs-as-credit-cards-take-over-small-ticket-financing/articleshow/130837871.cms",
-      "published_raw": "Wed, 06 May 2026 00:32:24 +0530",
-      "published_utc": "2026-05-05T19:02:24Z",
-      "published_ist": "06-May-2026 00:32 IST",
-      "summary": "Bank loans for washing machines and televisions are falling. Banks are now focusing on credit cards for these purchases. Non-banking finance companies are taking over this market. This trend is driven by the small loan amounts involved. Consumer durable loans represent a tiny fraction of total bank lending. This shift is expected to continue.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "0636281df7e01851",
-      "source": "ET - Industry",
-      "title": "Election cash doles may trigger short-term consumption boost in apparel, smartphones, liquor: CEOs",
-      "link": "https://economictimes.indiatimes.com/industry/cons-products/election-cash-doles-may-trigger-short-term-consumption-boost-in-apparel-smartphones-liquor-ceos/articleshow/130837862.cms",
-      "published_raw": "Wed, 06 May 2026 00:29:14 +0530",
-      "published_utc": "2026-05-05T18:59:14Z",
-      "published_ist": "06-May-2026 00:29 IST",
-      "summary": "Cash handouts from recent state elections are expected to boost spending on items like apparel, smartphones, and electronics. Consumers, especially those with lower and middle incomes, may use this extra money for discretionary purchases. This could provide a welcome demand boost for retailers. Alcohol sales are also likely to see an immediate increase.",
-      "likely_india_equity": false
-    },
-    {
       "id": "8eab4f6e1a7c5a6b",
       "source": "ET - Economy",
       "title": "Iran war could drag India's GDP growth to 6.5% this fiscal, says CII president Rajiv Memani",
@@ -3575,17 +3883,6 @@
       "published_utc": "2026-05-05T18:49:27Z",
       "published_ist": "06-May-2026 00:19 IST",
       "summary": "India's economic growth forecast for this fiscal year is around 7 percent. This projection depends on the Iran war ending soon. If the conflict persists, growth could slow to 6.5 percent. Companies are building buffers against future shocks. Private investments are expected to rebound once the West Asia conflict subsides. Consumption demand remains strong.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "eb0feeb3d51598ed",
-      "source": "ET - Industry",
-      "title": "PNB Q4 net profit rises 14% YoY to ₹5,225 crore; targets ₹2 lakh crore digital book in FY27",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/pnb-q4-net-profit-rises-14-yoy-to-5225-crore-targets-2-lakh-crore-digital-book-in-fy27/articleshow/130837425.cms",
-      "published_raw": "Wed, 06 May 2026 00:16:45 +0530",
-      "published_utc": "2026-05-05T18:46:45Z",
-      "published_ist": "06-May-2026 00:16 IST",
-      "summary": "Punjab National Bank is seeing strong digital growth, sanctioning one in three loans digitally and crossing ₹1 lakh crore in digital sanctions. The bank reported a 14% profit jump for the fourth quarter of FY26. PNB anticipates further growth in retail term deposits and aims for a 12-13% credit growth in FY27. Digital transactions now exceed 95% of total transactions.",
       "likely_india_equity": false
     },
     {
@@ -3633,28 +3930,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "8a00a54ea238fb95",
-      "source": "ET - Industry",
-      "title": "Constructing 15 kilometres bullet train track every month: Ashwini Vaishnaw",
-      "link": "https://economictimes.indiatimes.com/industry/transportation/railways/constructing-15-kilometres-bullet-train-track-every-month-ashwini-vaishnaw/articleshow/130835784.cms",
-      "published_raw": "Tue, 05 May 2026 23:14:37 +0530",
-      "published_utc": "2026-05-05T17:44:37Z",
-      "published_ist": "05-May-2026 23:14 IST",
-      "summary": "India is accelerating bullet train development, constructing 15 kilometers of high-speed track monthly. The first bullet train project is slated for an August opening next year. Future projects will utilize standardized components to boost local manufacturing. Seven new high-speed corridors are planned, spanning nearly 4,000 kilometers and attracting significant investment.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "7f3d610ecafa639a",
-      "source": "ET - Industry",
-      "title": "Emcure eyes India growth, global deals amid strong demand",
-      "link": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/emcure-eyes-india-growth-global-deals-amid-strong-demand/articleshow/130835345.cms",
-      "published_raw": "Tue, 05 May 2026 22:59:27 +0530",
-      "published_utc": "2026-05-05T17:29:27Z",
-      "published_ist": "05-May-2026 22:59 IST",
-      "summary": "Emcure Pharmaceuticals is boosting domestic expansion, R&amp;D, and manufacturing. The company is also exploring acquisition opportunities in India and internationally. New products are expected to drive significant growth. Emcure's partnership with Novo Nordisk for GLP-1 therapies and a pipeline of complex injectables will support future momentum.",
-      "likely_india_equity": false
-    },
-    {
       "id": "801f066d7e9e12bd",
       "source": "LiveMint - Economy",
       "title": "Govt clears  ₹50,000-crore package to boost credit flow and support businesses",
@@ -3696,17 +3971,6 @@
       "published_utc": "2026-05-05T17:02:45Z",
       "published_ist": "05-May-2026 22:32 IST",
       "summary": "West Asia war induced supply chain disruptions may impact performance in first half.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "35a16a071cc4b7f6",
-      "source": "ET - Industry",
-      "title": "KEC International bags new orders worth Rs 1,002 crore",
-      "link": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/kec-international-bags-new-orders-worth-rs-1002-crore/articleshow/130834697.cms",
-      "published_raw": "Tue, 05 May 2026 22:27:40 +0530",
-      "published_utc": "2026-05-05T16:57:40Z",
-      "published_ist": "05-May-2026 22:27 IST",
-      "summary": "RPG Group firm KEC International announced new orders totaling Rs 1,002 crore. These orders span transmission and distribution, renewable energy, and transportation sectors. The company secured a significant HVDC transmission line order in Western India. Renewable energy business received an order for a 100+ MW wind project in Southern India. Transportation business secured orders in the automatic block signalling segment.",
       "likely_india_equity": false
     },
     {
@@ -3773,17 +4037,6 @@
       "published_utc": "2026-05-05T16:21:50Z",
       "published_ist": "05-May-2026 21:51 IST",
       "summary": "The scheme aims to provide credit guarantee coverage of 100 per cent for MSMEs and 90 per cent for non-MSMEs as well as airline sector.",
-      "likely_india_equity": false
-    },
-    {
-      "id": "da71434b59f94f55",
-      "source": "ET - Industry",
-      "title": "DFS approves viability plan 2.0 to improve operational efficiency of RRBs",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/dfs-approves-viability-plan-2-0-to-improve-operational-efficiency-of-rrbs/articleshow/130834070.cms",
-      "published_raw": "Tue, 05 May 2026 21:51:07 +0530",
-      "published_utc": "2026-05-05T16:21:07Z",
-      "published_ist": "05-May-2026 21:51 IST",
-      "summary": "The Department of Financial Services has approved Viability Plan 2.0 for Regional Rural Banks. This three-year plan, from 2025-26 to 2027-28, aims to boost financial stability and operational efficiency. It focuses on four key pillars: operational excellence, asset quality, profitability, and growth. The plan will monitor critical metrics like CRAR and digital adoption.",
       "likely_india_equity": false
     },
     {
@@ -3886,17 +4139,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "8345396eee8dfc95",
-      "source": "ET - Industry",
-      "title": "Banks record robust 15.9% credit growth in FY26: Finance Ministry",
-      "link": "https://economictimes.indiatimes.com/industry/banking/finance/banking/banks-record-robust-15-9-credit-growth-in-fy26-finance-minstry/articleshow/130833517.cms",
-      "published_raw": "Tue, 05 May 2026 21:28:04 +0530",
-      "published_utc": "2026-05-05T15:58:04Z",
-      "published_ist": "05-May-2026 21:28 IST",
-      "summary": "Indian banks saw strong credit growth of 15.9 percent in the 2025-26 fiscal year. This reflects a vibrant economy and high demand for loans. Services, personal loans, agriculture, and industry all contributed to this expansion. The Finance Ministry highlighted India's resilience as the world's fastest-growing major economy amidst global challenges.",
-      "likely_india_equity": false
-    },
-    {
       "id": "8ee69a7e740893de",
       "source": "BusinessLine - Companies",
       "title": "Pickyourtrail launches new corporate offsite segment",
@@ -3927,17 +4169,6 @@
       "published_utc": "2026-05-05T15:43:39Z",
       "published_ist": "05-May-2026 21:13 IST",
       "summary": "The Indian Sugar and Bio-energy Manufacturers Association has noted that while the FRP (₹365 per quintal) increase rightly supports farmers, it also raises the cost of raw material for mills",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f74f45dcbbeaa1eb",
-      "source": "ET - Industry",
-      "title": "Auto sales jump 13% to 2.61 million units on strong demand tailwinds",
-      "link": "https://economictimes.indiatimes.com/industry/auto/auto-news/auto-sales-jump-13-to-2-61-million-units-on-strong-demand-tailwinds/articleshow/130833155.cms",
-      "published_raw": "Tue, 05 May 2026 21:10:01 +0530",
-      "published_utc": "2026-05-05T15:40:01Z",
-      "published_ist": "05-May-2026 21:10 IST",
-      "summary": "Vehicle sales saw a significant 13% jump last month, reaching 2.61 million units. This surge marks the best-ever April for most vehicle categories. Strong rural demand, GST benefits, and lower interest rates fueled this growth. Industry experts anticipate this positive trend to continue.  The automotive retail sector has started the new financial year on a robust note.",
       "likely_india_equity": false
     },
     {
@@ -4238,17 +4469,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "007d531eafa646ad",
-      "source": "BusinessLine - Markets",
-      "title": "World Gold Council to launch unified platform for responsible mining to address various concerns",
-      "link": "https://www.thehindubusinessline.com/markets/commodities/world-gold-council-to-launch-unified-platform-for-responsible-mining-to-address-various-concerns/article70943304.ece",
-      "published_raw": "Tue, 05 May 2026 19:23:40 +0530",
-      "published_utc": "2026-05-05T13:53:40Z",
-      "published_ist": "05-May-2026 19:23 IST",
-      "summary": "The council is looking at opportunities to link physical and digital gold via shared infrastructure to offer the yellow metal as a service",
-      "likely_india_equity": false
-    },
-    {
       "id": "e4cba9984afc2ad9",
       "source": "BusinessLine - Companies",
       "title": "From trailblazer to torchbearer at Biocon: Kiran Mazumdar-Shaw picks Claire Mazumdar as heir apparent",
@@ -4447,17 +4667,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "2b5aeb68bed94da7",
-      "source": "BusinessLine - Companies",
-      "title": "Defence Ministry inks ₹1,476-crore deal with BEL to strengthen air defence system",
-      "link": "https://www.thehindubusinessline.com/companies/defence-ministry-inks-1476-crore-deal-with-bel-to-strengthen-air-defence-system/article70942900.ece",
-      "published_raw": "Tue, 05 May 2026 18:23:33 +0530",
-      "published_utc": "2026-05-05T12:53:33Z",
-      "published_ist": "05-May-2026 18:23 IST",
-      "summary": "Under the deal, the Ministry will procure ground-based mobile electronic systems that can search and intercept radar emitters or communication signals through high-accuracy technology",
-      "likely_india_equity": false
-    },
-    {
       "id": "07f1bd4b1c50ac87",
       "source": "ET - Economy",
       "title": "Government specifies 40 sub-sectors for faster clearance of FDI proposals from land-bordering nations",
@@ -4535,17 +4744,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "2c0fb17b44247f57",
-      "source": "BusinessLine - Companies",
-      "title": "Pixxel bags US NRO contract to deliver hyperspectral imaging capabilities",
-      "link": "https://www.thehindubusinessline.com/companies/pixxel-bags-us-nro-contract-to-deliver-hyperspectral-imaging-capabilities/article70942719.ece",
-      "published_raw": "Tue, 05 May 2026 17:33:31 +0530",
-      "published_utc": "2026-05-05T12:03:31Z",
-      "published_ist": "05-May-2026 17:33 IST",
-      "summary": "The contract will be executed by Pixxel’s US federal team and is part of a broader push by the NRO to incorporate commercial data providers into its intelligence framework.",
-      "likely_india_equity": false
-    },
-    {
       "id": "f249ea061977aa96",
       "source": "BusinessLine - Markets",
       "title": "Nifty slips as Rupee hits record low; Hormuz fears keep crude elevated",
@@ -4555,17 +4753,6 @@
       "published_ist": "05-May-2026 17:33 IST",
       "summary": "Nifty 50 ended at 24,032.80, down 86.50 points or 0.36% with as a record-low rupee, surging crude oil prices; Sensex fell 251.61 points or 0.33% to settle at 77,017.79",
       "likely_india_equity": true
-    },
-    {
-      "id": "1218d1f987d56fa3",
-      "source": "BusinessLine - Companies",
-      "title": "Julius Baer names Kunal Sumaya interim India Head as CEO exits",
-      "link": "https://www.thehindubusinessline.com/companies/julius-baer-names-kunal-sumaya-interim-india-head-as-ceo-exits/article70942780.ece",
-      "published_raw": "Tue, 05 May 2026 17:23:32 +0530",
-      "published_utc": "2026-05-05T11:53:32Z",
-      "published_ist": "05-May-2026 17:23 IST",
-      "summary": "Sumaya brings 17 years of experience at Julius Baer, having held senior roles including Team Head and Group Head before leading the firm’s global NRI business",
-      "likely_india_equity": false
     },
     {
       "id": "642a2588d5d41d47",
@@ -4755,17 +4942,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "8ab950b3e7e63154",
-      "source": "BusinessLine - Markets",
-      "title": "Club Mahindra CFO Vimal Agarwal steps down; stocks in red",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/club-mahindra-cfo-vimal-agarwal-steps-down-stocks-in-red/article70942423.ece",
-      "published_raw": "Tue, 05 May 2026 15:43:31 +0530",
-      "published_utc": "2026-05-05T10:13:31Z",
-      "published_ist": "05-May-2026 15:43 IST",
-      "summary": "Rajiv Vimal appointed incoming CFO and Key Managerial Personnel",
-      "likely_india_equity": false
-    },
-    {
       "id": "bbefc08dc7cc4fa0",
       "source": "BusinessLine - Economy",
       "title": "India's coffee exports jump 27% in Jan-Apr on strong robusta, instant coffee demand",
@@ -4832,17 +5008,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "fc08314b23e9cc14",
-      "source": "BusinessLine - Markets",
-      "title": "ArisInfra’s Unitern arm wins land advisory mandate from Address Maker Group for Mumbai, Bengaluru push",
-      "link": "https://www.thehindubusinessline.com/news/real-estate/arisinfras-unitern-arm-wins-land-advisory-mandate-from-address-maker-group-for-mumbai-bengaluru-push/article70942168.ece",
-      "published_raw": "Tue, 05 May 2026 15:13:35 +0530",
-      "published_utc": "2026-05-05T09:43:35Z",
-      "published_ist": "05-May-2026 15:13 IST",
-      "summary": "The appointment gives Unitern end-to-end responsibility across the land transaction lifecycle",
-      "likely_india_equity": false
-    },
-    {
       "id": "8e524b7580964880",
       "source": "BusinessLine - Money & Banking",
       "title": "Discerning among retail investors chase higher returns on RBI’s Retail Direct platform",
@@ -4873,17 +5038,6 @@
       "published_utc": "2026-05-05T09:37:13Z",
       "published_ist": "05-May-2026 15:07 IST",
       "summary": "RBI repatriated over 100 tonnes of gold to India in the six months to March, taking the total gold reserves stored locally to 680 tonnes. Why is the central bank bringing gold back home?",
-      "likely_india_equity": true
-    },
-    {
-      "id": "fe3a866f9ab81132",
-      "source": "BusinessLine - Markets",
-      "title": "South West Pinnacle Exploration posts record FY26 revenue, stock dips 6.78%",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/south-west-pinnacle-exploration-posts-record-fy26-revenue-stock-dips-678/article70941767.ece",
-      "published_raw": "Tue, 05 May 2026 15:06:49 +0530",
-      "published_utc": "2026-05-05T09:36:49Z",
-      "published_ist": "05-May-2026 15:06 IST",
-      "summary": "Despite the strong financials, the stock was trading at ₹234.31 on the NSE as of 12.32 pm, down 6.78% from its previous close of ₹251.36",
       "likely_india_equity": true
     },
     {
@@ -5052,17 +5206,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "3848e2954e236df5",
-      "source": "BusinessLine - Markets",
-      "title": "SEBI proposes allowing online bond platforms to provide access to overseas-listed debt",
-      "link": "https://www.thehindubusinessline.com/markets/sebi-proposes-allowing-online-bond-platforms-to-provide-access-to-overseas-listed-debt/article70941945.ece",
-      "published_raw": "Tue, 05 May 2026 13:43:26 +0530",
-      "published_utc": "2026-05-05T08:13:26Z",
-      "published_ist": "05-May-2026 13:43 IST",
-      "summary": "While SEBI-registered brokers can operate in IFSCs after\nregistering ‌with IFSCA, online bond platforms ​are currently\nbarred from offering IFSC-regulated products",
-      "likely_india_equity": false
-    },
-    {
       "id": "63fd33ea85baba25",
       "source": "BusinessLine - Economy",
       "title": "‘Horticulture FPOs must focus on business-to-consumers to get better returns’",
@@ -5160,39 +5303,6 @@
       "published_ist": "05-May-2026 13:04 IST",
       "summary": "Industry-wide hikes are expected, with brands like LG Electronics and Samsung Electronics also likely to adjust prices",
       "likely_india_equity": false
-    },
-    {
-      "id": "b70cdb9fc52f360d",
-      "source": "BusinessLine - Markets",
-      "title": "LTM, Uniphore tie up to build domain-specific AI for banking, manufacturing and media sectors",
-      "link": "https://www.thehindubusinessline.com/companies/ltm-uniphore-tie-up-to-build-domain-specific-ai-for-banking-manufacturing-and-media-sectors/article70941737.ece",
-      "published_raw": "Tue, 05 May 2026 13:03:26 +0530",
-      "published_utc": "2026-05-05T07:33:26Z",
-      "published_ist": "05-May-2026 13:03 IST",
-      "summary": "Under the agreement, Uniphore’s Business AI Cloud will be integrated into LTM’s BlueVerse ecosystem",
-      "likely_india_equity": false
-    },
-    {
-      "id": "42bf86d7cff9ff7c",
-      "source": "BusinessLine - Markets",
-      "title": "HFCL hits 52-week high as ₹84-crore OFC order adds to a red-hot rally",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/hfcl-hits-52-week-high-as-84-crore-ofc-order-adds-to-a-red-hot-rally/article70941637.ece",
-      "published_raw": "Tue, 05 May 2026 12:58:42 +0530",
-      "published_utc": "2026-05-05T07:28:42Z",
-      "published_ist": "05-May-2026 12:58 IST",
-      "summary": "The immediate trigger was the announcement from Monday in which HFCL and its material subsidiary HTL Limited disclosed purchase orders worth approximately ₹84.23 crore",
-      "likely_india_equity": false
-    },
-    {
-      "id": "bd10d783ab3a47a5",
-      "source": "BusinessLine - Markets",
-      "title": "Banking stocks, IT drag Nifty below 24,000; M&M, Hindalco buck trend",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/banking-stocks-it-drag-nifty-below-24000-mm-hindalco-buck-trend/article70941800.ece",
-      "published_raw": "Tue, 05 May 2026 12:53:28 +0530",
-      "published_utc": "2026-05-05T07:23:28Z",
-      "published_ist": "05-May-2026 12:53 IST",
-      "summary": "HDFC Bank was the top loser on the Nifty50, falling 1.80 per cent to ₹765.35 from a previous close of ₹779.40, trading the highest value on the exchange at ₹1,21,811.41 lakhs",
-      "likely_india_equity": true
     },
     {
       "id": "b78e94bff869f1fe",
@@ -5382,28 +5492,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "e6b0a6d136134e83",
-      "source": "BusinessLine - Economy",
-      "title": "Piyush Goyal discusses boosting India-Japan economic ties, MSME partnerships with Japanese delegation",
-      "link": "https://www.thehindubusinessline.com/economy/piyush-goyal-discusses-boosting-india-japan-economic-ties-msme-partnerships-with-japanese-delegation/article70941302.ece",
-      "published_raw": "Tue, 05 May 2026 10:23:29 +0530",
-      "published_utc": "2026-05-05T04:53:29Z",
-      "published_ist": "05-May-2026 10:23 IST",
-      "summary": "The discussions also explored future pathways under the Comprehensive Economic Partnership Agreement (CEPA), along with broader frameworks for economic cooperation in the Indo-Pacific region",
-      "likely_india_equity": false
-    },
-    {
-      "id": "a70084971c1c01e2",
-      "source": "BusinessLine - Economy",
-      "title": "Emirates reconnecting the world through Dubai with 96% of its global network restored",
-      "link": "https://www.thehindubusinessline.com/economy/logistics/emirates-reconnecting-the-world-through-dubai-with-96-of-its-global-network-restored/article70941340.ece",
-      "published_raw": "Tue, 05 May 2026 10:13:21 +0530",
-      "published_utc": "2026-05-05T04:43:21Z",
-      "published_ist": "05-May-2026 10:13 IST",
-      "summary": "In the past weeks, the airline has progressively resumed services across the Americas, Europe, Africa, West Asia, the Middle East/GCC, the Far East and others",
-      "likely_india_equity": false
-    },
-    {
       "id": "552c98ff6f8bb111",
       "source": "The Hindu - Business",
       "title": "Palantir lifts annual revenue forecast on robust U.S. government demand",
@@ -5412,17 +5500,6 @@
       "published_utc": "2026-05-05T04:33:14Z",
       "published_ist": "05-May-2026 10:03 IST",
       "summary": "The rising adoption ‌of artificial intelligence tools in modern warfare has boosted demand for software platforms developed by companies such as ‌Palantir",
-      "likely_india_equity": false
-    },
-    {
-      "id": "49cd769c6aa54dc5",
-      "source": "BusinessLine - Economy",
-      "title": "Centre notifies South Coast Railway Zone with Visakhapatnam as HQ",
-      "link": "https://www.thehindubusinessline.com/economy/logistics/centre-notifies-south-coast-railway-zone-with-visakhapatnam-as-hq/article70941356.ece",
-      "published_raw": "Tue, 05 May 2026 09:43:29 +0530",
-      "published_utc": "2026-05-05T04:13:29Z",
-      "published_ist": "05-May-2026 09:43 IST",
-      "summary": "The new zone will include Guntakal, Guntur and Vijayawada divisions, fulfilling a long-pending demand following Andhra Pradesh’s bifurcation",
       "likely_india_equity": false
     },
     {
@@ -5448,17 +5525,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "a029d765f532deb5",
-      "source": "BusinessLine - Economy",
-      "title": "Auto demand upcycle to continue for next 2-3 quarters, growth to remain strong till CY26: Report",
-      "link": "https://www.thehindubusinessline.com/economy/auto-demand-upcycle-to-continue-for-next-2-3-quarters-growth-to-remain-strong-till-cy26-report/article70941268.ece",
-      "published_raw": "Tue, 05 May 2026 09:23:25 +0530",
-      "published_utc": "2026-05-05T03:53:25Z",
-      "published_ist": "05-May-2026 09:23 IST",
-      "summary": "The report cautioned that escalating geopolitical tensions remain a key risk, particularly for export volumes and profitability in 1HFY27",
-      "likely_india_equity": false
-    },
-    {
       "id": "78d23bbf95014e03",
       "source": "The Hindu - Business",
       "title": "Das Adam Smith Problem: rethinking Smith’s moral and economic worlds",
@@ -5481,17 +5547,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "8410a3d97c4067c5",
-      "source": "LiveMint - Companies",
-      "title": "Cognizant trims shareholder payouts as AI dealmaking gathers pace",
-      "link": "https://www.livemint.com/companies/cognizant-tcs-hcltech-shareholder-returns-dividends-buybacks-ai-strategy-it-acquisitions-capital-allocation-11777902490306.html",
-      "published_raw": "Tue, 05 May 2026 08:30:36 +0530",
-      "published_utc": "2026-05-05T03:00:36Z",
-      "published_ist": "05-May-2026 08:30 IST",
-      "summary": "Cognizant joins TCS and HCLTech in cutting shareholder payouts as it channels more free cash flow into AI-led acquisitions and capability building.",
-      "likely_india_equity": true
-    },
-    {
       "id": "be724a1d3a5fe610",
       "source": "LiveMint - Opinion",
       "title": "Strategic autonomy: Why India should call off the LLM debate and develop its very own AI models",
@@ -5511,17 +5566,6 @@
       "published_utc": "2026-05-05T01:30:55Z",
       "published_ist": "05-May-2026 07:00 IST",
       "summary": "The rightist BJP has ousted a Marxist party’s inheritor of power in West Bengal, while Tamil Nadu’s originator of Dravidian ideology has lost to a less ideological party led by film star Vijay. How investor-friendly will debutant regimes be?",
-      "likely_india_equity": false
-    },
-    {
-      "id": "946a0443e769bc0a",
-      "source": "LiveMint - Companies",
-      "title": "SpiceJet’s shrinking fleet puts international operations under scrutiny",
-      "link": "https://www.livemint.com/companies/news/spicejet-fleet-international-operations-spicejet-financial-crisis-akasa-air-indigo-air-india-11777896157041.html",
-      "published_raw": "Tue, 05 May 2026 06:10:34 +0530",
-      "published_utc": "2026-05-05T00:40:34Z",
-      "published_ist": "05-May-2026 06:10 IST",
-      "summary": "With just 21 planes, SpiceJet risks falling below the regulatory threshold for international operations, which requires airlines to have at least 20 aircraft or deploy 20% of capacity on domestic routes, whichever is higher.",
       "likely_india_equity": false
     },
     {
@@ -5701,17 +5745,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "fe00e0ff447ac782",
-      "source": "BusinessLine - Economy",
-      "title": "Direct tax collection missed revised estimates, but grew 5% over FY25",
-      "link": "https://www.thehindubusinessline.com/economy/direct-tax-collection-missed-revised-estimates-but-grew-5-over-fy25/article70939644.ece",
-      "published_raw": "Mon, 04 May 2026 21:51:24 +0530",
-      "published_utc": "2026-05-04T16:21:24Z",
-      "published_ist": "04-May-2026 21:51 IST",
-      "summary": "In the RE for FY26, the government projected its direct tax collection at ₹24.21 lakh crore",
-      "likely_india_equity": false
-    },
-    {
       "id": "14702122d22561f4",
       "source": "BusinessLine - Money & Banking",
       "title": "RBI cautions members of the public against false and misleading campaigns promising loan waivers",
@@ -5778,17 +5811,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "6d5099dafb73ac6e",
-      "source": "BusinessLine - Economy",
-      "title": "India’s rice purchase reaches near 50 million tonnes, up 6% from a year ago",
-      "link": "https://www.thehindubusinessline.com/economy/agri-business/indias-rice-purchase-reaches-near-50-million-tonnes-up-6-from-a-year-ago/article70939348.ece",
-      "published_raw": "Mon, 04 May 2026 21:12:43 +0530",
-      "published_utc": "2026-05-04T15:42:43Z",
-      "published_ist": "04-May-2026 21:12 IST",
-      "summary": "Government may be forced to dipose of the grain via sales to ethanol distilleries and open market",
-      "likely_india_equity": false
-    },
-    {
       "id": "cbbd29e0368553fb",
       "source": "BusinessLine - Money & Banking",
       "title": "Newly appointed DG Rohit Jain given charge of 10 RBI Depts",
@@ -5844,17 +5866,6 @@
       "likely_india_equity": true
     },
     {
-      "id": "71326340fc251519",
-      "source": "BusinessLine - Economy",
-      "title": "Have millets for one meal a day: Millet Marvels campaign",
-      "link": "https://www.thehindubusinessline.com/economy/agri-business/have-millets-for-one-meal-a-day-millet-marvels-campaign/article70939395.ece",
-      "published_raw": "Mon, 04 May 2026 20:42:47 +0530",
-      "published_utc": "2026-05-04T15:12:47Z",
-      "published_ist": "04-May-2026 20:42 IST",
-      "summary": "ICAR-IIMR Director Tara Satyavathi pointed out that the National Institute of Nutrition recommended millets should constitute one-third of the cereals we consume and can be included in any meal of the day",
-      "likely_india_equity": false
-    },
-    {
       "id": "c825d50838101364",
       "source": "ET - Economy",
       "title": "India’s net direct tax collections rise 5.12% to Rs 23.40 lakh crore till March 31",
@@ -5888,17 +5899,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "5164b2ab923ee732",
-      "source": "BusinessLine - Economy",
-      "title": "India, Canada begin second round of free trade talks in New Delhi; eye $50 billion trade by 2030",
-      "link": "https://www.thehindubusinessline.com/economy/india-canada-begin-second-round-of-free-trade-talks-in-new-delhi-eye-50-billion-trade-by-2030/article70939185.ece",
-      "published_raw": "Mon, 04 May 2026 19:42:39 +0530",
-      "published_utc": "2026-05-04T14:12:39Z",
-      "published_ist": "04-May-2026 19:42 IST",
-      "summary": "The meeting is also likely to set the tone for Commerce & Industry Minister Piyush Goyal’s visit to Canada later this month",
-      "likely_india_equity": false
-    },
-    {
       "id": "50fb9bc8d5376057",
       "source": "ET - Economy",
       "title": "RBI cautions against misleading campaigns promising loan waivers",
@@ -5921,17 +5921,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "462c0a28ac427a77",
-      "source": "BusinessLine - Economy",
-      "title": "Cotton prices rise by 4% in single day in India",
-      "link": "https://www.thehindubusinessline.com/economy/agri-business/cotton-prices-rise-by-4-in-single-day-in-india/article70938839.ece",
-      "published_raw": "Mon, 04 May 2026 19:02:39 +0530",
-      "published_utc": "2026-05-04T13:32:39Z",
-      "published_ist": "04-May-2026 19:02 IST",
-      "summary": "The Cotton Corporation of India increased the price by ₹2,900 per candy of 356 kg, the sharpest single day increase this season, according to trade sources.",
-      "likely_india_equity": false
-    },
-    {
       "id": "cb3379fb0c9965be",
       "source": "BusinessLine - Money & Banking",
       "title": "Bitcoin crosses $80K for first time in 3 months; sentiment turns risk-on",
@@ -5940,17 +5929,6 @@
       "published_utc": "2026-05-04T13:32:37Z",
       "published_ist": "04-May-2026 19:02 IST",
       "summary": "Total market capitalisation rises to nearly $2.64 trillion",
-      "likely_india_equity": false
-    },
-    {
-      "id": "396edec09c0a3ffb",
-      "source": "BusinessLine - Economy",
-      "title": "No proposal to compensate OMCs for selling fuel below cost, says Oil Ministry",
-      "link": "https://www.thehindubusinessline.com/economy/no-proposal-to-compensate-omcs-for-selling-fuel-below-cost-says-oil-ministry/article70938728.ece",
-      "published_raw": "Mon, 04 May 2026 18:52:36 +0530",
-      "published_utc": "2026-05-04T13:22:36Z",
-      "published_ist": "04-May-2026 18:52 IST",
-      "summary": "State owned OMCs raised ​prices of ‌liquefied petroleum gas for industrial customers and ATF sold to foreign ‌carriers, however there ​has been no increase in retail prices ⁠of petrol, diesel, LPG for retail consumer and ATF for Indian carriers",
       "likely_india_equity": false
     },
     {
@@ -5976,17 +5954,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "df922bc3097cff0a",
-      "source": "ET - Economy",
-      "title": "Supervision must look beyond formal compliance, says RBI Deputy Guv Swaminathan J",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/supervision-must-look-beyond-formal-compliance-says-rbi-deputy-guv-swaminathan-j/articleshow/130793272.cms",
-      "published_raw": "Mon, 04 May 2026 17:20:59 +0530",
-      "published_utc": "2026-05-04T11:50:59Z",
-      "published_ist": "04-May-2026 17:20 IST",
-      "summary": "RBI Deputy Governor Swaminathan J. warns that weak oversight in banking can lead to hidden risks.  He stresses that supervision must go beyond reported numbers to understand actual business operations.  This approach is crucial for protecting depositors and the wider economy.  Digital banking brings new challenges requiring judgment and a sense of public purpose.",
-      "likely_india_equity": true
-    },
-    {
       "id": "38849ecb3d257180",
       "source": "The Hindu - Business",
       "title": "India's LPG consumption slides 16% in April amid West Asia conflict",
@@ -5995,17 +5962,6 @@
       "published_utc": "2026-05-04T11:48:30Z",
       "published_ist": "04-May-2026 17:18 IST",
       "summary": "The consumption was 10.5% lower than the 2.45 million tonnes of LPG sales in April 2024",
-      "likely_india_equity": false
-    },
-    {
-      "id": "ac87ce50eaff9750",
-      "source": "ET - Economy",
-      "title": "MRAI asks for dedicated ministry for recycling",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/mrai-asks-for-dedicated-ministry-for-recycling/articleshow/130790723.cms",
-      "published_raw": "Mon, 04 May 2026 16:55:39 +0530",
-      "published_utc": "2026-05-04T11:25:39Z",
-      "published_ist": "04-May-2026 16:55 IST",
-      "summary": "At the Paryavaran Niti Manthan organised by the Material Recycling Association of India (MRAI) in association with the Niti Aayog on Monday, MRAI has called for called for a central nodal ministry to ensure continuity in leadership, faster decision-making, better inter-ministerial coordination and streamlined compliance processes.",
       "likely_india_equity": false
     },
     {
@@ -6018,17 +5974,6 @@
       "published_ist": "04-May-2026 16:39 IST",
       "summary": "From the 30-Sensex firms, Adani Ports, Hindustan Unilever, Reliance Industries, Larsen &amp; Toubro, Eternal and Maruti were among the biggest gainers",
       "likely_india_equity": true
-    },
-    {
-      "id": "c9377a232012e82f",
-      "source": "ET - Economy",
-      "title": "India must map, monitor economic vulnerabilities in energy, food, other areas: EAC-PM chairman",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/india-must-map-monitor-economic-vulnerabilities-in-energy-food-other-areas-eac-pm-chairman/articleshow/130788693.cms",
-      "published_raw": "Mon, 04 May 2026 16:35:05 +0530",
-      "published_utc": "2026-05-04T11:05:05Z",
-      "published_ist": "04-May-2026 16:35 IST",
-      "summary": "Economic Advisory Council to the Prime Minister (EAC-PM) Chairman S Mahendra Dev in an interview with PTI further said the ongoing West Asia conflict highlights the need for a forward-looking approach to risk management.",
-      "likely_india_equity": false
     },
     {
       "id": "e150cdda3c6ee7cd",
@@ -7483,17 +7428,6 @@
       "likely_india_equity": false
     },
     {
-      "id": "ea93ae36dc04b83b",
-      "source": "BusinessLine - Money & Banking",
-      "title": "IDBI Bank Q4 results: Net profit drops 5% to ₹1,943 crore",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/idbi-bank-q4-results-net-profit-drops-5-to-1943-crore/article70924094.ece",
-      "published_raw": "Thu, 30 Apr 2026 15:38:40 +0530",
-      "published_utc": "2026-04-30T10:08:40Z",
-      "published_ist": "30-Apr-2026 15:38 IST",
-      "summary": "Net profit impacted by fall in operating profit to ₹3,043 crore from ₹3,195 crore a year ago",
-      "likely_india_equity": false
-    },
-    {
       "id": "be3679aac04187f8",
       "source": "The Hindu - Industry",
       "title": "FDI in India may cross $90 billion in 2025-26: DPIIT Secretary",
@@ -7722,17 +7656,6 @@
       "published_utc": "2026-04-29T15:11:49Z",
       "published_ist": "29-Apr-2026 20:41 IST",
       "summary": "Separately, the Commerce Minister added that it was also important for corporates to have economically-viable propositions",
-      "likely_india_equity": false
-    },
-    {
-      "id": "f53717277bcede0c",
-      "source": "LiveMint - Economy",
-      "title": "Summer crops resilient, but prolonged heat may dent output, says ICAR chief",
-      "link": "https://www.livemint.com/economy/summer-crops-resilient-but-prolonged-heat-may-dent-output-says-icar-chief-11777461804662.html",
-      "published_raw": "Wed, 29 Apr 2026 18:44:34 +0530",
-      "published_utc": "2026-04-29T13:14:34Z",
-      "published_ist": "29-Apr-2026 18:44 IST",
-      "summary": "Field reports suggest that these short-duration crops, grown between rabi and kharif seasons, are largely holding up, supported by timely irrigation, said M.L. Jat, secretary, Department of Agricultural Research and Education, and director general, Indian Council of Agricultural Research (ICAR).",
       "likely_india_equity": false
     },
     {
@@ -8228,6 +8151,743 @@
       "published_utc": "2025-08-13T05:00:21Z",
       "published_ist": "13-Aug-2025 10:30 IST",
       "summary": "Chancellor Rachel Reeves has pushed for India to allow companies to have a dual listing on the London Stock Exchange",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a8fd4b83086d7353",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Bulk deals: Societe Generale, Marshall Wace active in Bandhan Bank, BoB and Manappuram Finance",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/bulk-deals-societe-generale-marshall-wace-activebandhan-bank-bobmanappuram-finance_17532011.html",
+      "published_raw": "Tue, 23 Apr 2024 21:23:13 +0530",
+      "published_utc": "2024-04-23T15:53:13Z",
+      "published_ist": "23-Apr-2024 21:23 IST",
+      "summary": " In other trades, Foregin investor Ardisia sold stake in Ujjivan Financial Services",
+      "likely_india_equity": false
+    },
+    {
+      "id": "99350b6762959a6d",
+      "source": "Moneycontrol - Economy",
+      "title": "Moneycontrol Pro Panorama | India at big club threshold",
+      "link": "https://www.moneycontrol.com/news/economy/moneycontrol-pro-panorama-|-india-at-big-club-threshold_17531931.html",
+      "published_raw": "Tue, 23 Apr 2024 16:33:27 +0530",
+      "published_utc": "2024-04-23T11:03:27Z",
+      "published_ist": "23-Apr-2024 16:33 IST",
+      "summary": " In today#39;s edition of Pro Panorama: Rupee#39;s resilience, economy on a strong footing, how to have a balance in energy mix and more",
+      "likely_india_equity": false
+    },
+    {
+      "id": "30f53c82bd03520a",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Gainers and Losers: 10 stocks that moved the most on April 23",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/gainerslosers-10-stocks-that-movedmostapril-23_17531921.html",
+      "published_raw": "Tue, 23 Apr 2024 16:19:00 +0530",
+      "published_utc": "2024-04-23T10:49:00Z",
+      "published_ist": "23-Apr-2024 16:19 IST",
+      "summary": " Among sectors, healthcare, metal, oil  gas and energy were down 0.3-0.8 percent, while FMCG, power, IT, realty and auto were up 0.4-2 percent",
+      "likely_india_equity": false
+    },
+    {
+      "id": "2556e7ce4ec24b71",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Vodafone Idea zooms 12% after FPO sees 6x subscription; focus shifts to allotment, listing",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/vodafone-idea-zooms-12-after-fpo-sees-6x-subscription-focus-shifts-to-allotment-listing_17531831.html",
+      "published_raw": "Tue, 23 Apr 2024 15:04:54 +0530",
+      "published_utc": "2024-04-23T09:34:54Z",
+      "published_ist": "23-Apr-2024 15:04 IST",
+      "summary": " The fundaraise is expected to give Vodafone firepower to improve its positioning in the telecom space, where it currently trails larger rivals such as Reliance Jio and Bharti Airtel, by a wide margin.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "8707a1cf7fbe06cb",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html",
+      "published_raw": "Tue, 23 Apr 2024 13:41:02 +0530",
+      "published_utc": "2024-04-23T08:11:02Z",
+      "published_ist": "23-Apr-2024 13:41 IST",
+      "summary": " ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850 in its research report dated April 21, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "57ee9f11f84dcd3d",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html",
+      "published_raw": "Tue, 23 Apr 2024 13:36:47 +0530",
+      "published_utc": "2024-04-23T08:06:47Z",
+      "published_ist": "23-Apr-2024 13:36 IST",
+      "summary": " Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100 in its research report dated April 23, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "947f6e9588b475b9",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html",
+      "published_raw": "Tue, 23 Apr 2024 13:36:44 +0530",
+      "published_utc": "2024-04-23T08:06:44Z",
+      "published_ist": "23-Apr-2024 13:36 IST",
+      "summary": " Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "b988629c9a7c0e27",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html",
+      "published_raw": "Tue, 23 Apr 2024 13:36:44 +0530",
+      "published_utc": "2024-04-23T08:06:44Z",
+      "published_ist": "23-Apr-2024 13:36 IST",
+      "summary": " Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ae7b45e45b9d244b",
+      "source": "Moneycontrol - Economy",
+      "title": "India#39;s sugar demand surges in heat wave and election season",
+      "link": "https://www.moneycontrol.com/news/economy/india39s-sugar-demand-surgesheat-waveelection-season_17531591.html",
+      "published_raw": "Tue, 23 Apr 2024 13:33:42 +0530",
+      "published_utc": "2024-04-23T08:03:42Z",
+      "published_ist": "23-Apr-2024 13:33 IST",
+      "summary": " Higher consumption would lift local prices and boost margins of sugar producers such as Balrampur Chini, Shree Renuka Sugars, Bajaj Hindusthan, and Dwarikesh Sugar and help them in making cane payments on time to farmers.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d6aa883cf044b0f9",
+      "source": "Moneycontrol - Economy",
+      "title": "India#39;s sugar demand surges in heat wave and election season",
+      "link": "https://www.moneycontrol.com/news/economy/india39s-sugar-demand-surgesheat-waveelection-season_17531601.html",
+      "published_raw": "Tue, 23 Apr 2024 13:33:42 +0530",
+      "published_utc": "2024-04-23T08:03:42Z",
+      "published_ist": "23-Apr-2024 13:33 IST",
+      "summary": " Higher consumption would lift local prices and boost margins of sugar producers such as Balrampur Chini, Shree Renuka Sugars, Bajaj Hindusthan, and Dwarikesh Sugar and help them in making cane payments on time to farmers.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "50bb0de5e0520266",
+      "source": "Moneycontrol - Latest",
+      "title": "Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial",
+      "link": "https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html",
+      "published_raw": "Tue, 23 Apr 2024 13:26:31 +0530",
+      "published_utc": "2024-04-23T07:56:31Z",
+      "published_ist": "23-Apr-2024 13:26 IST",
+      "summary": " Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700 in its research report dated April 22, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7cda3348a103630f",
+      "source": "Moneycontrol - Latest",
+      "title": "Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial",
+      "link": "https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html",
+      "published_raw": "Tue, 23 Apr 2024 13:22:33 +0530",
+      "published_utc": "2024-04-23T07:52:33Z",
+      "published_ist": "23-Apr-2024 13:22 IST",
+      "summary": " Emkay Global Financial recommended reduce rating on Aditya Birla Fashion and Retail with a target price of Rs 230 in its research report dated April 23, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "52dd9a8ffc5bc936",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Gujarat State Petronet falls sharply from day#39;s high as tariff cut triggers flurry of downgrades",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/gujarat-state-petronet-falls-sharplyday39s-high-as-tariff-cut-triggers-flurrydowngrades_17531471.html",
+      "published_raw": "Tue, 23 Apr 2024 12:23:25 +0530",
+      "published_utc": "2024-04-23T06:53:25Z",
+      "published_ist": "23-Apr-2024 12:23 IST",
+      "summary": " The sharp tariff cut, which poses a threat to GSPL#39;s financial performance, prompted brokerages such as Kotak, Nuvama, Emkay Global and ICICI Securities to downgrade the stock",
+      "likely_india_equity": false
+    },
+    {
+      "id": "b04a7325689f50c8",
+      "source": "Moneycontrol - Latest",
+      "title": "Reduce Wipro; target of Rs 410: ICICI Securities",
+      "link": "https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html",
+      "published_raw": "Tue, 23 Apr 2024 12:22:08 +0530",
+      "published_utc": "2024-04-23T06:52:08Z",
+      "published_ist": "23-Apr-2024 12:22 IST",
+      "summary": " ICICI Securities is bullish on Wipro has recommended buy rating on the stock with a target price of Rs 410 in its research report dated April 21, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5cd186692046c17a",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html",
+      "published_raw": "Tue, 23 Apr 2024 12:05:52 +0530",
+      "published_utc": "2024-04-23T06:35:52Z",
+      "published_ist": "23-Apr-2024 12:05 IST",
+      "summary": " ICICI Securities is bullish on HDFC Life Insurance Company has recommended buy rating on the stock with a target price of Rs 739 in its research report dated April 21, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "1ef2addf3ff7c437",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy Patel Engineering; target of Rs 80: ICICI Direct",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html",
+      "published_raw": "Tue, 23 Apr 2024 12:05:43 +0530",
+      "published_utc": "2024-04-23T06:35:43Z",
+      "published_ist": "23-Apr-2024 12:05 IST",
+      "summary": " ICICI Direct is bullish on Patel Engineering recommended buy rating on the stock with a target price of Rs 80 in its research report dated April 22, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "263739dce08c3693",
+      "source": "Moneycontrol - Latest",
+      "title": "Accumulate Infosys; target of Rs 1531: KR Choksey",
+      "link": "https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html",
+      "published_raw": "Tue, 23 Apr 2024 12:05:06 +0530",
+      "published_utc": "2024-04-23T06:35:06Z",
+      "published_ist": "23-Apr-2024 12:05 IST",
+      "summary": " KR Choksey recommended Accumulate rating on Infosys with a target price of Rs 1531 in its research report dated April 22, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "50b365d3a57b8f65",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy Jindal Drilling and Industries; target of Rs 960: Anand Rathi",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-jindal-drillingindustries-targetrs-960-anand-rathi_17531431.html",
+      "published_raw": "Tue, 23 Apr 2024 12:04:28 +0530",
+      "published_utc": "2024-04-23T06:34:28Z",
+      "published_ist": "23-Apr-2024 12:04 IST",
+      "summary": " Anand Rathi is bullish on Jindal Drilling and Industries has recommended buy rating on the stock with a target price of Rs 960 in its research report dated April 22, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5aa769e6ca796168",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy Navneet Education; target of Rs 182: Prabhudas Lilladher",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-navneet-education-targetrs-182-prabhudas-lilladher_17531441.html",
+      "published_raw": "Tue, 23 Apr 2024 12:04:07 +0530",
+      "published_utc": "2024-04-23T06:34:07Z",
+      "published_ist": "23-Apr-2024 12:04 IST",
+      "summary": " Prabhudas Lilladher is bullish on Navneet Education has recommended buy rating on the stock with a target price of Rs 182 in its research report dated April 22, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c808617f79e22c26",
+      "source": "Moneycontrol - Latest",
+      "title": "Sell Indus Tower; target of Rs 260: ICICI Securities",
+      "link": "https://www.moneycontrol.com/news/recommendations/sell-indus-tower-targetrs-260-icici-securities_17531381.html",
+      "published_raw": "Tue, 23 Apr 2024 11:56:53 +0530",
+      "published_utc": "2024-04-23T06:26:53Z",
+      "published_ist": "23-Apr-2024 11:56 IST",
+      "summary": " ICICI Securities is bearish on Indus Tower has recommended sell rating on the stock with a target price of Rs 260 in its research report dated April 20, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d92f1a0c229c1ad8",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy City Union Bank; target of Rs 170: ICICI Securities",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-city-union-bank-targetrs-170-icici-securities_17531361.html",
+      "published_raw": "Tue, 23 Apr 2024 11:46:51 +0530",
+      "published_utc": "2024-04-23T06:16:51Z",
+      "published_ist": "23-Apr-2024 11:46 IST",
+      "summary": " ICICI Securities is bullish on City Union Bank has recommended buy rating on the stock with a target price of Rs 170 in its research report dated April 21, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "ff65fd36b7791755",
+      "source": "Moneycontrol - Latest",
+      "title": "Buy Hatsun Agro Products; target of Rs 1190: ICICI Securities",
+      "link": "https://www.moneycontrol.com/news/recommendations/buy-hatsun-agro-products-targetrs-1190-icici-securities_17531371.html",
+      "published_raw": "Tue, 23 Apr 2024 11:46:43 +0530",
+      "published_utc": "2024-04-23T06:16:43Z",
+      "published_ist": "23-Apr-2024 11:46 IST",
+      "summary": " ICICI Securities is bullish on Hatsun Agro Products recommended buy rating on the stock with a target price of Rs 1190 in its research report dated April 23, 2024.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "74ce3553b08f2047",
+      "source": "Moneycontrol - Economy",
+      "title": "India’s Composite Flash PMI for April signals very strong economy",
+      "link": "https://www.moneycontrol.com/news/economy/india’s-composite-flash-pmi-for-april-signals-very-strong-economy_17531301.html",
+      "published_raw": "Tue, 23 Apr 2024 11:07:37 +0530",
+      "published_utc": "2024-04-23T05:37:37Z",
+      "published_ist": "23-Apr-2024 11:07 IST",
+      "summary": " The increasing momentum provides a fundamental basis to the optimism in the Indian equity market",
+      "likely_india_equity": false
+    },
+    {
+      "id": "e189b07eadd0ddb8",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "PSP Projects share gains 4% on launching Rs 244-crore QIP",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/psp-projects-share-gains-4launching-rs-244-crore-qip_17531171.html",
+      "published_raw": "Tue, 23 Apr 2024 10:01:46 +0530",
+      "published_utc": "2024-04-23T04:31:46Z",
+      "published_ist": "23-Apr-2024 10:01 IST",
+      "summary": " PSP Projects has set a floor price of Rs 682.59 a share for for the QIP but may offer a discount of up to 5 percent",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9b09624a68a0d74e",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Tejas Network zooms 20% to 52-week high on stellar Q4 score, Emkay raises target",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/tejas-network-zooms-20-to-52-week-highstellar-q4-score-emkay-raises-target_17531161.html",
+      "published_raw": "Tue, 23 Apr 2024 09:52:27 +0530",
+      "published_utc": "2024-04-23T04:22:27Z",
+      "published_ist": "23-Apr-2024 09:52 IST",
+      "summary": " Tejas Networks#39; Order book stood at Rs 8,221 crore by the end of Q4. The India order book made up Rs 7,958 crore while international business consisted of Rs 263 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "df0abcd6d4482be1",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Mahindra Logistics falls 1.4% on Rs 11.9 crore net loss in Q4",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/mahindra-logistics-falls-14rs-119-crore-net-lossq4_17530911.html",
+      "published_raw": "Tue, 23 Apr 2024 09:46:12 +0530",
+      "published_utc": "2024-04-23T04:16:12Z",
+      "published_ist": "23-Apr-2024 09:46 IST",
+      "summary": " Its consolidated revenue, however, grew 14 percent YoY to Rs 1,450.8 crore",
+      "likely_india_equity": false
+    },
+    {
+      "id": "160548552065f7e2",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Hatsun Agro zooms 11% as Q4 net profit doubles at Rs 52 crore",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/hatsun-agro-zooms-11-as-q4-net-profit-doubles-at-rs-52-crore_17530861.html",
+      "published_raw": "Tue, 23 Apr 2024 09:35:49 +0530",
+      "published_utc": "2024-04-23T04:05:49Z",
+      "published_ist": "23-Apr-2024 09:35 IST",
+      "summary": " Hatsun Agro#39;s operational performance also improved significantly in Q4 as the EBITDA margin expanded  to 11.2 percent",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5aa15ccd82fdb9ac",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "KP Energy locked at 5% upper circuit on 9-MW wind power project contract",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/kp-energy-locked-at-5-upper-circuit9-mw-wind-power-project-contract_17530841.html",
+      "published_raw": "Tue, 23 Apr 2024 09:28:29 +0530",
+      "published_utc": "2024-04-23T03:58:29Z",
+      "published_ist": "23-Apr-2024 09:28 IST",
+      "summary": " KP Energy Share Price | The company posted 60.78 percent jump in its Q4FY24 net profit at Rs 24.89 crore.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6a6d47c21155164e",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Inox Wind share price up 6% as board to consider bonus share proposal",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/inox-wind-share-price6-as-board-to-consider-bonus-share-proposal_17530831.html",
+      "published_raw": "Tue, 23 Apr 2024 09:26:47 +0530",
+      "published_utc": "2024-04-23T03:56:47Z",
+      "published_ist": "23-Apr-2024 09:26 IST",
+      "summary": " Inox Wind Share Price | The share touched a 52-week high of Rs 648 on February 27, 2024 and a 52-week low of Rs 99.53 on April 24, 2023",
+      "likely_india_equity": false
+    },
+    {
+      "id": "6a2bc9d59975e07e",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Indus Towers gains 4% after CLSA upgrade to #39;buy#39; on Voda Idea FPO",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/indus-towers-gains-4-after-clsa-upgrade-to-39buy39voda-idea-fpo_17530811.html",
+      "published_raw": "Tue, 23 Apr 2024 09:24:39 +0530",
+      "published_utc": "2024-04-23T03:54:39Z",
+      "published_ist": "23-Apr-2024 09:24 IST",
+      "summary": " As per industry estimates, Vodafone Idea#39;s dues to Indus Towers at about Rs 7,000 crore. The brokerage also notes that Vodafone Idea’s past dues settlement of Rs 5,700 Cr \"could be worth an incremental  Rs 21 per share.\"",
+      "likely_india_equity": false
+    },
+    {
+      "id": "946e4e21ae31d3de",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Indus Towers gains 4% after CLSA upgrade to #39;buy#39; on Voda Idea FPO",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/indus-towers-gains-4-after-clsa-upgrade-to-39buy39voda-idea-fpo_17530821.html",
+      "published_raw": "Tue, 23 Apr 2024 09:24:39 +0530",
+      "published_utc": "2024-04-23T03:54:39Z",
+      "published_ist": "23-Apr-2024 09:24 IST",
+      "summary": " As per industry estimates, Vodafone Idea#39;s dues to Indus Towers at about Rs 7,000 crore. The brokerage also notes that Vodafone Idea’s past dues settlement of Rs 5,700 Cr \"could be worth an incremental  Rs 21 per share.\"",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a555b21b0e9fd8d2",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "UBS issues #39;sell#39; tag on Bajaj Finance before housing unit board meet over listing",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/ubs-issues-39sell39-tagbajaj-finance-before-housing-unit-board-meet-over-listing_17530761.html",
+      "published_raw": "Tue, 23 Apr 2024 08:55:01 +0530",
+      "published_utc": "2024-04-23T03:25:01Z",
+      "published_ist": "23-Apr-2024 08:55 IST",
+      "summary": " UBS analysts shared a target price of Rs 6,800 per share for Bajaj Finance, implying 6 percent downside from current level",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0eac329beb9de0ae",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "MM Finance tanks 8% as co defers board meet after Rs 150 cr fraud detected at a North East branch",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/mm-finance-tanks-8-as-co-defers-board-meet-after-rs-150-cr-fraud-detected-atnorth-east-branch_17531191.html",
+      "published_raw": "Tue, 23 Apr 2024 06:59:39 +0530",
+      "published_utc": "2024-04-23T01:29:39Z",
+      "published_ist": "23-Apr-2024 06:59 IST",
+      "summary": " The fraud involved forgery of KYC documents related to retail vehicle loans, resulting in the misappropriation of company funds.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "bb3d73f64ea68a79",
+      "source": "Moneycontrol - Buzzing Stocks",
+      "title": "Buzzing Stocks: Wipro, Reliance, PSP Projects, Bajaj Electricals, Hero MotoCorp, TCP, Mahindra Logistics, IndusInd Bank and others",
+      "link": "https://www.moneycontrol.com/news/buzzing-stocks/buzzing-stocks-wipro-reliance-psp-projects-bajaj-electricals-hero-motocorp-tcp-mahindra-logistics-indusind-bankothers_17530561.html",
+      "published_raw": "Tue, 23 Apr 2024 06:15:49 +0530",
+      "published_utc": "2024-04-23T00:45:49Z",
+      "published_ist": "23-Apr-2024 06:15 IST",
+      "summary": " Stocks to watch: Check out the companies making headlines before the opening bell today, on April 23, 2024.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "b61b23a7d6db63fb",
+      "source": "Moneycontrol - Commodities",
+      "title": "Agri Picks Report: Geojit",
+      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14265141.html",
+      "published_raw": "Fri, 11 Sep 2020 09:34:22 +0530",
+      "published_utc": "2020-09-11T04:04:22Z",
+      "published_ist": "11-Sep-2020 09:34 IST",
+      "summary": " According to Geojit, Madhya Pradesh is preparing to spend 11.6 bln rupees under the price support scheme to procure kharif pulses--tur, urad, and moong--harvested in 2020-21 (Jul-Jun), a state government official said.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "c333198f064cfd20",
+      "source": "Moneycontrol - Commodities",
+      "title": "Crude already reflects market#39;s view that rebalancing is still some time away",
+      "link": "https://www.moneycontrol.com/news/commodities/crude-already-reflects-market39s-view-that-rebalancing-is-still-some-time-away_14263961.html",
+      "published_raw": "Thu, 10 Sep 2020 17:50:24 +0530",
+      "published_utc": "2020-09-10T12:20:24Z",
+      "published_ist": "10-Sep-2020 17:50 IST",
+      "summary": " With hopes of another round of stimulus measures flying out of the window, the US needs more economic activity to get demand flowing.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "d41dda102d3b4d50",
+      "source": "Moneycontrol - Commodities",
+      "title": "Rise in textile demand to support MCX cotton ahead of harvest season in October",
+      "link": "https://www.moneycontrol.com/news/commodities/risetextile-demand-to-support-mcx-cotton-aheadharvest-seasonoctober_14263041.html",
+      "published_raw": "Thu, 10 Sep 2020 14:39:40 +0530",
+      "published_utc": "2020-09-10T09:09:40Z",
+      "published_ist": "10-Sep-2020 14:39 IST",
+      "summary": " Traders are also concerned about the flood-like situation that can damage the crop, which is harvested from October to February, in various parts of India.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "0d2069b58452e45f",
+      "source": "Moneycontrol - Commodities",
+      "title": "Agri Picks Report: Geojit",
+      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14262161.html",
+      "published_raw": "Thu, 10 Sep 2020 10:30:46 +0530",
+      "published_utc": "2020-09-10T05:00:46Z",
+      "published_ist": "10-Sep-2020 10:30 IST",
+      "summary": " According to Geojit, Rubber prices rose nearly 10% over the past three-four weeks and hit a record high of 140 rupees a kg due to pent-up demand after easing of the pandemic induced lockdowns amid a supply crunch.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a2a3c2eeae9cac07",
+      "source": "Moneycontrol - Commodities",
+      "title": "Oil prices slip as growing stockpiles signal bumpy fuel demand recovery",
+      "link": "https://www.moneycontrol.com/news/commodities/oil-prices-slip-as-growing-stockpiles-signal-bumpy-fuel-demand-recovery_14261401.html",
+      "published_raw": "Thu, 10 Sep 2020 07:11:04 +0530",
+      "published_utc": "2020-09-10T01:41:04Z",
+      "published_ist": "10-Sep-2020 07:11 IST",
+      "summary": " U.S. West Texas Intermediate (WTI) crude futures fell 20 cents, or 0.5%, to $37.85 a barrel at 0056 GMT, after climbing 3.5% on Wednesday.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "84de8b344066acd1",
+      "source": "Moneycontrol - Commodities",
+      "title": "US EIA cuts 2020 world oil demand growth forecast",
+      "link": "https://www.moneycontrol.com/news/commodities/us-eia-cuts-2020-world-oil-demand-growth-forecast_14261221.html",
+      "published_raw": "Wed, 09 Sep 2020 22:34:02 +0530",
+      "published_utc": "2020-09-09T17:04:02Z",
+      "published_ist": "09-Sep-2020 22:34 IST",
+      "summary": " In its monthly forecast, the agency cut its oil demand growth estimate for 2021 by 490,000 bpd to 6.53 million bpd.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "b9523b04a58c089c",
+      "source": "Moneycontrol - Commodities",
+      "title": "Gold may remain choppy, but buying may emerge at lower levels: Kotak Securities",
+      "link": "https://www.moneycontrol.com/news/commodities/gold-may-remain-choppybuying-may-emerge-at-lower-levels-kotak-securities_14259821.html",
+      "published_raw": "Wed, 09 Sep 2020 15:50:26 +0530",
+      "published_utc": "2020-09-09T10:20:26Z",
+      "published_ist": "09-Sep-2020 15:50 IST",
+      "summary": " Gold may remain choppy but buying may emerge at lower levels amid increasing global uncertainty and also as Fed’s dovish stance may limit upside in US dollar.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9cae1ce23ba30bc2",
+      "source": "Moneycontrol - Commodities",
+      "title": "Oil breaks below $40/bbl on demand concerns, improving supply",
+      "link": "https://www.moneycontrol.com/news/commodities/oil-breaks-below-3640bbldemand-concerns-improving-supply_14259281.html",
+      "published_raw": "Wed, 09 Sep 2020 13:00:00 +0530",
+      "published_utc": "2020-09-09T07:30:00Z",
+      "published_ist": "09-Sep-2020 13:00 IST",
+      "summary": " Fed#39;s dovish stance may also limit any major upside in the US dollar.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "97f3d6f8a491e09c",
+      "source": "Moneycontrol - Commodities",
+      "title": "Agri Picks Report: Geojit",
+      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/agri-picks-report-geojit_14258181.html",
+      "published_raw": "Wed, 09 Sep 2020 09:17:15 +0530",
+      "published_utc": "2020-09-09T03:47:15Z",
+      "published_ist": "09-Sep-2020 09:17 IST",
+      "summary": " According to Geojit, Global consumption of edible oils is expected to fall 30-40% in 2020 because of coronavirus lockdowns, said Dominic Xavier, Middle East and North Africa region head at Sime Darby Oils.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "269cad11575130a0",
+      "source": "Moneycontrol - Commodities",
+      "title": "Oil falls further amid growing alarm over coronavirus second wave",
+      "link": "https://www.moneycontrol.com/news/commodities/oil-falls-further-amid-growing-alarm-over-coronavirus-second-wave_14258161.html",
+      "published_raw": "Wed, 09 Sep 2020 08:58:01 +0530",
+      "published_utc": "2020-09-09T03:28:01Z",
+      "published_ist": "09-Sep-2020 08:58 IST",
+      "summary": " The biggest global health crisis in a century continues to flare unabated with cases rising in India, Great Britain, Spain and several parts of the United States, where the infection rate has not come under control for months.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "2dd2dfd8968c7f38",
+      "source": "Moneycontrol - Commodities",
+      "title": "Gold flat as dollar strength counters safe-haven demand",
+      "link": "https://www.moneycontrol.com/news/commodities/gold-flat-as-dollar-strength-counters-safe-haven-demand_14258121.html",
+      "published_raw": "Wed, 09 Sep 2020 08:58:01 +0530",
+      "published_utc": "2020-09-09T03:28:01Z",
+      "published_ist": "09-Sep-2020 08:58 IST",
+      "summary": " Spot gold was little changed at $1,929.30 per ounce by 0038 GMT, after falling to a near two-week week low of $1,906.24 on Tuesday.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f41ddedda28e7f0a",
+      "source": "Moneycontrol - Commodities",
+      "title": "Gold may witness choppy trade, expect buying at lower levels: Kotak Securities",
+      "link": "https://www.moneycontrol.com/news/commodities/gold-may-witness-choppy-trade-expect-buying-at-lower-levels-kotak-securities_14256121.html",
+      "published_raw": "Tue, 08 Sep 2020 14:44:54 +0530",
+      "published_utc": "2020-09-08T09:14:54Z",
+      "published_ist": "08-Sep-2020 14:44 IST",
+      "summary": " After weeks of consolidation, crude oil has come under pressure amid signs of correction in US equity market and gains in US dollar index.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "7e239a825366f59d",
+      "source": "Moneycontrol - Commodities",
+      "title": "Energy Weekly Report: Motilal Oswal",
+      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/energy-weekly-report-motilal-oswal_14256061.html",
+      "published_raw": "Tue, 08 Sep 2020 14:35:25 +0530",
+      "published_utc": "2020-09-08T09:05:25Z",
+      "published_ist": "08-Sep-2020 14:35 IST",
+      "summary": " According to Motilal Oswal, Oil prices hit a rough patch last week, falling back in line with broader financial markets. Prices did try to inch higher, but experienced selling pressure at highs.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "aaeeeea6ecd53dfa",
+      "source": "Moneycontrol - Commodities",
+      "title": "Precious Metals Weekly Report: Motilal Oswal",
+      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/precious-metals-weekly-report-motilal-oswal_14256001.html",
+      "published_raw": "Tue, 08 Sep 2020 14:29:27 +0530",
+      "published_utc": "2020-09-08T08:59:27Z",
+      "published_ist": "08-Sep-2020 14:29 IST",
+      "summary": " According to Motilal Oswal, Gold fell to the lowest level in a month primarily as the dollar rose against its major crosses and better-than-expected economic number from the US.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "bae25fef39b887a9",
+      "source": "Moneycontrol - Commodities",
+      "title": "Base Metals Weekly Report: Motilal Oswal",
+      "link": "https://www.moneycontrol.com/news/brokerage-recos-commodities/base-metals-weekly-report-motilal-oswal_14256021.html",
+      "published_raw": "Tue, 08 Sep 2020 14:29:02 +0530",
+      "published_utc": "2020-09-08T08:59:02Z",
+      "published_ist": "08-Sep-2020 14:29 IST",
+      "summary": " According to Motilal Oswal, Base metals traded choppy last week, with prices hitting multi month highs at the start of the week and followed by some profit taking on back of volatility in the dollar and mixed data signals from China and US.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9b813c8183b293bc",
+      "source": "Moneycontrol - Top News",
+      "title": "Flipkart records highest-ever single day sale, grosses $200mn",
+      "link": "http://www.moneycontrol.com/news/business/flipkart-records-highest-ever-single-day-sale-grosses-36200mn_7577901.html",
+      "published_raw": "Wed, 05 Oct 2016 14:59:14 +0530",
+      "published_utc": "2016-10-05T09:29:14Z",
+      "published_ist": "05-Oct-2016 14:59 IST",
+      "summary": " This is the biggest ever single day sale for Bangalore-based Flipkart, since the time the company started in 2007.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5ac4a1e9353344ea",
+      "source": "Moneycontrol - Top News",
+      "title": "Subramanian Swamy seeks ban on import of cement from Pakistan",
+      "link": "http://www.moneycontrol.com/news/current-affairs/subramanian-swamy-seeks-banimportcementpakistan_7578201.html",
+      "published_raw": "Wed, 05 Oct 2016 14:50:10 +0530",
+      "published_utc": "2016-10-05T09:20:10Z",
+      "published_ist": "05-Oct-2016 14:50 IST",
+      "summary": " \"Allowing imports of cement from Pakistan, therefore, carried with it the additional risk in that it provides an effective cover for smuggling of contraband goods and harmful weapons and ammunition concealed in cement bags which comes in rakes and trucks, in the hands of disruptionist elements,\" he said.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9517188daaedc9a5",
+      "source": "Moneycontrol - Top News",
+      "title": "Moneycontrol Exclusive: Govt plans overhaul of tax administration for smooth GST rollout",
+      "link": "http://www.moneycontrol.com/news/business/moneycontrol-exclusive-govt-plans-overhaultax-administration-for-smooth-gst-rollout_7578021.html",
+      "published_raw": "Wed, 05 Oct 2016 14:42:19 +0530",
+      "published_utc": "2016-10-05T09:12:19Z",
+      "published_ist": "05-Oct-2016 14:42 IST",
+      "summary": " The government has readied plans for a major change in India’s tax administration structure, including overhauling the Central Board of Excise and Customs (CBEC) to ensure a glitch-free roll-out of a nation-wide goods and services tax (GST).",
+      "likely_india_equity": false
+    },
+    {
+      "id": "9daf17aed357bbd4",
+      "source": "Moneycontrol - Top News",
+      "title": "Sensex, Nifty wobbly; Hind Zinc, SBI, Force Motors most active",
+      "link": "http://www.moneycontrol.com/news/local-markets/sensex-nifty-wobbly-hind-zinc-sbi-force-motors-most-active_7577801.html",
+      "published_raw": "Wed, 05 Oct 2016 14:00:44 +0530",
+      "published_utc": "2016-10-05T08:30:44Z",
+      "published_ist": "05-Oct-2016 14:00 IST",
+      "summary": " Asian Paints, SBI, Tata Motors, HUL and Maruti Suzuki are top gainers while ONGC, Axis Bank, MM, Bajaj Auto and Hero MotoCorp are major losers in the Sensex.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "54d526326139ffc5",
+      "source": "Moneycontrol - Top News",
+      "title": "Uber  redBus partner with ixigo for train travellers",
+      "link": "http://www.moneycontrol.com/news/sme/uberredbus-partnerixigo-for-train-travellers_7577561.html",
+      "published_raw": "Wed, 05 Oct 2016 14:00:34 +0530",
+      "published_utc": "2016-10-05T08:30:34Z",
+      "published_ist": "05-Oct-2016 14:00 IST",
+      "summary": " ixigo, India’s leading mobile travel marketplace has announced partnerships with Uber and redBus to enable instant bookings for cabs and buses natively within ixigo trains app.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a8f4d94653ef5700",
+      "source": "Moneycontrol - Top News",
+      "title": "Workload in IT to come down due to AI; jobs to reduce: Genpact",
+      "link": "http://www.moneycontrol.com/news/business/workloadit-to-come-down-due-to-ai-jobs-to-reduce-genpact_7577361.html",
+      "published_raw": "Wed, 05 Oct 2016 13:39:13 +0530",
+      "published_utc": "2016-10-05T08:09:13Z",
+      "published_ist": "05-Oct-2016 13:39 IST",
+      "summary": " But along with that the employment growth rates have started to dip, NV 'Tiger' Tyagarajan says. The percentage addition of employees in India will not be same as past. And due to advancements, a workforce with higher skill sets is required for the IT industry, he says.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a3b7b2881ac79c27",
+      "source": "Moneycontrol - Top News",
+      "title": "Pixel launch: Is Google Assistant's AI an assault on privacy?",
+      "link": "http://www.moneycontrol.com/news/technology/pixel-launch-is-google-assistants-aiassaultprivacy_7576961.html",
+      "published_raw": "Wed, 05 Oct 2016 12:53:07 +0530",
+      "published_utc": "2016-10-05T07:23:07Z",
+      "published_ist": "05-Oct-2016 12:53 IST",
+      "summary": " Sure, artificial intelligence can make life simpler by suggesting you places to eat, tell you weather, or even crack a joke.  The more you use it, the more it learns about your habits and preferences. The protocols pertaining to artificial intelligence, or the lack of it, make our data less secure and more vulnerable.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "37f9b8e3155d8609",
+      "source": "Moneycontrol - Top News",
+      "title": "Up over 200% in 1 year, what's buzzing with Borosil Glass?",
+      "link": "http://www.moneycontrol.com/news/buzzing-stocks/up-over-2001-year-whats-buzzingborosil-glass_7576821.html",
+      "published_raw": "Wed, 05 Oct 2016 12:28:33 +0530",
+      "published_utc": "2016-10-05T06:58:33Z",
+      "published_ist": "05-Oct-2016 12:28 IST",
+      "summary": " Shares of Borosil Glass Works have increased threefold over the past one year as the company has posted strong revenue and EBIDTA growth over the past few quarters.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "bd0b0111e7f35ec8",
+      "source": "Moneycontrol - Top News",
+      "title": "Why you should not be always chasing returns",
+      "link": "http://www.moneycontrol.com/news/investing/why-you-should-not-be-always-chasing-returns_7576681.html",
+      "published_raw": "Wed, 05 Oct 2016 12:27:10 +0530",
+      "published_utc": "2016-10-05T06:57:10Z",
+      "published_ist": "05-Oct-2016 12:27 IST",
+      "summary": " Most people focus on returns and chase products that offer the best returns at any point.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a05959ba9eaadc90",
+      "source": "Moneycontrol - Top News",
+      "title": "Jhunjhunwala-partnered fund buys stake in TFCI: What's buzzing?",
+      "link": "http://www.moneycontrol.com/news/business/jhunjhunwala-partnered-fund-buys-staketfci-whats-buzzing_7576501.html",
+      "published_raw": "Wed, 05 Oct 2016 12:02:15 +0530",
+      "published_utc": "2016-10-05T06:32:15Z",
+      "published_ist": "05-Oct-2016 12:02 IST",
+      "summary": " In an interview with CNBC-TV18, Satpal Arora, MD of Tourism Finance Corporation of India (TFCI), talked about the state of business and the outlook ahead.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "f985eb69a3ca5c8c",
+      "source": "Moneycontrol - Top News",
+      "title": "RBI latest meeting 'diluted' its old policy framework: Nomura",
+      "link": "http://www.moneycontrol.com/news/economy/rbi-latest-meeting-diluted-its-old-policy-framework-nomura_7576181.html",
+      "published_raw": "Wed, 05 Oct 2016 11:54:06 +0530",
+      "published_utc": "2016-10-05T06:24:06Z",
+      "published_ist": "05-Oct-2016 11:54 IST",
+      "summary": " On Tuesday, the central bank surprised the market with a 25-basis-point cut to its policy repo rate, or the rate at which it lends to banks, to 6.25 percent.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "9cd767adea1e8226",
+      "source": "Moneycontrol - Top News",
+      "title": "Bond bull market may pause but is far from over: Expert",
+      "link": "http://www.moneycontrol.com/news/economy/bond-bull-market-may-pauseis-farover-expert_7575741.html",
+      "published_raw": "Wed, 05 Oct 2016 10:54:17 +0530",
+      "published_utc": "2016-10-05T05:24:17Z",
+      "published_ist": "05-Oct-2016 10:54 IST",
+      "summary": " The benchmark 10-year government-security yield remained stuck in 8-7.5 percent range through all of 2015 and half of 2016, moving lower to sub-7 percent only when the RBI promised in April to reduce the system's liquidity deficit. The yield may now fall more.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "84745b1a085c0cda",
+      "source": "Moneycontrol - Top News",
+      "title": "Scope for meaningful rate cuts going ahead: Neelkanth Mishra",
+      "link": "http://www.moneycontrol.com/news/market-outlook/scope-for-meaningful-rate-cuts-going-ahead-neelkanth-mishra_7575461.html",
+      "published_raw": "Wed, 05 Oct 2016 10:33:49 +0530",
+      "published_utc": "2016-10-05T05:03:49Z",
+      "published_ist": "05-Oct-2016 10:33 IST",
+      "summary": " Credit Suisse' Neelkanth Mishra expects repo rate to fall to a decade low in the coming quarters. He says that beginning December the market may see a robust and widespread pick-up which may boost indices.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "a69e6ea56abb8522",
+      "source": "Moneycontrol - Top News",
+      "title": "Tech up to a healthier world",
+      "link": "http://www.moneycontrol.com/news/24x7booking/techtohealthier-world_7500201.html",
+      "published_raw": "Wed, 05 Oct 2016 10:07:15 +0530",
+      "published_utc": "2016-10-05T04:37:15Z",
+      "published_ist": "05-Oct-2016 10:07 IST",
+      "summary": " Sensors, 3D printed skin, wearables, reconstructed organs, revolutionized clinical trials, personalized medicine and what not – get ready for a new era of healthcare",
+      "likely_india_equity": false
+    },
+    {
+      "id": "cbd2c74484efd48d",
+      "source": "Moneycontrol - Top News",
+      "title": "Steel stocks rally as govt extends MIP on 66 steel products",
+      "link": "http://www.moneycontrol.com/news/buzzing-stocks/steel-stocks-rally-as-govt-extends-mip66-steel-products_7578561.html",
+      "published_raw": "Wed, 05 Oct 2016 10:00:07 +0530",
+      "published_utc": "2016-10-05T04:30:07Z",
+      "published_ist": "05-Oct-2016 10:00 IST",
+      "summary": " Stocks like Hindustan Zinc, Hindalco, Jindal Steel, JSW Steel and Tata Steel gained over 1 percent from previous close.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "85fe3c2e32c324ef",
+      "source": "Moneycontrol - Top News",
+      "title": "Endurance Technologies IPO opens: Should you subscribe?",
+      "link": "http://www.moneycontrol.com/news/ipo-tip/endurance-technologies-ipo-opens-should-you-subscribe_7575861.html",
+      "published_raw": "Wed, 05 Oct 2016 09:04:03 +0530",
+      "published_utc": "2016-10-05T03:34:03Z",
+      "published_ist": "05-Oct-2016 09:04 IST",
+      "summary": " The Aurangabad-based company aims to mop up nearly Rs 1,162 crore (at higher end of price band) by diluting 17.5 percent stake through the issue that will close on October 7. It already raised Rs 348.52 crore through anchor investors' portion on Tuesday, the day before issue opening.",
+      "likely_india_equity": true
+    },
+    {
+      "id": "7048c7ad0f517866",
+      "source": "Moneycontrol - Top News",
+      "title": "Cautiously optimistic on India; eyeing earnings revival: Sanger",
+      "link": "http://www.moneycontrol.com/news/fii-view/cautiously-optimisticindia-eyeing-earnings-revival-sanger_7574941.html",
+      "published_raw": "Wed, 05 Oct 2016 09:00:17 +0530",
+      "published_utc": "2016-10-05T03:30:17Z",
+      "published_ist": "05-Oct-2016 09:00 IST",
+      "summary": " Global liquidity tailwinds are unlikely to get any better from now and that makes Arvind Sanger, Managing Partner at Geosphere Capital Management “cautiously optimistic” on the Indian markets.",
+      "likely_india_equity": false
+    },
+    {
+      "id": "5e0663ff42810a56",
+      "source": "Moneycontrol - Top News",
+      "title": "Automation threatens 69% jobs in India: World Bank",
+      "link": "http://www.moneycontrol.com/news/current-affairs/automation-threatens-69-jobsindia-world-bank_7574441.html",
+      "published_raw": "Wed, 05 Oct 2016 08:00:04 +0530",
+      "published_utc": "2016-10-05T02:30:04Z",
+      "published_ist": "05-Oct-2016 08:00 IST",
+      "summary": " \"In large parts of Africa, it is likely that technology could fundamentally disrupt this pattern. Research based on World Bank data has predicted that the proportion of jobs threatened in India by automation is 69 percent, in China it is 77 percent and in Ethiopia, the percentage of jobs threatened by automation is 85 percent,\" he said.",
       "likely_india_equity": false
     }
   ]
